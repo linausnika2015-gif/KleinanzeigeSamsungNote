@@ -30,7 +30,7 @@ USE_CLOUDSCRAPER = os.environ.get("USE_CLOUDSCRAPER", "0") == "1"
 # ---------------------------------------------------------------------------
 # Configuration (all sensitive values come from environment variables)
 # ---------------------------------------------------------------------------
-BASE_URL = "https://www.kleinanzeigen.de/s-samsung-galaxy-fold/k0c173l1965r100"
+BASE_URL = "https://www.kleinanzeigen.de/s-galaxy-fold/k0l1965r100"
 PAGES_TO_SCRAPE = 2
 DATA_FILE = "data/previous_results.json"
 
