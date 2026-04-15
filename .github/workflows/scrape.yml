@@ -47,6 +47,8 @@ jobs:
           RECIPIENT_EMAIL:             ${{ secrets.RECIPIENT_EMAIL }}
           # Change "6" if you want a different full-summary interval (hours)
           SEND_ALWAYS_INTERVAL_HOURS:  '6'
+          # Set to "1" and uncomment cloudscraper in requirements.txt if site blocks requests
+          USE_CLOUDSCRAPER:            '0'
         run: python scraper.py
 
       # ── 4. Persist results ───────────────────────────────────────────────
