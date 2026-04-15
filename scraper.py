@@ -16,6 +16,17 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime, timezone
 
+# Optional: cloudscraper bypasses Cloudflare/bot-protection automatically.
+# Install with: pip install cloudscraper
+# Set env var USE_CLOUDSCRAPER=1 to enable.
+try:
+    import cloudscraper as _cloudscraper  # type: ignore
+    _CLOUDSCRAPER_AVAILABLE = True
+except ImportError:
+    _CLOUDSCRAPER_AVAILABLE = False
+
+USE_CLOUDSCRAPER = os.environ.get("USE_CLOUDSCRAPER", "0") == "1"
+
 # ---------------------------------------------------------------------------
 # Configuration (all sensitive values come from environment variables)
 # ---------------------------------------------------------------------------
@@ -111,10 +122,19 @@ def listing_id(url: str) -> str:
 # Scraping
 # ---------------------------------------------------------------------------
 
+def _get_session():
+    """Return a requests session (or cloudscraper session if enabled)."""
+    if USE_CLOUDSCRAPER and _CLOUDSCRAPER_AVAILABLE:
+        print("  Using cloudscraper session (bot-bypass mode)")
+        return _cloudscraper.create_scraper(browser={"browser": "chrome", "platform": "windows"})
+    return requests.Session()
+
+
 def scrape_page(page_num: int) -> list[dict]:
     url = BASE_URL if page_num == 1 else f"{BASE_URL}/seite:{page_num}"
+    session = _get_session()
     try:
-        r = requests.get(url, headers=HEADERS, timeout=30)
+        r = session.get(url, headers=HEADERS, timeout=30)
         r.raise_for_status()
     except requests.RequestException as exc:
         print(f"[WARN] Could not fetch page {page_num}: {exc}")
