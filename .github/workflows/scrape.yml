@@ -1,0 +1,64 @@
+name: Galaxy Fold Kleinanzeigen Scraper
+
+on:
+  schedule:
+    # Runs every hour at :05 past (e.g. 08:05, 09:05, …)
+    # GitHub Actions cron uses UTC. Adjust if you want DE time.
+    - cron: '5 * * * *'
+  workflow_dispatch:   # ← lets you trigger a run manually from the GitHub UI
+
+jobs:
+  scrape:
+    name: Scrape & Notify
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # needed to commit data/previous_results.json back
+
+    steps:
+      # ── 1. Checkout ─────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Use a PAT if the default token cannot push (see setup guide)
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. Python setup ──────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── 3. Run scraper ───────────────────────────────────────────────────
+      - name: Run scraper
+        env:
+          GMAIL_USER:                  ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD:          ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL:             ${{ secrets.RECIPIENT_EMAIL }}
+          # Change "6" if you want a different full-summary interval (hours)
+          SEND_ALWAYS_INTERVAL_HOURS:  '6'
+        run: python scraper.py
+
+      # ── 4. Persist results ───────────────────────────────────────────────
+      - name: Commit updated results
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git add data/previous_results.json
+          # Only commit if the file actually changed
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update scraper results [skip ci]"
+            git push
+          fi
