@@ -115,7 +115,7 @@ Beschreibung:
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
-BASE_URL    = "https://www.kleinanzeigen.de/s-galaxy-fold/k0l1965r100"
+BASE_URL    = "https://www.kleinanzeigen.de/s-moenchengladbach/galaxy-fold/k0l1957r100"
 PAGES_TO_SCRAPE = 10   # ~25 listings/page → up to 250 results
 DATA_FILE   = "data/previous_results.json"
 
