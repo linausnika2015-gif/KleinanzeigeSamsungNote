@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Kleinanzeigen Samsung Galaxy Fold Scraper
-Scrapes listings, visits each detail page, generates an AI-style assessment,
+Scrapes listings, visits each detail page, uses Groq LLM for assessment,
 detects new entries, and sends an HTML email report.
 """
 
@@ -25,6 +25,85 @@ except ImportError:
     _CLOUDSCRAPER_AVAILABLE = False
 
 USE_CLOUDSCRAPER = os.environ.get("USE_CLOUDSCRAPER", "0") == "1"
+
+# ---------------------------------------------------------------------------
+# Groq AI Assessment
+# ---------------------------------------------------------------------------
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
+GROQ_MODEL   = "llama-3.1-8b-instant"
+GROQ_URL     = "https://api.groq.com/openai/v1/chat/completions"
+
+GROQ_SYSTEM_PROMPT = """Du bist ein Experte für gebrauchte Samsung Galaxy Fold Smartphones.
+Du analysierst Kleinanzeigen-Inserate und gibst eine strukturierte Einschätzung zurück.
+Antworte NUR mit einem JSON-Objekt, kein weiterer Text.
+
+JSON-Format:
+{
+  "sterne": <1-5>,
+  "empfehlung": "<Sehr empfehlenswert|Empfehlenswert|Neutral|Vorsicht|Meiden>",
+  "preis_bewertung": "<Sehr günstig|Günstig|Fair|Teuer|Überteuert>",
+  "warnsignale": ["<signal1>", ...],
+  "positives": ["<positiv1>", ...],
+  "zusammenfassung": "<max 120 Zeichen>"
+}"""
+
+
+def groq_assess(listing: dict) -> dict | None:
+    """Call Groq API to assess a listing. Returns parsed JSON or None on error."""
+    if not GROQ_API_KEY:
+        return None
+
+    model   = listing.get("model", "")
+    title   = listing.get("title", "")
+    price   = listing.get("price", "k.A.")
+    zustand = listing.get("zustand", "k.A.")
+    speicher = listing.get("speicher", "k.A.")
+    ort     = listing.get("ort", "")
+    desc    = (listing.get("full_description") or listing.get("description", ""))[:1200]
+
+    user_msg = f"""Modell: {model}
+Titel: {title}
+Preis: {price}
+Zustand: {zustand}
+Speicher: {speicher}
+Ort: {ort}
+
+Beschreibung:
+{desc}"""
+
+    payload = {
+        "model": GROQ_MODEL,
+        "messages": [
+            {"role": "system", "content": GROQ_SYSTEM_PROMPT},
+            {"role": "user",   "content": user_msg},
+        ],
+        "temperature": 0.2,
+        "max_tokens":  400,
+        "response_format": {"type": "json_object"},
+    }
+    headers = {
+        "Authorization": f"Bearer {GROQ_API_KEY}",
+        "Content-Type": "application/json",
+    }
+
+    try:
+        r = requests.post(GROQ_URL, json=payload, headers=headers, timeout=20)
+        r.raise_for_status()
+        content = r.json()["choices"][0]["message"]["content"]
+        result  = json.loads(content)
+        # Normalise keys
+        return {
+            "stars":       int(result.get("sterne", 3)),
+            "label":       result.get("empfehlung", "Neutral"),
+            "price_note":  result.get("preis_bewertung", ""),
+            "flags":       result.get("warnsignale", []),
+            "positives":   result.get("positives", []),
+            "summary":     result.get("zusammenfassung", ""),
+            "source":      "groq",
+        }
+    except Exception as exc:
+        print(f"    [WARN] Groq API error: {exc}")
+        return None
 
 # ---------------------------------------------------------------------------
 # Configuration
@@ -388,7 +467,11 @@ def enrich_with_details(listings: list[dict], known: dict, session) -> list[dict
             listing["speicher"] = extract_speicher(combined)
         if listing["zustand"] == "k.A.":
             listing["zustand"] = extract_zustand(combined)
-        listing["assessment"] = assess_listing(listing)
+        # Try Groq first, fall back to rule-based
+        ai = groq_assess(listing) if GROQ_API_KEY else None
+        listing["assessment"] = ai if ai else assess_listing(listing)
+        if ai:
+            print(f"      → Groq: {ai['label']} ({ai['stars']}⭐) – {ai['summary'][:60]}")
         time.sleep(1.5)  # polite delay
 
     # Restore cached data

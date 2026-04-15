@@ -45,6 +45,7 @@ jobs:
           GMAIL_USER:                  ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD:          ${{ secrets.GMAIL_APP_PASSWORD }}
           RECIPIENT_EMAIL:             ${{ secrets.RECIPIENT_EMAIL }}
+          GROQ_API_KEY:                ${{ secrets.GROQ_API_KEY }}
           # Change "6" if you want a different full-summary interval (hours)
           SEND_ALWAYS_INTERVAL_HOURS:  '6'
           # Set to "1" and uncomment cloudscraper in requirements.txt if site blocks requests

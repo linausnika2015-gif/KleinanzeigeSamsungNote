@@ -3,3 +3,5 @@ beautifulsoup4>=4.12.3
 lxml>=5.2.0
 # Optional: uncomment to enable anti-bot bypass (set USE_CLOUDSCRAPER=1 in workflow)
 # cloudscraper>=1.2.71
+# Groq AI assessment (automatically used when GROQ_API_KEY secret is set)
+groq>=0.9.0
