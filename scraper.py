@@ -86,24 +86,31 @@ Beschreibung:
         "Content-Type": "application/json",
     }
 
-    try:
-        r = requests.post(GROQ_URL, json=payload, headers=headers, timeout=20)
-        r.raise_for_status()
-        content = r.json()["choices"][0]["message"]["content"]
-        result  = json.loads(content)
-        # Normalise keys
-        return {
-            "stars":       int(result.get("sterne", 3)),
-            "label":       result.get("empfehlung", "Neutral"),
-            "price_note":  result.get("preis_bewertung", ""),
-            "flags":       result.get("warnsignale", []),
-            "positives":   result.get("positives", []),
-            "summary":     result.get("zusammenfassung", ""),
-            "source":      "groq",
-        }
-    except Exception as exc:
-        print(f"    [WARN] Groq API error: {exc}")
-        return None
+    for attempt in range(3):
+        try:
+            r = requests.post(GROQ_URL, json=payload, headers=headers, timeout=20)
+            if r.status_code == 429:
+                wait = 10 * (attempt + 1)
+                print(f"    [WARN] Groq rate limit – waiting {wait}s…")
+                time.sleep(wait)
+                continue
+            r.raise_for_status()
+            content = r.json()["choices"][0]["message"]["content"]
+            result  = json.loads(content)
+            return {
+                "stars":       int(result.get("sterne", 3)),
+                "label":       result.get("empfehlung", "Neutral"),
+                "price_note":  result.get("preis_bewertung", ""),
+                "flags":       result.get("warnsignale", []),
+                "positives":   result.get("positives", []),
+                "summary":     result.get("zusammenfassung", ""),
+                "source":      "groq",
+            }
+        except Exception as exc:
+            print(f"    [WARN] Groq API error: {exc}")
+            return None
+    print("    [WARN] Groq failed after 3 attempts – using rule-based fallback")
+    return None
 
 # ---------------------------------------------------------------------------
 # Configuration
@@ -472,7 +479,9 @@ def enrich_with_details(listings: list[dict], known: dict, session) -> list[dict
         listing["assessment"] = ai if ai else assess_listing(listing)
         if ai:
             print(f"      → Groq: {ai['label']} ({ai['stars']}⭐) – {ai['summary'][:60]}")
-        time.sleep(1.5)  # polite delay
+            time.sleep(2.5)  # Groq free-tier: 30 req/min → need ~2s between calls
+        else:
+            time.sleep(1.5)  # polite delay for detail page fetching
 
     # Restore cached data
     for listing in cached:
