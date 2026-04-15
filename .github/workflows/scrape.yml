@@ -63,5 +63,7 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "chore: update scraper results [skip ci]"
+            # Pull rebase in case another commit landed while scraper was running
+            git pull --rebase origin main
             git push
           fi
