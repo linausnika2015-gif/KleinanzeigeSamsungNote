@@ -379,22 +379,32 @@ def scrape_page(page_num: int, session) -> list[dict]:
 
     soup = BeautifulSoup(r.text, "lxml")
     results = []
+    total_articles = 0
+    skipped_gesuch = 0
+    skipped_no_link = 0
+    skipped_filter = 0
+    filtered_titles = []
 
     for article in soup.find_all("article", class_="aditem"):
+        total_articles += 1
         try:
             type_tag = article.find(class_=re.compile(r"badge|aditem-addon|label", re.I))
             if type_tag and "gesuch" in type_tag.get_text().lower():
+                skipped_gesuch += 1
                 continue
 
             a_tag = article.find("a", class_="ellipsis") or (
                 article.find("h2") and article.find("h2").find("a")
             )
             if not a_tag:
+                skipped_no_link += 1
                 continue
             title = a_tag.get_text(strip=True)
             href  = a_tag.get("href", "")
             full_url = ("https://www.kleinanzeigen.de" + href) if href.startswith("/") else href
             if not full_url or not is_device(title):
+                skipped_filter += 1
+                filtered_titles.append(title[:80])
                 continue
 
             price_tag = article.find(class_=re.compile(r"price", re.I))
@@ -431,6 +441,12 @@ def scrape_page(page_num: int, session) -> list[dict]:
             print(f"  [WARN] Skipping article: {exc}")
             continue
 
+    if page_num == 1:
+        print(f"    Page {page_num}: {total_articles} articles | "
+              f"{skipped_gesuch} Gesuch | {skipped_no_link} no-link | "
+              f"{skipped_filter} filtered-out | {len(results)} kept")
+        if filtered_titles:
+            print(f"    Filtered titles (first 5): {filtered_titles[:5]}")
     return results
 
 
