@@ -1,17 +1,5 @@
 {
   "listings": {
-    "ef36088e651db5a56b18b53aa4ff0571": {
-      "id": "ef36088e651db5a56b18b53aa4ff0571",
-      "title": "✅ ANKAUF ✅ Samsung Galaxy S25 S26 Ultra 5G Plus S26+ Z Flip Fold 6 7 ZFlip ZFold / Apple MacBook Pro Air 2025 M5 CHIP 13 14 15 iPad 11 16GB 24GB 32GB Max Mac Book i Pad 128GB 256GB 512GB 1TB iPhone 17",
-      "price": "VB",
-      "speicher": "16 GB",
-      "ort": "44575 Castrop-​Rauxel\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "72 km",
-      "zustand": "Neu",
-      "model": "Z Fold 6",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/-ankauf-samsung-galaxy-s25-s26-ultra-5g-plus-s26-z-flip-fold-6-7-zflip-zfold-apple-macbook-pro-air-2025-m5-chip-13-14-15-ipad-11-16gb-24gb-32gb-max-mac-book-i-pad-128gb-256gb-512gb-1tb-iphone-17/3036704671-173-1997",
-      "first_seen": "2026-04-15T21:04:06.046585+00:00"
-    },
     "ca37aab08e4d1112407a23a8b12dca0e": {
       "id": "ca37aab08e4d1112407a23a8b12dca0e",
       "title": "❌SUCHE ANKAUF Samsung Galaxy S24 S25 S26 Ultra Plus Tab S9 S10 S11  Z Fold Flip 7",
@@ -23,6 +11,18 @@
       "model": "Z Fold",
       "url": "https://www.kleinanzeigen.de/s-anzeige/-suche-ankauf-samsung-galaxy-s24-s25-s26-ultra-plus-tab-s9-s10-s11-z-fold-flip-7/2539140366-173-1803",
       "first_seen": "2026-04-15T21:04:06.046982+00:00"
+    },
+    "ef36088e651db5a56b18b53aa4ff0571": {
+      "id": "ef36088e651db5a56b18b53aa4ff0571",
+      "title": "✅ ANKAUF ✅ Samsung Galaxy S25 S26 Ultra 5G Plus S26+ Z Flip Fold 6 7 ZFlip ZFold / Apple MacBook Pro Air 2025 M5 CHIP 13 14 15 iPad 11 16GB 24GB 32GB Max Mac Book i Pad 128GB 256GB 512GB 1TB iPhone 17",
+      "price": "VB",
+      "speicher": "16 GB",
+      "ort": "44575 Castrop-​Rauxel\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "72 km",
+      "zustand": "Neu",
+      "model": "Z Fold 6",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/-ankauf-samsung-galaxy-s25-s26-ultra-5g-plus-s26-z-flip-fold-6-7-zflip-zfold-apple-macbook-pro-air-2025-m5-chip-13-14-15-ipad-11-16gb-24gb-32gb-max-mac-book-i-pad-128gb-256gb-512gb-1tb-iphone-17/3036704671-173-1997",
+      "first_seen": "2026-04-15T21:04:06.046585+00:00"
     },
     "71a1c4db2228bc421ee95b081eed6084": {
       "id": "71a1c4db2228bc421ee95b081eed6084",
@@ -278,5 +278,5 @@
     }
   },
   "last_full_send": "2026-04-15T21:04:09.740547+00:00",
-  "last_run": "2026-04-15T21:04:09.740590+00:00"
+  "last_run": "2026-04-15T21:15:26.631316+00:00"
 }
