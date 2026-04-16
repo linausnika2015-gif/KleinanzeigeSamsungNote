@@ -395,8 +395,6 @@ def scrape_page(page_num: int, session) -> list[dict]:
     total_articles = 0
     skipped_gesuch = 0
     skipped_no_link = 0
-    skipped_filter = 0
-    filtered_titles = []
 
     for article in soup.find_all("article", class_="aditem"):
         total_articles += 1
@@ -415,9 +413,8 @@ def scrape_page(page_num: int, session) -> list[dict]:
             title = a_tag.get_text(strip=True)
             href  = a_tag.get("href", "")
             full_url = ("https://www.kleinanzeigen.de" + href) if href.startswith("/") else href
-            if not full_url or not is_device(title):
-                skipped_filter += 1
-                filtered_titles.append(title[:80])
+            if not full_url:
+                skipped_no_link += 1
                 continue
 
             price_tag = article.find(class_=re.compile(r"price", re.I))
@@ -457,9 +454,7 @@ def scrape_page(page_num: int, session) -> list[dict]:
     if page_num == 1:
         print(f"    Page {page_num}: {total_articles} articles | "
               f"{skipped_gesuch} Gesuch | {skipped_no_link} no-link | "
-              f"{skipped_filter} filtered-out | {len(results)} kept")
-        if filtered_titles:
-            print(f"    Filtered titles (first 5): {filtered_titles[:5]}")
+              f"{len(results)} kept (Groq will classify Gerät/Zubehör/Ankauf)")
     return results
 
 
