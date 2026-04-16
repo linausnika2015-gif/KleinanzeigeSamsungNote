@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Galaxy Fold Finder</title>
+  <style>
+    :root {
+      --blue:    #1428A0;
+      --blue-lt: #e8ecf8;
+      --green:   #16a34a;
+      --green-lt:#dcfce7;
+      --yellow:  #d97706;
+      --yellow-lt:#fef3c7;
+      --red:     #dc2626;
+      --red-lt:  #fee2e2;
+      --gray:    #6b7280;
+      --gray-lt: #f3f4f6;
+      --radius:  12px;
+      --shadow:  0 2px 8px rgba(0,0,0,.08);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #f0f2f8;
+      color: #1f2937;
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--blue);
+      color: #fff;
+      padding: 20px 24px 16px;
+      position: sticky; top: 0; z-index: 100;
+      box-shadow: 0 2px 12px rgba(0,0,0,.25);
+    }
+    header h1 { font-size: 1.35rem; font-weight: 700; letter-spacing: -.3px; }
+    header h1 span { opacity: .7; font-weight: 400; font-size: .95rem; }
+    #stats-bar {
+      font-size: .8rem; opacity: .8; margin-top: 4px;
+      display: flex; gap: 14px; flex-wrap: wrap;
+    }
+
+    /* ── Filter bar ── */
+    #filters {
+      background: #fff;
+      padding: 14px 20px;
+      display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
+      border-bottom: 1px solid #e5e7eb;
+      position: sticky; top: 73px; z-index: 99;
+      box-shadow: var(--shadow);
+    }
+    #filters input[type=search] {
+      flex: 1 1 220px;
+      padding: 9px 14px;
+      border: 1.5px solid #d1d5db;
+      border-radius: 8px;
+      font-size: .9rem;
+      outline: none;
+      transition: border-color .2s;
+    }
+    #filters input[type=search]:focus { border-color: var(--blue); }
+    #filters select {
+      padding: 9px 12px;
+      border: 1.5px solid #d1d5db;
+      border-radius: 8px;
+      font-size: .85rem;
+      background: #fff;
+      cursor: pointer;
+      outline: none;
+    }
+    #filters select:focus { border-color: var(--blue); }
+    #result-count {
+      font-size: .82rem; color: var(--gray);
+      margin-left: auto; white-space: nowrap;
+    }
+    #btn-reset {
+      padding: 9px 14px;
+      background: var(--gray-lt);
+      border: 1.5px solid #d1d5db;
+      border-radius: 8px;
+      font-size: .82rem;
+      cursor: pointer;
+      color: #374151;
+    }
+    #btn-reset:hover { background: #e5e7eb; }
+
+    /* ── Grid ── */
+    #grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+      gap: 16px;
+      padding: 20px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    /* ── Card ── */
+    .card {
+      background: #fff;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+      display: flex; flex-direction: column;
+      transition: transform .15s, box-shadow .15s;
+    }
+    .card:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(0,0,0,.12); }
+
+    .card-head {
+      padding: 14px 16px 10px;
+      border-bottom: 1px solid #f3f4f6;
+      display: flex; justify-content: space-between; align-items: flex-start; gap: 8px;
+    }
+    .model-badge {
+      font-size: .72rem; font-weight: 700; padding: 3px 9px;
+      border-radius: 20px; background: var(--blue-lt); color: var(--blue);
+      white-space: nowrap; flex-shrink: 0;
+    }
+    .stars { font-size: .95rem; letter-spacing: 1px; }
+
+    .card-body { padding: 12px 16px; flex: 1; }
+    .card-title {
+      font-size: .88rem; font-weight: 600; line-height: 1.35;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+      overflow: hidden; margin-bottom: 8px;
+      color: #111827;
+    }
+
+    .meta-row {
+      display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px;
+    }
+    .meta-chip {
+      font-size: .75rem; padding: 2px 8px; border-radius: 20px;
+      background: var(--gray-lt); color: #374151;
+    }
+    .price-chip {
+      font-size: .8rem; font-weight: 700; padding: 2px 9px; border-radius: 20px;
+      background: #1428A015; color: var(--blue);
+    }
+
+    .label-badge {
+      display: inline-block; font-size: .73rem; font-weight: 600;
+      padding: 3px 10px; border-radius: 20px; margin-bottom: 8px;
+    }
+    .label-sehr   { background: var(--green-lt); color: var(--green); }
+    .label-emp    { background: #d1fae5; color: #059669; }
+    .label-neu    { background: var(--gray-lt); color: var(--gray); }
+    .label-vor    { background: var(--yellow-lt); color: var(--yellow); }
+    .label-meid   { background: var(--red-lt); color: var(--red); }
+
+    .summary {
+      font-size: .8rem; color: #374151; line-height: 1.4;
+      margin-bottom: 8px; font-style: italic;
+    }
+
+    .tags { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 4px; }
+    .tag {
+      font-size: .7rem; padding: 2px 7px; border-radius: 4px;
+    }
+    .tag-pos { background: var(--green-lt); color: var(--green); }
+    .tag-neg { background: var(--red-lt); color: var(--red); }
+    .tag-info { background: var(--yellow-lt); color: var(--yellow); }
+
+    .card-foot {
+      padding: 10px 16px 14px;
+      display: flex; justify-content: space-between; align-items: center;
+      border-top: 1px solid #f3f4f6;
+    }
+    .since { font-size: .72rem; color: #9ca3af; }
+    .btn-link {
+      font-size: .8rem; font-weight: 600;
+      color: var(--blue); text-decoration: none;
+      padding: 6px 12px; border-radius: 7px;
+      background: var(--blue-lt);
+      transition: background .15s;
+    }
+    .btn-link:hover { background: #c7d0f0; }
+
+    /* ── Loading / Empty ── */
+    #loading, #empty {
+      text-align: center; padding: 60px 20px;
+      color: var(--gray); font-size: 1rem;
+    }
+    .spinner {
+      width: 40px; height: 40px; border: 4px solid #e5e7eb;
+      border-top-color: var(--blue); border-radius: 50%;
+      animation: spin .8s linear infinite; margin: 0 auto 16px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      header { padding: 14px 16px 12px; }
+      header h1 { font-size: 1.1rem; }
+      #filters { top: 62px; padding: 10px 14px; }
+      #grid { padding: 12px; gap: 12px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>📱 Galaxy Fold Finder <span>— Kleinanzeigen.de</span></h1>
+  <div id="stats-bar">
+    <span id="stat-total">Lade…</span>
+    <span id="stat-updated"></span>
+  </div>
+</header>
+
+<div id="filters">
+  <input type="search" id="q" placeholder="🔍  Suche nach Titel, Ort, Beschreibung…" autocomplete="off">
+
+  <select id="sel-model">
+    <option value="">Alle Modelle</option>
+    <option>Z Fold 7</option>
+    <option>Z Fold 6</option>
+    <option>Z Fold 5</option>
+    <option>Z Fold 4</option>
+    <option>Z Fold 3</option>
+    <option>Z Fold 2</option>
+    <option>Z Fold</option>
+    <option>Other</option>
+  </select>
+
+  <select id="sel-stars">
+    <option value="0">Alle Sterne</option>
+    <option value="5">⭐⭐⭐⭐⭐ nur</option>
+    <option value="4">⭐⭐⭐⭐ und mehr</option>
+    <option value="3">⭐⭐⭐ und mehr</option>
+  </select>
+
+  <select id="sel-zustand">
+    <option value="">Alle Zustände</option>
+    <option>Neu (OVP)</option>
+    <option>Neu</option>
+    <option>Wie neu</option>
+    <option>Sehr gut</option>
+    <option>Gut</option>
+    <option>Gebraucht</option>
+  </select>
+
+  <select id="sel-sort">
+    <option value="stars-desc">⭐ Beste zuerst</option>
+    <option value="price-asc">💶 Preis aufsteigend</option>
+    <option value="price-desc">💶 Preis absteigend</option>
+    <option value="new-desc">🕐 Neueste zuerst</option>
+  </select>
+
+  <button id="btn-reset">✕ Zurücksetzen</button>
+  <span id="result-count"></span>
+</div>
+
+<div id="grid">
+  <div id="loading">
+    <div class="spinner"></div>
+    Lade Anzeigen…
+  </div>
+</div>
+
+<script>
+const DATA_URL = './data/previous_results.json';
+
+let allListings = [];
+
+// ── Helpers ──────────────────────────────────────────────
+function cleanOrt(ort) {
+  if (!ort) return '';
+  return ort.trim().replace(/\s+/g, ' ').split(' ')[0];
+}
+
+function parsePrice(str) {
+  if (!str) return Infinity;
+  const m = str.replace(/\./g, '').match(/(\d+)/);
+  return m ? parseInt(m[1], 10) : Infinity;
+}
+
+function starsHtml(n) {
+  if (!n) return '<span class="stars" style="opacity:.3">☆☆☆☆☆</span>';
+  const filled = '⭐'.repeat(n);
+  const empty  = '☆'.repeat(5 - n);
+  return `<span class="stars" title="${n} von 5 Sternen">${filled}${empty}</span>`;
+}
+
+function labelClass(label) {
+  if (!label) return 'label-neu';
+  const l = label.toLowerCase();
+  if (l.includes('sehr')) return 'label-sehr';
+  if (l.includes('empfehlenswert')) return 'label-emp';
+  if (l.includes('neutral')) return 'label-neu';
+  if (l.includes('vorsicht')) return 'label-vor';
+  if (l.includes('meiden')) return 'label-meid';
+  return 'label-neu';
+}
+
+function timeAgo(iso) {
+  if (!iso) return '';
+  const diff = (Date.now() - new Date(iso)) / 1000;
+  if (diff < 60)   return 'gerade eben';
+  if (diff < 3600) return `vor ${Math.round(diff/60)} Min.`;
+  if (diff < 86400) return `vor ${Math.round(diff/3600)} Std.`;
+  return `vor ${Math.round(diff/86400)} Tagen`;
+}
+
+function tagClass(flag) {
+  if (!flag) return 'tag-info';
+  if (flag.startsWith('⚠️')) return 'tag-neg';
+  if (flag.startsWith('✅')) return 'tag-pos';
+  return 'tag-info';
+}
+
+function renderCard(listing) {
+  const a = listing.assessment || {};
+  const stars   = a.stars || 0;
+  const label   = a.label || '';
+  const summary = a.summary || listing.description || '';
+  const flags   = a.flags || [];
+  const pos     = a.positives || [];
+  const priceNote = a.price_note || '';
+  const ort     = cleanOrt(listing.ort);
+  const model   = listing.model || 'Other';
+  const price   = listing.price || 'k.A.';
+  const zustand = listing.zustand || '';
+  const speicher = listing.speicher && listing.speicher !== 'k.A.' ? listing.speicher : '';
+
+  const allTags = [
+    ...pos.slice(0, 3).map(t => `<span class="tag tag-pos">${t}</span>`),
+    ...flags.slice(0, 3).map(t => `<span class="tag ${tagClass(t)}">${t}</span>`),
+  ].join('');
+
+  return `
+<div class="card" data-model="${model}" data-stars="${stars}" data-zustand="${zustand}" data-price="${parsePrice(price)}" data-ts="${listing.first_seen || ''}">
+  <div class="card-head">
+    <span class="model-badge">${model}</span>
+    ${starsHtml(stars)}
+  </div>
+  <div class="card-body">
+    <div class="card-title">${listing.title || '(kein Titel)'}</div>
+    <div class="meta-row">
+      <span class="price-chip">${price}</span>
+      ${zustand ? `<span class="meta-chip">${zustand}</span>` : ''}
+      ${speicher ? `<span class="meta-chip">${speicher}</span>` : ''}
+      ${ort      ? `<span class="meta-chip">📍 ${ort}</span>` : ''}
+      ${priceNote ? `<span class="meta-chip">${priceNote}</span>` : ''}
+    </div>
+    ${label ? `<span class="label-badge ${labelClass(label)}">${label}</span>` : ''}
+    ${summary ? `<div class="summary">"${summary}"</div>` : ''}
+    ${allTags ? `<div class="tags">${allTags}</div>` : ''}
+  </div>
+  <div class="card-foot">
+    <span class="since">${timeAgo(listing.first_seen)}</span>
+    <a class="btn-link" href="${listing.url}" target="_blank" rel="noopener">Zur Anzeige →</a>
+  </div>
+</div>`;
+}
+
+// ── Filter & Sort ─────────────────────────────────────────
+function getFiltered() {
+  const q      = document.getElementById('q').value.trim().toLowerCase();
+  const model  = document.getElementById('sel-model').value;
+  const minSt  = parseInt(document.getElementById('sel-stars').value, 10);
+  const zustand = document.getElementById('sel-zustand').value;
+  const sort   = document.getElementById('sel-sort').value;
+
+  let list = allListings.filter(l => {
+    if (model  && l.model !== model) return false;
+    if (zustand && l.zustand !== zustand) return false;
+    if (minSt  && (l.assessment?.stars || 0) < minSt) return false;
+    if (q) {
+      const hay = [l.title, l.ort, l.description, l.assessment?.summary, l.model]
+        .join(' ').toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  list.sort((a, b) => {
+    if (sort === 'stars-desc') return (b.assessment?.stars||0) - (a.assessment?.stars||0);
+    if (sort === 'price-asc')  return parsePrice(a.price) - parsePrice(b.price);
+    if (sort === 'price-desc') return parsePrice(b.price) - parsePrice(a.price);
+    if (sort === 'new-desc') {
+      return new Date(b.first_seen||0) - new Date(a.first_seen||0);
+    }
+    return 0;
+  });
+
+  return list;
+}
+
+function render() {
+  const list = getFiltered();
+  const grid = document.getElementById('grid');
+  document.getElementById('result-count').textContent =
+    `${list.length} von ${allListings.length} Anzeigen`;
+
+  if (list.length === 0) {
+    grid.innerHTML = '<div id="empty">Keine Anzeigen gefunden. Filter anpassen?</div>';
+    return;
+  }
+  grid.innerHTML = list.map(renderCard).join('');
+}
+
+// ── Load data ─────────────────────────────────────────────
+async function loadData() {
+  try {
+    const res = await fetch(DATA_URL + '?_=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+
+    allListings = Object.values(data.listings || {});
+
+    // Stats
+    document.getElementById('stat-total').textContent =
+      `${allListings.length} Anzeigen`;
+    document.getElementById('stat-updated').textContent =
+      data.last_run ? `Zuletzt aktualisiert: ${timeAgo(data.last_run)}` : '';
+
+    render();
+  } catch (err) {
+    document.getElementById('grid').innerHTML =
+      `<div id="empty">⚠️ Fehler beim Laden: ${err.message}</div>`;
+  }
+}
+
+// ── Events ────────────────────────────────────────────────
+['q','sel-model','sel-stars','sel-zustand','sel-sort'].forEach(id => {
+  document.getElementById(id).addEventListener('input', render);
+});
+
+document.getElementById('btn-reset').addEventListener('click', () => {
+  document.getElementById('q').value = '';
+  document.getElementById('sel-model').value = '';
+  document.getElementById('sel-stars').value = '0';
+  document.getElementById('sel-zustand').value = '';
+  document.getElementById('sel-sort').value = 'stars-desc';
+  render();
+});
+
+loadData();
+</script>
+</body>
+</html>

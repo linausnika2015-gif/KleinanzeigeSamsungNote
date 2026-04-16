@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ekConsentBucketTcf2",
+    "value": "full2-exp",
+    "domain": ".kleinanzeigen.de",
+    "path": "/",
+    "expires": 1777000000,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "ekConsentTcf2",
+    "value": "{\"customVersion\":6,\"encodedConsentString\":\"CQiwYEAQiwYEAE1ACADECaFgAP_gAELAAAYgLepR9C7dbWFF8bZ3aLtkOYwX19BjIsQhBgSBAyAFyBOQ4JQA02E6NASAJiACEAAAoxTBAAFEHABEAQCAAAAEAADMIAwEgAAIIABEgBEQQAJYAAgKCIggEAAIgAIEAgAAmBiAKdLmWUiAkIACCgCQACABAICAAAMABAAIAAIAAAAAwgAAgAJgoAIAAAEAARAIAAAAAAAAAAAAIAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAACAAAgXnACATIAvMA4KACATIAvMJADgACBMcCZQLygXoC3oaADAAEFvREAGAAILeioAMAAQW9GQAYAAgt6PABAJkAXmOgBwABAmOBMoF5QL0Bb0hABgACC3pMAEAmQBeZKAHAAECY4EygXlAvQFvSoAIBMgC8ykAOAAIExwJlAvKBegLeloAMAAQW9.ILepR9C7dbWFF8bZ3aLtkOYwX19BjIsQhBgSBAyAFyBOQ4JQA02E6NASAJiACEAAAoxTBAAFEHABEAQCAAAAEAADMIAwEgAAIIABEgBEQQAJYAAgKCIggEAAIgAIEAgAAmBiAKdLmWUiAkIACCgCQACABAICAAAMABAAIAAIAAAAAwgAAgAJgoAIAAAEAARAIAAAAAAAAAAAAIAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAACAAAgA.f_wAAAAAA60A\",\"googleConsentGiven\":true,\"consentInterpretation\":{\"googleAdvertisingFeaturesAllowed\":true,\"googleAnalyticsAllowed\":true,\"theAdexAllowed\":true,\"criteoAllowed\":true,\"facebookAllowed\":true,\"amazonAdvertisingAllowed\":true,\"rtbHouseAllowed\":true,\"linkedInAllowed\":true,\"theTradeDeskAllowed\":true,\"theTradeDeskEUIDAllowed\":true,\"microsoftAdvertisingAllowed\":true,\"renaultAllowed\":false,\"liveRampAllowed\":true,\"taboolaAllowed\":true,\"teadsAllowed\":true,\"oguryAllowed\":true,\"googleVendorsAllowed\":true,\"zeotapAllowed\":true,\"brazeAllowed\":true,\"adnamiAllowed\":true,\"brandMetricsAllowed\":true,\"confiantAllowed\":true,\"kameleoonAllowed\":true,\"dealfrontAllowed\":true,\"microsoftClarityAllowed\":true,\"platinumPersonalisationAllowed\":true}}",
+    "domain": ".kleinanzeigen.de",
+    "path": "/",
+    "expires": 1777000000,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "None"
+  }
+]
