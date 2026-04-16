@@ -650,6 +650,13 @@ def build_email_html(current: list[dict], new_listings: list[dict], is_full: boo
   <b>Neu:</b> {len(new_listings)} &nbsp;|&nbsp;
   <b>Radius:</b> 100&nbsp;km um Mönchengladbach (41061)
 </div>
+<div style="margin:12px 0 18px 0;">
+  <a href="https://linausnika2015-gif.github.io/KleinanzeigeSamsungNote/"
+     style="display:inline-block;background:#1428A0;color:#fff;font-weight:bold;
+            padding:10px 20px;border-radius:8px;text-decoration:none;font-size:14px;">
+    &#128269; Zur Web-Übersicht (Filter &amp; Sortierung)
+  </a>
+</div>
 """
     if new_listings:
         html += f"<h3>&#x1F514; Neue Angebote ({len(new_listings)})</h3>\n"
