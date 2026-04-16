@@ -39,13 +39,20 @@ Antworte NUR mit einem JSON-Objekt, kein weiterer Text.
 
 JSON-Format:
 {
+  "kategorie": "<Gerät|Zubehör|Ankauf|Sonstiges>",
   "sterne": <1-5>,
   "empfehlung": "<Sehr empfehlenswert|Empfehlenswert|Neutral|Vorsicht|Meiden>",
   "preis_bewertung": "<Sehr günstig|Günstig|Fair|Teuer|Überteuert>",
   "warnsignale": ["<signal1>", ...],
   "positives": ["<positiv1>", ...],
   "zusammenfassung": "<max 120 Zeichen>"
-}"""
+}
+
+Regeln für "kategorie":
+- "Gerät"    → Das Inserat verkauft ein Samsung Galaxy Fold Smartphone (auch defekt)
+- "Zubehör"  → Hüllen, Cases, Cover, Folien, Kabel, Ladegeräte, Halter, Taschen usw.
+- "Ankauf"   → Der Inserent möchte Geräte KAUFEN (kein Verkauf)
+- "Sonstiges"→ Alles andere (Reparatur, Bundle mit Nicht-Fold-Gerät usw.)"""
 
 
 def groq_assess(listing: dict) -> dict | None:
@@ -98,6 +105,7 @@ Beschreibung:
             content = r.json()["choices"][0]["message"]["content"]
             result  = json.loads(content)
             return {
+                "category":    result.get("kategorie", "Gerät"),
                 "stars":       int(result.get("sterne", 3)),
                 "label":       result.get("empfehlung", "Neutral"),
                 "price_note":  result.get("preis_bewertung", ""),

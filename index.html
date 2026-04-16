@@ -149,6 +149,15 @@
     .label-vor    { background: var(--yellow-lt); color: var(--yellow); }
     .label-meid   { background: var(--red-lt); color: var(--red); }
 
+    .cat-badge {
+      font-size: .7rem; font-weight: 700; padding: 2px 8px;
+      border-radius: 20px; margin-left: auto;
+    }
+    .cat-geraet   { background: #dbeafe; color: #1d4ed8; }
+    .cat-zubehoer { background: #fce7f3; color: #be185d; }
+    .cat-ankauf   { background: #fff3cd; color: #92400e; }
+    .cat-sonstiges{ background: var(--gray-lt); color: var(--gray); }
+
     .summary {
       font-size: .8rem; color: #374151; line-height: 1.4;
       margin-bottom: 8px; font-style: italic;
@@ -240,6 +249,14 @@
     <option>Gebraucht</option>
   </select>
 
+  <select id="sel-cat">
+    <option value="">📦 Alle Kategorien</option>
+    <option value="Gerät">📱 Nur Geräte</option>
+    <option value="Zubehör">🧳 Nur Zubehör</option>
+    <option value="Ankauf">🛒 Nur Ankauf</option>
+    <option value="Sonstiges">❓ Sonstiges</option>
+  </select>
+
   <select id="sel-sort">
     <option value="stars-desc">⭐ Beste zuerst</option>
     <option value="price-asc">💶 Preis aufsteigend</option>
@@ -262,6 +279,32 @@
 const DATA_URL = './data/previous_results.json';
 
 let allListings = [];
+
+// ── Category helpers ─────────────────────────────────────
+const ACCESSORY_KW = ['CASE','HÜLLE','COVER','FOLIE','SCHUTZFOLIE','SCHUTZGLAS',
+  'KABEL','LADEKABEL','CHARGER','HALTER','HALTERUNG','STAND','TASCHE','WALLET',
+  'BUMPER','SKIN','SCHUTZHÜLLE'];
+
+function guessCategory(listing) {
+  // Prefer Groq classification if available
+  if (listing.assessment?.category) return listing.assessment.category;
+  // Fallback: keyword-based (for older listings without Groq category)
+  const title = (listing.title || '').toUpperCase();
+  if (ACCESSORY_KW.some(k => title.includes(k))) return 'Zubehör';
+  if (title.includes('ANKAUF')) return 'Ankauf';
+  return 'Gerät';
+}
+
+function catBadgeHtml(cat) {
+  const map = {
+    'Gerät':    ['cat-geraet',   '📱 Gerät'],
+    'Zubehör':  ['cat-zubehoer', '🧳 Zubehör'],
+    'Ankauf':   ['cat-ankauf',   '🛒 Ankauf'],
+    'Sonstiges':['cat-sonstiges','❓ Sonstiges'],
+  };
+  const [cls, label] = map[cat] || ['cat-sonstiges', cat || '?'];
+  return `<span class="cat-badge ${cls}">${label}</span>`;
+}
 
 // ── Helpers ──────────────────────────────────────────────
 function cleanOrt(ort) {
@@ -328,11 +371,14 @@ function renderCard(listing) {
     ...flags.slice(0, 3).map(t => `<span class="tag ${tagClass(t)}">${t}</span>`),
   ].join('');
 
+  const cat = guessCategory(listing);
+
   return `
-<div class="card" data-model="${model}" data-stars="${stars}" data-zustand="${zustand}" data-price="${parsePrice(price)}" data-ts="${listing.first_seen || ''}">
+<div class="card" data-model="${model}" data-stars="${stars}" data-zustand="${zustand}" data-price="${parsePrice(price)}" data-ts="${listing.first_seen || ''}" data-cat="${cat}">
   <div class="card-head">
     <span class="model-badge">${model}</span>
     ${starsHtml(stars)}
+    ${catBadgeHtml(cat)}
   </div>
   <div class="card-body">
     <div class="card-title">${listing.title || '(kein Titel)'}</div>
@@ -360,12 +406,14 @@ function getFiltered() {
   const model  = document.getElementById('sel-model').value;
   const minSt  = parseInt(document.getElementById('sel-stars').value, 10);
   const zustand = document.getElementById('sel-zustand').value;
+  const cat    = document.getElementById('sel-cat').value;
   const sort   = document.getElementById('sel-sort').value;
 
   let list = allListings.filter(l => {
     if (model  && l.model !== model) return false;
     if (zustand && l.zustand !== zustand) return false;
     if (minSt  && (l.assessment?.stars || 0) < minSt) return false;
+    if (cat    && guessCategory(l) !== cat) return false;
     if (q) {
       const hay = [l.title, l.ort, l.description, l.assessment?.summary, l.model]
         .join(' ').toLowerCase();
@@ -423,7 +471,7 @@ async function loadData() {
 }
 
 // ── Events ────────────────────────────────────────────────
-['q','sel-model','sel-stars','sel-zustand','sel-sort'].forEach(id => {
+['q','sel-model','sel-stars','sel-zustand','sel-cat','sel-sort'].forEach(id => {
   document.getElementById(id).addEventListener('input', render);
 });
 
@@ -432,6 +480,7 @@ document.getElementById('btn-reset').addEventListener('click', () => {
   document.getElementById('sel-model').value = '';
   document.getElementById('sel-stars').value = '0';
   document.getElementById('sel-zustand').value = '';
+  document.getElementById('sel-cat').value = '';
   document.getElementById('sel-sort').value = 'stars-desc';
   render();
 });
