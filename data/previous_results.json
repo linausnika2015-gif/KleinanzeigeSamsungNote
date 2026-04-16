@@ -88,7 +88,7 @@
     "71a1c4db2228bc421ee95b081eed6084": {
       "id": "71a1c4db2228bc421ee95b081eed6084",
       "title": "Samsung Galaxy Z Fold 7 256 GB Jetblack",
-      "price": "1.100 € VB",
+      "price": "1.050 € VB1.100 €",
       "speicher": "256 GB",
       "ort": "44265 Wellinghofen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "79 km",
@@ -98,19 +98,14 @@
       "description": "Verkaufe mein Samsung Galaxy Z Fold7 mit 256GB Speicher in elegantem Schwarz. Das innovative...",
       "full_description": "Verkaufe mein Samsung Galaxy Z Fold7 mit 256GB Speicher in elegantem Schwarz. Das innovative Falthandy kommt mit der originalen Verpackung. Die Fotos sind mit der Hülle aufgenommen, da es immer mit einer Hülle benutzt wurde. • Faltbares Display für Tablet- und Smartphone-Nutzung • 256GB interner Speicher • Hochwertige schwarze Ausführung • Originalverpackung inklusive • Moderne Falttechnologie von Samsung Das Gerät ermöglicht dir flexibles Arbeiten und Entertainment dank des faltbaren Displays. Du kannst es sowohl als kompaktes Smartphone als auch als größeres Tablet nutzen. Das Handy befindet sich in sehr gutem Zustand und wurde pfleglich behandelt. Bei Fragen melde dich gerne. PRIVAT Verkauf Kein Versand / Nur Abholung Keine Rücknahme",
       "assessment": {
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "ℹ️ Preis nicht angegeben",
         "flags": [],
         "positives": [
-          "Neuware",
-          "Originalverpackung",
-          "256 GB Speicher",
-          "Faltbares Display",
-          "Moderne Falttechnologie"
+          "✅ Originalverpackung"
         ],
-        "summary": "Neuware Samsung Galaxy Z Fold 7 mit 256 GB Speicher, Originalverpackung und Faltbares Display",
-        "source": "groq"
+        "summary": "✅ Originalverpackung · ℹ️ Preis nicht angegeben"
       },
       "first_seen": "2026-04-15T21:58:18.769237+00:00"
     },
@@ -666,5 +661,5 @@
     }
   },
   "last_full_send": "2026-04-16T06:10:21.084703+00:00",
-  "last_run": "2026-04-16T06:10:21.084778+00:00"
+  "last_run": "2026-04-16T08:52:05.726706+00:00"
 }
