@@ -629,7 +629,7 @@
     "4e6ea934e84c61486e8bcc897b8bf98e": {
       "id": "4e6ea934e84c61486e8bcc897b8bf98e",
       "title": "SAMSUNG Galaxy Z Fold7 512 GB Blue Shadow",
-      "price": "1.150 € VB",
+      "price": "950 €1.150 €",
       "speicher": "512 GB",
       "ort": "53639 Königswinter\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "80 km",
@@ -641,18 +641,17 @@
       "description": "Top-Zustand: Samsung Galaxy Z Fold7 | 512GB | Blue Shadow\n\n​Verkaufe mein Samsung Galaxy Z Fold7 in...",
       "full_description": "Top-Zustand: Samsung Galaxy Z Fold7 | 512GB | Blue Shadow ​Verkaufe mein Samsung Galaxy Z Fold7 in der eleganten Farbe Blue Shadow mit großzügigen 512GB Speicher. Das Gerät ist technisch einwandfrei und optisch in einem hervorragenden Zustand. ​Warum ich es verkaufe: ​Ich habe das neue Galaxy S26 Ultra geschenkt bekommen und benötige daher keine zwei High-End-Smartphones. Das Fold7 hat mir treue Dienste geleistet, darf nun aber einen neuen Besitzer glücklich machen. ​Highlights des Geräts: ​Speicher: 512 GB ​Farbe: Blue Shadow (ein sehr edles, tiefes Blau) ​Display: Beeindruckendes faltbares Hauptdisplay – ideal zum Multitasking und Streamen. ​Zustand: Sehr gepflegt, keine Kratzer, Scharniermechanismus funktioniert wie am ersten Tag. ​Lieferumfang: ​Samsung Galaxy Z Fold7 512GB ​Originalverpackung (OVP) ​USB-C Ladekabel",
       "assessment": {
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Top-Zustand",
-          "512 GB Speicher",
-          "faltbares Hauptdisplay",
-          "Sehr gepflegt, keine Kratzer"
+        "stars": 1,
+        "label": "Meiden",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~1400 €)",
+        "flags": [
+          "ℹ️ Kratzer vorhanden"
         ],
-        "summary": "Neuware Samsung Galaxy Z Fold7 in Top-Zustand mit 512 GB Speicher zum günstigen Preis.",
-        "source": "groq"
+        "positives": [
+          "✅ Originalverpackung",
+          "✅ Makellos"
+        ],
+        "summary": "ℹ️ Kratzer vorhanden · 🔴 Deutlich überteuert (Ref. ~1400 €)"
       },
       "first_seen": "2026-04-16T10:48:12.161242+00:00"
     },
@@ -5729,6 +5728,6 @@
       "first_seen": "2026-04-16T10:48:28.750345+00:00"
     }
   },
-  "last_full_send": "2026-04-16T11:04:12.899748+00:00",
-  "last_run": "2026-04-16T16:47:53.105273+00:00"
+  "last_full_send": "2026-04-16T18:15:08.553923+00:00",
+  "last_run": "2026-04-16T18:15:08.554223+00:00"
 }
