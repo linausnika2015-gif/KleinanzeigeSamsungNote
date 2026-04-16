@@ -379,6 +379,64 @@
       },
       "first_seen": "2026-04-16T10:48:12.160143+00:00"
     },
+    "1389bee5e7e99f29481738b2813525a7": {
+      "id": "1389bee5e7e99f29481738b2813525a7",
+      "title": "3",
+      "price": "20 €",
+      "speicher": "k.A.",
+      "ort": "50969 Zollstock\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "47 km",
+      "zustand": "Neu (OVP)",
+      "model": "Other",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-s-pen-case-fuer-z-fold6-neu-in-ovp/3382057151-173-19654",
+      "description": "Neu, Originalverpackt",
+      "full_description": "Neu, Originalverpackt",
+      "assessment": {
+        "category": "Sonstiges",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Preis ist zu hoch für ein neuwertiges Produkt"
+        ],
+        "positives": [
+          "Originalverpackt",
+          "Neu"
+        ],
+        "summary": "Überteuertes neuwertiges Produkt in Originalverpackung",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-16T12:25:44.985084+00:00"
+    },
+    "7cdc0054a09b658127c236834e07119f": {
+      "id": "7cdc0054a09b658127c236834e07119f",
+      "title": "3",
+      "price": "599 € VB",
+      "speicher": "256 GB",
+      "ort": "44263 Hörde\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "81 km",
+      "zustand": "Neu (OVP)",
+      "model": "Other",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold5/3381998799-173-1087",
+      "description": "Samsung Galaxy Z Fold5 neu ungeöffnet\n\n256gb",
+      "full_description": "Samsung Galaxy Z Fold5 neu ungeöffnet 256gb",
+      "assessment": {
+        "category": "Sonstiges",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Sehr günstig",
+        "flags": [],
+        "positives": [
+          "Neu",
+          "ungeöffnet",
+          "OVP",
+          "günstiger Preis"
+        ],
+        "summary": "Neuer Samsung Galaxy Z Fold5, 256 GB, OVP, günstig",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-16T12:25:44.985414+00:00"
+    },
     "8ab1f37425824c5789d1fca9d07ab8d1": {
       "id": "8ab1f37425824c5789d1fca9d07ab8d1",
       "title": "Samsung Galaxy Z Fold 4 512 GB mit Hüllen und Pen",
@@ -1592,6 +1650,35 @@
       },
       "first_seen": "2026-04-16T10:48:17.086317+00:00"
     },
+    "cf195678d47dcd300c14903fd405ed69": {
+      "id": "cf195678d47dcd300c14903fd405ed69",
+      "title": "4",
+      "price": "480 € VB",
+      "speicher": "k.A.",
+      "ort": "53840 Troisdorf\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "65 km",
+      "zustand": "k.A.",
+      "model": "Other",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-4-2022-/3373131390-173-1797",
+      "description": "Einwandfrei",
+      "full_description": "Einwandfrei",
+      "assessment": {
+        "category": "Sonstiges",
+        "stars": 3,
+        "label": "Neutral",
+        "price_note": "Günstig",
+        "flags": [
+          "Unbekannter Zustand",
+          "Unbekannter Speicher"
+        ],
+        "positives": [
+          "Preis ist günstig"
+        ],
+        "summary": "Unbekannter Zustand, günstiger Preis, aber unklare Spezifikationen",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-16T12:25:49.792650+00:00"
+    },
     "35399aa59e31c19029d4b9da6d9e2a83": {
       "id": "35399aa59e31c19029d4b9da6d9e2a83",
       "title": "Samsung galaxy Z Fold 4 Großes Display Defekt.",
@@ -2497,6 +2584,36 @@
       },
       "first_seen": "2026-04-16T10:48:19.438029+00:00"
     },
+    "1c0ea500d502ef3e6a8dd7bb5fc87888": {
+      "id": "1c0ea500d502ef3e6a8dd7bb5fc87888",
+      "title": "3",
+      "price": "1.250 € VB",
+      "speicher": "256 GB",
+      "ort": "53879 Euskirchen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "65 km",
+      "zustand": "k.A.",
+      "model": "Other",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/galaxy-z-fold-7-neu/3361387764-173-1893",
+      "description": "Galaxy z Fold 7 nagelneu\n256 gb",
+      "full_description": "Galaxy z Fold 7 nagelneu 256 gb",
+      "assessment": {
+        "category": "Sonstiges",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Unrealistischer Preis",
+          "Keine Beschreibung des Zustands"
+        ],
+        "positives": [
+          "Nagelneu",
+          "256 GB Speicher"
+        ],
+        "summary": "Galaxy Fold 7, 256 GB, nagelneu, aber überhöhter Preis",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-16T12:25:52.252551+00:00"
+    },
     "354756724cfc860183bf1f6a25d5ad87": {
       "id": "354756724cfc860183bf1f6a25d5ad87",
       "title": "Samsung Galaxy Fold 7 Hülle Case Cover von Casetify",
@@ -3262,6 +3379,33 @@
       },
       "first_seen": "2026-04-16T10:48:21.738014+00:00"
     },
+    "2379e9b8c375bcae589f1f621e879806": {
+      "id": "2379e9b8c375bcae589f1f621e879806",
+      "title": "2",
+      "price": "699 €890 €",
+      "speicher": "k.A.",
+      "ort": "44866 Bochum-​Wattenscheid\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "57 km",
+      "zustand": "Neu",
+      "model": "Other",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/galaxy-z-fold-6-256-gb/3340579233-173-1934",
+      "description": "Wie neu !!!!!!!!!",
+      "full_description": "Wie neu !!!!!!!!!",
+      "assessment": {
+        "category": "Sonstiges",
+        "stars": 1,
+        "label": "Meiden",
+        "price_note": "Überteuert",
+        "flags": [
+          "Preis ist viel zu hoch",
+          "Keine genauen Details über das Gerät"
+        ],
+        "positives": [],
+        "summary": "Überteuertes Inserat ohne genaue Details",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-16T12:25:54.647959+00:00"
+    },
     "6f8ea6bcbc1ad07708492e96b2c6b269": {
       "id": "6f8ea6bcbc1ad07708492e96b2c6b269",
       "title": "Samsung Samsung Galaxy Z Fold4 500GB",
@@ -3378,6 +3522,62 @@
       },
       "first_seen": "2026-04-16T10:48:21.739254+00:00"
     },
+    "3b0f338c501e902db9b5e27e320bf103": {
+      "id": "3b0f338c501e902db9b5e27e320bf103",
+      "title": "2",
+      "price": "5 €",
+      "speicher": "k.A.",
+      "ort": "51105 Kalk\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "49 km",
+      "zustand": "k.A.",
+      "model": "Other",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/lautsprecher-samsung-galaxy-z-fold-3-5g/3338141139-173-967",
+      "description": "Lautsprecher Samsung Galaxy Z Fold 3 5G.",
+      "full_description": "Lautsprecher Samsung Galaxy Z Fold 3 5G.",
+      "assessment": {
+        "category": "Sonstiges",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "Überteuert",
+        "flags": [
+          "Unklarer Zustand",
+          "Unbekannter Speicher"
+        ],
+        "positives": [],
+        "summary": "Unklarer Zustand, unbekannter Speicher, teurer Preis",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-16T12:25:54.649338+00:00"
+    },
+    "6cf19be51a38571b821259571aaaec4a": {
+      "id": "6cf19be51a38571b821259571aaaec4a",
+      "title": "2",
+      "price": "4 €",
+      "speicher": "k.A.",
+      "ort": "51105 Kalk\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "49 km",
+      "zustand": "k.A.",
+      "model": "Other",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/hoererlautsprecher-fuer-samsung-galaxy-z-fold-3-5g/3338140778-173-967",
+      "description": "Hörerlautsprecher für Samsung Galaxy Z Fold 3 5G.",
+      "full_description": "Hörerlautsprecher für Samsung Galaxy Z Fold 3 5G.",
+      "assessment": {
+        "category": "Zubehör",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "Überteuert",
+        "flags": [
+          "Unbekannter Zustand",
+          "Unbekannter Speicher"
+        ],
+        "positives": [
+          "Hörerlautsprecher für Samsung Galaxy Z Fold 3 5G"
+        ],
+        "summary": "Unbekannter Zustand, Hörerlautsprecher für Z Fold 3 5G, 4€",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-16T12:25:54.649705+00:00"
+    },
     "9b6e111d002183cc5b6331250e365c33": {
       "id": "9b6e111d002183cc5b6331250e365c33",
       "title": "Flexkabel Lautstärke inkl. Abdeckung für Samsung Galaxy Z Fold 3",
@@ -3404,6 +3604,35 @@
         "source": "groq"
       },
       "first_seen": "2026-04-16T10:48:21.739837+00:00"
+    },
+    "3564ed94c93102091c2bddff2adf5c21": {
+      "id": "3564ed94c93102091c2bddff2adf5c21",
+      "title": "",
+      "price": "35 €40 €",
+      "speicher": "k.A.",
+      "ort": "51105 Kalk\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "49 km",
+      "zustand": "k.A.",
+      "model": "Other",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/akkus-fuer-den-samsung-galaxy-z-fold-3-5g/3338139945-173-967",
+      "description": "Akkus für den Samsung Galaxy Z Fold 3 5G.",
+      "full_description": "Akkus für den Samsung Galaxy Z Fold 3 5G.",
+      "assessment": {
+        "category": "Zubehör",
+        "stars": 3,
+        "label": "Neutral",
+        "price_note": "Sehr günstig",
+        "flags": [
+          "Unbekannter Zustand",
+          "Unbekannter Speicher"
+        ],
+        "positives": [
+          "Günstige Akkus für Samsung Galaxy Z Fold 3 5G"
+        ],
+        "summary": "Günstige Akkus für Samsung Galaxy Z Fold 3 5G, aber Zustand und Speicher unbekannt",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-16T12:25:54.650279+00:00"
     },
     "0d8660c26ddc43c2778220e4957e687d": {
       "id": "0d8660c26ddc43c2778220e4957e687d",
@@ -3658,6 +3887,35 @@
       },
       "first_seen": "2026-04-16T10:48:24.075682+00:00"
     },
+    "0a86e5e2f632537debd808e44413b2d8": {
+      "id": "0a86e5e2f632537debd808e44413b2d8",
+      "title": "2",
+      "price": "10 €",
+      "speicher": "k.A.",
+      "ort": "51105 Kalk\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "49 km",
+      "zustand": "k.A.",
+      "model": "Other",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/nfc-modul-fuer-das-samsung-galaxy-z-fold-3-5g/3338119361-173-967",
+      "description": "NFC-Modul für das Samsung Galaxy Z Fold 3 5G.",
+      "full_description": "NFC-Modul für das Samsung Galaxy Z Fold 3 5G.",
+      "assessment": {
+        "category": "Zubehör",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "Überteuert",
+        "flags": [
+          "Keine Informationen über Zustand und Speicher",
+          "Preis ist möglicherweise zu hoch"
+        ],
+        "positives": [
+          "NFC-Modul für Samsung Galaxy Z Fold 3 5G"
+        ],
+        "summary": "NFC-Modul für Z Fold 3 5G, Preis zu hoch, keine Informationen über Zustand und Speicher",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-16T12:25:56.976803+00:00"
+    },
     "74798c8e578ad890dc7b28ed313bacdf": {
       "id": "74798c8e578ad890dc7b28ed313bacdf",
       "title": "Samsung Galaxy Z Fold 3 WIFI-Signal-Flexkabel-Abdeckung",
@@ -3710,6 +3968,35 @@
         "source": "groq"
       },
       "first_seen": "2026-04-16T10:48:24.076395+00:00"
+    },
+    "a79b7d8c147f5edf241e1c0fec0ab1e0": {
+      "id": "a79b7d8c147f5edf241e1c0fec0ab1e0",
+      "title": "2",
+      "price": "2 €",
+      "speicher": "k.A.",
+      "ort": "51105 Kalk\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "49 km",
+      "zustand": "k.A.",
+      "model": "Other",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-3-abdeckung-sub-board/3338114643-173-967",
+      "description": "Samsung Galaxy Z Fold 3 Abdeckung Sub Board.",
+      "full_description": "Samsung Galaxy Z Fold 3 Abdeckung Sub Board.",
+      "assessment": {
+        "category": "Zubehör",
+        "stars": 2,
+        "label": "Neutral",
+        "price_note": "Sehr günstig",
+        "flags": [
+          "Keine Informationen über Zustand und Speicher",
+          "Preis sehr niedrig"
+        ],
+        "positives": [
+          "Günstiger Preis"
+        ],
+        "summary": "Günstige Abdeckung für Samsung Galaxy Z Fold 3, aber ohne Informationen über Zustand und Speicher",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-16T12:25:56.977663+00:00"
     },
     "997870e1c42723919ffc74991e1564e6": {
       "id": "997870e1c42723919ffc74991e1564e6",
@@ -5045,5 +5332,5 @@
     }
   },
   "last_full_send": "2026-04-16T11:04:12.899748+00:00",
-  "last_run": "2026-04-16T12:06:40.805232+00:00"
+  "last_run": "2026-04-16T12:26:40.553522+00:00"
 }
