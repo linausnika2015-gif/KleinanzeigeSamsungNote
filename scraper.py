@@ -369,7 +369,12 @@ def _get_session():
 # ---------------------------------------------------------------------------
 
 def scrape_page(page_num: int, session) -> list[dict]:
-    url = BASE_URL if page_num == 1 else f"{BASE_URL}/seite:{page_num}"
+    # Kleinanzeigen pagination: seite:N goes AFTER the city segment, not at the end
+    # e.g. /s-moenchengladbach/seite:2/galaxy-fold/k0l1957r100
+    if page_num == 1:
+        url = BASE_URL
+    else:
+        url = re.sub(r'(s-[^/]+/)', rf'\1seite:{page_num}/', BASE_URL, count=1)
     try:
         r = session.get(url, headers=HEADERS, timeout=30)
         r.raise_for_status()
