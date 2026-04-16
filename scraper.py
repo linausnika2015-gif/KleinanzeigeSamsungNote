@@ -404,9 +404,9 @@ def scrape_page(page_num: int, session) -> list[dict]:
                 skipped_gesuch += 1
                 continue
 
-            a_tag = article.find("a", class_="ellipsis") or (
-                article.find("h2") and article.find("h2").find("a")
-            )
+            a_tag = (article.find("a", class_="ellipsis") or
+                     (article.find("h2") and article.find("h2").find("a")) or
+                     article.find("a", href=re.compile(r"/s-anzeige/")))
             if not a_tag:
                 skipped_no_link += 1
                 continue

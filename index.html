@@ -86,6 +86,15 @@
     }
     #btn-reset:hover { background: #e5e7eb; }
 
+    /* ── View toggle ── */
+    #view-toggle { display: flex; gap: 4px; }
+    .btn-view {
+      padding: 8px 11px; border: 1.5px solid #d1d5db; border-radius: 8px;
+      background: #fff; cursor: pointer; font-size: .9rem; line-height: 1;
+      color: #6b7280; transition: all .15s;
+    }
+    .btn-view.active { background: var(--blue); border-color: var(--blue); color: #fff; }
+
     /* ── Grid ── */
     #grid {
       display: grid;
@@ -94,6 +103,51 @@
       padding: 20px;
       max-width: 1400px;
       margin: 0 auto;
+    }
+
+    /* ── List mode ── */
+    #grid.list-mode {
+      grid-template-columns: 1fr;
+      max-width: 900px;
+    }
+    #grid.list-mode .card {
+      flex-direction: row;
+      align-items: stretch;
+    }
+    #grid.list-mode .card-head {
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: flex-start;
+      gap: 6px;
+      min-width: 120px;
+      max-width: 130px;
+      border-bottom: none;
+      border-right: 1px solid #f3f4f6;
+      padding: 14px 12px;
+    }
+    #grid.list-mode .card-body {
+      flex: 1;
+      padding: 10px 14px;
+    }
+    #grid.list-mode .card-title {
+      -webkit-line-clamp: 1;
+      font-size: .85rem;
+    }
+    #grid.list-mode .card-foot {
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-end;
+      gap: 6px;
+      min-width: 110px;
+      border-top: none;
+      border-left: 1px solid #f3f4f6;
+      padding: 10px 14px;
+    }
+    #grid.list-mode .summary { display: none; }
+    @media (max-width: 600px) {
+      #grid.list-mode .card { flex-direction: column; }
+      #grid.list-mode .card-head { flex-direction: row; max-width: 100%; border-right: none; border-bottom: 1px solid #f3f4f6; }
+      #grid.list-mode .card-foot { flex-direction: row; border-left: none; border-top: 1px solid #f3f4f6; }
     }
 
     /* ── Card ── */
@@ -266,6 +320,10 @@
 
   <button id="btn-reset">✕ Zurücksetzen</button>
   <span id="result-count"></span>
+  <div id="view-toggle">
+    <button class="btn-view active" id="btn-grid" title="Kachelansicht">⊞</button>
+    <button class="btn-view" id="btn-list" title="Listenansicht">☰</button>
+  </div>
 </div>
 
 <div id="grid">
@@ -484,6 +542,24 @@ document.getElementById('btn-reset').addEventListener('click', () => {
   document.getElementById('sel-sort').value = 'stars-desc';
   render();
 });
+
+// ── View toggle ──────────────────────────────────────────
+document.getElementById('btn-grid').addEventListener('click', () => {
+  document.getElementById('grid').classList.remove('list-mode');
+  document.getElementById('btn-grid').classList.add('active');
+  document.getElementById('btn-list').classList.remove('active');
+  localStorage.setItem('fold-view', 'grid');
+});
+document.getElementById('btn-list').addEventListener('click', () => {
+  document.getElementById('grid').classList.add('list-mode');
+  document.getElementById('btn-list').classList.add('active');
+  document.getElementById('btn-grid').classList.remove('active');
+  localStorage.setItem('fold-view', 'list');
+});
+// Restore saved view preference
+if (localStorage.getItem('fold-view') === 'list') {
+  document.getElementById('btn-list').click();
+}
 
 loadData();
 </script>
