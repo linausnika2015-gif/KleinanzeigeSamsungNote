@@ -399,10 +399,16 @@ def scrape_page(page_num: int, session) -> list[dict]:
     for article in soup.find_all("article", class_="aditem"):
         total_articles += 1
         try:
-            type_tag = article.find(class_=re.compile(r"badge|aditem-addon|label", re.I))
-            if type_tag and "gesuch" in type_tag.get_text().lower():
+            # ── Angebotstyp: Angebot vs. Gesuch ──
+            simpletags = article.find_all(class_="simpletag")
+            simpletag_texts = [t.get_text(strip=True).lower() for t in simpletags]
+            angebotstyp = "Gesuch" if "gesuch" in simpletag_texts else "Angebot"
+            if angebotstyp == "Gesuch":
                 skipped_gesuch += 1
-                continue
+
+            # ── Anbieter: Privat vs. Gewerblich ──
+            pro_tag = article.find(class_=re.compile(r"badge-hint-pro", re.I))
+            anbieter = "Gewerblich" if pro_tag else "Privat"
 
             a_tag = (article.find("a", class_="ellipsis") or
                      (article.find("h2") and article.find("h2").find("a")) or
@@ -433,19 +439,21 @@ def scrape_page(page_num: int, session) -> list[dict]:
             combined = title + " " + desc
 
             results.append({
-                "id":         listing_id(full_url),
-                "title":      title,
-                "price":      price,
-                "speicher":   extract_speicher(combined),
-                "ort":        ort,
-                "entfernung": distance,
-                "zustand":    extract_zustand(combined),
-                "model":      get_fold_model(title),
-                "url":        full_url,
-                "description": desc,
+                "id":           listing_id(full_url),
+                "title":        title,
+                "price":        price,
+                "speicher":     extract_speicher(combined),
+                "ort":          ort,
+                "entfernung":   distance,
+                "zustand":      extract_zustand(combined),
+                "model":        get_fold_model(title),
+                "angebotstyp":  angebotstyp,
+                "anbieter":     anbieter,
+                "url":          full_url,
+                "description":  desc,
                 "full_description": "",   # filled later
-                "assessment": None,       # filled later
-                "first_seen": datetime.now(timezone.utc).isoformat(),
+                "assessment":   None,     # filled later
+                "first_seen":   datetime.now(timezone.utc).isoformat(),
             })
         except Exception as exc:
             print(f"  [WARN] Skipping article: {exc}")

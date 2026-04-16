@@ -212,6 +212,15 @@
     .cat-ankauf   { background: #fff3cd; color: #92400e; }
     .cat-sonstiges{ background: var(--gray-lt); color: var(--gray); }
 
+    .type-badge {
+      font-size: .7rem; font-weight: 600; padding: 2px 7px;
+      border-radius: 20px;
+    }
+    .type-angebot  { background: #dcfce7; color: #16a34a; }
+    .type-gesuch   { background: #fef9c3; color: #a16207; }
+    .type-gewerb   { background: #ede9fe; color: #7c3aed; }
+    .type-privat   { background: #f3f4f6; color: #6b7280; }
+
     .summary {
       font-size: .8rem; color: #374151; line-height: 1.4;
       margin-bottom: 8px; font-style: italic;
@@ -309,6 +318,18 @@
     <option value="Zubehör">🧳 Nur Zubehör</option>
     <option value="Ankauf">🛒 Nur Ankauf</option>
     <option value="Sonstiges">❓ Sonstiges</option>
+  </select>
+
+  <select id="sel-angebotstyp">
+    <option value="">🏷️ Alle Angebotstypen</option>
+    <option value="Angebot">✅ Nur Angebote</option>
+    <option value="Gesuch">🔍 Nur Gesuche</option>
+  </select>
+
+  <select id="sel-anbieter">
+    <option value="">👤 Alle Anbieter</option>
+    <option value="Privat">🏠 Privat</option>
+    <option value="Gewerblich">🏢 Gewerblich</option>
   </select>
 
   <select id="sel-sort">
@@ -429,14 +450,26 @@ function renderCard(listing) {
     ...flags.slice(0, 3).map(t => `<span class="tag ${tagClass(t)}">${t}</span>`),
   ].join('');
 
-  const cat = guessCategory(listing);
+  const cat         = guessCategory(listing);
+  const angebotstyp = listing.angebotstyp || 'Angebot';
+  const anbieter    = listing.anbieter    || 'Privat';
+
+  const typeBadge    = angebotstyp === 'Gesuch'
+    ? `<span class="type-badge type-gesuch">🔍 Gesuch</span>`
+    : `<span class="type-badge type-angebot">✅ Angebot</span>`;
+  const anbieterBadge = anbieter === 'Gewerblich'
+    ? `<span class="type-badge type-gewerb">🏢 Gewerblich</span>`
+    : `<span class="type-badge type-privat">🏠 Privat</span>`;
 
   return `
-<div class="card" data-model="${model}" data-stars="${stars}" data-zustand="${zustand}" data-price="${parsePrice(price)}" data-ts="${listing.first_seen || ''}" data-cat="${cat}">
+<div class="card" data-model="${model}" data-stars="${stars}" data-zustand="${zustand}" data-price="${parsePrice(price)}" data-ts="${listing.first_seen || ''}" data-cat="${cat}" data-angebotstyp="${angebotstyp}" data-anbieter="${anbieter}">
   <div class="card-head">
     <span class="model-badge">${model}</span>
     ${starsHtml(stars)}
     ${catBadgeHtml(cat)}
+  </div>
+  <div style="padding:4px 16px 6px; display:flex; gap:5px; border-bottom:1px solid #f3f4f6;">
+    ${typeBadge}${anbieterBadge}
   </div>
   <div class="card-body">
     <div class="card-title">${listing.title || '(kein Titel)'}</div>
@@ -464,14 +497,18 @@ function getFiltered() {
   const model  = document.getElementById('sel-model').value;
   const minSt  = parseInt(document.getElementById('sel-stars').value, 10);
   const zustand = document.getElementById('sel-zustand').value;
-  const cat    = document.getElementById('sel-cat').value;
-  const sort   = document.getElementById('sel-sort').value;
+  const cat          = document.getElementById('sel-cat').value;
+  const angebotstyp  = document.getElementById('sel-angebotstyp').value;
+  const anbieter     = document.getElementById('sel-anbieter').value;
+  const sort         = document.getElementById('sel-sort').value;
 
   let list = allListings.filter(l => {
-    if (model  && l.model !== model) return false;
-    if (zustand && l.zustand !== zustand) return false;
-    if (minSt  && (l.assessment?.stars || 0) < minSt) return false;
-    if (cat    && guessCategory(l) !== cat) return false;
+    if (model        && l.model !== model) return false;
+    if (zustand      && l.zustand !== zustand) return false;
+    if (minSt        && (l.assessment?.stars || 0) < minSt) return false;
+    if (cat          && guessCategory(l) !== cat) return false;
+    if (angebotstyp  && (l.angebotstyp || 'Angebot') !== angebotstyp) return false;
+    if (anbieter     && (l.anbieter    || 'Privat')   !== anbieter)    return false;
     if (q) {
       const hay = [l.title, l.ort, l.description, l.assessment?.summary, l.model]
         .join(' ').toLowerCase();
@@ -529,7 +566,7 @@ async function loadData() {
 }
 
 // ── Events ────────────────────────────────────────────────
-['q','sel-model','sel-stars','sel-zustand','sel-cat','sel-sort'].forEach(id => {
+['q','sel-model','sel-stars','sel-zustand','sel-cat','sel-angebotstyp','sel-anbieter','sel-sort'].forEach(id => {
   document.getElementById(id).addEventListener('input', render);
 });
 
@@ -539,6 +576,8 @@ document.getElementById('btn-reset').addEventListener('click', () => {
   document.getElementById('sel-stars').value = '0';
   document.getElementById('sel-zustand').value = '';
   document.getElementById('sel-cat').value = '';
+  document.getElementById('sel-angebotstyp').value = '';
+  document.getElementById('sel-anbieter').value = '';
   document.getElementById('sel-sort').value = 'stars-desc';
   render();
 });
