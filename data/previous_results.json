@@ -168,33 +168,6 @@
       },
       "first_seen": "2026-04-15T21:58:18.769671+00:00"
     },
-    "1adeb0dc535534c7a7c18d8519ccf809": {
-      "id": "1adeb0dc535534c7a7c18d8519ccf809",
-      "title": "Samsung Galaxy Z Fold 7 – 512 GB – Wie neu!",
-      "price": "1.100 €",
-      "speicher": "512 GB",
-      "ort": "53117 Auerberg\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "66 km",
-      "zustand": "Neu",
-      "model": "Z Fold 7",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-512-gb-wie-neu-/3382671403-173-23706",
-      "description": "Samsung Galaxy Z Fold 7 – 512 GB – Wie neu!\n\nIch verkaufe hier mein Samsung Galaxy Z Fold 7 (512 GB...",
-      "full_description": "Samsung Galaxy Z Fold 7 – 512 GB – Wie neu! Ich verkaufe hier mein Samsung Galaxy Z Fold 7 (512 GB Speicher) in sehr gutem Zustand. Das Gerät war lediglich mein Zweittelefon und wurde kaum benutzt – keine Kratzer, keine Gebrauchsspuren. Das Smartphone wurde auf Werkseinstellungen zurückgesetzt und ist technisch wie optisch einwandfrei – so sauber, wie auf den Fotos zu sehen. Speicher: 512 GB Zustand: Wie neu Rechnung vom 09/2025 vorhanden Originalverpackung inklusive Nie intensiv genutzt oder beschädigt Wichtige Hinweise: Kein Versand – nur Abholung! Kein Tausch! Das Telefon kann nach Terminvereinbarung in Bonn-Auerberg besichtigt und abgeholt werden.",
-      "assessment": {
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Sehr guter Zustand",
-          "Kaum benutzt",
-          "Technisch und optisch einwandfrei"
-        ],
-        "summary": "Samsung Galaxy Z Fold 7 in sehr gutem Zustand, kaum benutzt, 512 GB Speicher, günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-04-15T21:58:18.769867+00:00"
-    },
     "6cebe83c4cfc82cd199e488e2191df83": {
       "id": "6cebe83c4cfc82cd199e488e2191df83",
       "title": "Samsung Galaxy Fold 4  Smartphone defekt",
@@ -658,8 +631,66 @@
         "source": "groq"
       },
       "first_seen": "2026-04-15T21:58:18.773801+00:00"
+    },
+    "191830331725e5fa22abb47a0ab599f7": {
+      "id": "191830331725e5fa22abb47a0ab599f7",
+      "title": "Samsung Galaxy z Fold5, 256 GB, gebraucht – Top-Zustand",
+      "price": "690 € VB",
+      "speicher": "256 GB",
+      "ort": "52146 Würselen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "47 km",
+      "zustand": "Gebraucht",
+      "model": "Z Fold 5",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold5-256-gb-gebraucht-top-zustand/3380211598-173-1716",
+      "description": "Top-Zustand (siehe Fotos)\n\nsehr geringe Gebrauchsspuren\n\nam liebsten Abholung gegen...",
+      "full_description": "Top-Zustand (siehe Fotos) sehr geringe Gebrauchsspuren am liebsten Abholung gegen Barzahlung, dann kann das Handy auch getestet werden versicherter Versand ist möglich dann Vorkasse per Überweisung oder über Paypal Freunde Der Kaufgegenstand wird unter Ausschluss jeglicher Gewährleistung verkauft. Die Haftung auf Schadenersatz wegen Verletzungen von Gesundheit, Körper oder Leben und grob fahrlässiger und/oder vorsätzlicher Verletzungen meiner Pflichten als Verkäufer bleibt davon unberührt.",
+      "assessment": {
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Garantie",
+          "Barzahlung bevorzugt"
+        ],
+        "positives": [
+          "Top-Zustand",
+          "256 GB Speicher"
+        ],
+        "summary": "Gebrauchter Galaxy Z Fold 5 in Top-Zustand für 690 €",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-16T10:24:18.201704+00:00"
+    },
+    "aa842f83000c3d772e2b35d65d7b1850": {
+      "id": "aa842f83000c3d772e2b35d65d7b1850",
+      "title": "Wir kaufen an - Samsung Galaxy S26 Ultra S25 FE Z Fold7 Flip7 A56",
+      "price": "VB",
+      "speicher": "256 GB",
+      "ort": "69151 Neckargemünd",
+      "entfernung": "",
+      "zustand": "k.A.",
+      "model": "Z Fold 7",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/wir-kaufen-an-samsung-galaxy-s26-ultra-s25-fe-z-fold7-flip7-a56/1343196724-173-9185",
+      "description": "Wir kaufen die folgenden Modelle zu den angebotenen Preisen an: (Hinweis: Dies ist eine...",
+      "full_description": "Wir kaufen die folgenden Modelle zu den angebotenen Preisen an: (Hinweis: Dies ist eine Ankaufsanzeige - keine Verkaufsanzeige) SAMSUNG GALAXY S26 * Samsung Galaxy S26 256GB 610,00 € * Samsung Galaxy S26 512GB 650,00 € * Samsung Galaxy S26 Plus 256GB 770,00 € * Samsung Galaxy S26 Plus 512GB 830,00 € * Samsung Galaxy S26 Ultra 256GB 840,00 € * Samsung Galaxy S26 Ultra 512GB 920,00 € * Samsung Galaxy S26 Ultra 1TB 1150,00 € Samsung Galaxy S25 * Samsung Galaxy S25 128GB 450,00 € * Samsung Galaxy S25 256GB 510,00 € * Samsung Galaxy S25 FE 128GB 370,00 € * Samsung Galaxy S25 FE 256GB 430,00 € * Samsung Galaxy S25 FE 512GB 480,00 € * Samsung Galaxy S25 Ultra 256GB 730,00 € * Samsung Galaxy S25 Ultra 512GB 820,00 € * Samsung Galaxy S25 Ultra 1TB 980,00 € * Samsung Galaxy S25 Edge 256GB 470,00 € * Samsung Galaxy S25 Edge 512GB 540,00 € Samsung Galaxy A36 * Samsung Galaxy A36 128GB 160,00 € * Samsung Galaxy A36 256GB 190,00 € Samsung Galaxy A56 * Samsung Galaxy A56 128GB 200,00 € * Samsung Galaxy A56 256GB 250,00 € Samsung Galaxy Z Flip7 * Samsung Galaxy Z Flip7 256GB - 610,00 € * Samsung Galaxy Z Flip7 512GB - 650,00 € Samsung Galaxy Z Flip 7 FE * Samsung Galaxy Z Flip7 FE 128GB - 460,00 € * Samsung Galaxy Z Flip7 FE 256GB - 520,00 € Samsung Galaxy Z Fold7 * Samsung Galaxy Z Fold7 256GB - 1070,00 € * Samsung Galaxy Z Fold7 512GB - 1180,00 € * Samsung Galaxy Z Fold7 1TB - 1350,00 € Samsung Galaxy Tab S11 / S11 Ultra * Samsung Galaxy Tab S11 5G 128GB - 560,00 € * Samsung Galaxy Tab S11 5G 256GB - 640,00 € * Samsung Galaxy Tab S11 5G 512GB - 730,00 € * Samsung Galaxy Tab S11 WiFi 128GB - 470,00 € * Samsung Galaxy Tab S11 WiFi 256GB - 560,00 € * Samsung Galaxy Tab S11 WiFi 512GB - 630,00 € * Samsung Galaxy Tab S11 Ultra 5G 256GB - 830,00 € * Samsung Galaxy Tab S11 Ultra 5G 512GB - 920,00 € * Samsung Galaxy Tab S11 Ultra 5G 1TB - 1060,00 € * Samsung Galaxy Tab S11 Ultra WiFi 256GB - 780,00 € * Samsung Galaxy Tab S11 Ultra WiFi 512GB - 850,00 € * Samsung Galaxy Tab S11 Ultra WiFi",
+      "assessment": {
+        "stars": 3,
+        "label": "Neutral",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Fotos des Geräts",
+          "Keine Beschreibung des Zustands"
+        ],
+        "positives": [
+          "Günstige Preise für verschiedene Modelle",
+          "Vielfältige Auswahl an Geräten"
+        ],
+        "summary": "Günstige Ankaufsanzeige für verschiedene Samsung-Modelle, jedoch ohne Fotos und Beschreibung des Zustands.",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-16T10:24:30.266917+00:00"
     }
   },
   "last_full_send": "2026-04-16T06:10:21.084703+00:00",
-  "last_run": "2026-04-16T08:52:05.726706+00:00"
+  "last_run": "2026-04-16T10:24:51.119303+00:00"
 }
