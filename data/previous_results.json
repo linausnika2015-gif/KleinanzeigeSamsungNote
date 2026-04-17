@@ -62,6 +62,39 @@
       },
       "first_seen": "2026-04-16T10:48:12.156457+00:00"
     },
+    "756f20bb6759d6b8536b8c6ec8fbf6d8": {
+      "id": "756f20bb6759d6b8536b8c6ec8fbf6d8",
+      "title": "Samsung Galaxy Z Fold 7 256GB 12GB RAM Jetblack Neu",
+      "price": "700 € VB",
+      "speicher": "256 GB",
+      "ort": "45355 Essen-​Borbeck\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "47 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-256gb-12gb-ram-jetblack-neu/3383963107-173-2033",
+      "description": "Samsung Galaxy Z Fold 7\nNeu, versiegelt\n256GB Speicher\nJetblack\nRechnung, Garantie...",
+      "full_description": "Samsung Galaxy Z Fold 7 Neu, versiegelt 256GB Speicher Jetblack Rechnung, Garantie vorhanden Simlockfrei Abholung bevorzugt, versicherter Versand gegen Aufpreis möglich. Bei Fragen gerne melden. :)",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Sehr hoher Preis",
+          "Kein Versand ohne Aufpreis"
+        ],
+        "positives": [
+          "Neu und versiegelt",
+          "Rechnung und Garantie vorhanden",
+          "Simlockfrei"
+        ],
+        "summary": "Neuer Z Fold 7 mit 256 GB Speicher für 700 €, Abholung bevorzugt",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-17T13:54:02.690638+00:00"
+    },
     "ca201e249df69b1930be59561982d014": {
       "id": "ca201e249df69b1930be59561982d014",
       "title": "Samsung galaxy z fold 6 wie neu 512 gb",
@@ -5721,5 +5754,5 @@
     }
   },
   "last_full_send": "2026-04-17T10:22:03.571233+00:00",
-  "last_run": "2026-04-17T12:00:56.908998+00:00"
+  "last_run": "2026-04-17T13:54:30.120513+00:00"
 }
