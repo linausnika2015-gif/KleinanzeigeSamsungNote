@@ -62,10 +62,44 @@
       },
       "first_seen": "2026-04-16T10:48:12.156457+00:00"
     },
+    "ca201e249df69b1930be59561982d014": {
+      "id": "ca201e249df69b1930be59561982d014",
+      "title": "Samsung galaxy z fold 6 wie neu 512 gb",
+      "price": "750 €",
+      "speicher": "512 GB",
+      "ort": "53604 Bad Honnef\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "84 km",
+      "zustand": "Neu",
+      "model": "Z Fold 6",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6-wie-neu-512-gb/3384193333-173-1629",
+      "description": "So gut wie nicht genutzt. War als Ersatzhandy angeschafft worden , lag allerdings nur in der...",
+      "full_description": "So gut wie nicht genutzt. War als Ersatzhandy angeschafft worden , lag allerdings nur in der Schublade. Neuwertiger Zustand. Keine Kratzer oder ähnliches. Displayschutzfolie von Beginn an drauf. Inkl. Zubehör wie auf den Bildern zu sehen. Technisch einwandfrei. Laden und Lautsprecher einwandfrei. Rechnung vorhanden. Nach Terminabsprache kann eine Besichtigung vereinbart werden. Es kann auch bitte ausprobiert werden. Am liebsten Abholung. Auf Wunsch versicherter Versand. Aufgrund des neuen EU-Rechts gelten folgende Bedingungen: Es handelt sich um einen Kaufvertrag von Privat an Privat. Dies ist ein Privatverkauf unter Ausschluss jeglicher gesetzlicher Gewährleistung, Sachmängelhaftung, Garantie und Rücknahme. Schreiben Sie mich bitte nur an, wenn Sie mit den Bedingungen einverstanden sind und auf Garantie, Rücknahme oder Umtausch verzichten.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Garantie",
+          "Keine Rücknahme"
+        ],
+        "positives": [
+          "Neuwertiger Zustand",
+          "Displayschutzfolie",
+          "Zubehör inklusive",
+          "Rechnung vorhanden"
+        ],
+        "summary": "Samsung Galaxy Z Fold 6, 512 GB, neuwertiger Zustand, günstig, Privatverkauf",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-17T12:00:29.022186+00:00"
+    },
     "30d388098051a98872d08ddb39d9432d": {
       "id": "30d388098051a98872d08ddb39d9432d",
       "title": "Samsung Galaxy Fold 7 silber silver Shadow 512 GB NEU",
-      "price": "1.300 €",
+      "price": "1.300 € VB",
       "speicher": "512 GB",
       "ort": "52223 Stolberg (Rhld)\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "52 km",
@@ -77,21 +111,16 @@
       "description": "Bitte lesen!\n\nVerkaufe mein am 19.12.25 bei Samsung gekauftes Fold 7 in silber mit 512 GB...",
       "full_description": "Bitte lesen! Verkaufe mein am 19.12.25 bei Samsung gekauftes Fold 7 in silber mit 512 GB Speicherplatz. Das Fold wurde im Rahmen eines Garantiefalles gerade komplett bei Samsung erneuert. Es ist demnach neu! Neue Displays, neuer Rahmen, neuer Akku. Die komplette Dokumentation dazu, sowie die Samsung Rechnung liegt bei. Bitte nur persönliche Abholung und Barzahlung. Versand wäre auch möglich, aber nur bei Vorabüberweisung und Übernahme der Kosten für einen höherversicherten Versand! LG Nina :-)",
       "assessment": {
-        "category": "Gerät",
         "stars": 5,
         "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Garantiefall",
-          "Persönliche Abholung erforderlich"
-        ],
+        "price_note": "🟢 Sehr günstig (Ref. ~1400 €)",
+        "flags": [],
         "positives": [
-          "Neu",
-          "Garantiefall",
-          "Komplett erneuert"
+          "✅ Garantie vorhanden",
+          "✅ Rechnung/Beleg vorhanden",
+          "✅ Zubehör dabei"
         ],
-        "summary": "Neues Samsung Galaxy Fold 7 in silber mit 512 GB, Garantiefall, komplett erneuert",
-        "source": "groq"
+        "summary": "✅ Garantie vorhanden · 🟢 Sehr günstig (Ref. ~1400 €)"
       },
       "first_seen": "2026-04-17T10:21:34.992031+00:00"
     },
@@ -227,7 +256,7 @@
     "32b9f51ea807efb31d1114699e6de71a": {
       "id": "32b9f51ea807efb31d1114699e6de71a",
       "title": "Sony Galaxy Fold 2 5G 256 GB - Defekt KEIN DISPLAYSCHADEN!",
-      "price": "150 € VB",
+      "price": "100 € VB150 €",
       "speicher": "256 GB",
       "ort": "50769 Merkenich\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "34 km",
@@ -239,20 +268,18 @@
       "description": "Ich verkaufe hier ein Samsung Galaxy Fold 2 5G in Schwarz mit 256 GB.\nAnders als bei vielen anderen...",
       "full_description": "Ich verkaufe hier ein Samsung Galaxy Fold 2 5G in Schwarz mit 256 GB. Anders als bei vielen anderen Geräten ist hier nicht das Display kaputt (siehe Fotos). Das Gerät lässt sich nicht mehr mit dem W-Lan verbinden. Will man das W Lan einschalten, passiert nichts und das Feld bleibt grau. Bluetooth funktioniert einwandfrei. Ansonsten funktioniert das Gerät tadellos. Telefonieren und Mobiles Internet ist ganz normal möglich. Für Bastler oder Menschen mit unbegrenzten Datenvolumen ist das Gerät also ein Glücksgriff. Abholung im Kölner Norden. Bei Fragen einfach melden.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 3,
+        "stars": 0,
         "label": "Neutral",
-        "price_note": "Günstig",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~200 €)",
         "flags": [
-          "Keine W-Lan-Verbindung möglich",
-          "Display unbeschädigt"
+          "⚠️ Als defekt beschrieben",
+          "⚠️ Gerät kaputt",
+          "⚠️ Displayschaden"
         ],
         "positives": [
-          "Kein Display-Schaden",
-          "Bluetooth funktioniert einwandfrei"
+          "✅ Makellos"
         ],
-        "summary": "Samsung Galaxy Fold 2 5G in Schwarz, 256 GB, kein Display-Schaden, aber keine W-Lan-Verbindung möglich",
-        "source": "groq"
+        "summary": "⚠️ Als defekt beschrieben · 🔴 Deutlich überteuert (Ref. ~200 €)"
       },
       "first_seen": "2026-04-16T15:04:13.673142+00:00"
     },
@@ -912,7 +939,7 @@
     "0819e53057ee9b3495b111fc78e163cc": {
       "id": "0819e53057ee9b3495b111fc78e163cc",
       "title": "Samsung galaxy z fold 2 mit Ladegerät +Kabel +case ohne OVP",
-      "price": "300 €350 €",
+      "price": "280 €350 €",
       "speicher": "k.A.",
       "ort": "40822 Mettmann\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "38 km",
@@ -924,21 +951,14 @@
       "description": "Biete gebrauchtes Samsung z fold 2 in Mystik Bronze zum ka7f an kit Ladegerät und Kabel dazu und...",
       "full_description": "Biete gebrauchtes Samsung z fold 2 in Mystik Bronze zum ka7f an kit Ladegerät und Kabel dazu und Case das telefon miss im innen Display die Hardware von einem Fachmann von Samsung eingestellt werden beim Öffnen des Smartphones erscheint im innen Display die Meldung Keine Sim karte Eingelegt Sim 1 !!! Das Samsung Galaxy z fold 2 ist aus dem Jahre 2020 neu preis damals 2000€ Nur an Selbstabholer kein Versand Möglich...",
       "assessment": {
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Angabe zum Speicher",
-          "Keine Garantie",
-          "Meldung 'Keine Sim karte Eingelegt'"
-        ],
+        "stars": 1,
+        "label": "Meiden",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~200 €)",
+        "flags": [],
         "positives": [
-          "Ladegerät und Kabel inklusive",
-          "Case inklusive",
-          "Preis günstig"
+          "✅ Originalverpackung"
         ],
-        "summary": "Gebrauchtes Samsung Galaxy Z Fold 2 mit Zubehör, aber mit Meldung 'Keine Sim karte Eingelegt'",
-        "source": "groq"
+        "summary": "✅ Originalverpackung · 🔴 Deutlich überteuert (Ref. ~200 €)"
       },
       "first_seen": "2026-04-16T10:48:12.163356+00:00"
     },
@@ -1476,38 +1496,6 @@
         "source": "groq"
       },
       "first_seen": "2026-04-16T10:48:14.516656+00:00"
-    },
-    "055ee61a7b6c60fcec41016aef74e6cd": {
-      "id": "055ee61a7b6c60fcec41016aef74e6cd",
-      "title": "Samsung Galaxy z fold 6 512 GB 12GB WIE NEU. Rechnung vorhanden m",
-      "price": "800 €1.000 €",
-      "speicher": "512 GB",
-      "ort": "53604 Bad Honnef\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "84 km",
-      "zustand": "Neu",
-      "model": "Z Fold 6",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6-512-gb-12gb-wie-neu-rechnung-vorhanden-m/3376082954-173-1629",
-      "description": "So gut wie nicht genutzt. War als Ersatzhandy angeschafft worden , lag allerdings nur in der...",
-      "full_description": "So gut wie nicht genutzt. War als Ersatzhandy angeschafft worden , lag allerdings nur in der Schublade. Neuwertiger Zustand. Keine Kratzer oder ähnliches. Displayschutzfolie von Beginn an drauf. Inkl. Zubehör wie auf den Bildern zu sehen. Technisch einwandfrei. Laden und Lautsprecher einwandfrei. Rechnung vorhanden. Nach Terminabsprache kann eine Besichtigung vereinbart werden. Es kann auch bitte ausprobiert werden. Am liebsten Abholung. Auf Wunsch versicherter Versand. Aufgrund des neuen EU-Rechts gelten folgende Bedingungen: Es handelt sich um einen Kaufvertrag von Privat an Privat. Dies ist ein Privatverkauf unter Ausschluss jeglicher gesetzlicher Gewährleistung, Sachmängelhaftung, Garantie und Rücknahme. Schreiben Sie mich bitte nur an, wenn Sie mit den Bedingungen einverstanden sind und auf Garantie, Rücknahme oder Umtausch verzichten.",
-      "assessment": {
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Neuwertiger Zustand",
-          "Keine Kratzer oder ähnliches",
-          "Displayschutzfolie von Beginn an drauf",
-          "Inkl. Zubehör",
-          "Technisch einwandfrei",
-          "Laden und Lautsprecher einwandfrei"
-        ],
-        "summary": "Sehr günstiger Neuzustand, Rechnung und Zubehör vorhanden",
-        "source": "groq"
-      },
-      "first_seen": "2026-04-16T10:48:14.516908+00:00"
     },
     "4c10541a21450480c2311d656b445167": {
       "id": "4c10541a21450480c2311d656b445167",
@@ -5733,5 +5721,5 @@
     }
   },
   "last_full_send": "2026-04-17T10:22:03.571233+00:00",
-  "last_run": "2026-04-17T10:22:03.571541+00:00"
+  "last_run": "2026-04-17T12:00:56.908998+00:00"
 }
