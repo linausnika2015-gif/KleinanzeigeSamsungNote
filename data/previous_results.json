@@ -62,6 +62,39 @@
       },
       "first_seen": "2026-04-16T10:48:12.156457+00:00"
     },
+    "30d388098051a98872d08ddb39d9432d": {
+      "id": "30d388098051a98872d08ddb39d9432d",
+      "title": "Samsung Galaxy Fold 7 silber silver Shadow 512 GB NEU",
+      "price": "1.300 €",
+      "speicher": "512 GB",
+      "ort": "52223 Stolberg (Rhld)\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "52 km",
+      "zustand": "Neu",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-7-silber-silver-shadow-512-gb-neu/3384116132-173-1732",
+      "description": "Bitte lesen!\n\nVerkaufe mein am 19.12.25 bei Samsung gekauftes Fold 7 in silber mit 512 GB...",
+      "full_description": "Bitte lesen! Verkaufe mein am 19.12.25 bei Samsung gekauftes Fold 7 in silber mit 512 GB Speicherplatz. Das Fold wurde im Rahmen eines Garantiefalles gerade komplett bei Samsung erneuert. Es ist demnach neu! Neue Displays, neuer Rahmen, neuer Akku. Die komplette Dokumentation dazu, sowie die Samsung Rechnung liegt bei. Bitte nur persönliche Abholung und Barzahlung. Versand wäre auch möglich, aber nur bei Vorabüberweisung und Übernahme der Kosten für einen höherversicherten Versand! LG Nina :-)",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Garantiefall",
+          "Persönliche Abholung erforderlich"
+        ],
+        "positives": [
+          "Neu",
+          "Garantiefall",
+          "Komplett erneuert"
+        ],
+        "summary": "Neues Samsung Galaxy Fold 7 in silber mit 512 GB, Garantiefall, komplett erneuert",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-17T10:21:34.992031+00:00"
+    },
     "dafe48815e3181f4ae12498883d67f19": {
       "id": "dafe48815e3181f4ae12498883d67f19",
       "title": "Samsung Galaxy Fold 6 1TB Speicher!  Mit Rest Garantie",
@@ -222,35 +255,6 @@
         "source": "groq"
       },
       "first_seen": "2026-04-16T15:04:13.673142+00:00"
-    },
-    "c2cde1a565d92ac3e9a3f61496a78f37": {
-      "id": "c2cde1a565d92ac3e9a3f61496a78f37",
-      "title": "Samsung Galaxy Z Fold6 256GB Silber mit OVP",
-      "price": "580 € VB600 €",
-      "speicher": "256 GB",
-      "ort": "53859 Niederkassel\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "61 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 6",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold6-256gb-silber-mit-ovp/3383472616-173-1672",
-      "description": "Hallo, hier biete ich mein Samsung Galaxy Z Fold6 mit 256 GB Speicher in Silber an.\n\nEs kommt in...",
-      "full_description": "Hallo, hier biete ich mein Samsung Galaxy Z Fold6 mit 256 GB Speicher in Silber an. Es kommt in der Originalverpackung. Die akkukapazität ist bei 97% und das Datum der ersten Verwendung ist 24 April 2025 Die Kamera und die innovative Klappfunktion arbeiten einwandfrei. Die Displays zeigen Gebrauchsspuren, die die Funktionalität jedoch nicht beeinträchtigen. Generell bestehen auf den Fotos zu sehen äußere Gebrauchsspuren. Das Handy wurde selber gebraucht erworben jedoch habe ich mich doch für ein neueres iPhone entschieden. Bei Fragen melden sie sich gerne.",
-      "assessment": {
-        "stars": 1,
-        "label": "Meiden",
-        "price_note": "🔴 Deutlich überteuert (Ref. ~900 €)",
-        "flags": [
-          "ℹ️ Gebrauchsspuren"
-        ],
-        "positives": [
-          "✅ Originalverpackung",
-          "✅ Makellos"
-        ],
-        "summary": "ℹ️ Gebrauchsspuren · 🔴 Deutlich überteuert (Ref. ~900 €)"
-      },
-      "first_seen": "2026-04-16T15:04:13.673496+00:00"
     },
     "b2536d5ff95758e8c199f60a8b1ac7b1": {
       "id": "b2536d5ff95758e8c199f60a8b1ac7b1",
@@ -5728,6 +5732,6 @@
       "first_seen": "2026-04-16T10:48:28.750345+00:00"
     }
   },
-  "last_full_send": "2026-04-17T03:38:18.506439+00:00",
-  "last_run": "2026-04-17T08:50:59.706316+00:00"
+  "last_full_send": "2026-04-17T10:22:03.571233+00:00",
+  "last_run": "2026-04-17T10:22:03.571541+00:00"
 }
