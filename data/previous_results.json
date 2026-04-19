@@ -69,12 +69,12 @@
       "speicher": "512 GB",
       "ort": "46047 Oberhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "44 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 5",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
       "url": "https://www.kleinanzeigen.de/s-anzeige/tausch-samsung-galaxy-z-fold5-512gb/3385756885-273-1287",
-      "description": "Biete mein Samsung Galaxy Z Fold5 (512GB) in sehr gutem Zustand zum Tausch.\nSuche: iPhone 17 Pro...",
+      "description": "Samsung Galaxy Z Fold 5 mit 512 GB in der Farbe Schwarz.\n\nSuche: iPhone 17 Pro Max, Samsung Galaxy...",
       "full_description": "Biete mein Samsung Galaxy Z Fold5 (512GB) in sehr gutem Zustand zum Tausch. Suche: iPhone 17 Pro Max, Samsung Galaxy S25 Ultra oder ähnlich. Zuzahlung je nach Gerät möglich. Nur Abholung.",
       "assessment": {
         "category": "Ankauf",
@@ -2040,6 +2040,37 @@
         "source": "groq"
       },
       "first_seen": "2026-04-17T17:03:31.701569+00:00"
+    },
+    "af214dba1c5520dbf585db28d8a819ec": {
+      "id": "af214dba1c5520dbf585db28d8a819ec",
+      "title": "Samsung Galaxy Z Fold6 512GB",
+      "price": "695 € VB",
+      "speicher": "512 GB",
+      "ort": "45721 Haltern am See\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "83 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold 6",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold6-512gb/3372331781-173-1336",
+      "description": "Verkaufe kaum benutztes Klapphandy Samsung Galaxy Z Fold6 mit 512 GB Speicher. Das Handy wurde im...",
+      "full_description": "Verkaufe kaum benutztes Klapphandy Samsung Galaxy Z Fold6 mit 512 GB Speicher. Das Handy wurde im August 2025 gekauft und wegen Krankheit lange nicht genutzt. Das Gerät hat keine Gebrauchsspuren. Incl. Schutzfolie sowie eine transparente Schutzhülle (beides ebenfalls ohne Gebrauchsspuren). Originalverpackung mit Ladekabel ist dabei.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Kaum benutztes Gerät",
+          "Keine Gebrauchsspuren",
+          "Inklusive Schutzfolie und Schutzhülle",
+          "Originalverpackung"
+        ],
+        "summary": "Kaum benutztes Samsung Galaxy Z Fold6 mit 512 GB Speicher, inkl. Zubehör und Originalverpackung.",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-19T09:57:18.800724+00:00"
     },
     "f2fb2cf7cd0f85e36fe9cdf92419e150": {
       "id": "f2fb2cf7cd0f85e36fe9cdf92419e150",
@@ -5701,5 +5732,5 @@
     }
   },
   "last_full_send": "2026-04-19T06:06:00.877247+00:00",
-  "last_run": "2026-04-19T08:12:55.274496+00:00"
+  "last_run": "2026-04-19T09:57:42.824711+00:00"
 }
