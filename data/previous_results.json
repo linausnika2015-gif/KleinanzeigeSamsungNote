@@ -62,6 +62,38 @@
       },
       "first_seen": "2026-04-16T10:48:12.156457+00:00"
     },
+    "9cf5dbb92dfd574f87f8c35e53d058b2": {
+      "id": "9cf5dbb92dfd574f87f8c35e53d058b2",
+      "title": "Samsung Galaxy Z Fold 7 256gb  Tausch",
+      "price": "VB",
+      "speicher": "256 GB",
+      "ort": "45139 Essen-​Stadtmitte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "51 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-256gb-tausch/3386165872-173-16834",
+      "description": "Samsung Galaxy Z Fold 7 mit 256 GB in der Farbe Blue Shadow\n\nVoll funktionsfähig und in top...",
+      "full_description": "Samsung Galaxy Z Fold 7 mit 256 GB in der Farbe Blue Shadow Voll funktionsfähig und in top Zustand! Nur leichte Gebrauchsspuren vorhanden. Suche: iPhone 17 Pro Max, oder ähnlich. Zuzahlung je nach Gerät möglich. Bilder von Handy folgen noch da ich es selber nutze",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Fotos des Geräts",
+          "Unklarer Zustand"
+        ],
+        "positives": [
+          "Top Zustand",
+          "Leichte Gebrauchsspuren"
+        ],
+        "summary": "Samsung Galaxy Z Fold 7 256gb, Blue Shadow, top Zustand, Tausch gegen iPhone 17 Pro Max",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-19T13:22:08.441803+00:00"
+    },
     "f19d495a5bac5f03e93d5e17b56cc047": {
       "id": "f19d495a5bac5f03e93d5e17b56cc047",
       "title": "Samsung Galaxy Z Fold 7 silver shadow 512 GB neu",
@@ -341,37 +373,6 @@
         "source": "groq"
       },
       "first_seen": "2026-04-18T07:22:48.548643+00:00"
-    },
-    "e315b59cbdc74855989febd530357120": {
-      "id": "e315b59cbdc74855989febd530357120",
-      "title": "Samsung Galaxy Z Fold 7 512 GB- Zustand wie Neu Rechnung&Garantie",
-      "price": "950 €",
-      "speicher": "512 GB",
-      "ort": "41469 Neuss\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "20 km",
-      "zustand": "Neu",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-512-gb-zustand-wie-neu-rechnung-garantie/3384456745-173-2116",
-      "description": "Hallo Kleinanzeiger,\n\nbiete ein Samsung Galaxy Z Fold 7 mit 512GB Speicher in Silber an.\nZustand...",
-      "full_description": "Hallo Kleinanzeiger, biete ein Samsung Galaxy Z Fold 7 mit 512GB Speicher in Silber an. Zustand ist wie neu. Lieferumfang: - Galaxy Z Fold 7 mit 512GB und Garantie - OVP - Rechnung - Zubehör ohne Netzteil",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Überteuertes Preisniveau"
-        ],
-        "positives": [
-          "Zustand wie neu",
-          "Lieferumfang enthält Rechnung und Garantie"
-        ],
-        "summary": "Neuer Z Fold 7 mit 512 GB für 950 €",
-        "source": "groq"
-      },
-      "first_seen": "2026-04-17T17:03:26.741462+00:00"
     },
     "ca201e249df69b1930be59561982d014": {
       "id": "ca201e249df69b1930be59561982d014",
@@ -5734,6 +5735,6 @@
       "first_seen": "2026-04-16T10:48:28.750345+00:00"
     }
   },
-  "last_full_send": "2026-04-19T06:06:00.877247+00:00",
-  "last_run": "2026-04-19T11:47:25.849392+00:00"
+  "last_full_send": "2026-04-19T13:22:37.829464+00:00",
+  "last_run": "2026-04-19T13:22:37.829681+00:00"
 }
