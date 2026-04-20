@@ -316,7 +316,7 @@
     "9c9a8446f19cd1a8d83e90e9051b78bb": {
       "id": "9c9a8446f19cd1a8d83e90e9051b78bb",
       "title": "Samsung Galaxy Z Fold 4 | 1 TB | White | Rechnung & Garantie",
-      "price": "500 € VB600 €",
+      "price": "400 € VB600 €",
       "speicher": "1 TB",
       "ort": "46049 Oberhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "41 km",
@@ -1449,7 +1449,7 @@
     "57ecfe00ddd96402c5b8a772f882c12f": {
       "id": "57ecfe00ddd96402c5b8a772f882c12f",
       "title": "Samsung Galaxy Fold 5, 256 GB, Icy Blue inkl. OVP",
-      "price": "450 € VB",
+      "price": "440 € VB450 €",
       "speicher": "256 GB",
       "ort": "45699 Herten\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "66 km",
@@ -1461,21 +1461,15 @@
       "description": "Hallo und NEIN, ich möchte nicht tauschen!\n\nverkaufe hier mein Samsung Galaxy Fold 5 mit 256 GB im...",
       "full_description": "Hallo und NEIN, ich möchte nicht tauschen! verkaufe hier mein Samsung Galaxy Fold 5 mit 256 GB im fast Neu Zustand, mit OVP, das Handy wurde immer mit einer Schutzhülle verwendet, welche auch regelmäßig sauber gemacht wurde. Verkauft wird das Handy wegen Neuanschaffung. Das Handy ist nun 2 Jahre alt und wurde stets pfleglich behandelt und ist in der Zeit nicht heruntergefallen! Der Akku wurde immer nur im Bereich 20-80 Prozent genutzt, ich bin damit gut über 1 bis 1,5 Tage gekommen ohne es aufladen zu müssen. Die Innenfolie wurde vor kurzen durch den Vodafone Shop erneuert und ist dementsprechend Perfekt aufgebracht. Das Scharnier knarzt nicht und geht entsprechend leichtgängig. Ich verkaufe das Handy nicht aus der Not heraus und werde auch nicht auf unverschämte Preisvorstellungen antworten. Der Preis ist verhandelbar aber Bitte im Rahmen bleiben, der Verkauf findet ausschließlich vor Ort statt und wird persönlich übergeben und getestet! Bei Unklarheiten auf den Bildern, mache ich gerne weitere. !!!!! NUR ABHOLUNG UND BARZAHLUNG !!!!! Wichtig! Wegen der neuen Gesetzesbestimmungen erfolgt der Verkauf unter Ausschluss jeglicher Gewährleistung, Garantie und Rücknahme. Da es sich um einen Privatverkauf handelt kann ich keine Garantie nach neuem EU-Recht übernehmen. Der Käufer erklärt sich damit Einverstanden",
       "assessment": {
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~650 €)",
         "flags": [],
         "positives": [
-          "Fast neuwertiger Zustand",
-          "256 GB Speicher",
-          "OVP",
-          "Regelmäßige Pflege",
-          "Akku-Nutzung im Bereich 20-80%",
-          "Innenfolie erneuert",
-          "Scharnier leichtgängig"
+          "✅ Originalverpackung",
+          "✅ Garantie vorhanden"
         ],
-        "summary": "Fast neuwertiger Samsung Galaxy Fold 5 mit 256 GB, OVP und regelmäßiger Pflege",
-        "source": "groq"
+        "summary": "✅ Originalverpackung · 🔴 Deutlich überteuert (Ref. ~650 €)"
       },
       "first_seen": "2026-04-16T10:48:14.515838+00:00"
     },
@@ -1725,38 +1719,6 @@
         "source": "groq"
       },
       "first_seen": "2026-04-17T17:03:31.697636+00:00"
-    },
-    "fc3df9e7a5e149442d603d31a79cb3ef": {
-      "id": "fc3df9e7a5e149442d603d31a79cb3ef",
-      "title": "Samsung Galaxy Z Fold 3 5 G",
-      "price": "349 €",
-      "speicher": "5 GB",
-      "ort": "58456 Witten\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "63 km",
-      "zustand": "Gebraucht",
-      "model": "Z Fold 3",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-3-5-g/3374244383-173-1019",
-      "description": "Biete ein schwatzes Samsung Galaxy Z Fold 3, 5 GB in einem guten gebrauchten Zustand an.\n\nDisplay...",
-      "full_description": "Biete ein schwatzes Samsung Galaxy Z Fold 3, 5 GB in einem guten gebrauchten Zustand an. Display ohne Beschädigung. Folie / Displayschutz könnte erneuert werden. Nur als Zweithandy genutzt.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Folie/Displayschutz könnte erneuert werden",
-          "Nur 5 GB Speicher"
-        ],
-        "positives": [
-          "Guter gebrauchter Zustand",
-          "Display ohne Beschädigung"
-        ],
-        "summary": "Gebrauchter Z Fold 3 mit 5 GB Speicher, guter Zustand, günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-04-17T17:03:31.697986+00:00"
     },
     "599ab67b54a9aa1681ab84ee30d73894": {
       "id": "599ab67b54a9aa1681ab84ee30d73894",
@@ -4761,7 +4723,7 @@
       "speicher": "256 GB",
       "ort": "59192 Bergkamen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "94 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 3",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -4794,7 +4756,7 @@
       "speicher": "256 GB",
       "ort": "52080 Aachen-​Haaren\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "49 km",
-      "zustand": "Gebraucht",
+      "zustand": "k.A.",
       "model": "Z Fold 4",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -4827,7 +4789,7 @@
       "speicher": "k.A.",
       "ort": "50354 Hürth\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "47 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -5363,7 +5325,7 @@
       "speicher": "k.A.",
       "ort": "57578 Elkenroth\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
       "entfernung": "100 km",
-      "zustand": "Wie neu",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -5769,5 +5731,5 @@
     }
   },
   "last_full_send": "2026-04-20T03:47:56.473112+00:00",
-  "last_run": "2026-04-20T06:27:32.687832+00:00"
+  "last_run": "2026-04-20T09:15:58.525524+00:00"
 }
