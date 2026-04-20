@@ -62,6 +62,67 @@
       },
       "first_seen": "2026-04-16T10:48:12.156457+00:00"
     },
+    "5d7ba2d95304d5dd0ca2196f4f37ec14": {
+      "id": "5d7ba2d95304d5dd0ca2196f4f37ec14",
+      "title": "2",
+      "price": "399 € VB",
+      "speicher": "k.A.",
+      "ort": "50374 Erftstadt\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "50 km",
+      "zustand": "Neu",
+      "model": "Other",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-3-256gb/3387226560-173-1162",
+      "description": "Das Gerät ist neu und unbenutzt.",
+      "full_description": "Das Gerät ist neu und unbenutzt.",
+      "assessment": {
+        "category": "Sonstiges",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Sehr günstig",
+        "flags": [],
+        "positives": [
+          "Neu und unbenutzt",
+          "Sehr günstiger Preis"
+        ],
+        "summary": "Neu und unbenutztes Samsung Galaxy Fold für 399€",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-20T11:38:16.115524+00:00"
+    },
+    "5264c1be675f31187bb6d4a08c3a8fda": {
+      "id": "5264c1be675f31187bb6d4a08c3a8fda",
+      "title": "Samsung Galaxy Fold 4",
+      "price": "420 € VB",
+      "speicher": "512 GB",
+      "ort": "47229 Rheinhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "28 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 4",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-4/3387156786-173-2134",
+      "description": "Biete hier ein Samsung Galaxy Fold 4 in Graygreen mit 512 GB ROM und 12 GB RAM an .\nDas Handy war...",
+      "full_description": "Biete hier ein Samsung Galaxy Fold 4 in Graygreen mit 512 GB ROM und 12 GB RAM an . Das Handy war bis vor kurzem noch in Benutzung und hat ohne Probleme funktioniert. Beide Displays funktionieren . Im Lieferumfang ist nur das Gerät ohne Kabel. Privatverkauf , keine Gewährleistung etc",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 3,
+        "label": "Neutral",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Gewährleistung",
+          "Kein Lieferumfang"
+        ],
+        "positives": [
+          "Bis vor kurzem in Benutzung",
+          "Beide Displays funktionieren"
+        ],
+        "summary": "Samsung Galaxy Fold 4, 512 GB, 12 GB RAM, privatverkauft, ohne Kabel",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-20T11:38:16.115844+00:00"
+    },
     "eb8f7ebe2913f2599dddd34918253af9": {
       "id": "eb8f7ebe2913f2599dddd34918253af9",
       "title": "Suche Samsung Galaxy S23 S24 S25 S26 ultra,plus,Z Fold 6,7 Z Flip",
@@ -225,7 +286,7 @@
     "f19d495a5bac5f03e93d5e17b56cc047": {
       "id": "f19d495a5bac5f03e93d5e17b56cc047",
       "title": "Samsung Galaxy Z Fold 7 silver shadow 512 GB neu",
-      "price": "1.250 €",
+      "price": "1.250 € VB",
       "speicher": "512 GB",
       "ort": "52223 Stolberg (Rhld)\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "52 km",
@@ -237,21 +298,16 @@
       "description": "Ich verkaufe hiermit mein neues Fold 7 mit 512 GB in silver shadow.\n\nDas Handy wurde im Dezember...",
       "full_description": "Ich verkaufe hiermit mein neues Fold 7 mit 512 GB in silver shadow. Das Handy wurde im Dezember 2025 bei Samsung gekauft, Rechnung und OVP vorhanden. Aufgrund des Premium Services wurde das Handy gerade komplett erneuert und ist somit neu :-) Bevorzugt wird eine persönliche Abholung. Versand nur bei vorheriger Überweisung und Übernahme des höherversicherten Versandes durch den Käufer.",
       "assessment": {
-        "category": "Gerät",
         "stars": 5,
         "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Vorherige Überweisung erforderlich",
-          "Höheres Risiko bei Versand"
-        ],
+        "price_note": "🟢 Sehr günstig (Ref. ~1400 €)",
+        "flags": [],
         "positives": [
-          "Neu",
-          "Rechnung und OVP vorhanden",
-          "Premium Service"
+          "✅ Originalverpackung",
+          "✅ Rechnung/Beleg vorhanden",
+          "✅ Zubehör dabei"
         ],
-        "summary": "Neues Fold 7 mit 512 GB in silver shadow, komplett erneuert und neu",
-        "source": "groq"
+        "summary": "✅ Originalverpackung · 🟢 Sehr günstig (Ref. ~1400 €)"
       },
       "first_seen": "2026-04-19T10:54:17.580146+00:00"
     },
@@ -5730,6 +5786,6 @@
       "first_seen": "2026-04-16T10:48:28.750345+00:00"
     }
   },
-  "last_full_send": "2026-04-20T03:47:56.473112+00:00",
-  "last_run": "2026-04-20T09:15:58.525524+00:00"
+  "last_full_send": "2026-04-20T11:38:47.916677+00:00",
+  "last_run": "2026-04-20T11:38:47.916989+00:00"
 }
