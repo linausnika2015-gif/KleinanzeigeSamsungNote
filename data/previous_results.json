@@ -62,6 +62,69 @@
       },
       "first_seen": "2026-04-16T10:48:12.156457+00:00"
     },
+    "405973fce768c4e393451476741e1821": {
+      "id": "405973fce768c4e393451476741e1821",
+      "title": "3",
+      "price": "40 € VB",
+      "speicher": "k.A.",
+      "ort": "56564 Neuwied\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
+      "entfernung": "100 km",
+      "zustand": "Neu",
+      "model": "Other",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-7-case-huelle-slim-case-original/3388360626-173-5412",
+      "description": "Zu Verkaufen. NEU",
+      "full_description": "Zu Verkaufen. NEU",
+      "assessment": {
+        "category": "Sonstiges",
+        "stars": 1,
+        "label": "Meiden",
+        "price_note": "Überteuert",
+        "flags": [
+          "Falsche Kategorie",
+          "Preis ist zu hoch",
+          "Keine Spezifikationen"
+        ],
+        "positives": [],
+        "summary": "Falsche Kategorie, zu hoher Preis, keine Details",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-21T14:52:20.230282+00:00"
+    },
+    "556126c9f4e0ff8d37243e904aec8023": {
+      "id": "556126c9f4e0ff8d37243e904aec8023",
+      "title": "Samsung Galaxy Z Fold 7 512 GB Silver Shadow",
+      "price": "1.150 € VB",
+      "speicher": "512 GB",
+      "ort": "42553 Velbert\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "46 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-512-gb-silver-shadow/3388206665-173-1747",
+      "description": "Ich biete hier mein Samsung Galaxy Z Fold7 in SilverShadow an. Ich hatte das Gerät aus einer...",
+      "full_description": "Ich biete hier mein Samsung Galaxy Z Fold7 in SilverShadow an. Ich hatte das Gerät aus einer Vertragsverlängerung erhalten und ca. ein halbes Jahr lang genutzt. Es befindet sich in einem ausgezeichneten Zustand. Originales Ladekabel, OVP ist dabei. Gerne Abholung (eigentlich bevorzugt), kann es aber auch versenden. Weitere Bilder folgen noch. Da es ein Privatverkauf ist, keine Gewährleistung oder Garantie.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Garantie",
+          "Privatverkauf"
+        ],
+        "positives": [
+          "Ausgezeichneter Zustand",
+          "Originales Ladekabel",
+          "OVP dabei"
+        ],
+        "summary": "Samsung Galaxy Z Fold 7 in Silver Shadow, ausgezeichneter Zustand, 512 GB, 1.150 €",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-21T14:52:20.230646+00:00"
+    },
     "cab3181696c9e24ee8216a826eb476b5": {
       "id": "cab3181696c9e24ee8216a826eb476b5",
       "title": "Samsung Galaxy Z Fold 7 512gb Jetblack neu versiegelt",
@@ -2459,37 +2522,6 @@
       },
       "first_seen": "2026-04-21T10:40:03.374250+00:00"
     },
-    "6a936f3c2cb8d3b60bb8d49d081a1316": {
-      "id": "6a936f3c2cb8d3b60bb8d49d081a1316",
-      "title": "Galaxy Z Fold 5 512GB",
-      "price": "400 €490 €",
-      "speicher": "512 GB",
-      "ort": "53757 Sankt Augustin\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "72 km",
-      "zustand": "Gebraucht",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/galaxy-z-fold-5-512gb/3369677372-173-1861",
-      "description": "Ich verkaufe mein Smartphone wie o.g.\nWenig gebraucht, Kaufdatum 02.10.23 zum Preis von 2019,00 €.",
-      "full_description": "Ich verkaufe mein Smartphone wie o.g. Wenig gebraucht, Kaufdatum 02.10.23 zum Preis von 2019,00 €.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Kaufdatum 2023, aber angegebenes Preisdatum 2019"
-        ],
-        "positives": [
-          "Wenig gebraucht",
-          "512 GB Speicher"
-        ],
-        "summary": "Gebrauchter Galaxy Z Fold 5 512GB zum günstigen Preis",
-        "source": "groq"
-      },
-      "first_seen": "2026-04-21T06:10:24.612550+00:00"
-    },
     "90d37efba5e5bad9f7000adaf63ca598": {
       "id": "90d37efba5e5bad9f7000adaf63ca598",
       "title": "Samsung Galaxy Z Fold4 256GB graygreen OVP",
@@ -4725,36 +4757,6 @@
       },
       "first_seen": "2026-04-17T18:01:02.922037+00:00"
     },
-    "8607074d1af376cf8192142cf6ccfad2": {
-      "id": "8607074d1af376cf8192142cf6ccfad2",
-      "title": "Samsung Galaxy Z Fold6 Clear Case Original Verpackung",
-      "price": "20 €",
-      "speicher": "k.A.",
-      "ort": "46535 Dinslaken\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "45 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 6",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold6-clear-case-original-verpackung/3331439693-173-1853",
-      "description": "Verkaufe eine originale Samsung Clear Case für das Galaxy Z Fold6. Die Hülle ist noch unbenutzt und...",
-      "full_description": "Verkaufe eine originale Samsung Clear Case für das Galaxy Z Fold6. Die Hülle ist noch unbenutzt und befindet sich in der original Samsung Verpackung. • Transparente Schutzhülle für Galaxy Z Fold6 • Original Samsung Zubehör • Optimaler Schutz bei klarer Sicht aufs Design • Präzise Aussparungen für alle Anschlüsse • Unbenutzt in Originalverpackung Die Case bietet zuverlässigen Schutz für dein Fold6, ohne das elegante Design zu verdecken. Perfekt passgenau und von Samsung entwickelt. Bei Fragen melde dich gerne.",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Original Samsung Zubehör",
-          "Unbenutzt in Originalverpackung",
-          "Optimaler Schutz bei klarer Sicht aufs Design"
-        ],
-        "summary": "Original Samsung Clear Case für Galaxy Z Fold6, unbenutzt in Originalverpackung",
-        "source": "groq"
-      },
-      "first_seen": "2026-04-17T18:01:02.922366+00:00"
-    },
     "d73322871c72c930faf88ba857b08e6e": {
       "id": "d73322871c72c930faf88ba857b08e6e",
       "title": "Samsung Galaxy Z Fold7 SM-F966BZSCEUB 512GB Silver Shadow+Zubehör",
@@ -4858,7 +4860,7 @@
       "speicher": "256 GB",
       "ort": "59192 Bergkamen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "94 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 3",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -4891,7 +4893,7 @@
       "speicher": "256 GB",
       "ort": "52080 Aachen-​Haaren\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "49 km",
-      "zustand": "Gebraucht",
+      "zustand": "k.A.",
       "model": "Z Fold 4",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -4925,7 +4927,7 @@
       "speicher": "k.A.",
       "ort": "50354 Hürth\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "47 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -5462,7 +5464,7 @@
       "speicher": "k.A.",
       "ort": "57578 Elkenroth\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
       "entfernung": "100 km",
-      "zustand": "Wie neu",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -5874,5 +5876,5 @@
     }
   },
   "last_full_send": "2026-04-21T10:42:59.733377+00:00",
-  "last_run": "2026-04-21T12:10:22.297463+00:00"
+  "last_run": "2026-04-21T14:52:51.974766+00:00"
 }
