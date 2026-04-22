@@ -62,6 +62,39 @@
       },
       "first_seen": "2026-04-16T10:48:12.156457+00:00"
     },
+    "a7c025cb2d38ae32e7fcc39b61e532ee": {
+      "id": "a7c025cb2d38ae32e7fcc39b61e532ee",
+      "title": "Samsung Galaxy Fold 5 512Gb (Garantie 36Monate)",
+      "price": "360 € VB",
+      "speicher": "512 GB",
+      "ort": "53757 Sankt Augustin\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "72 km",
+      "zustand": "Gebraucht",
+      "model": "Z Fold 5",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-5-512gb-garantie-36monate-/3388762231-173-1861",
+      "description": "Verkaufe hier mein Galaxy Fold 5 in der 512 GB Version Farbe Schwarz\n\nMit sichtbaren...",
+      "full_description": "Verkaufe hier mein Galaxy Fold 5 in der 512 GB Version Farbe Schwarz Mit sichtbaren gebrauchsspuren aber voll funktionsfähig und keine defekte die sichtbaren Spuren sind man am Rahmen des Smartphones Eine Rechnung wäre ebenfalls vorhanden von Amazon über 2019€ Es ist auch auf der Rechnung Inkl 36 Monate Hersteller Garantie (siehe letztes Bild) Gekauft am 01 Oktober 2023",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "sichtbare Gebrauchsspuren",
+          "Rahmen des Smartphones"
+        ],
+        "positives": [
+          "512 GB Speicher",
+          "36 Monate Hersteller Garantie",
+          "Rechnung von Amazon"
+        ],
+        "summary": "Gebrauchter Galaxy Fold 5 in 512 GB mit 36 Monate Garantie für 360 €",
+        "source": "groq"
+      },
+      "first_seen": "2026-04-22T08:54:19.506963+00:00"
+    },
     "c3cd37f77907b30ebfc2c1c8f9f543a1": {
       "id": "c3cd37f77907b30ebfc2c1c8f9f543a1",
       "title": "Samsung Galaxy Z Fold 4 (Defekt / für Bastler)",
@@ -95,71 +128,6 @@
         "source": "groq"
       },
       "first_seen": "2026-04-22T06:07:41.562950+00:00"
-    },
-    "9d26d02ffde7309d0e7f3100d324d4fe": {
-      "id": "9d26d02ffde7309d0e7f3100d324d4fe",
-      "title": "Samsung Galaxy Z Fold 4 256GB Watch 5 Pro",
-      "price": "425 € VB",
-      "speicher": "256 GB",
-      "ort": "50667 Köln Altstadt\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "46 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 4",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-4-256gb-watch-5-pro/3388697037-173-983",
-      "description": "Ich biete mein Samsung Galaxy Z Fold 4 und meine Samsung Watch 5 Pro an. Beide Geräte funktionieren...",
-      "full_description": "Ich biete mein Samsung Galaxy Z Fold 4 und meine Samsung Watch 5 Pro an. Beide Geräte funktionieren einwandfrei und befinden sich in einem guten Zustand. * Samsung Galaxy Z Fold 4 (Modell: SM-F936B) * Samsung Watch 5 Pro mit weißem Armband * Inklusive Schutzhülle für das Handy * Ladekabel für die Samsung Watch ist dabei Das Handy hat minimale Kratzer, ist aber ansonsten tadellos. Die Originalverpackungen sind leider nicht mehr vorhanden. Bei Fragen melde dich gerne. Bei Fragen kannst du dich gerne bei mir melden. Ich freue mich darauf, das Telefon an einen neuen Besitzer zu übergeben. anschreiben oder per WhatsApp oder auch anrufen +49 0 152 10359435**** Ohne Garantie ohne Rücknahme oder jegliche Gewährleistung",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Garantie",
-          "Keine Rücknahme"
-        ],
-        "positives": [
-          "Geräte funktionieren einwandfrei",
-          "Inklusive Schutzhülle und Ladekabel"
-        ],
-        "summary": "Samsung Galaxy Z Fold 4 und Watch 5 Pro in gutem Zustand zum günstigen Preis",
-        "source": "groq"
-      },
-      "first_seen": "2026-04-21T21:55:07.402286+00:00"
-    },
-    "0d26aaa2b07b2177ca5a9e66d5ab281d": {
-      "id": "0d26aaa2b07b2177ca5a9e66d5ab281d",
-      "title": "Samsung Galaxy Z Fold 4 256GB Watch 5 Pro",
-      "price": "425 € VB",
-      "speicher": "256 GB",
-      "ort": "45886 Gelsenkirchen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "58 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 4",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-4-256gb-watch-5-pro/3388696253-173-1010",
-      "description": "Ich biete mein Samsung Galaxy Z Fold 4 und meine Samsung Watch 5 Pro an. Beide Geräte funktionieren...",
-      "full_description": "Ich biete mein Samsung Galaxy Z Fold 4 und meine Samsung Watch 5 Pro an. Beide Geräte funktionieren einwandfrei und befinden sich in einem guten Zustand. * Samsung Galaxy Z Fold 4 (Modell: SM-F936B) * Samsung Watch 5 Pro mit weißem Armband * Inklusive Schutzhülle für das Handy * Ladekabel für die Samsung Watch ist dabei Das Handy hat minimale Kratzer, ist aber ansonsten tadellos. Die Originalverpackungen sind leider nicht mehr vorhanden. Bei Fragen melde dich gerne. Bei Fragen kannst du dich gerne bei mir melden. Ich freue mich darauf, das Telefon an einen neuen Besitzer zu übergeben. anschreiben oder per WhatsApp oder auch anrufen +49 0 152 10359435**** Ohne Garantie ohne Rücknahme oder jegliche Gewährleistung",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Garantie",
-          "Keine Rücknahme",
-          "Keine Gewährleistung"
-        ],
-        "positives": [
-          "Geräte funktionieren einwandfrei",
-          "Inklusive Schutzhülle und Ladekabel"
-        ],
-        "summary": "Samsung Galaxy Z Fold 4 und Watch 5 Pro in gutem Zustand, günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-04-21T21:55:07.402935+00:00"
     },
     "fdefbfdc071693d18868ab796e95f0b6": {
       "id": "fdefbfdc071693d18868ab796e95f0b6",
@@ -1298,37 +1266,6 @@
       },
       "first_seen": "2026-04-21T20:10:45.196639+00:00"
     },
-    "0bf6d0cae2f7ea63b39983ba77670eef": {
-      "id": "0bf6d0cae2f7ea63b39983ba77670eef",
-      "title": "Samsung Galaxy Z Fold 4 Black 256GB",
-      "price": "250 €",
-      "speicher": "256 GB",
-      "ort": "41515 Grevenbroich\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "17 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 4",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-4-black-256gb/3380734260-173-1824",
-      "description": "Gerät ist Technisch einwandfrei. Optisch hat es Gebrauchspuren und Kratzer siehe Fotos.",
-      "full_description": "Gerät ist Technisch einwandfrei. Optisch hat es Gebrauchspuren und Kratzer siehe Fotos.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Optisch Gebrauchsspuren und Kratzer"
-        ],
-        "positives": [
-          "Technisch einwandfrei",
-          "Fotos zur Verfügung"
-        ],
-        "summary": "Gebrauchter Z Fold 4 in gutem Zustand für 250 €",
-        "source": "groq"
-      },
-      "first_seen": "2026-04-21T20:10:45.196975+00:00"
-    },
     "73aaaf0536cd47a90ecda5db1d8365ad": {
       "id": "73aaaf0536cd47a90ecda5db1d8365ad",
       "title": "Samsung Galaxy Z Fold6 Navy 256 GB",
@@ -1426,7 +1363,7 @@
     "3fb9757ec47d736488c34ad66e76e5ef": {
       "id": "3fb9757ec47d736488c34ad66e76e5ef",
       "title": "Samsung Galaxy Z Fold7 256GB – Wie Neu – Garantie – TOP Zustand ⭐",
-      "price": "1.200 € VB1.349 €",
+      "price": "1.100 € VB1.349 €",
       "speicher": "256 GB",
       "ort": "46242 Bottrop\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "49 km",
@@ -1438,19 +1375,22 @@
       "description": "Zum Verkauf steht ein Samsung Galaxy Z Fold7 mit 256GB Speicher in absolut neuwertigem Zustand.\nDas...",
       "full_description": "Zum Verkauf steht ein Samsung Galaxy Z Fold7 mit 256GB Speicher in absolut neuwertigem Zustand. Das Gerät ist nur ca. 1 Monat alt und wurde kaum genutzt. Keine Kratzer, keine Gebrauchsspuren – technisch und optisch wie neu. ✅ Ohne Vertrag / frei für alle Netze ✅ Rechnung vorhanden (Garantie läuft) ✅ Innen- und Außendisplay ohne Schäden ✅ Scharnier funktioniert perfekt ✅ Kein Sturz, kein Wasserschaden ✅ Sofort einsatzbereit Lieferumfang: Samsung Galaxy Z Fold7 256GB Originalverpackung Original Ladekabel Rechnung Besichtigung und Test vor Ort ausdrücklich erwünscht. ❗ Kein Notverkauf – bitte nur seriöse Anfragen. ❗ Solange die Anzeige online ist, ist das Gerät verfügbar. Preis: 1200€ VB Tel. 01523 7720550",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Neuwertiger Zustand",
-          "Keine Gebrauchsspuren",
-          "Rechnung und Garantie vorhanden",
-          "Lieferumfang inkl. Originalverpackung und Ladekabel"
+        "stars": 1,
+        "label": "Meiden",
+        "price_note": "ℹ️ Preis nicht angegeben",
+        "flags": [
+          "⚠️ Displayschaden",
+          "⚠️ Wasserschaden",
+          "ℹ️ Kratzer vorhanden",
+          "ℹ️ Gebrauchsspuren"
         ],
-        "summary": "Samsung Galaxy Z Fold7 256GB in neuwertigem Zustand für 1.200€",
-        "source": "groq"
+        "positives": [
+          "✅ Originalverpackung",
+          "✅ Garantie vorhanden",
+          "✅ Rechnung/Beleg vorhanden",
+          "✅ Makellos"
+        ],
+        "summary": "⚠️ Displayschaden · ℹ️ Preis nicht angegeben"
       },
       "first_seen": "2026-04-21T20:10:45.198417+00:00"
     },
@@ -2309,7 +2249,7 @@
       "speicher": "512 GB",
       "ort": "45721 Haltern am See\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "83 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -5809,5 +5749,5 @@
     }
   },
   "last_full_send": "2026-04-22T03:36:28.817860+00:00",
-  "last_run": "2026-04-22T06:08:11.597120+00:00"
+  "last_run": "2026-04-22T08:54:46.885783+00:00"
 }
