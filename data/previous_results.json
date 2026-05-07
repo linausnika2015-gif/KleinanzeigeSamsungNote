@@ -183,6 +183,38 @@
       },
       "first_seen": "2026-05-06T18:50:24.280342+00:00"
     },
+    "b1f7df38266110723cbf1587ebd5d482": {
+      "id": "b1f7df38266110723cbf1587ebd5d482",
+      "title": "iPhone 13 Pro 512 GB (Tausch gegen Samsung Galaxy Z Fold möglich)",
+      "price": "380 €",
+      "speicher": "512 GB",
+      "ort": "58089 Hagen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "72 km",
+      "zustand": "k.A.",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-13-pro-512-gb-tausch-gegen-samsung-galaxy-z-fold-moeglich-/3401484476-173-2010",
+      "description": "Bilder folgen….\n\n512 GB\nGold\nOVP ist mit dabei\n\n\nWürde auch gegen ein Samsung Galaxy Z Fold 6-7...",
+      "full_description": "Bilder folgen…. 512 GB Gold OVP ist mit dabei Würde auch gegen ein Samsung Galaxy Z Fold 6-7 tauschen Zustand muss nicht perfekt sein!",
+      "assessment": {
+        "category": "Ankauf",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "Überteuert",
+        "flags": [
+          "Tausch gegen Samsung Galaxy Z Fold",
+          "Zustand nicht bekannt"
+        ],
+        "positives": [
+          "512 GB Speicher",
+          "Gold Farbe"
+        ],
+        "summary": "iPhone 13 Pro 512 GB zum Tausch gegen Samsung Galaxy Z Fold",
+        "source": "groq"
+      },
+      "first_seen": "2026-05-07T11:59:00.288217+00:00"
+    },
     "9f3dfcc15b2dcf943871bde8239b3176": {
       "id": "9f3dfcc15b2dcf943871bde8239b3176",
       "title": "Samsung Galaxy Z Fold4 256GB - Guter Zustand",
@@ -3978,40 +4010,36 @@
       },
       "first_seen": "2026-05-06T16:50:52.286327+00:00"
     },
-    "f5008466cd72200228cfb49fde5467dd": {
-      "id": "f5008466cd72200228cfb49fde5467dd",
-      "title": "Galaxy Z Fold 5 1 TB mit OVP",
-      "price": "590 €",
-      "speicher": "1 TB",
-      "ort": "50226 Frechen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "40 km",
-      "zustand": "Gebraucht",
-      "model": "Z Fold 5",
+    "a79b7d8c147f5edf241e1c0fec0ab1e0": {
+      "id": "a79b7d8c147f5edf241e1c0fec0ab1e0",
+      "title": "2",
+      "price": "2 €",
+      "speicher": "k.A.",
+      "ort": "51105 Kalk\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "49 km",
+      "zustand": "k.A.",
+      "model": "Other",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/galaxy-z-fold-5-1-tb-mit-ovp/3350589045-173-1160",
-      "description": "Verkaufe hier ein gebrauchtes Galaxy Z Fold 5 1 TB mit OVP (von August 2023). Modell...",
-      "full_description": "Verkaufe hier ein gebrauchtes Galaxy Z Fold 5 1 TB mit OVP (von August 2023). Modell SM-F946B/DS. Zustand sehr gut. Zubehör s. Fotos (eine Slim S Pen Case mit Stift und eine Front Protection Film Folie). Abholung oder Versand mit Gebühren. Da es sich hierbei um einen Privatverkauf handelt, besteht keine Garantie, keine Rücknahme und kein Umtausch. Der Verkauf erfolgt unter Ausschluss jeglicher Sachmängelhaftung. Die Haftung auf Schadenersatz wegen Verletzungen von Gesundheit, Körper oder Leben und grob fahrlässiger und/oder vorsätzlicher Verletzungen meiner Pflichten  als Verkäufer bleibt davon unberührt.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-3-abdeckung-sub-board/3338114643-173-967",
+      "description": "Samsung Galaxy Z Fold 3 Abdeckung Sub Board.",
+      "full_description": "Samsung Galaxy Z Fold 3 Abdeckung Sub Board.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
+        "category": "Zubehör",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "Überteuert",
         "flags": [
-          "Keine Garantie",
-          "Keine Rücknahme",
-          "Kein Umtausch"
+          "Unklarer Zustand",
+          "Unbekannter Speicher"
         ],
         "positives": [
-          "Sehr guter Zustand",
-          "1 TB Speicher",
-          "OVP",
-          "Zubehör (Slim S Pen Case und Front Protection Film Folie)"
+          "Samsung-Produkt"
         ],
-        "summary": "Gebrauchtes Galaxy Z Fold 5 1 TB mit OVP und Zubehör für 590 €",
+        "summary": "Unklare Abdeckung für Samsung Galaxy Z Fold 3",
         "source": "groq"
       },
-      "first_seen": "2026-05-06T16:50:52.286637+00:00"
+      "first_seen": "2026-05-07T11:59:14.732736+00:00"
     },
     "997870e1c42723919ffc74991e1564e6": {
       "id": "997870e1c42723919ffc74991e1564e6",
@@ -4051,7 +4079,7 @@
       "speicher": "k.A.",
       "ort": "53879 Euskirchen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "65 km",
-      "zustand": "Gebraucht",
+      "zustand": "k.A.",
       "model": "Z Fold 4",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -4149,7 +4177,7 @@
       "speicher": "256 GB",
       "ort": "59192 Bergkamen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "94 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 3",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -4182,7 +4210,7 @@
       "speicher": "256 GB",
       "ort": "52080 Aachen-​Haaren\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "49 km",
-      "zustand": "Gebraucht",
+      "zustand": "k.A.",
       "model": "Z Fold 4",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -4215,7 +4243,7 @@
       "speicher": "k.A.",
       "ort": "50354 Hürth\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "47 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -4660,7 +4688,7 @@
       "speicher": "k.A.",
       "ort": "57578 Elkenroth\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
       "entfernung": "100 km",
-      "zustand": "Wie neu",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -4782,292 +4810,8 @@
         "source": "groq"
       },
       "first_seen": "2026-05-07T09:43:25.891302+00:00"
-    },
-    "56bbbdd9c506fa03c155df08b5137273": {
-      "id": "56bbbdd9c506fa03c155df08b5137273",
-      "title": "Samsung Galaxy Z Fold 3 gebraucht/defekt",
-      "price": "125 € VB",
-      "speicher": "k.A.",
-      "ort": "47137 Meiderich/​Beeck\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "38 km",
-      "zustand": "Gebraucht",
-      "model": "Z Fold 3",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-3-gebraucht-defekt/3143791504-173-2155",
-      "description": "Das äußere Display funktioniert, das innere, große ist defekt\n\nIch schließe jegliche...",
-      "full_description": "Das äußere Display funktioniert, das innere, große ist defekt Ich schließe jegliche Sachmangelhaftung aus.Die Haftung auf Schadenersatz wegen Verletzungen von Gesundheit, Körper oder Leben und grob fahrlässiger und/oder vorsätzlicher Verletzungen meiner Pflichten als Verkäufer bleiben uneingeschränkt",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 2,
-        "label": "Vorsicht",
-        "price_note": "Günstig",
-        "flags": [
-          "Defekte innere Display",
-          "Keine Angabe zum Speicher"
-        ],
-        "positives": [
-          "Äußeres Display funktioniert"
-        ],
-        "summary": "Gebrauchtes Z Fold 3 mit defektem inneren Display, günstig, aber Vorsicht erforderlich",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-07T09:43:25.891606+00:00"
-    },
-    "a83479b1898b760f099bf44a7bba6b47": {
-      "id": "a83479b1898b760f099bf44a7bba6b47",
-      "title": "Samsung Galaxy Fold 4 Original Cover mit Pen",
-      "price": "40 €50 €",
-      "speicher": "k.A.",
-      "ort": "50259 Pulheim\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "33 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 4",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-4-original-cover-mit-pen/3134259044-173-1889",
-      "description": "Hi,\n\nIch verkaufe hier von meinem alten Handy Samsung Fold 4 das Cover. Ihr bekommt hier quasi 1...",
-      "full_description": "Hi, Ich verkaufe hier von meinem alten Handy Samsung Fold 4 das Cover. Ihr bekommt hier quasi 1 2/3 Cover. Mir ist mal vom vorderen Display das Cover gebrochen und ich musste mir das Cover Set noch einmal kaufen. Also bekommt ihr hier 2 x Cover für die Rückseite 1 x Cover für das vordere Display 2 x S Pen 1 x Ersatzspitzen Sollte ich noch den anderen Karton finden, in dem auch noch Ersatzspitzen enthalten sind, packe ich sie dazu. Da Privatverkauf keine Garantie, Rücknahme oder Gewährleistung. Artikel wird verkauft wie auf den Bildern erkenntlich. Tippfehler und Irrtümer vorbehalten.",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 2,
-        "label": "Neutral",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Garantie",
-          "Keine Rücknahme",
-          "Keine Gewährleistung",
-          "Zustand unbekannt"
-        ],
-        "positives": [
-          "Viel Zubehör enthalten",
-          "Preis günstig"
-        ],
-        "summary": "Günstiges Zubehör für Samsung Galaxy Fold 4, aber ohne Garantie und Rücknahme",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-06T16:50:57.326412+00:00"
-    },
-    "4ef77fad63958e867af2f85ad88e6703": {
-      "id": "4ef77fad63958e867af2f85ad88e6703",
-      "title": "Samsung Galaxy Fold 5 Handyhüllen",
-      "price": "25 € VB30 €",
-      "speicher": "k.A.",
-      "ort": "47495 Rheinberg\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "41 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-5-handyhuellen/3123910710-173-1399",
-      "description": "Biete hier meine 4 Handyhüllen vom Samsung Galaxy Fold 5 an alle sauber und ok minimale...",
-      "full_description": "Biete hier meine 4 Handyhüllen vom Samsung Galaxy Fold 5 an alle sauber und ok minimale Gebrauchsspuren.Eine Handyhülle mit integrierten Stift.I Keine Garantie und keine Rücknahme.",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "Sehr günstig",
-        "flags": [
-          "Keine Garantie",
-          "Keine Rücknahme"
-        ],
-        "positives": [
-          "4 Hüllen zum Samsung Galaxy Fold 5",
-          "Integrierter Stift in einer Hülle"
-        ],
-        "summary": "4 gebrauchte Hüllen zum Samsung Galaxy Fold 5 zum günstigen Preis",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-06T16:50:57.326713+00:00"
-    },
-    "196683d238ea56aa6be8955c3aae8360": {
-      "id": "196683d238ea56aa6be8955c3aae8360",
-      "title": "Original Samsung Neu  Clean Gadget Case Galaxy Z Fold 5",
-      "price": "16 € VB25 €",
-      "speicher": "k.A.",
-      "ort": "45147 Holsterhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "47 km",
-      "zustand": "Neu",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/original-samsung-neu-clean-gadget-case-galaxy-z-fold-5/3032844678-173-20849",
-      "description": "Original Samsung Neu Clean Gadget Case Galaxy Z Fold 5",
-      "full_description": "Original Samsung Neu Clean Gadget Case Galaxy Z Fold 5",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Original Samsung Produkt",
-          "Neu",
-          "Günstiger Preis"
-        ],
-        "summary": "Original Samsung Case für Galaxy Z Fold 5, neu, günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-06T16:50:59.679632+00:00"
-    },
-    "447b5e7b502fe277a60ff5827ab58438": {
-      "id": "447b5e7b502fe277a60ff5827ab58438",
-      "title": "Samsung galaxy Fold 512 GB 5G",
-      "price": "150 €230 €",
-      "speicher": "512 GB",
-      "ort": "40237 Flingern Nord\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "26 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-512-gb-5g/2972202554-173-16741",
-      "description": "Samsung galaxy Fold 512 GB 5G\nGroße Display funktioniert nicht\nCarbon Cover\nDer kleine Display...",
-      "full_description": "Samsung galaxy Fold 512 GB 5G Große Display funktioniert nicht Carbon Cover Der kleine Display funktioniert Versand möglich Keine Garantie oder Rücknahme",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 2,
-        "label": "Vorsicht",
-        "price_note": "Überteuert",
-        "flags": [
-          "Funktioniert nicht",
-          "Keine Garantie oder Rücknahme"
-        ],
-        "positives": [
-          "Großes Display",
-          "512 GB Speicher",
-          "5G"
-        ],
-        "summary": "Defektes Samsung Galaxy Fold 5 mit 512 GB Speicher für 230 €, ohne Garantie oder Rücknahme",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-06T16:50:59.679975+00:00"
-    },
-    "294fa879c9029c69b04538a53f72c420": {
-      "id": "294fa879c9029c69b04538a53f72c420",
-      "title": "Hama Tablet Case fold clean für Samsung Galaxy Tab A8 10.5 neu",
-      "price": "10 €",
-      "speicher": "k.A.",
-      "ort": "40545 Oberkassel\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "22 km",
-      "zustand": "Neu",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/hama-tablet-case-fold-clean-fuer-samsung-galaxy-tab-a8-10-5-neu/2898207973-285-2071",
-      "description": "Tablet Case fold clean für Samsung Galaxy Tab A8 10.5 neu\n\nMarke \tHama\nFarbe \tSchwarz\nKompatible...",
-      "full_description": "Tablet Case fold clean für Samsung Galaxy Tab A8 10.5 neu Marke \tHama Farbe \tSchwarz Kompatible Geräte \tSamsung Galaxy Tab A8 Formfaktor \tHülle Schalentyp \tHart ________________________________________ •\tRundum Schutz: Business-Look dank transparenter Rückseite des Covers und optimaler Schutz durch ein strapazierfähiges Obermaterial •\tSmart Case mit integriertem Magneten: der Magnet schaltet beim Öffnen des Deckels das Tablet ein und beim Schließen wieder aus um Akku zu sparen •\tStandfunktion für maximale Flexibilität: das Apple-Case lässt sich bequem in zwei Stufen aufstellen - ideal zum Surfen oder um Videos anzuschauen •\tVoller Zugriff: präzise Aussparungen der Tablet-Hülle ermöglichen den vollen Zugriff auf die Bedienelemente für ein komfortables Arbeiten •\t1 Tablet-Case Fold Clear schwarz für Samsung Galaxy Tab A8 10.5 Zoll (26,4 cm) Versandkosten übernimmt der Käufer: 2,90 Euro",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "Sehr günstig",
-        "flags": [
-          "Falsches Gerät",
-          "Keine Angabe zum Speicher"
-        ],
-        "positives": [
-          "Neu",
-          "Günstiger Preis"
-        ],
-        "summary": "Hama Tablet Case für Samsung Galaxy Tab A8, neu, günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-06T16:50:59.680294+00:00"
-    },
-    "4a798db65225d97217e811903119a93d": {
-      "id": "4a798db65225d97217e811903119a93d",
-      "title": "Samsung Galaxy Z Fold 6 Displayschutzglas 3x Displayglas Neu+OVP",
-      "price": "14 € VB",
-      "speicher": "k.A.",
-      "ort": "58540 Meinerzhagen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "89 km",
-      "zustand": "Neu",
-      "model": "Z Fold 6",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6-displayschutzglas-3x-displayglas-neu-ovp/2873907632-173-1428",
-      "description": "Hallo zusammen, habe fälschlicherweise 3 Packungen gekauft a 3 Stück. Daher berkaufe ich hier eine...",
-      "full_description": "Hallo zusammen, habe fälschlicherweise 3 Packungen gekauft a 3 Stück. Daher berkaufe ich hier eine Verpackung mit 3 x Displayglas für das Samsung Galaxy Z Fold 6 - Neu und original verpackt. Kann versendet werden bei Zahlung per PayPal Friends oder Banküberweisung. Abholung ist mir lieber.",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Neu und original verpackt",
-          "Günstiger Preis"
-        ],
-        "summary": "Neu und original verpacktes Displayglas für Z Fold 6 zum sehr günstigen Preis",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-06T16:50:59.680598+00:00"
-    },
-    "c2d805c5b02ca49747f041d7553e9bd0": {
-      "id": "c2d805c5b02ca49747f041d7553e9bd0",
-      "title": "Galaxy Z Fold 5 SM-F946B/DS 12GB | 512GB Phantom Black",
-      "price": "1.400 € VB",
-      "speicher": "12 GB",
-      "ort": "50735 Weidenpesch\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "44 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/galaxy-z-fold-5-sm-f946b-ds-12gb-512gb-phantom-black/2773794044-173-994",
-      "description": "Hallo, ich verkaufe mein neues\nGalaxy Z Fold 5 SM-F946B/DS 12GB | 512GB Phantom Black. Das...",
-      "full_description": "Hallo, ich verkaufe mein neues Galaxy Z Fold 5 SM-F946B/DS 12GB | 512GB Phantom Black. Das Handy wurde nur ausprobiert leider benutze ich iPhone und komme mit Samsung überhaupt nicht klar :( Privatverkauf. Aufgrund der neuen Gesetzesbestimmungen erfolgt der Verkauf unter Ausschluß jeglicher Gewährleistung, Garantie und Rücknahme. Es handelt sich hier um einen Privatverkauf, deswegen können wir keine Garantie nach dem neuen EU-Recht übernehmen. Der Käufer erklärt sich damit einverstanden auf Garantie, Rücknahme, Minderungen sowie Nachverhandlungen ausdrücklich zu verzichten ($312 d. Abs. 4 Nr. 5 BGB) und erkennt dies mit seinem Kauf an. Laut dem neuen EU-Recht muss dieser Zusatz unter jeder Online-Verkaufsaktion stehen, sonst haftet der Verkäufer auch als Privatperson für die verkaufte Ware.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Garantie",
-          "Privatverkauf"
-        ],
-        "positives": [
-          "Neues Gerät",
-          "Hochspezifische Hardware (12 GB RAM, 512 GB Speicher)"
-        ],
-        "summary": "Neues Galaxy Z Fold 5 ohne Garantie, Privatverkauf",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-06T16:50:59.680890+00:00"
-    },
-    "1d3355d834dd424ccb9587c2f70374c7": {
-      "id": "1d3355d834dd424ccb9587c2f70374c7",
-      "title": "OtterBox Symmetry Flex Hülle für Samsung Galaxy Z Fold3 5G",
-      "price": "29 €",
-      "speicher": "k.A.",
-      "ort": "47055 Duisburg-​Mitte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "32 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 3",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/otterbox-symmetry-flex-huelle-fuer-samsung-galaxy-z-fold3-5g/2546566332-173-2147",
-      "description": "OtterBox Symmetry Flex Hülle für Samsung Galaxy Z Fold3 5G, 77-87375, stoßfest, sturzsicher,...",
-      "full_description": "OtterBox Symmetry Flex Hülle für Samsung Galaxy Z Fold3 5G, 77-87375, stoßfest, sturzsicher, elegante und zweiteilige schützende Hülle, 2x getestet nach Militärstandard, für faltbare Handys,Transparent/Schwarz Antimikrobiell Aus 60 % recyceltem Plastik gefertigt OtterBox Sturzschutz: DROP+ | 2X mehr Stürze als nach Militärnorm (MIL-STD-810H 516.6) Schützt das faltbare Smartphones im geschlossenen Zustand Alle Smartphone-Funktionen funktioniere wie erwartet mit der Hülle",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "OtterBox Qualität",
-          "Stoßfestigkeit",
-          "Sturzsicherheit",
-          "Elegante Design"
-        ],
-        "summary": "OtterBox Hülle für Z Fold 3, stoßfest und sturzsicher",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-06T16:50:59.681227+00:00"
     }
   },
-  "last_full_send": "2026-05-07T04:00:31.393608+00:00",
-  "last_run": "2026-05-07T09:46:11.196866+00:00"
+  "last_full_send": "2026-05-07T11:59:30.593067+00:00",
+  "last_run": "2026-05-07T11:59:30.593333+00:00"
 }
