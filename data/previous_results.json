@@ -62,6 +62,71 @@
       },
       "first_seen": "2026-04-16T10:48:12.156457+00:00"
     },
+    "e591bed33b318c70ad10e5b637fe1367": {
+      "id": "e591bed33b318c70ad10e5b637fe1367",
+      "title": "Samsung Galaxy Z Fold3 5G",
+      "price": "350 € VB",
+      "speicher": "k.A.",
+      "ort": "52064 Aachen-​Mitte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "54 km",
+      "zustand": "Sehr gut",
+      "model": "Z Fold 3",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold3-5g/3403210276-173-1922",
+      "description": "Guten Tag, ich biete mein Samsung an.\nSehr sehr guter Zustand!\nHandy + Ladegerät",
+      "full_description": "Guten Tag, ich biete mein Samsung an. Sehr sehr guter Zustand! Handy + Ladegerät",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Sehr guter Zustand",
+          "Ladegerät inklusive"
+        ],
+        "summary": "Samsung Galaxy Z Fold3 5G, sehr guter Zustand, Ladegerät inkl.",
+        "source": "groq"
+      },
+      "first_seen": "2026-05-08T22:08:13.798947+00:00"
+    },
+    "4237a5766606664cbf8d8e5f9470c96a": {
+      "id": "4237a5766606664cbf8d8e5f9470c96a",
+      "title": "samsung galaxy z fold 7 265 gb SmartWatch 4 und galaxy Buds 4 neu",
+      "price": "1.199 € VB",
+      "speicher": "265 GB",
+      "ort": "53913 Swisttal\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "65 km",
+      "zustand": "Neu",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-265-gb-smartwatch-4-und-galaxy-buds-4-neu/3403221994-173-1666",
+      "description": "Samsung Galaxy z fold7\nSamsung galaxy Buds 4 neu verpackt\nSamsung Galaxy Watch4\n\n\nHallo, hier biete...",
+      "full_description": "Samsung Galaxy z fold7 Samsung galaxy Buds 4 neu verpackt Samsung Galaxy Watch4 Hallo, hier biete ich mein Samsung Galaxy Z Fold7 in einem schönen Blauton an. Es kommt mit 256 GB Speicherplatz und ist ein echtes Multitalent für Arbeit und Freizeit. Es handelt sich um eine Samsung Galaxy Watch4. Modellnummer: SM-R875F Größe: 44 mm (steht links auf dem Glasrand) Kleine gebraucht spuren Samsung Galaxy Buds 4 - Großes, faltbares Display - 256 GB interner Speicher - Elegantes blaues Design - Leistungsstarker Prozessor für reibungsloses Multitasking - Hochwertige Kamera für beeindruckende Fotos - gekauft im Oktober Es funktioniert einwandfrei hat Gebrauchsspuren. An den Ecken wie man sieht aber funktioniert alles Schreib mir einfach, wenn du Fragen hast. Noch ein paar Infos: Keine Garantie oder Rücknahme Tipp: Höflichkeit bei Kleinanzeigen wird sehr geschätzt und erhöht die Chance auf eine Antwort.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Keine Garantie oder Rücknahme"
+        ],
+        "positives": [
+          "Neu verpackt",
+          "Echtes Multitalent für Arbeit und Freizeit",
+          "Großes, faltbares Display",
+          "256 GB interner Speicher",
+          "Elegantes blaues Design",
+          "Leistungsstarker Prozessor",
+          "Hochwertige Kamera"
+        ],
+        "summary": "Samsung Galaxy Z Fold7 mit 265 GB Speicher, neu verpackt, inkl. Samsung Galaxy Watch4 und Galaxy Buds 4",
+        "source": "groq"
+      },
+      "first_seen": "2026-05-08T22:08:13.799248+00:00"
+    },
     "3de36d4fe363033bc12da1789e265faf": {
       "id": "3de36d4fe363033bc12da1789e265faf",
       "title": "**SAMSUNG GALAXY Z FOLD 6 CARBON OPTIK TOP ZUSTAND 256 GB**",
@@ -2364,39 +2429,6 @@
       },
       "first_seen": "2026-05-08T12:16:26.273617+00:00"
     },
-    "c9cc00f3d197a36a30724efb1b14cc9f": {
-      "id": "c9cc00f3d197a36a30724efb1b14cc9f",
-      "title": "samsung galaxy z fold7  265 gb",
-      "price": "850 € VB",
-      "speicher": "265 GB",
-      "ort": "53913 Swisttal\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "65 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold7-265-gb/3382491677-173-1666",
-      "description": "Hallo, hier biete ich mein Samsung Galaxy Z Fold7 in einem schönen Blauton an. Es kommt mit 256 GB...",
-      "full_description": "Hallo, hier biete ich mein Samsung Galaxy Z Fold7 in einem schönen Blauton an. Es kommt mit 256 GB Speicherplatz und ist ein echtes Multitalent für Arbeit und Freizeit. Dazu kommt noch eine handyklappe die auf dem bild zu sehen - Großes, faltbares Display - 256 GB interner Speicher - Elegantes blaues Design - Leistungsstarker Prozessor für reibungsloses Multitasking - Hochwertige Kamera für beeindruckende Fotos - gekauft im Oktober Es funktioniert einwandfrei hat Gebrauchsspuren. An den Ecken wie man sieht aber funktioniert alles Schreib mir einfach, wenn du Fragen hast. Noch ein paar Infos: Keine Garantie oder Rücknahme Tipp: Höflichkeit bei Kleinanzeigen wird sehr geschätzt und erhöht die Chance auf eine Antwort.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Garantie oder Rücknahme",
-          "Gebrauchsspuren"
-        ],
-        "positives": [
-          "Großes, faltbares Display",
-          "Leistungsstarker Prozessor",
-          "Hochwertige Kamera"
-        ],
-        "summary": "Samsung Galaxy Z Fold7 in Blauton, 265 GB, einwandfrei, Gebrauchsspuren",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-08T12:16:26.273984+00:00"
-    },
     "f893dece81106ffae6a33587ef5b78fb": {
       "id": "f893dece81106ffae6a33587ef5b78fb",
       "title": "Samsung Galaxy Fold 7 256 GB Black",
@@ -2837,7 +2869,7 @@
     "4c10541a21450480c2311d656b445167": {
       "id": "4c10541a21450480c2311d656b445167",
       "title": "Galaxy Z Fold 4 256GB 12Ram Tausch!",
-      "price": "220 €320 €",
+      "price": "215 €320 €",
       "speicher": "256 GB",
       "ort": "42489 Wülfrath\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "43 km",
@@ -2849,20 +2881,12 @@
       "description": "Galaxy Z Fold 4. Gebraucht aber funktioniert. Innendisplay hat die bekannte Kante und ab und zu...",
       "full_description": "Galaxy Z Fold 4. Gebraucht aber funktioniert. Innendisplay hat die bekannte Kante und ab und zu gibs Bildfehler. Tausche gegen S23, S23 Plus oder Ultra. Alles ab S22. Da das Fold für mich auf der Arbeit doch unpraktisch ist. Gerne direkten Tausch.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "Günstig",
-        "flags": [
-          "Bildfehler",
-          "Kante im Innendisplay"
-        ],
-        "positives": [
-          "Funktioniert",
-          "256 GB Speicher"
-        ],
-        "summary": "Gebrauchtes Z Fold 4 mit Bildfehlern, Tausch gegen S23 oder höher",
-        "source": "groq"
+        "stars": 1,
+        "label": "Meiden",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~450 €)",
+        "flags": [],
+        "positives": [],
+        "summary": "🔴 Deutlich überteuert (Ref. ~450 €)"
       },
       "first_seen": "2026-05-08T00:02:32.211736+00:00"
     },
@@ -5869,5 +5893,5 @@
     }
   },
   "last_full_send": "2026-05-08T18:20:03.966950+00:00",
-  "last_run": "2026-05-08T20:14:23.648044+00:00"
+  "last_run": "2026-05-08T22:08:45.246154+00:00"
 }
