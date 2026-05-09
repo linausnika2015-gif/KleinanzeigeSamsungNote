@@ -577,40 +577,6 @@
       },
       "first_seen": "2026-05-08T08:45:21.931542+00:00"
     },
-    "6a3cc200a57abe2b9e29788329864d83": {
-      "id": "6a3cc200a57abe2b9e29788329864d83",
-      "title": "Samsung Galaxy Fold 5",
-      "price": "500 € VB",
-      "speicher": "512 GB",
-      "ort": "42857 Remscheid\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "50 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-5/3402057678-173-1034",
-      "description": "Verkaufe mein hellblaues Samsung Galaxy Fold 5. Keine Kratzer da immer eine Folie drauf war. 512GB...",
-      "full_description": "Verkaufe mein hellblaues Samsung Galaxy Fold 5. Keine Kratzer da immer eine Folie drauf war. 512GB Speicher. Funktioniert einwandfrei. Dies ist ein Privatverkauf nach neuem EU-Recht! Daher keine Garantie oder Rücknahme. Nur Barzahlung bei Abholung.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Garantie",
-          "Keine Rücknahme",
-          "Barzahlung erforderlich"
-        ],
-        "positives": [
-          "Keine Kratzer",
-          "Funktioniert einwandfrei",
-          "Hochspezifischer Speicher"
-        ],
-        "summary": "Hellblaues Fold 5, 512 GB, einwandfrei, Privatverkauf",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-07T14:43:04.990322+00:00"
-    },
     "919c381c1fa862a6dbbfece25d3fbb39": {
       "id": "919c381c1fa862a6dbbfece25d3fbb39",
       "title": "Samsung Galaxy Z Fold 5 Magsafe Hülle Burgunder",
@@ -764,8 +730,38 @@
         "source": "groq"
       },
       "first_seen": "2026-05-06T14:40:20.219158+00:00"
+    },
+    "7e47efddd6ce41fe8c9d35a34e316dad": {
+      "id": "7e47efddd6ce41fe8c9d35a34e316dad",
+      "title": "Samsung Galaxy Z Fold7 256GB Jetblack",
+      "price": "1.500 € VB",
+      "speicher": "256 GB",
+      "ort": "58636 Iserlohn\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "91 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold7-256gb-jetblack/3401063197-173-1738",
+      "description": "Zu verkaufen steht ein Galaxy Z Fold 7 mit 256gb Originalverpackt ungeöffnet verschweißt!\nBei...",
+      "full_description": "Zu verkaufen steht ein Galaxy Z Fold 7 mit 256gb Originalverpackt ungeöffnet verschweißt! Bei ernsthaftem Interesse gerne PN!",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Sehr günstig",
+        "flags": [],
+        "positives": [
+          "Neu",
+          "OVP",
+          "Verschweißt"
+        ],
+        "summary": "Galaxy Z Fold 7 256GB Neu, OVP, Verschweißt",
+        "source": "groq"
+      },
+      "first_seen": "2026-05-09T15:05:05.984863+00:00"
     }
   },
   "last_full_send": "2026-05-09T11:07:42.619336+00:00",
-  "last_run": "2026-05-09T13:46:38.541305+00:00"
+  "last_run": "2026-05-09T15:05:33.831089+00:00"
 }
