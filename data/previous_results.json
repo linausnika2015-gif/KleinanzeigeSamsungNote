@@ -62,6 +62,39 @@
       },
       "first_seen": "2026-04-16T10:48:12.156825+00:00"
     },
+    "74a834b4f67bdd1427699a7f0a3ee2b0": {
+      "id": "74a834b4f67bdd1427699a7f0a3ee2b0",
+      "title": "Samsung Galaxy Z Fold 7 256GB Blue shadow - Neu mit Rechnung",
+      "price": "1.100 €",
+      "speicher": "256 GB",
+      "ort": "45329 Altenessen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "53 km",
+      "zustand": "Neu",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-256gb-blue-shadow-neu-mit-rechnung/3404530161-173-2031",
+      "description": "Ich biete ein brandneues Samsung Galaxy Z Fold 7 mit 256 GB Speicherplatz an. Es wurde lediglich...",
+      "full_description": "Ich biete ein brandneues Samsung Galaxy Z Fold 7 mit 256 GB Speicherplatz an. Es wurde lediglich geöffnet, um den Inhalt zu überprüfen, und ist somit unbenutzt. * Modell: Samsung Galaxy Z Fold 7 * Speicher: 256 GB * Zustand: Neu, nur zur Kontrolle geöffnet * Farbe: Blue Shadow * Rechnung vom 27.04.2026 * 1100€ FESTPREIS Das Smartphone kommt mit der Originalrechnung vom 27.04.2026, sodass du volle Garantie hast. Es ist ein echtes High-End-Gerät, perfekt für alle, die Leistung und Flexibilität suchen. Schreib mir einfach, wenn du Fragen hast. 01632083817",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Festpreis ohne Preisverhandlung",
+          "Keine Angaben zu möglichen Gebrauchsspuren"
+        ],
+        "positives": [
+          "Neuware",
+          "Originalrechnung",
+          "Garantie"
+        ],
+        "summary": "Brandneues Z Fold 7 mit 256 GB, Originalrechnung und Garantie, aber sehr teuer",
+        "source": "groq"
+      },
+      "first_seen": "2026-05-10T13:49:50.308892+00:00"
+    },
     "bcc73f90dc28e961ab4468e3f939b5d7": {
       "id": "bcc73f90dc28e961ab4468e3f939b5d7",
       "title": "Samsung Galaxy Z Fold 3",
@@ -93,37 +126,6 @@
         "source": "groq"
       },
       "first_seen": "2026-05-10T11:08:54.690011+00:00"
-    },
-    "f7f86d8f361a2c12f89466b82ea9e8df": {
-      "id": "f7f86d8f361a2c12f89466b82ea9e8df",
-      "title": "Samsung Galaxy Z Fold 7 Verkauf/Umtausch",
-      "price": "800 €",
-      "speicher": "256 GB",
-      "ort": "47051 Duisburg-​Mitte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "35 km",
-      "zustand": "Neu",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-verkauf-umtausch/3404331451-173-2151",
-      "description": "Samsung Galaxy Z Fold 7 256GB – Neu / 100% Zustand\n\nVerkaufe oder tausche mein Samsung Galaxy...",
-      "full_description": "Samsung Galaxy Z Fold 7 256GB – Neu / 100% Zustand Verkaufe oder tausche mein Samsung Galaxy Z Fold 7 mit 256GB Speicher. Das Handy ist komplett neu und befindet sich in 100% einwandfreiem Zustand – keine Kratzer, keine Gebrauchsspuren. Zustand: Neu Speicher: 256GB Farbe: Blau Technisch: 100% funktionstüchtig Lieferumfang: * Nur das Handy * Keine Originalverpackung * Kein Ladegerät Perfekt für alle, die ein neues Fold-Handy günstiger suchen. Bei Fragen einfach melden.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Neu",
-          "100% Zustand",
-          "256 GB Speicher",
-          "Blau"
-        ],
-        "summary": "Neues Samsung Galaxy Z Fold 7 mit 256 GB Speicher zum günstigen Preis",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-10T09:45:39.249458+00:00"
     },
     "0477407d7830efbe1e0961c350641452": {
       "id": "0477407d7830efbe1e0961c350641452",
@@ -228,7 +230,7 @@
     "10688fa1c049ba0c2b14edce33e90eb1": {
       "id": "10688fa1c049ba0c2b14edce33e90eb1",
       "title": "Samsung Galaxy fold 7 512 Gb",
-      "price": "900 €",
+      "price": "880 €900 €",
       "speicher": "512 GB",
       "ort": "40472 Rath\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "28 km",
@@ -237,22 +239,19 @@
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
       "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-7-512-gb/3404263015-173-29967",
-      "description": "Hallo\nich biete das abgebildete Z Fold 7 mit Rechnung an.\nDas Gerät wurde wenig benutzt und ist...",
+      "description": "Hallo\nich biete das abgebildete Z Fold 7 mit Rechnung an.\nDas Gerät wurde wenig benutzt ( beide...",
       "full_description": "Hallo ich biete das abgebildete Z Fold 7 mit Rechnung an. Das Gerät wurde wenig benutzt und ist daher neuwertig. Inklusive Ovp Ladekabel Schutzhülle und bereits installiertem Panzerglas auf der Vorderseite.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~1400 €)",
         "flags": [],
         "positives": [
-          "Wie neu",
-          "Inklusive OVP Ladekabel",
-          "Schutzhülle",
-          "Panzerglas auf der Vorderseite"
+          "✅ Originalverpackung",
+          "✅ Rechnung/Beleg vorhanden",
+          "✅ Makellos"
         ],
-        "summary": "Neuwertiges Z Fold 7 mit Zubehör für 900 €",
-        "source": "groq"
+        "summary": "✅ Originalverpackung · 🔴 Deutlich überteuert (Ref. ~1400 €)"
       },
       "first_seen": "2026-05-10T09:45:39.251069+00:00"
     },
@@ -381,39 +380,6 @@
         "source": "groq"
       },
       "first_seen": "2026-05-09T13:46:07.948139+00:00"
-    },
-    "d996a068eb1fa1df27cab4b2ad448548": {
-      "id": "d996a068eb1fa1df27cab4b2ad448548",
-      "title": "Samsung Galaxy Z Fold 7 256GB Blue shadow - Neu mit Rechnung",
-      "price": "1.100 €",
-      "speicher": "256 GB",
-      "ort": "45329 Altenessen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "53 km",
-      "zustand": "Neu",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-256gb-blue-shadow-neu-mit-rechnung/3403564583-173-2031",
-      "description": "Ich biete ein brandneues Samsung Galaxy Z Fold 7 mit 256 GB Speicherplatz an. Es wurde lediglich...",
-      "full_description": "Ich biete ein brandneues Samsung Galaxy Z Fold 7 mit 256 GB Speicherplatz an. Es wurde lediglich geöffnet, um den Inhalt zu überprüfen, und ist somit unbenutzt. * Modell: Samsung Galaxy Z Fold 7 * Speicher: 256 GB * Zustand: Neu, nur zur Kontrolle geöffnet * Farbe: Blue Shadow * Rechnung vom 27.04.2026 Das Smartphone kommt mit der Originalrechnung vom 27.04.2026, sodass du volle Garantie hast. Es ist ein echtes High-End-Gerät, perfekt für alle, die Leistung und Flexibilität suchen. Schreib mir einfach, wenn du Fragen hast. 01632083817",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Preis könnte zu hoch sein",
-          "Keine Angaben zu eventuellen Gebrauchsspuren"
-        ],
-        "positives": [
-          "Neuware",
-          "Originalrechnung",
-          "Garantie"
-        ],
-        "summary": "Neues Z Fold 7 mit 256 GB, Originalrechnung und Garantie, aber sehr teuer",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-09T11:07:09.767525+00:00"
     },
     "2714dfae6d7a49882183e0d9b931be12": {
       "id": "2714dfae6d7a49882183e0d9b931be12",
@@ -5897,5 +5863,5 @@
     }
   },
   "last_full_send": "2026-05-10T11:09:22.892901+00:00",
-  "last_run": "2026-05-10T11:09:22.893201+00:00"
+  "last_run": "2026-05-10T13:50:18.919042+00:00"
 }
