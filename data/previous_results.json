@@ -2737,40 +2737,6 @@
       },
       "first_seen": "2026-05-12T15:44:26.293954+00:00"
     },
-    "4e6ea934e84c61486e8bcc897b8bf98e": {
-      "id": "4e6ea934e84c61486e8bcc897b8bf98e",
-      "title": "SAMSUNG Galaxy Z Fold7 512 GB Blue Shadow",
-      "price": "950 €1.150 €",
-      "speicher": "512 GB",
-      "ort": "53639 Königswinter\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "80 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold7-512-gb-blue-shadow/3381866917-173-1686",
-      "description": "Top-Zustand: Samsung Galaxy Z Fold7 | 512GB | Blue Shadow\n\n​Verkaufe mein Samsung Galaxy Z Fold7 in...",
-      "full_description": "Top-Zustand: Samsung Galaxy Z Fold7 | 512GB | Blue Shadow ​Verkaufe mein Samsung Galaxy Z Fold7 in der eleganten Farbe Blue Shadow mit großzügigen 512GB Speicher. Das Gerät ist technisch einwandfrei und optisch in einem hervorragenden Zustand. ​Warum ich es verkaufe: ​Ich habe das neue Galaxy S26 Ultra geschenkt bekommen und benötige daher keine zwei High-End-Smartphones. Das Fold7 hat mir treue Dienste geleistet, darf nun aber einen neuen Besitzer glücklich machen. ​Highlights des Geräts: ​Speicher: 512 GB ​Farbe: Blue Shadow (ein sehr edles, tiefes Blau) ​Display: Beeindruckendes faltbares Hauptdisplay – ideal zum Multitasking und Streamen. ​Zustand: Sehr gepflegt, keine Kratzer, Scharniermechanismus funktioniert wie am ersten Tag. ​Umfang: -​Samsung Galaxy Z Fold7 512GB -​Originalverpackung (OVP) -​USB-C Ladekabel -Rechnung Weitere Verhandlungen sind nicht möglich, da dies meine äußerste Grenze darstellt. **Privatverkauf:** Keine Haftung, keine Garantie, keine Rücknahme. Jegliche Gewährleistung ist ausgeschlossen, da es sich um einen Privatverkauf handelt.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Garantie",
-          "Privatverkauf"
-        ],
-        "positives": [
-          "Top-Zustand",
-          "512 GB Speicher",
-          "Faltbares Display",
-          "Originalverpackung"
-        ],
-        "summary": "Samsung Galaxy Z Fold7 512 GB in Top-Zustand, Originalverpackung, günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-12T15:44:26.294338+00:00"
-    },
     "36b7024f9c6a88a5b4df8eec381fbb19": {
       "id": "36b7024f9c6a88a5b4df8eec381fbb19",
       "title": "Samsung Galaxy Z Fold6 Silver Shadow 256 GB",
@@ -3352,38 +3318,6 @@
         "source": "groq"
       },
       "first_seen": "2026-05-12T15:44:28.702837+00:00"
-    },
-    "aa5bfd07ab597849384b5f3a2bdcae10": {
-      "id": "aa5bfd07ab597849384b5f3a2bdcae10",
-      "title": "Samsung Galaxy Z Fold4 - sieht super aus",
-      "price": "399 € VB",
-      "speicher": "256 GB",
-      "ort": "47239 Rumeln-​Kaldenhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "27 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 4",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold4-sieht-super-aus/3372917463-173-2137",
-      "description": "Trenne mich von diesem tollen Handy, das sehr pfleglich behandelt wurde. Es hat ROM 256 GB - RAM...",
-      "full_description": "Trenne mich von diesem tollen Handy, das sehr pfleglich behandelt wurde. Es hat ROM 256 GB - RAM 12GB. Ich stelle mir Euro 399 vor. Da Privatverkauf keine Garantie, keine Gewährleistung, keine Rücknahme und unverbindliches Angebot.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Garantie",
-          "Keine Rücknahme"
-        ],
-        "positives": [
-          "Pfleglich behandelt",
-          "Sehr günstig"
-        ],
-        "summary": "Samsung Z Fold 4, 256 GB, 12 GB RAM, 399 € VB",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-12T15:44:28.703218+00:00"
     },
     "56fc2310cc6775200da90193c773c7aa": {
       "id": "56fc2310cc6775200da90193c773c7aa",
@@ -5889,5 +5823,5 @@
     }
   },
   "last_full_send": "2026-05-12T18:09:56.020244+00:00",
-  "last_run": "2026-05-12T18:09:56.020558+00:00"
+  "last_run": "2026-05-12T20:47:27.843795+00:00"
 }
