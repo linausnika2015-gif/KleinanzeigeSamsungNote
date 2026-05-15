@@ -612,39 +612,6 @@
       },
       "first_seen": "2026-05-14T10:29:25.483714+00:00"
     },
-    "7bb237cb212b3f26086fa31ae4834f8e": {
-      "id": "7bb237cb212b3f26086fa31ae4834f8e",
-      "title": "Samsung galaxy z fold 7",
-      "price": "899 € VB",
-      "speicher": "256 GB",
-      "ort": "47228 Rheinhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "31 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7/3407212610-173-2135",
-      "description": "Verkaufe mein Samsung Galaxy Z Fold7 in der Farbe Blau mit 256 GB Speicher.\nDas Handy befindet sich...",
-      "full_description": "Verkaufe mein Samsung Galaxy Z Fold7 in der Farbe Blau mit 256 GB Speicher. Das Handy befindet sich in einem neuwertigen Zustand und funktioniert einwandfrei. Keine Kratzer, keine Schäden – wurde immer sehr sorgfältig benutzt. Das originale Zubehör bzw. die Verpackung ist leider nicht mehr vorhanden, daher wird das Gerät ohne OVP verkauft. Details: * Farbe: Blau * Speicher: 256 GB * Zustand: Wie neu * Technisch und optisch einwandfrei * Ohne Originalverpackung Privatverkauf, daher keine Garantie oder Rücknahme. Bei Interesse gerne melden",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine OVP",
-          "Keine Garantie"
-        ],
-        "positives": [
-          "Neuwertiger Zustand",
-          "Einwandfreie Funktion",
-          "Sorgfältige Benutzung"
-        ],
-        "summary": "Samsung Galaxy Z Fold 7, Blau, 256 GB, neuwertig, ohne OVP",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-13T20:06:34.291693+00:00"
-    },
     "887edbd80c8d5d188dc77d626d619a7b": {
       "id": "887edbd80c8d5d188dc77d626d619a7b",
       "title": "Samsung galaxy fold 3 Silber Edition tausche gegen ?",
@@ -806,8 +773,38 @@
         "source": "groq"
       },
       "first_seen": "2026-05-13T08:07:06.160762+00:00"
+    },
+    "85857d5d298bb82bf497ec9800facbf6": {
+      "id": "85857d5d298bb82bf497ec9800facbf6",
+      "title": "Samsung Galaxy Z Fold 6 - 256GB | 12GB - Silber - WIE NEU",
+      "price": "659 €",
+      "speicher": "256 GB",
+      "ort": "50823 Ehrenfeld\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "44 km",
+      "zustand": "Neu",
+      "model": "Z Fold 6",
+      "angebotstyp": "Angebot",
+      "anbieter": "Gewerblich",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6-256gb-12gb-silber-wie-neu/3407173046-173-981",
+      "description": "WILLKOMMEN BEI ARMAC | AN- & VERKAUF\n\n\n_______________________________\n\n\nPRODUKTDETAILS\n\nModell:...",
+      "full_description": "WILLKOMMEN BEI ARMAC | AN- & VERKAUF _______________________________ PRODUKTDETAILS Modell: Samsung Galaxy Z Fold 6 Speicher: 256GB | 12GB RAM Farbe: Silber Zubehör: USB-Kabel Verpackung: Ja WIE NEU _______________________________ HINWEISE ZU UNSEREN GEBRAUCHTEN GERÄTEN ✔️12 Monate Gewährleistung ✔️ Keine Reparaturen, die meisten Geräte befinden sich im Originalzustand. ✔️ Geprüft & voll funktionsfähig _______________________________ Wir schaffen es nicht immer, allen zu antworten. Bei Fragen, Abholungen oder Verkäufen einfach anrufen und direkt klären. _______________________________ ALLGEMEINE INFORMATIONEN Zahlungsmöglichkeit: Nur Barzahlung ❗️ Nur Selbstabholung. Adresse: Venloer Str. 182, 50823 Köln Beim Kauf erhalten Sie von uns eine Quittung. Quittung: Wird nach § 25a UStG (Differenzbesteuerung) ausgestellt - kein MwSt. Ausweis möglich. _______________________________ ÖFFNUNGSZEITEN: Mo - Sa: 10:30 - 18:30 Uhr An Sonn- und Feiertagen: Geschlossen GESCHÄFTSSTELLE | ADRESSE: Venloer Str. 182, 50823 Köln U-BAHN-HALTESTELLE: Piusstraße - Linie 3 und 4 KONTAKT: Tel.: 0221 16910298 _______________________________ Alle genannten Markennamen und Warenzeichen sind Eigentum der jeweiligen Eigentümer und Rechteinhaber. Unser Impressum, Hinweise zur Batterieentsorgung, (GPSR) Hersteller/EU Verantwortliche Person und weitere Informationen erreichen Sie durch einen Klick auf „Rechtliche Angaben“.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Sehr günstig",
+        "flags": [],
+        "positives": [
+          "WIE NEU",
+          "12 Monate Gewährleistung",
+          "Geprüft & voll funktionsfähig"
+        ],
+        "summary": "Samsung Galaxy Z Fold 6, 256GB, 12GB, Silber, WIE NEU, 659€",
+        "source": "groq"
+      },
+      "first_seen": "2026-05-15T22:07:56.259479+00:00"
     }
   },
   "last_full_send": "2026-05-15T18:47:37.890925+00:00",
-  "last_run": "2026-05-15T20:21:28.034151+00:00"
+  "last_run": "2026-05-15T22:08:23.087955+00:00"
 }
