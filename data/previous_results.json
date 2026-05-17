@@ -104,7 +104,7 @@
       "speicher": "256 GB",
       "ort": "45721 Haltern am See\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "83 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold 3",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -4130,40 +4130,6 @@
       },
       "first_seen": "2026-05-17T09:57:20.989615+00:00"
     },
-    "b4b49d756182b8308c838cd594d2fa5a": {
-      "id": "b4b49d756182b8308c838cd594d2fa5a",
-      "title": "Verkaufe Samsung Galaxy Fold 7 oder iPhone 17 Air",
-      "price": "1.099 €",
-      "speicher": "512 GB",
-      "ort": "58640 Iserlohn\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "90 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/verkaufe-samsung-galaxy-fold-7-oder-iphone-17-air/3356698243-173-1736",
-      "description": "Hallo,\n\nWie oben beschrieben verkaufe ich eventuell mein Samsung Galaxy Phone sieben mit 512 GB...",
-      "full_description": "Hallo, Wie oben beschrieben verkaufe ich eventuell mein Samsung Galaxy Phone sieben mit 512 GB Speicher. Mit Originalverpackung und Original Case. Alles in einem absoluten top Zustand. Ich habe aktuell auch das iPhone Air hier und kann mich schlecht entscheiden. Daher behalte ich das Handy was überbleibt. Eigentlich bin ich ein Apple Fan aber das Samsung Handy gefällt mir unfassbar gut. Gerne kann es vor Ort getestet werden. Da ich aber als Privatperson verkaufe, biete ich keine Garantie oder Rücknahme der Ware an",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Keine Garantie",
-          "Keine Rücknahme"
-        ],
-        "positives": [
-          "Top Zustand",
-          "Originalverpackung",
-          "Original Case",
-          "512 GB Speicher"
-        ],
-        "summary": "Samsung Galaxy Z Fold 7, 512 GB, OVP, Top Zustand, kein Garantie",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-17T09:57:20.989953+00:00"
-    },
     "ac4e552edd0295182e36136cfec1ad43": {
       "id": "ac4e552edd0295182e36136cfec1ad43",
       "title": "Samsung Galaxy Z Fold5 Slim S Pen Case - Schwarz - NEU & OVP",
@@ -5940,6 +5906,6 @@
       "first_seen": "2026-05-17T09:57:25.734299+00:00"
     }
   },
-  "last_full_send": "2026-05-17T13:53:42.640666+00:00",
-  "last_run": "2026-05-17T19:23:19.485569+00:00"
+  "last_full_send": "2026-05-17T21:05:22.344487+00:00",
+  "last_run": "2026-05-17T21:05:22.344829+00:00"
 }
