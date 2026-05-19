@@ -62,6 +62,39 @@
       },
       "first_seen": "2026-04-16T10:48:12.156825+00:00"
     },
+    "be3c8cbaa211a6803d3c72713807a1e8": {
+      "id": "be3c8cbaa211a6803d3c72713807a1e8",
+      "title": "Samsung Galaxy Z Fold 7 512 Gb",
+      "price": "1.080 € VB",
+      "speicher": "512 GB",
+      "ort": "45279 Steele\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "53 km",
+      "zustand": "Sehr gut",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-512-gb/3413234364-173-2042",
+      "description": "Samsung Galaxy Z Fold 7\n\nHandy in sehr gutem Zustand, ca. 1 Jahr benutzt. Das Display ist komplett...",
+      "full_description": "Samsung Galaxy Z Fold 7 Handy in sehr gutem Zustand, ca. 1 Jahr benutzt. Das Display ist komplett kratzerfrei. Nur kleine Gebrauchsspuren an den Rändern (leichte Lackabnutzung). Technisch einwandfrei. Die kleinen Kratzer/Gebrauchsspuren sind auf den letzten Fotos zu sehen. Originalverpackung ist dabei.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Kleine Gebrauchsspuren",
+          "Lackabnutzung"
+        ],
+        "positives": [
+          "Sehr guter Zustand",
+          "Kratzerfreies Display",
+          "Originalverpackung"
+        ],
+        "summary": "Samsung Galaxy Z Fold 7 in sehr gutem Zustand, 512 GB, Originalverpackung",
+        "source": "groq"
+      },
+      "first_seen": "2026-05-19T21:40:48.873384+00:00"
+    },
     "3a982cab82782693bb776aef5bb6b0c3": {
       "id": "3a982cab82782693bb776aef5bb6b0c3",
       "title": "Samsung Galaxy Fold 1",
@@ -69,7 +102,7 @@
       "speicher": "k.A.",
       "ort": "45768 Marl\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "67 km",
-      "zustand": "Gebraucht",
+      "zustand": "k.A.",
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -469,38 +502,6 @@
         "source": "groq"
       },
       "first_seen": "2026-05-18T04:39:14.674969+00:00"
-    },
-    "e93b9532dff27195acda74a4395ab852": {
-      "id": "e93b9532dff27195acda74a4395ab852",
-      "title": "Samsung Galaxy Z Fold 3 - alle Ersatzteile - bis auf Hauptdisplay",
-      "price": "1 € VB",
-      "speicher": "k.A.",
-      "ort": "56316 Raubach (Westerw.)\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
-      "entfernung": "100 km",
-      "zustand": "Wie neu",
-      "model": "Z Fold 3",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-3-alle-ersatzteile-bis-auf-hauptdisplay/3411817567-173-5030",
-      "description": "Verkaufe hier sämtliche Einzelteile bis auf das Haupt-Display in einem optisch makellosen...",
-      "full_description": "Verkaufe hier sämtliche Einzelteile bis auf das Haupt-Display in einem optisch makellosen Zustand. Das Haupt-Display war leider defekt und ein neues wüede sich wirtschaftlich nicht rechnen. Bei Interesse an einzelnen Teilen oder dem ganzen Gerät, einfach anschreiben.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Defektes Hauptdisplay",
-          "Preis ist sehr niedrig"
-        ],
-        "positives": [
-          "Optisch makelloses Zustand",
-          "Alle Ersatzteile sind enthalten"
-        ],
-        "summary": "Defektes Z Fold 3 mit allen Ersatzteilen außer Hauptdisplay für 1€",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-18T04:39:14.675351+00:00"
     },
     "c27807e5fc0fcbf9e24a88e624473ca0": {
       "id": "c27807e5fc0fcbf9e24a88e624473ca0",
@@ -5686,5 +5687,5 @@
     }
   },
   "last_full_send": "2026-05-19T19:11:36.844909+00:00",
-  "last_run": "2026-05-19T19:11:36.845269+00:00"
+  "last_run": "2026-05-19T21:41:15.676768+00:00"
 }
