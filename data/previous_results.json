@@ -62,6 +62,39 @@
       },
       "first_seen": "2026-04-16T10:48:12.156825+00:00"
     },
+    "3a982cab82782693bb776aef5bb6b0c3": {
+      "id": "3a982cab82782693bb776aef5bb6b0c3",
+      "title": "Samsung Galaxy Fold 1",
+      "price": "250 € VB",
+      "speicher": "k.A.",
+      "ort": "45768 Marl\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "67 km",
+      "zustand": "Gebraucht",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-1/3413309446-173-1774",
+      "description": "Ich biete hier ein Samsung Galaxy Fold der ersten Generation an. Dieses seltene Stück ist ein...",
+      "full_description": "Ich biete hier ein Samsung Galaxy Fold der ersten Generation an. Dieses seltene Stück ist ein echtes Sammlerobjekt und in einem guten Zustand. Es ist das originale Fold in Schwarz, das sich zusammenklappen lässt und ein einzigartiges Design hat. Das Display ist klar und zeigt keine Pixelfehler. Es ist ein tolles Gerät für Technik-Enthusiasten oder als besonderes Zweithandy. Bei Fragen melde dich gerne. Disclaimer: Privatverkauf, daher keine Garantie, Gewährleistung oder Rücknahme. -------------------------------------------------------------------------- Da die neue EU-RICHTLINIE jetzt 1 Jahr Gewährleistung auch für Privatverkäufe vorsieht - soweit der Verkäufer es nicht ausschließt - erkläre ich, dass ich für meine privat verkauften Artikel keine Gewährleistung im Sinne der EU-Richtlinie übernehme. Mit Kauf der Ware erklären Sie sich ausdrücklich damit einverstanden, auf die Garantie / Gewährleistung zu verzichten. Auf die bei mir gekauften neuen, wie auch gebrauchten Artikel, besteht keinerlei Widerrufs- und Rückgaberecht (§312dAbs.4Nr.5BGB) Ich schließe jegliche Sach­mangelhaftung aus\"",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Spezifizierung des Speichers",
+          "Keine Garantie oder Gewährleistung"
+        ],
+        "positives": [
+          "Guter Zustand",
+          "Einzigartiges Design",
+          "Klarer Display"
+        ],
+        "summary": "Gebrauchter Samsung Galaxy Fold 1 in gutem Zustand, kein Garantie oder Gewährleistung",
+        "source": "groq"
+      },
+      "first_seen": "2026-05-19T19:11:09.732732+00:00"
+    },
     "d31501f65bd077770d2ad9fdecf7a7e2": {
       "id": "d31501f65bd077770d2ad9fdecf7a7e2",
       "title": "Samsung galaxy z Fold 5",
@@ -216,74 +249,6 @@
         "source": "groq"
       },
       "first_seen": "2026-05-19T12:51:44.220375+00:00"
-    },
-    "6358ca5b8e3371e10982fa6e4cd451a1": {
-      "id": "6358ca5b8e3371e10982fa6e4cd451a1",
-      "title": "Samsung Galaxy Z Fold 7 Blue, neu..",
-      "price": "",
-      "speicher": "256 GB",
-      "ort": "47495 Rheinberg\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "41 km",
-      "zustand": "Neu",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-blue-neu-/3412422804-273-1399",
-      "description": "Tausche hier mein zwei Tage altes Galaxy Z Fold 7 Blue 256GB, welches nur knapp eine Stunde bei mir...",
-      "full_description": "Tausche hier mein zwei Tage altes Galaxy Z Fold 7 Blue 256GB, welches nur knapp eine Stunde bei mir im Haus genutzt wurde. Das Z Fold 7 ist daher absolut wie neu, Displayfolie auf Frontdisplay und Rückseite wurden aufgebracht. Zu dem normalen Lieferumfang, liegt noch eine Case dabei. Rechnung auf meinen Namen liegt bei!! !!! Nur persönlicher Tausch!! Anfragen wie \"letzte Preis\" werden von mir grundsätzlich nicht beantwortet. Tausche. Würde ich gegen folgende Smartphones - Galaxy S26 Ultra - Iphone 17 Pro Max - iPhone 17 Pro (neu) - Iphone 16 Pro Max (neu) - Google Pixel 10 Pro Fold (neu) - Oppo Find N5 Fold",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Persönlicher Tausch nur",
-          "Keine Preisinformation"
-        ],
-        "positives": [
-          "Zwei Tage altes Gerät",
-          "Absolut wie neu",
-          "Displayfolie aufgebracht",
-          "Case inklusive"
-        ],
-        "summary": "Neues Z Fold 7 Blue 256GB, nur 2 Tage alt, absolut wie neu, Displayfolie aufgebracht, Case inklusive",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-18T18:59:03.698556+00:00"
-    },
-    "9be891d370a8afdf949c51de8b9e4ba9": {
-      "id": "9be891d370a8afdf949c51de8b9e4ba9",
-      "title": "Samsung Galaxy Z Fold 7 Blue, neu.. Tausch?",
-      "price": "1.050 €",
-      "speicher": "256 GB",
-      "ort": "47495 Rheinberg\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "41 km",
-      "zustand": "Neu",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-blue-neu-tausch-/3412420602-173-1399",
-      "description": "Verkaufe oder tausche hier mein zwei Tage altes Galaxy Z Fold 7 Blue 256GB, welches nur knapp eine...",
-      "full_description": "Verkaufe oder tausche hier mein zwei Tage altes Galaxy Z Fold 7 Blue 256GB, welches nur knapp eine Stunde bei mir im Haus genutzt wurde. Das Z Fold 7 ist daher absolut wie neu, Displayfolie auf Frontdisplay und Rückseite wurden aufgebracht. Zu dem normalen Lieferumfang, liegt noch eine Case dabei. Rechnung auf meinen Namen liegt bei!! !!Festpreis!! Nur Abholung oder persönlicher Tausch!! Anfragen wie \"letzte Preis\" werden von mir grundsätzlich nicht beantwortet. Tausche. Würde ich gegen folgende Smartphones - Galaxy S26 Ultra - Iphone 17 Pro Max - iPhone 17 Pro (neu) - Iphone 16 Pro Max (neu) - Google Pixel 10 Pro Fold (neu) - Oppo Find N5 Fold",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Tausch",
-          "Festpreis",
-          "Keine Preisverhandlung"
-        ],
-        "positives": [
-          "Neu",
-          "256 GB Speicher",
-          "Case im Lieferumfang"
-        ],
-        "summary": "Neuer Galaxy Z Fold 7 Blue, 256 GB, Case, Tausch gegen bestimmte Smartphones",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-18T18:59:03.698890+00:00"
     },
     "ca5f0cd429419103759e57ace3d41af3": {
       "id": "ca5f0cd429419103759e57ace3d41af3",
@@ -779,37 +744,6 @@
       },
       "first_seen": "2026-05-17T13:53:07.466044+00:00"
     },
-    "4180b18dbcf3a7c9e9a0d834518ca874": {
-      "id": "4180b18dbcf3a7c9e9a0d834518ca874",
-      "title": "Galaxy Z Fold6",
-      "price": "750 € VB",
-      "speicher": "k.A.",
-      "ort": "45699 Herten\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "66 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 6",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/galaxy-z-fold6/3411057376-173-1832",
-      "description": "Ich Biete mein Galaxy Z Fold6 an alle informationen sind eigentlich in den bildern enthalten bei...",
-      "full_description": "Ich Biete mein Galaxy Z Fold6 an alle informationen sind eigentlich in den bildern enthalten bei weiteren fragen aber gerne nachfragen",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 3,
-        "label": "Vorsicht",
-        "price_note": "Überteuert",
-        "flags": [
-          "Keine Informationen über Zustand und Speicher",
-          "Keine genauen Details in der Beschreibung"
-        ],
-        "positives": [
-          "Galaxy Z Fold 6 Modell"
-        ],
-        "summary": "Galaxy Z Fold 6 ohne Details zum Zustand und Speicher zum Preis von 750 €",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-19T16:29:42.958512+00:00"
-    },
     "0c372908c42966769884e1fb81dfa90c": {
       "id": "0c372908c42966769884e1fb81dfa90c",
       "title": "SUCHE Samsung Galaxy S26 S25 S24| S23 | Ultra 128GB 256GB 512GB Plus | FE | 5G | | 15 Handy Pro Max neu gebraucht | Z Fold Flip 6 7 Phantom Black iPhone Pro Max MacBook Tablet Tab S10 S11 Ultra A11+",
@@ -876,11 +810,11 @@
     "e83fcc991c8df27c78218e2d76f78026": {
       "id": "e83fcc991c8df27c78218e2d76f78026",
       "title": "Samsung Galaxy Z Fold 6 512 GB",
-      "price": "750 € VB",
+      "price": "650 €750 €",
       "speicher": "512 GB",
       "ort": "40225 Bilk\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "24 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -888,22 +822,17 @@
       "description": "Verkaufe mein Samsung Galaxy Z Fold6 in der eleganten Farbe Silber. Das Gerät bietet mit satten 512...",
       "full_description": "Verkaufe mein Samsung Galaxy Z Fold6 in der eleganten Farbe Silber. Das Gerät bietet mit satten 512 GB Speicherplatz mehr als genug Platz für Apps, Fotos und Videos. ​Modell: Samsung Galaxy Z Fold6 ​Speicher: 512 GB ​Farbe: Silber ​Zustand: Der Fingerabdruck Sensor funktioniert nicht sonst guter Zustand, keine Kratzer auf den Displays. ​Lieferumfang: Originalverpackung (OVP) ​Das Smartphone kann gerne vor Ort in Düsseldorf besichtigt und getestet werden. ​Verkaufsbedingungen: Abholung in Düsseldorf NUR SELBSTABHOLER ​Der Verkauf erfolgt unter Ausschluss jeglicher Gewährleistung, Garantie und Rücknahme, da es sich um einen Privatverkauf handelt.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
+        "stars": 1,
+        "label": "Meiden",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~900 €)",
         "flags": [
-          "Fingerabdruck Sensor nicht funktioniert",
-          "Keine Rücknahme möglich"
+          "ℹ️ Kratzer vorhanden"
         ],
         "positives": [
-          "Neuer Zustand",
-          "512 GB Speicher",
-          "OVP",
-          "Selbstabholung in Düsseldorf möglich"
+          "✅ Originalverpackung",
+          "✅ Garantie vorhanden"
         ],
-        "summary": "Neuer Samsung Galaxy Z Fold 6 in Silber, 512 GB, Fingerabdruck Sensor defekt, OVP, Selbstabholung in Düsseldorf",
-        "source": "groq"
+        "summary": "ℹ️ Kratzer vorhanden · 🔴 Deutlich überteuert (Ref. ~900 €)"
       },
       "first_seen": "2026-05-19T16:29:42.959473+00:00"
     },
@@ -971,67 +900,6 @@
       },
       "first_seen": "2026-05-19T16:29:42.960078+00:00"
     },
-    "043dcc663e218c0696912e6e4ec9e030": {
-      "id": "043dcc663e218c0696912e6e4ec9e030",
-      "title": "Samsung Galaxy Fold 5 vs iPhone",
-      "price": "VB",
-      "speicher": "256 GB",
-      "ort": "46047 Oberhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "44 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-5-vs-iphone/3409475322-173-1287",
-      "description": "Hallo ich verkaufe hier mein Samsung Z Fold 5 mit 256 GB es funktioniert einwandfrei",
-      "full_description": "Hallo ich verkaufe hier mein Samsung Z Fold 5 mit 256 GB es funktioniert einwandfrei",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Einwandfreier Zustand",
-          "256 GB Speicher"
-        ],
-        "summary": "Samsung Z Fold 5, 256 GB, einwandfrei, VB",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-19T16:29:42.960381+00:00"
-    },
-    "c7907c29baa0d833aaac5f9e28413b36": {
-      "id": "c7907c29baa0d833aaac5f9e28413b36",
-      "title": "Samsung Galaxy Z Fold 7 wie neu",
-      "price": "899 €1.300 €",
-      "speicher": "k.A.",
-      "ort": "56566 Neuwied\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
-      "entfernung": "100 km",
-      "zustand": "Neu",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-wie-neu/3409276005-173-5414",
-      "description": "NUR HEUTE 1000€\n\nHallo, das Handy ist wie neu!\nWurde im Dezember gekauft da mein Mann mit Android...",
-      "full_description": "NUR HEUTE 1000€ Hallo, das Handy ist wie neu! Wurde im Dezember gekauft da mein Mann mit Android nicht klar kommt lag es nur rum. Daher möchten wir es gerne verkaufen",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [
-          "Kauf im Dezember, nur 1 Monat alt",
-          "Preis könnte zu günstig sein"
-        ],
-        "positives": [
-          "Wie neu",
-          "Kurze Benutzung"
-        ],
-        "summary": "Samsung Galaxy Z Fold 7, wie neu, günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-19T16:29:42.960683+00:00"
-    },
     "20671e2ab4414f26b5ac681e0215c703": {
       "id": "20671e2ab4414f26b5ac681e0215c703",
       "title": "Samsung Galaxy Z Fold 6 5G 256GB Navy + OVP",
@@ -1039,7 +907,7 @@
       "speicher": "256 GB",
       "ort": "56249 Herschbach\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
       "entfernung": "100 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -1161,72 +1029,6 @@
       },
       "first_seen": "2026-05-19T16:29:42.961899+00:00"
     },
-    "887edbd80c8d5d188dc77d626d619a7b": {
-      "id": "887edbd80c8d5d188dc77d626d619a7b",
-      "title": "Samsung galaxy fold 3 Silber Edition tausche gegen ?",
-      "price": "",
-      "speicher": "k.A.",
-      "ort": "47228 Rheinhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "31 km",
-      "zustand": "Neu",
-      "model": "Z Fold 3",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-3-silber-edition-tausche-gegen-/3407447573-273-2135",
-      "description": "Hallo ich biete hier ein top Zustand Samsung fold 3 keine Risse keine Kratzer nichts\n\nDas Handy ist...",
-      "full_description": "Hallo ich biete hier ein top Zustand Samsung fold 3 keine Risse keine Kratzer nichts Das Handy ist Mit zubehör und wireless Station von original Samsung und Karton Das Handy ist optisch wie neu Lediglich weißt der kleine vordere Display ganz ganz leichte einbrennungen von den unteren apps auf was aber keines falls stört und nur bei hellen Hintergrund leicht zu sehen ist ich benutze es jeden Tag es ist top voll funktionsfähig Die einbrennungen sind auch schwer zu fotografieren Tauschen auch gegen andere sachen Handys Roller Autos und so weiter... Bei Fragen einfach melden",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Leichte Einbrennungen auf dem Display"
-        ],
-        "positives": [
-          "Top Zustand",
-          "Keine Risse oder Kratzer",
-          "Mit Zubehör und Wireless Station",
-          "Optisch wie neu"
-        ],
-        "summary": "Samsung Galaxy Fold 3 in top Zustand, leichte Einbrennungen auf dem Display, mit Zubehör und Wireless Station",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-19T16:29:42.962208+00:00"
-    },
-    "7a650d8d1013cc2dd297b702f3a39031": {
-      "id": "7a650d8d1013cc2dd297b702f3a39031",
-      "title": "samsung galaxy fold 3 Silber Edition tausch/Verkauf",
-      "price": "300 € VB",
-      "speicher": "k.A.",
-      "ort": "47228 Rheinhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "31 km",
-      "zustand": "Neu",
-      "model": "Z Fold 3",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-3-silber-edition-tausch-verkauf/3407446541-173-2135",
-      "description": "Hallo ich biete hier ein top Zustand Samsung fold 3 keine Risse keine Kratzer nichts\n\nDas Handy ist...",
-      "full_description": "Hallo ich biete hier ein top Zustand Samsung fold 3 keine Risse keine Kratzer nichts Das Handy ist Mit zubehör und wireless Station von original Samsung und Karton Das Handy ist optisch wie neu Lediglich weißt der kleine vordere Display ganz ganz leichte einbrennungen von den unteren apps auf was aber keines falls stört und nur bei hellen Hintergrund leicht zu sehen ist ich benutze es jeden Tag es ist top voll funktionsfähig Die einbrennungen sind auch schwer zu fotografieren Tauschen auch gegen andere sachen Handys Roller Autos und so weiter... Bei Fragen einfach melden",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Einbrennungen auf dem Display",
-          "Keine Spezifizierung des Speichers"
-        ],
-        "positives": [
-          "Top Zustand",
-          "Mit Zubehör und Wireless Station",
-          "Optisch wie neu"
-        ],
-        "summary": "Samsung Galaxy Fold 3 Silber Edition in top Zustand, leicht einbrennungen auf dem Display, mit Zubehör und Wireless Station",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-19T16:29:42.962501+00:00"
-    },
     "49baa5bdfca4bfe149b24e54ff93dd07": {
       "id": "49baa5bdfca4bfe149b24e54ff93dd07",
       "title": "Samsung Galaxy z fold 6",
@@ -1292,7 +1094,7 @@
       "id": "c6edd0c4a2a902fec70ed5cc275d535f",
       "title": "Samsung Galaxy Z Fold 4",
       "price": "375 € VB400 €",
-      "speicher": "256 GB",
+      "speicher": "k.A.",
       "ort": "56745 Weibern\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
       "entfernung": "100 km",
       "zustand": "k.A.",
@@ -1385,7 +1187,7 @@
       "id": "99fa8e49ef7fc82664a50b0bb7807b53",
       "title": "Samsung galaxy z fold 6",
       "price": "650 €",
-      "speicher": "256 GB",
+      "speicher": "k.A.",
       "ort": "42327 Vohwinkel\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "44 km",
       "zustand": "k.A.",
@@ -1452,7 +1254,7 @@
       "speicher": "512 GB",
       "ort": "40721 Hilden\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "33 km",
-      "zustand": "Gebraucht",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Gewerblich",
@@ -1834,7 +1636,7 @@
       "speicher": "512 GB",
       "ort": "40721 Hilden\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "33 km",
-      "zustand": "Neu",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Gewerblich",
@@ -2278,7 +2080,7 @@
       "speicher": "k.A.",
       "ort": "45326 Altenessen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "51 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -2631,10 +2433,10 @@
       "id": "714e96089cf8ce5be0eb5e68a8426c33",
       "title": "Samsung Galaxy Z Fold 4",
       "price": "350 € VB",
-      "speicher": "256 GB",
+      "speicher": "k.A.",
       "ort": "46395 Bocholt\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "71 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 4",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -2663,7 +2465,7 @@
       "id": "0857c80d6119195dc6303a11229b32b5",
       "title": "Gebrauchter  Samsung Galaxy Z Fold 4",
       "price": "250 €",
-      "speicher": "256 GB",
+      "speicher": "k.A.",
       "ort": "51545 Waldbröl\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "89 km",
       "zustand": "Sehr gut",
@@ -2699,7 +2501,7 @@
       "speicher": "256 GB",
       "ort": "58706 Menden\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "97 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -2760,7 +2562,7 @@
       "speicher": "k.A.",
       "ort": "44147 Innenstadt-​Nord\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "78 km",
-      "zustand": "Neu",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -2790,7 +2592,7 @@
       "speicher": "k.A.",
       "ort": "45139 Essen-​Stadtmitte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "51 km",
-      "zustand": "Wie neu",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -2921,7 +2723,7 @@
       "speicher": "1 TB",
       "ort": "48159 Kinderhaus\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
       "entfernung": "100 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -2986,7 +2788,7 @@
       "speicher": "256 GB",
       "ort": "40699 Erkrath\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "34 km",
-      "zustand": "Gut",
+      "zustand": "k.A.",
       "model": "Z Fold 4",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -3085,7 +2887,7 @@
       "speicher": "1 TB",
       "ort": "46049 Oberhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "41 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold 4",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -3180,7 +2982,7 @@
       "speicher": "512 GB",
       "ort": "40789 Monheim am Rhein\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "34 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 3",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -3244,7 +3046,7 @@
       "speicher": "512 GB",
       "ort": "53229 Beuel\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "71 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -3408,7 +3210,7 @@
       "speicher": "k.A.",
       "ort": "45659 Recklinghausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "71 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -3438,7 +3240,7 @@
       "speicher": "512 GB",
       "ort": "58239 Schwerte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "82 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold 5",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -3505,7 +3307,7 @@
       "speicher": "k.A.",
       "ort": "51643 Gummersbach\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "80 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold 5",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -3639,7 +3441,7 @@
       "speicher": "k.A.",
       "ort": "46359 Heiden\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "79 km",
-      "zustand": "Wie neu",
+      "zustand": "k.A.",
       "model": "Z Fold 3",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -3670,7 +3472,7 @@
       "speicher": "256 GB",
       "ort": "45355 Essen-​Borbeck\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "47 km",
-      "zustand": "Gebraucht",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -3825,7 +3627,7 @@
       "speicher": "12 GB",
       "ort": "53773 Hennef (Sieg)\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "77 km",
-      "zustand": "Wie neu",
+      "zustand": "k.A.",
       "model": "Z Fold 5",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -3859,7 +3661,7 @@
       "speicher": "k.A.",
       "ort": "52223 Stolberg (Rhld)\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "52 km",
-      "zustand": "Neu",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -3953,7 +3755,7 @@
       "speicher": "k.A.",
       "ort": "58540 Meinerzhagen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "89 km",
-      "zustand": "Neu",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -4109,7 +3911,7 @@
       "speicher": "512 GB",
       "ort": "58640 Iserlohn\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "90 km",
-      "zustand": "Neu",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -4958,7 +4760,7 @@
       "speicher": "k.A.",
       "ort": "53879 Euskirchen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "65 km",
-      "zustand": "Gebraucht",
+      "zustand": "k.A.",
       "model": "Z Fold 4",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -5056,7 +4858,7 @@
       "speicher": "256 GB",
       "ort": "59192 Bergkamen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "94 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 3",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -5089,7 +4891,7 @@
       "speicher": "256 GB",
       "ort": "52080 Aachen-​Haaren\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "49 km",
-      "zustand": "Gebraucht",
+      "zustand": "k.A.",
       "model": "Z Fold 4",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -5122,7 +4924,7 @@
       "speicher": "k.A.",
       "ort": "50354 Hürth\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "47 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -5569,7 +5371,7 @@
       "speicher": "k.A.",
       "ort": "57578 Elkenroth\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
       "entfernung": "100 km",
-      "zustand": "Wie neu",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -5883,6 +5685,6 @@
       "first_seen": "2026-05-19T16:29:57.078067+00:00"
     }
   },
-  "last_full_send": "2026-05-19T12:52:20.837727+00:00",
-  "last_run": "2026-05-19T16:48:24.071411+00:00"
+  "last_full_send": "2026-05-19T19:11:36.844909+00:00",
+  "last_run": "2026-05-19T19:11:36.845269+00:00"
 }
