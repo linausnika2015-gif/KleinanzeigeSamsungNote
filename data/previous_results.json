@@ -62,6 +62,40 @@
       },
       "first_seen": "2026-04-16T10:48:12.156457+00:00"
     },
+    "37cb2e4327e60663d06ac13dd859d944": {
+      "id": "37cb2e4327e60663d06ac13dd859d944",
+      "title": "Samsung Galaxy Fold 5 256GB - Display defekt",
+      "price": "VB",
+      "speicher": "256 GB",
+      "ort": "44339 Eving\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "82 km",
+      "zustand": "Gebraucht",
+      "model": "Z Fold 5",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-5-256gb-display-defekt/3416847312-173-1097",
+      "description": "Ich biete hier mein Samsung Galaxy Fold 5 mit 256GB Speicher in Schwarz an. Es kommt in der...",
+      "full_description": "Ich biete hier mein Samsung Galaxy Fold 5 mit 256GB Speicher in Schwarz an. Es kommt in der Originalverpackung. * Faltbares Design * 256GB interner Speicher * Farbe: Schwarz Das äußere Display hat leider einen Sprung unten und einen weißen Balken, hinter dem der Bildschirm aber noch bedienbar ist. Das Gerät ist ansonsten voll funktionsfähig und bereit für einen neuen Besitzer, der sich vielleicht um das Display kümmern möchte. Bei Fragen melde dich gerne. Nur Abholung! Privatverkauf Der Verkauf erfolgt unter Ausschluss jeglicher Gewährleistung. Rücknahme oder Umtausch sind ausgeschlossen! Ich schließe jegliche Sachmangelhaftung aus. Die Haftung auf Schadensersatz wegen Verletzungen von Körper, Gesundheit oder Leben und grob fahrlässiger und-oder vorsätzlicher Verletzungen meiner Pflichten als Verkäufer bleibt uneingeschränkt!",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "Überteuert",
+        "flags": [
+          "Displaydefekt",
+          "Keine Gewährleistung",
+          "Keine Rücknahme oder Umtausch"
+        ],
+        "positives": [
+          "Originalverpackung",
+          "256GB interner Speicher",
+          "Faltbares Design"
+        ],
+        "summary": "Gebrauchter Samsung Galaxy Fold 5 mit Displaydefekt, 256GB Speicher, Originalverpackung",
+        "source": "groq"
+      },
+      "first_seen": "2026-05-24T14:41:31.184903+00:00"
+    },
     "b646bf323c540cf61449af7e963b272b": {
       "id": "b646bf323c540cf61449af7e963b272b",
       "title": "Samsung Galaxy Z Fold5",
@@ -69,7 +103,7 @@
       "speicher": "1 TB",
       "ort": "50389 Wesseling\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "57 km",
-      "zustand": "Gebraucht",
+      "zustand": "k.A.",
       "model": "Z Fold 5",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -1190,7 +1224,7 @@
     "495e4c7c6fdbc776695cbed7c210e501": {
       "id": "495e4c7c6fdbc776695cbed7c210e501",
       "title": "Samsung Galaxy Z Fold 5 mit 512GB Speicher mit Orginal Karton",
-      "price": "500 € VB",
+      "price": "499 € VB500 €",
       "speicher": "512 GB",
       "ort": "41068 Mönchengladbach\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "3 km",
@@ -1202,21 +1236,12 @@
       "description": "Sehr gut erhaltendes Samsung Galaxy ZFold 5 mit 512GB und durchsichtiger Hülle.\nsehr guter Zustand,...",
       "full_description": "Sehr gut erhaltendes Samsung Galaxy ZFold 5 mit 512GB und durchsichtiger Hülle. sehr guter Zustand, knapp ein Jahr alt, Abgabe wegen Neuanschaffung des Fold 7. gerne anschauen kommen ausprobieren etc, Versand nur mit Übernahme der Versandkosten und nur mit versichertem Versand sowie Zahlung über Paypal ( keine Freunde) oder per Überweisung vorab. Der Verkauf erfolgt unter Ausschluss jeglicher Sachmängelhaftung. Das ist ein Privatverkauf. Der Verkauf erfolgt unter Ausschluss jeglicher Sachmängelhaftung. Keine Gewährleistung und Rücknahme. Gerne Preisvorschläge senden.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Gewährleistung",
-          "Rücknahme nicht möglich"
-        ],
-        "positives": [
-          "Sehr guter Zustand",
-          "512 GB Speicher",
-          "Original Karton"
-        ],
-        "summary": "Sehr gut erhaltenes Z Fold 5 mit 512 GB und Original Karton zum günstigen Preis.",
-        "source": "groq"
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~650 €)",
+        "flags": [],
+        "positives": [],
+        "summary": "🔴 Deutlich überteuert (Ref. ~650 €)"
       },
       "first_seen": "2026-05-24T08:42:39.925657+00:00"
     },
@@ -1480,7 +1505,7 @@
     "7c5555e737e6c658826398adbc276742": {
       "id": "7c5555e737e6c658826398adbc276742",
       "title": "Pitaka Samsung Galaxy Z Fold7 Ultra Slim Case MagSafe",
-      "price": "50 € VB55 €",
+      "price": "45 € VB55 €",
       "speicher": "k.A.",
       "ort": "58099 Hagen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "75 km",
@@ -1492,18 +1517,12 @@
       "description": "Pitaka Samsung Galaxy Z Fold7 Ultra Slim Case MagSafe\nNeu, Unbenutzt",
       "full_description": "Pitaka Samsung Galaxy Z Fold7 Ultra Slim Case MagSafe Neu, Unbenutzt",
       "assessment": {
-        "category": "Zubehör",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~1400 €)",
         "flags": [],
-        "positives": [
-          "Neu",
-          "Unbenutzt",
-          "MagSafe"
-        ],
-        "summary": "Pitaka Ultra Slim Case für Z Fold 7, Neu, MagSafe",
-        "source": "groq"
+        "positives": [],
+        "summary": "🔴 Deutlich überteuert (Ref. ~1400 €)"
       },
       "first_seen": "2026-05-24T08:42:39.929223+00:00"
     },
@@ -3235,40 +3254,6 @@
         "source": "groq"
       },
       "first_seen": "2026-05-24T08:42:44.753527+00:00"
-    },
-    "4406385583784f35b21ef8c7a8c3ac02": {
-      "id": "4406385583784f35b21ef8c7a8c3ac02",
-      "title": "Samsung Galaxy Z FOLD 6",
-      "price": "580 € VB650 €",
-      "speicher": "k.A.",
-      "ort": "45359 Essen-​Frintrop\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "45 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 6",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6/3390785995-173-21242",
-      "description": "Hallo\nIch verkaufe mein Telefon. Es ist gerade zurück gekommen und hat ein neues Haupt Display...",
-      "full_description": "Hallo Ich verkaufe mein Telefon. Es ist gerade zurück gekommen und hat ein neues Haupt Display bekommen Es ist 1,5 Jahre alt und wurde immer mit Hülle benutzt. Leider ist es einmal herunter gefallen (als die hülle ab war) und hat eine kleine Macke an der Ecke wie auf den Bildern zu sehen. Die offizielle Garantie läuft bis September.Die Folie wurde von werk drauf getan. Aber ab jetzt ein Jahr wegen dem Austausch. Bei fragen gerne melden mfg",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "Günstig",
-        "flags": [
-          "Kleiner Schaden an der Ecke",
-          "Keine Angabe zum Speicher",
-          "Keine Angabe zum Zustand"
-        ],
-        "positives": [
-          "Neues Hauptdisplay",
-          "Offizielle Garantie bis September",
-          "Telefon wurde immer mit Hülle benutzt"
-        ],
-        "summary": "1,5 Jahre altes Z Fold 6 mit Schaden an der Ecke, neues Display, offizielle Garantie",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-24T08:42:44.753899+00:00"
     },
     "d6494cc49c8deffccfd85cccea3e6489": {
       "id": "d6494cc49c8deffccfd85cccea3e6489",
@@ -5274,36 +5259,6 @@
       },
       "first_seen": "2026-05-24T08:42:52.000976+00:00"
     },
-    "50007b736b15a9464f396849daf67fc1": {
-      "id": "50007b736b15a9464f396849daf67fc1",
-      "title": "Samsung Wireless Car Charger Halterung Galaxy Z Fold/Flip",
-      "price": "20 € VB27 €",
-      "speicher": "k.A.",
-      "ort": "50354 Hürth\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "47 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-wireless-car-charger-halterung-galaxy-z-fold-flip/3307403148-223-1891",
-      "description": "Verkaufe hier ein Samsung Wireless Car Charger - eine praktische Auto-Halterung mit integrierter...",
-      "full_description": "Verkaufe hier ein Samsung Wireless Car Charger - eine praktische Auto-Halterung mit integrierter kabelloser Ladefunktion. Das Ladegerät ist neu und unbenutzt: • Kompatibel mit Galaxy Z Fold, Flip und Note Serie • Kabellose Ladefunktion während der Fahrt • Sichere Befestigung im Auto • Original Samsung Qualität Perfekt für alle, die ihr Samsung-Handy sicher im Auto befestigen und gleichzeitig laden möchten. Die Halterung ist noch originalverpackt und wurde nie verwendet. Bei Fragen melde dich gerne. Abzuholen in Hürth, zzgl. Portokosten verschicke ich auch.",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Original Samsung Qualität",
-          "Neu und unbenutzt",
-          "Kabellose Ladefunktion"
-        ],
-        "summary": "Samsung Wireless Car Charger für Galaxy Z Fold/Flip, neu und unbenutzt",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-24T08:42:52.001355+00:00"
-    },
     "9a199974ce9535dec7c743c2538d9b20": {
       "id": "9a199974ce9535dec7c743c2538d9b20",
       "title": "Handy galaxy z Fold 5",
@@ -6039,5 +5994,5 @@
     }
   },
   "last_full_send": "2026-05-24T12:08:02.163736+00:00",
-  "last_run": "2026-05-24T12:08:02.164087+00:00"
+  "last_run": "2026-05-24T14:42:00.932073+00:00"
 }
