@@ -62,6 +62,39 @@
       },
       "first_seen": "2026-04-16T10:48:12.156457+00:00"
     },
+    "c69bd3e26955b38670618b2fbbfa2fe9": {
+      "id": "c69bd3e26955b38670618b2fbbfa2fe9",
+      "title": "Samsung Galaxy Z Fold 6 256 GB",
+      "price": "600 €",
+      "speicher": "256 GB",
+      "ort": "59192 Bergkamen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "94 km",
+      "zustand": "Sehr gut",
+      "model": "Z Fold 6",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6-256-gb/3419012489-173-1920",
+      "description": "Samsung Z Fold 6 256 GB in Silver shadow. Rechnung von Mai oder Juni 2025 in OVP sehr guter...",
+      "full_description": "Samsung Z Fold 6 256 GB in Silver shadow. Rechnung von Mai oder Juni 2025 in OVP sehr guter Zustand. Wenn nur minimale Gebrauchsspuren vorhanden. In Originalverpackung und einem Otter Schutz Case. Abholung bevorzugt. Da ich privat verkaufe, verkaufe ich unter Ausschluss jeglicher Gewährleistung oder Garantie und unter Ausschluss jeglicher Sachmängelhaftung.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Privatverkauf ohne Gewährleistung",
+          "Abholung bevorzugt"
+        ],
+        "positives": [
+          "Sehr guter Zustand",
+          "Originalverpackung",
+          "Otter Schutz Case"
+        ],
+        "summary": "Samsung Z Fold 6 256 GB in sehr gutem Zustand, Originalverpackung und Otter Schutz Case",
+        "source": "groq"
+      },
+      "first_seen": "2026-05-26T21:55:19.964193+00:00"
+    },
     "fa9bf3f9b88b55f5784b4b707a778e07": {
       "id": "fa9bf3f9b88b55f5784b4b707a778e07",
       "title": "Samsung Galaxy Z Fold6 256gb Silver Shadow 99% Akku Wie Neu",
@@ -96,7 +129,7 @@
       "id": "00b29284e359ab69b5d136d0aeb69a8f",
       "title": "Galaxy Z Fold 6",
       "price": "550 € VB",
-      "speicher": "256 GB",
+      "speicher": "k.A.",
       "ort": "45475 Mülheim (Ruhr)\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "43 km",
       "zustand": "k.A.",
@@ -3590,39 +3623,6 @@
       },
       "first_seen": "2026-05-25T23:17:24.980144+00:00"
     },
-    "abd5e78b86e837e1d7280906093f8674": {
-      "id": "abd5e78b86e837e1d7280906093f8674",
-      "title": "Handyhülle Galaxy Fold 4 in Grün",
-      "price": "5 €",
-      "speicher": "k.A.",
-      "ort": "56626 Andernach\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
-      "entfernung": "100 km",
-      "zustand": "Neu",
-      "model": "Z Fold 4",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/handyhuelle-galaxy-fold-4-in-gruen/3386529715-173-4944",
-      "description": "Verkaufe hier eine neue Handyhülle für das Samsung Galaxy Fold 4. Sie ist neu und unbenutzt. Leider...",
-      "full_description": "Verkaufe hier eine neue Handyhülle für das Samsung Galaxy Fold 4. Sie ist neu und unbenutzt. Leider falsch gekauft. Abholung wird bevorzugt kann es aber gerne, bei Übernahme der Versandkosten , Versenden. Bezahlung per Paypal Freunde, Überweisung oder Barzahlung bei Abholung. Privatverkauf keine Garantie, Rücknahme oder Ähnliches.",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [
-          "Falsch gekauft",
-          "Keine Garantie"
-        ],
-        "positives": [
-          "Neu",
-          "Unbenutzt",
-          "Abholung bevorzugt"
-        ],
-        "summary": "Neue Handyhülle für Galaxy Fold 4 in Grün, sehr günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-25T23:17:24.980493+00:00"
-    },
     "9c9a8446f19cd1a8d83e90e9051b78bb": {
       "id": "9c9a8446f19cd1a8d83e90e9051b78bb",
       "title": "Samsung Galaxy Z Fold 4 | 1 TB | White | Rechnung & Garantie",
@@ -3659,7 +3659,7 @@
     "91026c6a7c7534018cec28862fbbcc60": {
       "id": "91026c6a7c7534018cec28862fbbcc60",
       "title": "Galaxy Z Fold 7 256GB...",
-      "price": "1.000 € VB1.525 €",
+      "price": "1.150 € VB1.525 €",
       "speicher": "256 GB",
       "ort": "58256 Ennepetal\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "65 km",
@@ -3671,18 +3671,12 @@
       "description": "Samsung Galaxy Z Fold 7 256GB jetblack\nNeu nicht benutzt . Vor paar Monaten gekauft",
       "full_description": "Samsung Galaxy Z Fold 7 256GB jetblack Neu nicht benutzt . Vor paar Monaten gekauft",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
+        "stars": 3,
+        "label": "Neutral",
+        "price_note": "ℹ️ Preis nicht angegeben",
         "flags": [],
-        "positives": [
-          "Neu",
-          "Hoher Speicher",
-          "Günstiger Preis"
-        ],
-        "summary": "Neuer Galaxy Z Fold 7 256GB für günstiges Preis",
-        "source": "groq"
+        "positives": [],
+        "summary": "ℹ️ Preis nicht angegeben"
       },
       "first_seen": "2026-05-25T23:17:24.981245+00:00"
     },
@@ -6177,5 +6171,5 @@
     }
   },
   "last_full_send": "2026-05-26T16:51:04.129943+00:00",
-  "last_run": "2026-05-26T19:26:31.058299+00:00"
+  "last_run": "2026-05-26T21:55:46.337084+00:00"
 }
