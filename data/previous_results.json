@@ -62,6 +62,72 @@
       },
       "first_seen": "2026-04-16T10:48:12.156825+00:00"
     },
+    "3d22c75cf0324a32be2a31b9b1cb7978": {
+      "id": "3d22c75cf0324a32be2a31b9b1cb7978",
+      "title": "Samsung Galaxy Z Fold2 5G",
+      "price": "160 €",
+      "speicher": "k.A.",
+      "ort": "40227 Eller\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "25 km",
+      "zustand": "Sehr gut",
+      "model": "Z Fold 2",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold2-5g/3422635870-173-2092",
+      "description": "Ich verkaufe ein sehr gut erhaltenes Samsung Galaxy z fold 2. Zusätzlich ist ein USB-Kabel zum...",
+      "full_description": "Ich verkaufe ein sehr gut erhaltenes Samsung Galaxy z fold 2. Zusätzlich ist ein USB-Kabel zum Laden dabei. Das Handy hat minimale Gebrauchsspuren, siehe Bilder. Es funktioniert einwandfrei! Nur Abholung Privatverkauf Rücknahme oder Umtausch ausgeschlossen.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Rücknahme oder Umtausch möglich",
+          "Privatverkauf"
+        ],
+        "positives": [
+          "Sehr guter Zustand",
+          "Einwandfreies Funktionieren",
+          "USB-Kabel zum Laden dabei"
+        ],
+        "summary": "Sehr guter Zustand, günstig, kein Rück- oder Umtausch möglich",
+        "source": "groq"
+      },
+      "first_seen": "2026-05-31T14:06:28.917737+00:00"
+    },
+    "e09cd928d771cbb118446e2609c97bb4": {
+      "id": "e09cd928d771cbb118446e2609c97bb4",
+      "title": "Samsung Galaxy Z Fold 4",
+      "price": "350 € VB",
+      "speicher": "256 GB",
+      "ort": "52355 Düren\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "46 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 4",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-4/3422579465-173-1769",
+      "description": "Verkaufe mein Samsung Galaxy Z Fold4 mit 256 GB Speicher in der Farbe Grau/Grün.\n\nDas Handy...",
+      "full_description": "Verkaufe mein Samsung Galaxy Z Fold4 mit 256 GB Speicher in der Farbe Grau/Grün. Das Handy ist voll funktionsfähig. Das Innen- und Außendisplay funktionieren einwandfrei, das Scharnier lässt sich problemlos öffnen und schließen. Normale Gebrauchsspuren sind vorhanden, aber keine Einschränkungen der Funktion. Details: Samsung Galaxy Z Fold4 256 GB Speicher Voll funktionsfähig Innen- und Außendisplay ohne Probleme Scharnier funktioniert einwandfrei Ohne SIM-Lock Originalkarton vorhanden Gerät wurde zurückgesetzt und ist sofort einsatzbereit Preis: 350 € VB (verhandelbar) Privatverkauf, daher keine Garantie, Gewährleistung oder Rücknahme. Bei Fragen einfach melden.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Garantie",
+          "Privatverkauf"
+        ],
+        "positives": [
+          "Voll funktionsfähig",
+          "Innen- und Außendisplay einwandfrei",
+          "Scharnier funktioniert einwandfrei"
+        ],
+        "summary": "Gebrauchter Z Fold 4 mit 256 GB Speicher für 350 € VB",
+        "source": "groq"
+      },
+      "first_seen": "2026-05-31T14:06:28.918048+00:00"
+    },
     "1d070a31251913ad91609d0eca50e808": {
       "id": "1d070a31251913ad91609d0eca50e808",
       "title": "Samsung Galaxy Z Fold 5 512GB, schwarz",
@@ -484,7 +550,7 @@
     "a641ddb3995bf01d0e50952d25a19535": {
       "id": "a641ddb3995bf01d0e50952d25a19535",
       "title": "Verkaufe mein Samsung Galaxy Z Fold6 mit 1 TB Speicher.",
-      "price": "599 € VB",
+      "price": "499 € VB599 €",
       "speicher": "1 TB",
       "ort": "41844 Wegberg\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "15 km",
@@ -496,21 +562,19 @@
       "description": "Das Handy funktioniert grundsätzlich, das Außendisplay läuft einwandfrei und lässt sich normal...",
       "full_description": "Das Handy funktioniert grundsätzlich, das Außendisplay läuft einwandfrei und lässt sich normal bedienen. Der innere Bildschirm ist leider defekt (beim Aufklappen ohne Funktion/Displayfehler). Details: * 1 TB Speicher * Farbe: grau * Außendisplay funktioniert perfekt * Innenbildschirm defekt * Handy startet normal * Kein SIM- oder Google-Sperre * Mit Originalverpackung/Rechnung vorhanden ca. 1 Jahr alt. Ideal für Bastler, Reparatur oder Ersatzteile. Preis: 599 € VB Privatverkauf, daher keine Garantie oder Rücknahme.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 3,
+        "stars": 2,
         "label": "Vorsicht",
-        "price_note": "Günstig",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~900 €)",
         "flags": [
-          "Innendisplay defekt",
-          "Keine Garantie oder Rücknahme"
+          "⚠️ Als defekt beschrieben"
         ],
         "positives": [
-          "Außendisplay funktioniert perfekt",
-          "1 TB Speicher",
-          "Originalverpackung und Rechnung vorhanden"
+          "✅ Originalverpackung",
+          "✅ Garantie vorhanden",
+          "✅ Rechnung/Beleg vorhanden",
+          "✅ Makellos"
         ],
-        "summary": "Samsung Galaxy Z Fold6 mit defektem Innendisplay, aber funktionierendem Außendisplay und 1 TB Speicher zum Verkauf.",
-        "source": "groq"
+        "summary": "⚠️ Als defekt beschrieben · 🔴 Deutlich überteuert (Ref. ~900 €)"
       },
       "first_seen": "2026-05-29T16:51:40.655909+00:00"
     },
@@ -2691,37 +2755,6 @@
         "source": "groq"
       },
       "first_seen": "2026-05-31T05:42:37.907251+00:00"
-    },
-    "b1f7df38266110723cbf1587ebd5d482": {
-      "id": "b1f7df38266110723cbf1587ebd5d482",
-      "title": "iPhone 13 Pro 512 GB (Tausch gegen Samsung Galaxy Z Fold möglich)",
-      "price": "380 €",
-      "speicher": "512 GB",
-      "ort": "58089 Hagen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "72 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-13-pro-512-gb-tausch-gegen-samsung-galaxy-z-fold-moeglich-/3401484476-173-2010",
-      "description": "Bilder folgen….\n\n512 GB\nGold\nOVP ist mit dabei\n\n\nWürde auch gegen ein Samsung Galaxy Z Fold 6-7...",
-      "full_description": "Bilder folgen…. 512 GB Gold OVP ist mit dabei Würde auch gegen ein Samsung Galaxy Z Fold 6-7 tauschen Zustand muss nicht perfekt sein!",
-      "assessment": {
-        "category": "Ankauf",
-        "stars": 2,
-        "label": "Vorsicht",
-        "price_note": "Überteuert",
-        "flags": [
-          "Falsches Gerät im Titel",
-          "Keine Beschreibung des Zustands"
-        ],
-        "positives": [
-          "Tauschmöglichkeit gegen Samsung Galaxy Z Fold"
-        ],
-        "summary": "iPhone 13 Pro 512 GB zum Tausch gegen Samsung Galaxy Z Fold",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-31T05:42:37.907561+00:00"
     },
     "51d571776f0b54afa75e4cc65aef5c55": {
       "id": "51d571776f0b54afa75e4cc65aef5c55",
@@ -5873,6 +5906,6 @@
       "first_seen": "2026-05-31T05:42:48.058082+00:00"
     }
   },
-  "last_full_send": "2026-05-31T06:00:29.295171+00:00",
-  "last_run": "2026-05-31T11:47:14.481451+00:00"
+  "last_full_send": "2026-05-31T14:07:01.623284+00:00",
+  "last_run": "2026-05-31T14:07:01.623657+00:00"
 }
