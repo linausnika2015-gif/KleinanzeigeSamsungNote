@@ -62,6 +62,39 @@
       },
       "first_seen": "2026-04-16T10:48:12.156825+00:00"
     },
+    "0a7aa1a1b65e0265bec7f980e0f588fa": {
+      "id": "0a7aa1a1b65e0265bec7f980e0f588fa",
+      "title": "Samsung Galaxy Z Fold 5 5G 256GB Phantom Black Smartphone OVP",
+      "price": "389 € VB",
+      "speicher": "256 GB",
+      "ort": "47906 Kempen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "19 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold 5",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-5-5g-256gb-phantom-black-smartphone-ovp/3423373168-173-1140",
+      "description": "Biete hier ein faltbares High-End-Smartphone: Samsung Galaxy Z Fold5 5G mit 12GB RAM / 256GB...",
+      "full_description": "Biete hier ein faltbares High-End-Smartphone: Samsung Galaxy Z Fold5 5G mit 12GB RAM / 256GB (Typ SM-F946B/DS) in der Farbe Phantom Black (schwarz). Verkauf in Samsung Originalverpackung inklusive SIM-Tool , USB-C auf USB-C Textil-Ladekabel , kompletter Beschreibung sowie zusätzlicher Schutzhülle. Das Smartphone befindet sich im guten Zustand mit leichten Gebrauchsspuren (Displays ohne Schäden) und funktioniert tadellos. Damaliger Neupreis lag bei 1899€ Versand möglich, Abholung bevorzugt. Privatverkauf: keine Garantie, Rücknahme oder Gewährleistung!!!",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Sehr günstig",
+        "flags": [
+          "Keine Garantie",
+          "Keine Rücknahme oder Gewährleistung"
+        ],
+        "positives": [
+          "Neu in OVP",
+          "Hochwertiges Zubehör",
+          "Guter Zustand"
+        ],
+        "summary": "Neues Samsung Galaxy Z Fold 5 in OVP, sehr günstig",
+        "source": "groq"
+      },
+      "first_seen": "2026-06-01T12:46:56.235552+00:00"
+    },
     "ccc8d23a4ee0fedaa861c38d43fa8137": {
       "id": "ccc8d23a4ee0fedaa861c38d43fa8137",
       "title": "Samsung Galaxy Z Fold7 / 1TB / Jetblack",
@@ -193,7 +226,7 @@
     "c38490c9919836e38cf8bfc2ab14b4b0": {
       "id": "c38490c9919836e38cf8bfc2ab14b4b0",
       "title": "Samsung Galaxy Fold 5 Bundle: Handy, Watch 5, Buds 2 & Zubehör",
-      "price": "800 € VB",
+      "price": "700 € VB800 €",
       "speicher": "k.A.",
       "ort": "53545 Linz am Rhein\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "91 km",
@@ -205,19 +238,16 @@
       "description": "Ich biete hier ein umfassendes Samsung-Bundle an, das mein Galaxy Fold 5 Smartphone, eine Galaxy...",
       "full_description": "Ich biete hier ein umfassendes Samsung-Bundle an, das mein Galaxy Fold 5 Smartphone, eine Galaxy Watch 5 Smartwatch und Galaxy Buds 2 Kopfhörer umfasst. Dazu gibt es noch mehrere Hüllen und Ladekabel. Es ist die perfekte Ausstattung für alle. Geräte funktionieren einwandfrei und sind bereit für einen neuen Besitzer. Die Gebrauchsspuren sind minimal, da ich stets sorgsam damit umgegangen bin. Bei Fragen melde dich gerne.",
       "assessment": {
-        "category": "Zubehör",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
+        "stars": 1,
+        "label": "Meiden",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~650 €)",
         "flags": [
-          "Keine Spezifikationen zum Zustand und Speicher des Fold 5"
+          "ℹ️ Gebrauchsspuren"
         ],
         "positives": [
-          "Umfassendes Bundle mit Watch 5 und Buds 2",
-          "Mehrere Hüllen und Ladekabel enthalten"
+          "✅ Makellos"
         ],
-        "summary": "Umfassendes Samsung-Bundle mit Fold 5, Watch 5, Buds 2 und Zubehör",
-        "source": "groq"
+        "summary": "ℹ️ Gebrauchsspuren · 🔴 Deutlich überteuert (Ref. ~650 €)"
       },
       "first_seen": "2026-05-31T18:11:46.551949+00:00"
     },
@@ -701,39 +731,6 @@
       },
       "first_seen": "2026-05-29T08:49:25.712720+00:00"
     },
-    "3a085ad11b8fd01c7ad46694d61ffe07": {
-      "id": "3a085ad11b8fd01c7ad46694d61ffe07",
-      "title": "Samsung Galaxy Z-Fold 5 5g 256gb/12gb Phantom Black",
-      "price": "369 €",
-      "speicher": "256 GB",
-      "ort": "47051 Duisburg-​Mitte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "35 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-5-5g-256gb-12gb-phantom-black/3420460061-173-2151",
-      "description": "Samsung Galaxy Z-Fold 5 5g 256GB/12GB Ram Android Dual-Sim Phantom Black mit Ladegerät und...",
-      "full_description": "Samsung Galaxy Z-Fold 5 5g 256GB/12GB Ram Android Dual-Sim Phantom Black mit Ladegerät und Guess Hülle/ Cover + Rechnung Model: SM-F 946B/DS Das Smartphone ist gebraucht und befindet sich in einem guten Zustand leichte Gebrauchsspuren am Rahmen vorhanden Sie Fotos eine Folie ist auf dem Display voll funktionsfähig Bei weiteren Fragen einfach melden So lange die Anzeige Online ist ist es auch verfügbar Barzahlung bei Abholung Abholung nur während der Öffnungszeiten Montags bis Freitags 12.00 - 17.00 Uhr Samstags 12.00 - 14.00 Uhr Nach Terminvereinbarung",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "leichte Gebrauchsspuren am Rahmen",
-          "Folie auf dem Display"
-        ],
-        "positives": [
-          "guter Zustand",
-          "Ladegerät und Hülle enthalten",
-          "Rechnung vorliegt"
-        ],
-        "summary": "Gebrauchter Z Fold 5 in gutem Zustand, leichte Gebrauchsspuren, günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-05-28T23:37:18.021453+00:00"
-    },
     "f214eb9ccf65f6663b8f7d20e77c5f83": {
       "id": "f214eb9ccf65f6663b8f7d20e77c5f83",
       "title": "Samsung Galaxy Z Fold 5 mit Hülle | Samsung | Galaxy Z Fold 5",
@@ -802,6 +799,6 @@
       "first_seen": "2026-05-28T21:17:06.283855+00:00"
     }
   },
-  "last_full_send": "2026-06-01T06:15:15.768699+00:00",
-  "last_run": "2026-06-01T06:15:15.768900+00:00"
+  "last_full_send": "2026-06-01T12:47:25.096306+00:00",
+  "last_run": "2026-06-01T12:47:25.096390+00:00"
 }
