@@ -62,9 +62,9 @@
       },
       "first_seen": "2026-04-16T10:48:12.156457+00:00"
     },
-    "8440b2898071c6d9a2a3204c24de167b": {
-      "id": "8440b2898071c6d9a2a3204c24de167b",
-      "title": "Samsung Galaxy Z Fold 5 512GB Schwarz",
+    "dfa562d0460a25471bfe356c06cf76f6": {
+      "id": "dfa562d0460a25471bfe356c06cf76f6",
+      "title": "Samsung Galaxy Fold 5 512GB Schwarz",
       "price": "379 €",
       "speicher": "512 GB",
       "ort": "58452 Witten\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
@@ -73,7 +73,7 @@
       "model": "Z Fold 5",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-5-512gb-schwarz/3424769447-173-1022",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-5-512gb-schwarz/3424829103-173-1022",
       "description": "Verkaufe mein Samsung Galaxy Z Fold 5 mit 512 GB Speicher in Schwarz.\n\nDas Handy wurde kaum genutzt...",
       "full_description": "Verkaufe mein Samsung Galaxy Z Fold 5 mit 512 GB Speicher in Schwarz. Das Handy wurde kaum genutzt und liegt seit längerer Zeit nur ungenutzt herum. Technisch funktioniert alles einwandfrei: beide Displays, Kamera, Lautsprecher, Ladeanschluss, WLAN, Bluetooth, Fingerabdrucksensor und Face Unlock funktionieren ohne Probleme. Auf der Rückseite sind ein paar Gebrauchsspuren vorhanden, siehe Bilder. Die Displays sind in gutem Zustand. Modell: Samsung Galaxy Z Fold 5 Speicher: 512 GB Farbe: Schwarz Zustand: gut Auf Werkseinstellungen zurückgesetzt Samsung Galaxy Buds2 Pro können gegen Aufpreis dazu gekauft werden. Das Gerät kann bei Abholung gerne vor Ort angeschaut und getestet werden. Nur Abholung. Kein Versand. Barzahlung bei Abholung. Privatverkauf, daher keine Garantie, Rücknahme oder Gewährleistung.",
       "assessment": {
@@ -86,14 +86,14 @@
           "Kein Versand"
         ],
         "positives": [
-          "Gut erhalten",
-          "Funktioniert einwandfrei",
-          "Barzahlung möglich"
+          "Geringe Nutzung",
+          "Technisch einwandfrei",
+          "Gute Displays"
         ],
-        "summary": "Gebrauchter Z Fold 5 in gutem Zustand, 512 GB, Schwarz, privatverkauft",
+        "summary": "Gebrauchter Z Fold 5 in gutem Zustand, geringe Nutzung, günstig",
         "source": "groq"
       },
-      "first_seen": "2026-06-02T21:57:22.487665+00:00"
+      "first_seen": "2026-06-02T23:57:29.057482+00:00"
     },
     "caa1ba9d3980b0a13f816f53fb5ec6a6": {
       "id": "caa1ba9d3980b0a13f816f53fb5ec6a6",
@@ -5962,5 +5962,5 @@
     }
   },
   "last_full_send": "2026-06-02T21:57:52.346349+00:00",
-  "last_run": "2026-06-02T21:57:52.346685+00:00"
+  "last_run": "2026-06-02T23:57:55.795837+00:00"
 }
