@@ -62,35 +62,67 @@
       },
       "first_seen": "2026-04-16T10:48:12.156825+00:00"
     },
-    "d96e58ee9fab15daca37633431c45165": {
-      "id": "d96e58ee9fab15daca37633431c45165",
-      "title": "Samsung Galaxy Z Fold7 1 TB/16GB RAM- Top Zustand +Garantie",
-      "price": "1.000 € VB",
-      "speicher": "1 TB",
-      "ort": "41464 Neuss\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "16 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
+    "a164f23f19f80bc35eb2bc3205a7df80": {
+      "id": "a164f23f19f80bc35eb2bc3205a7df80",
+      "title": "Samsung Galaxy Z Fold 4 DEFEKT | Bastler / Ersatzteile | Front ok",
+      "price": "65 €",
+      "speicher": "k.A.",
+      "ort": "46487 Wesel\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "54 km",
+      "zustand": "Gebraucht",
+      "model": "Z Fold 4",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold7-1-tb-16gb-ram-top-zustand-garantie/3426014318-173-2113",
-      "description": "Verkaufe ein Samsung Galaxy Z Fold7 1 TB Jet Black\nKeine Kratzer\nGarantie bis 29.07.2027\nRechnung...",
-      "full_description": "Verkaufe ein Samsung Galaxy Z Fold7 1 TB Jet Black Keine Kratzer Garantie bis 29.07.2027 Rechnung dabei",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-4-defekt-bastler-ersatzteile-front-ok/3426305530-173-1868",
+      "description": "Hiermit verkaufe ich ein Samsung Galaxy Z Fold 4.\n\nDas Gerät wird ausdrücklich als DEFEKT an...",
+      "full_description": "Hiermit verkaufe ich ein Samsung Galaxy Z Fold 4. Das Gerät wird ausdrücklich als DEFEKT an Bastler oder zum Ausschlachten (Ersatzteilspender) angeboten. Das Handy startet ganz normal und lässt sich über den vorderen Bildschirm bedienen. Bekannte Mängel / Defekte: - Hauptdisplay (innen): Bleibt komplett schwarz und funktioniert nicht. - WLAN-Modul: Defekt (Verbindung lässt sich im Menü nicht aktivieren). - Kamera: Ein Schutzglas der Rückkamera ist gerissen. Positiv: - Frontdisplay: Voll funktionsfähig und reagiert einwandfrei. - System: Das Gerät bootet normal hoch. Lieferumfang: Nur das Smartphone (ohne weiteres Zubehör). Das Gerät ist bereits auf Werkseinstellungen zurückgesetzt. Der Verkauf erfolgt unter Ausschluss jeglicher Sachmängelhaftung. Die Haftung auf Schadenersatz wegen Verletzungen von Gesundheit, Körper oder Leben und grob fahrlässiger und/oder vorsätzlicher Verletzungen meiner Pflichten als Verkäufer bleibt davon unberührt.",
       "assessment": {
         "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Top Zustand",
-          "Garantie bis 29.07.2027",
-          "Keine Kratzer"
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "Sehr günstig",
+        "flags": [
+          "Defekt",
+          "Kein WLAN",
+          "Kamera beschädigt"
         ],
-        "summary": "Samsung Galaxy Z Fold7 1 TB in Top Zustand mit Garantie",
+        "positives": [
+          "Frontdisplay funktioniert",
+          "System bootet normal hoch"
+        ],
+        "summary": "Defektes Z Fold 4 zum Ausschlachten, Frontdisplay funktioniert",
         "source": "groq"
       },
-      "first_seen": "2026-06-04T12:11:09.932109+00:00"
+      "first_seen": "2026-06-04T16:27:10.159642+00:00"
+    },
+    "a356c7a370b65ff4d497eb6bbea759c6": {
+      "id": "a356c7a370b65ff4d497eb6bbea759c6",
+      "title": "Cover Tablet Smart Fold Case Galaxy Tab A 10.1 von 2016",
+      "price": "5 € VB",
+      "speicher": "k.A.",
+      "ort": "53123 Duisdorf\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "68 km",
+      "zustand": "Neu",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/cover-tablet-smart-fold-case-galaxy-tab-a-10-1-von-2016/3426214448-156-21650",
+      "description": "Unbenutzt und neu. Fehlkauf.",
+      "full_description": "Unbenutzt und neu. Fehlkauf.",
+      "assessment": {
+        "category": "Zubehör",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Sehr günstig",
+        "flags": [],
+        "positives": [
+          "Unbenutzt und neu",
+          "Fehlkauf"
+        ],
+        "summary": "Neues, unbenutztes Cover für Galaxy Tab A 10.1 von 2016 für 5€",
+        "source": "groq"
+      },
+      "first_seen": "2026-06-04T16:27:10.159944+00:00"
     },
     "fe6475db975778e40ce46cad1ad57b46": {
       "id": "fe6475db975778e40ce46cad1ad57b46",
@@ -495,38 +527,6 @@
       },
       "first_seen": "2026-06-02T23:57:29.057482+00:00"
     },
-    "caa1ba9d3980b0a13f816f53fb5ec6a6": {
-      "id": "caa1ba9d3980b0a13f816f53fb5ec6a6",
-      "title": "Samsung Galaxy Z Fold 5",
-      "price": "400 € VB",
-      "speicher": "k.A.",
-      "ort": "47877 Willich\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "9 km",
-      "zustand": "Gut",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-5/3424740450-173-1918",
-      "description": "Verkaufe hiermit das Samsung Galaxy Z Fold 5\nHabe die Klapp Funktion so gut wie nie benutzt weshalb...",
-      "full_description": "Verkaufe hiermit das Samsung Galaxy Z Fold 5 Habe die Klapp Funktion so gut wie nie benutzt weshalb es sich für mich einfach nicht lohnt",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Klappfunktion nicht getestet",
-          "Keine Speicherangabe"
-        ],
-        "positives": [
-          "Guter Zustand",
-          "Niedriger Preis"
-        ],
-        "summary": "Gebrauchter Z Fold 5 in gutem Zustand für 400 €",
-        "source": "groq"
-      },
-      "first_seen": "2026-06-02T21:57:22.487980+00:00"
-    },
     "23a2c000404682ca80b9436ce6e71d22": {
       "id": "23a2c000404682ca80b9436ce6e71d22",
       "title": "Samsung Galaxy z Fold 5  512gb Schwarz",
@@ -779,5 +779,5 @@
     }
   },
   "last_full_send": "2026-06-04T12:11:44.283452+00:00",
-  "last_run": "2026-06-04T12:11:44.283531+00:00"
+  "last_run": "2026-06-04T16:27:42.820255+00:00"
 }
