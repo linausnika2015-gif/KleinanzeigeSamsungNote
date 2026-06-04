@@ -65,7 +65,7 @@
     "a164f23f19f80bc35eb2bc3205a7df80": {
       "id": "a164f23f19f80bc35eb2bc3205a7df80",
       "title": "Samsung Galaxy Z Fold 4 DEFEKT | Bastler / Ersatzteile | Front ok",
-      "price": "65 €",
+      "price": "65 € VB",
       "speicher": "k.A.",
       "ort": "46487 Wesel\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "54 km",
@@ -77,21 +77,19 @@
       "description": "Hiermit verkaufe ich ein Samsung Galaxy Z Fold 4.\n\nDas Gerät wird ausdrücklich als DEFEKT an...",
       "full_description": "Hiermit verkaufe ich ein Samsung Galaxy Z Fold 4. Das Gerät wird ausdrücklich als DEFEKT an Bastler oder zum Ausschlachten (Ersatzteilspender) angeboten. Das Handy startet ganz normal und lässt sich über den vorderen Bildschirm bedienen. Bekannte Mängel / Defekte: - Hauptdisplay (innen): Bleibt komplett schwarz und funktioniert nicht. - WLAN-Modul: Defekt (Verbindung lässt sich im Menü nicht aktivieren). - Kamera: Ein Schutzglas der Rückkamera ist gerissen. Positiv: - Frontdisplay: Voll funktionsfähig und reagiert einwandfrei. - System: Das Gerät bootet normal hoch. Lieferumfang: Nur das Smartphone (ohne weiteres Zubehör). Das Gerät ist bereits auf Werkseinstellungen zurückgesetzt. Der Verkauf erfolgt unter Ausschluss jeglicher Sachmängelhaftung. Die Haftung auf Schadenersatz wegen Verletzungen von Gesundheit, Körper oder Leben und grob fahrlässiger und/oder vorsätzlicher Verletzungen meiner Pflichten als Verkäufer bleibt davon unberührt.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 2,
-        "label": "Vorsicht",
-        "price_note": "Sehr günstig",
+        "stars": 1,
+        "label": "Meiden",
+        "price_note": "🟢 Sehr günstig (Ref. ~450 €)",
         "flags": [
-          "Defekt",
-          "Kein WLAN",
-          "Kamera beschädigt"
+          "⚠️ Als defekt beschrieben",
+          "⚠️ Riss vorhanden",
+          "⚠️ Displayschaden"
         ],
         "positives": [
-          "Frontdisplay funktioniert",
-          "System bootet normal hoch"
+          "✅ Makellos",
+          "✅ Zubehör dabei"
         ],
-        "summary": "Defektes Z Fold 4 zum Ausschlachten, Frontdisplay funktioniert",
-        "source": "groq"
+        "summary": "⚠️ Als defekt beschrieben · 🟢 Sehr günstig (Ref. ~450 €)"
       },
       "first_seen": "2026-06-04T16:27:10.159642+00:00"
     },
@@ -185,39 +183,6 @@
         "source": "groq"
       },
       "first_seen": "2026-06-04T12:11:09.932704+00:00"
-    },
-    "264ea67c28c04c7caf1c5e1e98d6dba9": {
-      "id": "264ea67c28c04c7caf1c5e1e98d6dba9",
-      "title": "Samsung galaxy Z Fold 7 256 GB schwarz",
-      "price": "900 € VB",
-      "speicher": "256 GB",
-      "ort": "58239 Schwerte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "82 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-256-gb-schwarz/3425698136-173-1916",
-      "description": "Angeboten wird ein Samsung Galaxy Z Fold 7 mit 256 GB Speicher in Schwarz.\nRechnung, Ovp und...",
-      "full_description": "Angeboten wird ein Samsung Galaxy Z Fold 7 mit 256 GB Speicher in Schwarz. Rechnung, Ovp und ladekabel sind dabei. Garantie noch 1 Jahr und 1 Monat Das Handy wurde am 29.07.2025 gekauft Funktioniert Einwandfrei. Kein Defekt oder sonst was. Bei Fragen einfach melden. Sie werden schnellstmöglich beantwortet. Der Verkauf erfolgt ohne jegliche Gewährleistung oder Rücknahme da privat. Angebote wie 600€ werden ignoriert.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Garantie",
-          "Keine Rücknahme"
-        ],
-        "positives": [
-          "Rechnung und Zubehör vorhanden",
-          "Einwandfreier Zustand",
-          "Geringe Nutzung"
-        ],
-        "summary": "Gebrauchter Z Fold 7 in Schwarz, 256 GB, 1 Jahr Garantie, privat verkauft",
-        "source": "groq"
-      },
-      "first_seen": "2026-06-04T08:56:58.771534+00:00"
     },
     "312f3d15094f8c5a4d8ccc3bf4bd5e48": {
       "id": "312f3d15094f8c5a4d8ccc3bf4bd5e48",
@@ -776,8 +741,42 @@
         "summary": "ℹ️ Gebrauchsspuren · ℹ️ Preis nicht angegeben"
       },
       "first_seen": "2026-06-01T18:46:06.605522+00:00"
+    },
+    "b9aabf694319e93a0baaaa37767f9427": {
+      "id": "b9aabf694319e93a0baaaa37767f9427",
+      "title": "samsung galaxy z fold7  256 gb",
+      "price": "1.000 € VB1.020 €",
+      "speicher": "256 GB",
+      "ort": "53913 Swisttal\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "65 km",
+      "zustand": "Neu",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold7-256-gb/3423721331-173-1666",
+      "description": "Samsung Galaxy z fold7\nSamsung galaxy Buds 4 neu verpackt\nSamsung Galaxy Watch4\n\nHallo, hier biete...",
+      "full_description": "Samsung Galaxy z fold7 Samsung galaxy Buds 4 neu verpackt Samsung Galaxy Watch4 Hallo, hier biete ich mein Samsung Galaxy Z Fold7 in einem schönen Blauton an. Es kommt mit 256 GB Speicherplatz und ist ein echtes Multitalent für Arbeit und Freizeit. Es handelt sich um eine Samsung Galaxy Watch4. Modellnummer: SM-R875F Größe: 44 mm (steht links auf dem Glasrand) Kleine gebraucht spuren Samsung Galaxy Buds 4 - Großes, faltbares Display - 256 GB interner Speicher - Elegantes blaues Design - Leistungsstarker Prozessor für reibungsloses Multitasking - Hochwertige Kamera für beeindruckende Fotos - gekauft im Oktober Es funktioniert einwandfrei hat Gebrauchsspuren. An den Ecken wie man sieht aber funktioniert alles Schreib mir einfach, wenn du Fragen hast. Noch ein paar Infos: Keine Garantie oder Rücknahme Tipp: Höflichkeit bei Kleinanzeigen wird sehr geschätzt und erhöht die Chance auf eine Antwort.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Garantie oder Rücknahme"
+        ],
+        "positives": [
+          "Neu",
+          "256 GB Speicher",
+          "Blaues Design",
+          "Leistungsstarker Prozessor",
+          "Hochwertige Kamera"
+        ],
+        "summary": "Neuer Samsung Galaxy Z Fold7 mit 256 GB Speicher und blauem Design, inkl. Samsung Galaxy Watch4 und Buds 4",
+        "source": "groq"
+      },
+      "first_seen": "2026-06-04T19:29:13.942629+00:00"
     }
   },
-  "last_full_send": "2026-06-04T12:11:44.283452+00:00",
-  "last_run": "2026-06-04T16:27:42.820255+00:00"
+  "last_full_send": "2026-06-04T19:29:45.145559+00:00",
+  "last_run": "2026-06-04T19:29:45.145639+00:00"
 }
