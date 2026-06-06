@@ -120,20 +120,20 @@
       },
       "first_seen": "2026-06-06T14:50:31.789573+00:00"
     },
-    "f246c6777d3c9e3aef070bfca78f17bd": {
-      "id": "f246c6777d3c9e3aef070bfca78f17bd",
-      "title": "Samsung Galaxy Z Fold 7 Smartphone Schwarz",
+    "00cfd4d4e7be63c27be857d9f08a693d": {
+      "id": "00cfd4d4e7be63c27be857d9f08a693d",
+      "title": "Samsung Galaxy Z Fold 7 512 GB Smartphone Schwarz",
       "price": "850 € VB",
-      "speicher": "k.A.",
+      "speicher": "512 GB",
       "ort": "47137 Meiderich/​Beeck\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "38 km",
-      "zustand": "k.A.",
+      "zustand": "Sehr gut",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-smartphone-schwarz/3427984314-173-2155",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-512-gb-smartphone-schwarz/3427984314-173-2155",
       "description": "Ich biete hier ein Samsung Galaxy Z Fold 7Smartphone in elegantem Schwarz an. Dieses innovative...",
-      "full_description": "Ich biete hier ein Samsung Galaxy Z Fold 7Smartphone in elegantem Schwarz an. Dieses innovative Gerät kombiniert die Funktionalität eines Smartphones mit der Vielseitigkeit eines Tablets. Es ist perfekt für Multitasking und Medienkonsum unterwegs. * Großes, faltbares Display * Hochwertige Triple-Kamera * Schlankes Design in Schwarz * Leistungsstarke Performance Das Smartphone befindet sich in einem sehr guten Zustand mit minimalen Gebrauchsspuren, die kaum sichtbar sind. Es funktioniert einwandfrei und ist bereit für einen neuen Besitzer. Schreib mir einfach, wenn du Fragen hast.",
+      "full_description": "Ich biete hier ein Samsung Galaxy Z Fold 7Smartphone in elegantem Schwarz an. Dieses innovative Gerät kombiniert die Funktionalität eines Smartphones mit der Vielseitigkeit eines Tablets. Es ist perfekt für Multitasking und Medienkonsum unterwegs. * Großes, faltbares Display * Hochwertige Triple-Kamera * Schlankes Design in Schwarz * Leistungsstarke Performance Das Smartphone befindet sich in einem sehr guten Zustand mit minimalen Gebrauchsspuren, die kaum sichtbar sind. Es funktioniert einwandfrei und ist bereit für einen neuen Besitzer. Verpackung dabei Schreib mir einfach, wenn du Fragen hast.",
       "assessment": {
         "category": "Gerät",
         "stars": 5,
@@ -143,12 +143,12 @@
         "positives": [
           "Sehr guter Zustand",
           "Funktioniert einwandfrei",
-          "Leistungsstarke Performance"
+          "Verpackung dabei"
         ],
-        "summary": "Samsung Galaxy Z Fold 7 in Schwarz, sehr guter Zustand, günstig",
+        "summary": "Samsung Galaxy Z Fold 7 in Schwarz, sehr guter Zustand, 512 GB, 850 €",
         "source": "groq"
       },
-      "first_seen": "2026-06-06T12:12:54.078514+00:00"
+      "first_seen": "2026-06-06T16:15:57.499451+00:00"
     },
     "4313f69ca54d88675cca43801c596dea": {
       "id": "4313f69ca54d88675cca43801c596dea",
@@ -1308,7 +1308,7 @@
     "0a7aa1a1b65e0265bec7f980e0f588fa": {
       "id": "0a7aa1a1b65e0265bec7f980e0f588fa",
       "title": "Samsung Galaxy Z Fold 5 5G 256GB Phantom Black Smartphone OVP",
-      "price": "389 € VB",
+      "price": "360 €389 €",
       "speicher": "256 GB",
       "ort": "47906 Kempen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "19 km",
@@ -1320,21 +1320,18 @@
       "description": "Biete hier ein faltbares High-End-Smartphone: Samsung Galaxy Z Fold5 5G mit 12GB RAM / 256GB...",
       "full_description": "Biete hier ein faltbares High-End-Smartphone: Samsung Galaxy Z Fold5 5G mit 12GB RAM / 256GB (Typ SM-F946B/DS) in der Farbe Phantom Black (schwarz). Verkauf in Samsung Originalverpackung inklusive SIM-Tool , USB-C auf USB-C Textil-Ladekabel , kompletter Beschreibung sowie zusätzlicher Schutzhülle. Das Smartphone befindet sich im guten Zustand mit leichten Gebrauchsspuren (Displays ohne Schäden) und funktioniert tadellos. Damaliger Neupreis lag bei 1899€ Versand möglich, Abholung bevorzugt. Privatverkauf: keine Garantie, Rücknahme oder Gewährleistung!!!",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~650 €)",
         "flags": [
-          "Keine Garantie",
-          "Privatverkauf"
+          "ℹ️ Gebrauchsspuren"
         ],
         "positives": [
-          "Neu in OVP",
-          "Hochwertige Zubehörteile",
-          "Guter Zustand"
+          "✅ Originalverpackung",
+          "✅ Garantie vorhanden",
+          "✅ Zubehör dabei"
         ],
-        "summary": "Neuer Z Fold 5 in OVP, günstig, aber ohne Garantie",
-        "source": "groq"
+        "summary": "ℹ️ Gebrauchsspuren · 🔴 Deutlich überteuert (Ref. ~650 €)"
       },
       "first_seen": "2026-06-06T12:12:56.477114+00:00"
     },
@@ -6106,5 +6103,5 @@
     }
   },
   "last_full_send": "2026-06-06T12:32:08.384656+00:00",
-  "last_run": "2026-06-06T14:51:07.239435+00:00"
+  "last_run": "2026-06-06T16:16:24.837317+00:00"
 }
