@@ -62,6 +62,39 @@
       },
       "first_seen": "2026-04-16T10:48:12.156457+00:00"
     },
+    "d2435b490cf8f576ad3b512d14b72d70": {
+      "id": "d2435b490cf8f576ad3b512d14b72d70",
+      "title": "Handy Samsung Galaxy fold",
+      "price": "59 €",
+      "speicher": "k.A.",
+      "ort": "53879 Euskirchen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "65 km",
+      "zustand": "Gebraucht",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/handy-samsung-galaxy-fold/3427593778-173-1893",
+      "description": "Ohne Ladegerät\nDefekt//\nDisplay leuchtet nicht /\nAn Bastler als Ersatzteilspender zu...",
+      "full_description": "Ohne Ladegerät Defekt// Display leuchtet nicht / An Bastler als Ersatzteilspender zu verkaufen ohne Garantie ohne Rücknahme Abholung/ Versand 7 eu",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "Überteuert",
+        "flags": [
+          "Defekt",
+          "Kein Ladegerät",
+          "Keine Garantie",
+          "Keine Rücknahme"
+        ],
+        "positives": [
+          "Preis"
+        ],
+        "summary": "Gebrauchtes Samsung Galaxy Z Fold ohne Ladegerät, Defekt und ohne Garantie",
+        "source": "groq"
+      },
+      "first_seen": "2026-06-06T05:01:49.487998+00:00"
+    },
     "a5c58facfc9bed6d0d4f417e978d52d0": {
       "id": "a5c58facfc9bed6d0d4f417e978d52d0",
       "title": "Galaxy Z Fold5",
@@ -6076,6 +6109,6 @@
       "first_seen": "2026-06-05T22:22:03.863990+00:00"
     }
   },
-  "last_full_send": "2026-06-05T19:22:25.652340+00:00",
-  "last_run": "2026-06-06T00:16:55.001659+00:00"
+  "last_full_send": "2026-06-06T05:02:17.016526+00:00",
+  "last_run": "2026-06-06T05:02:17.016847+00:00"
 }
