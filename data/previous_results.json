@@ -228,7 +228,7 @@
       "id": "f28c8429f86faaba0f32cfeb908fb3cf",
       "title": "Samsung Galaxy Z Fold 5",
       "price": "450 €",
-      "speicher": "k.A.",
+      "speicher": "256 GB",
       "ort": "45329 Altenessen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "53 km",
       "zustand": "Sehr gut",
@@ -236,7 +236,7 @@
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
       "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-5/3432624427-173-2031",
-      "description": "Samsung Galaxy Fold 5\nDas Handy ist in sehr gutem Zustand, die Displays sind ohne...",
+      "description": "Samsung Galaxy Fold 5\n256GB\n12GB\nDas Handy ist in sehr gutem Zustand, die Displays sind ohne...",
       "full_description": "Samsung Galaxy Fold 5 Das Handy ist in sehr gutem Zustand, die Displays sind ohne Beschädigungen. Keine Reklamation und keine Rückgabe. Nur persönliche Abholung.",
       "assessment": {
         "category": "Gerät",
@@ -552,7 +552,7 @@
       "speicher": "512 GB",
       "ort": "53332 Bornheim\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "60 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -6347,5 +6347,5 @@
     }
   },
   "last_full_send": "2026-06-11T19:41:06.572869+00:00",
-  "last_run": "2026-06-11T22:09:59.340813+00:00"
+  "last_run": "2026-06-12T00:24:16.696396+00:00"
 }
