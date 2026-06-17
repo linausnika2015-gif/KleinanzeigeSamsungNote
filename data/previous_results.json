@@ -62,6 +62,40 @@
       },
       "first_seen": "2026-04-16T10:48:12.156457+00:00"
     },
+    "e634e9fdabf45c714d2038970de6dea9": {
+      "id": "e634e9fdabf45c714d2038970de6dea9",
+      "title": "Samsung Galaxy Z Fold7 mit 256GB Neu unbenutzt",
+      "price": "1.050 €",
+      "speicher": "256 GB",
+      "ort": "45889 Gelsenkirchen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "60 km",
+      "zustand": "Neu",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold7-mit-256gb-neu-unbenutzt/3438059048-173-1009",
+      "description": "Hiermit verkaufe ich mein Geschenk bekommenes Samsung Galaxy Z Fold7 mit 12GB Ram 256GB...",
+      "full_description": "Hiermit verkaufe ich mein Geschenk bekommenes Samsung Galaxy Z Fold7 mit 12GB Ram 256GB Speicherplatz daher ich gerade Geld brauche verkaufe ich es es ist zwar geöffnet aber unbenutzt vor ort können sie es bevor sie kaufen gerne alles kontrollieren Privatverkauf daher keine Garantie oder Rücknahme",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Neutral",
+        "price_note": "Überteuert",
+        "flags": [
+          "Keine Garantie",
+          "Privatverkauf",
+          "Geöffnet"
+        ],
+        "positives": [
+          "Neu",
+          "Unbenutzt",
+          "Vor Ort Kontrolle möglich"
+        ],
+        "summary": "Neues Z Fold 7 mit 256 GB, 12 GB RAM, geöffnet, unbenutzt, Privatverkauf",
+        "source": "groq"
+      },
+      "first_seen": "2026-06-17T18:28:41.299381+00:00"
+    },
     "6a83bb55824c9da64c5075b7bdc7b6f3": {
       "id": "6a83bb55824c9da64c5075b7bdc7b6f3",
       "title": "Samsung Galaxy Z Fold 4",
@@ -320,35 +354,6 @@
         "source": "groq"
       },
       "first_seen": "2026-06-16T21:15:04.341768+00:00"
-    },
-    "51c04ddf3b4c862cab2224352cc83026": {
-      "id": "51c04ddf3b4c862cab2224352cc83026",
-      "title": "samsung Galaxy Z Fold 7 512GB",
-      "price": "1.100 € VB",
-      "speicher": "512 GB",
-      "ort": "50997 Godorf\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "53 km",
-      "zustand": "Sehr gut",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-512gb/3437367733-173-25071",
-      "description": "Hallo,\n\nVerkaufe mein sehr gut erhaltenes Handy weil ich zwei habe und das eine nicht benutze.\nBei...",
-      "full_description": "Hallo, Verkaufe mein sehr gut erhaltenes Handy weil ich zwei habe und das eine nicht benutze. Bei Interesse einfach melden",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Sehr guter Zustand",
-          "Hochspezifisches Modell (512GB)"
-        ],
-        "summary": "Sehr gutes Samsung Galaxy Z Fold 7 512GB für 1.100€",
-        "source": "groq"
-      },
-      "first_seen": "2026-06-16T21:15:04.342078+00:00"
     },
     "74560d7a44342a018b2789983fbde296": {
       "id": "74560d7a44342a018b2789983fbde296",
@@ -3141,7 +3146,7 @@
     "6f7976d979bd003663809fea7e45385f": {
       "id": "6f7976d979bd003663809fea7e45385f",
       "title": "Samsung Galaxy Z7 Fold silber 512 GB Neu",
-      "price": "1.555 € VB",
+      "price": "1.477 € VB1.555 €",
       "speicher": "512 GB",
       "ort": "51467 Bergisch Gladbach\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "49 km",
@@ -3153,20 +3158,14 @@
       "description": "Hallöchen....ich habe im Oktober letzten Jahres dieses tolle Handy bei meinem Vodafone Upgrade...",
       "full_description": "Hallöchen....ich habe im Oktober letzten Jahres dieses tolle Handy bei meinem Vodafone Upgrade bekommen mit gesonderten Konditionen und längerer Garantie. Habe es unbenutzt hier liegen und weiter mein anderes genommen da es mir für meinen aktiven Alltag immer zu \"kostbar\" war und ich noch ein weiteres Handy habe.Somit jetzt zum Verkauf . Gerne faire Preisvorschläge . In dieser Farbe mit 512 Gb kostet es aktuell deutlich mehr ;-))",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Falsche Modellbezeichnung (Z7 statt Z Fold)",
-          "Falsche Farbe (silber statt anderen Farben)"
-        ],
+        "stars": 3,
+        "label": "Neutral",
+        "price_note": "ℹ️ Preis nicht angegeben",
+        "flags": [],
         "positives": [
-          "Neu",
-          "512 GB Speicher"
+          "✅ Garantie vorhanden"
         ],
-        "summary": "Neues Samsung Galaxy Z Fold mit 512 GB Speicher zum überhöhten Preis",
-        "source": "groq"
+        "summary": "✅ Garantie vorhanden · ℹ️ Preis nicht angegeben"
       },
       "first_seen": "2026-06-17T11:14:01.485824+00:00"
     },
@@ -5872,6 +5871,6 @@
       "first_seen": "2026-06-17T11:14:11.520738+00:00"
     }
   },
-  "last_full_send": "2026-06-17T11:32:23.986578+00:00",
-  "last_run": "2026-06-17T15:58:48.280948+00:00"
+  "last_full_send": "2026-06-17T18:29:10.887073+00:00",
+  "last_run": "2026-06-17T18:29:10.887378+00:00"
 }
