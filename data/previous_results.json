@@ -62,6 +62,97 @@
       },
       "first_seen": "2026-04-16T10:48:12.156457+00:00"
     },
+    "93c2fb1e0d8c75eb1ed0844692b38f7a": {
+      "id": "93c2fb1e0d8c75eb1ed0844692b38f7a",
+      "title": "3",
+      "price": "400 €",
+      "speicher": "k.A.",
+      "ort": "52353 Düren\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "41 km",
+      "zustand": "k.A.",
+      "model": "Other",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-5/3441192401-173-1770",
+      "description": "Tel: 015122214576",
+      "full_description": "Tel: 015122214576",
+      "assessment": {
+        "category": "Sonstiges",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "Überteuert",
+        "flags": [
+          "Keine Informationen über das Gerät",
+          "Keine Fotos oder Details"
+        ],
+        "positives": [],
+        "summary": "Keine Informationen über das Gerät, möglicherweise nicht seriös",
+        "source": "groq"
+      },
+      "first_seen": "2026-06-21T19:57:19.778382+00:00"
+    },
+    "839d0157a35c184059c8a80465b85707": {
+      "id": "839d0157a35c184059c8a80465b85707",
+      "title": "Samsung Galaxy Z Fold 5 - Klappbares Smartphone",
+      "price": "320 € VB",
+      "speicher": "k.A.",
+      "ort": "45772 Marl\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "72 km",
+      "zustand": "Sehr gut",
+      "model": "Z Fold 5",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-5-klappbares-smartphone/3441178789-173-1772",
+      "description": "Ich biete hier mein Samsung Galaxy Z Fold 5 an, ein innovatives Klapp-Smartphone, das dir...",
+      "full_description": "Ich biete hier mein Samsung Galaxy Z Fold 5 an, ein innovatives Klapp-Smartphone, das dir Flexibilität und ein großes Display in einem kompakten Format bietet. Es ist perfekt für Multitasking und Unterhaltung unterwegs. * Großes, faltbares AMOLED-Display * Leistungsstarker Prozessor für reibungslose Performance * Hochwertiges Kamerasystem für beeindruckende Fotos * Elegantes Design in Cremeweiß und Schwarz Das Handy ist in einem sehr guten Zustand mit minimalen Gebrauchsspuren und funktioniert einwandfrei. Du wirst die Vielseitigkeit dieses Geräts lieben. Bei Fragen melde dich gerne.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Sehr guter Zustand",
+          "Funktioniert einwandfrei",
+          "Großes, faltbares AMOLED-Display",
+          "Leistungsstarker Prozessor",
+          "Hochwertiges Kamerasystem"
+        ],
+        "summary": "Samsung Galaxy Z Fold 5, sehr guter Zustand, günstig",
+        "source": "groq"
+      },
+      "first_seen": "2026-06-21T19:57:19.778751+00:00"
+    },
+    "d30d6d9a8c757a1da8aa119892b86d37": {
+      "id": "d30d6d9a8c757a1da8aa119892b86d37",
+      "title": "Samsung Galaxy Fold 4  256 GB -wie neu-",
+      "price": "420 € VB459 €",
+      "speicher": "256 GB",
+      "ort": "50226 Frechen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "40 km",
+      "zustand": "Neu",
+      "model": "Z Fold 4",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-4-256-gb-wie-neu-/3229089506-173-1160",
+      "description": "Ich verkaufe mein kaum genutztes Galaxy Fold 4 incl. org. Samsung Cover mi Stand und Pen.\nIch bin...",
+      "full_description": "Ich verkaufe mein kaum genutztes Galaxy Fold 4 incl. org. Samsung Cover mi Stand und Pen. Ich bin doch eher ein IPhone User Auf den Fotos kann man hoffentlich den Top Zustand des Gerätes erkennen !?",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Kaum genutztes Gerät",
+          "Original Samsung Cover",
+          "Stand und Pen inklusive"
+        ],
+        "summary": "Kaum genutztes Galaxy Fold 4 mit Original Zubehör",
+        "source": "groq"
+      },
+      "first_seen": "2026-06-21T19:57:19.779166+00:00"
+    },
     "4c3427c085b22b7194890d6bc0bb7218": {
       "id": "4c3427c085b22b7194890d6bc0bb7218",
       "title": "Samsung Galaxy Z Fold6 256GB Crafted Black",
@@ -69,7 +160,7 @@
       "speicher": "256 GB",
       "ort": "40721 Hilden\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "33 km",
-      "zustand": "Neu",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Gewerblich",
@@ -685,106 +776,8 @@
         "source": "groq"
       },
       "first_seen": "2026-06-16T21:15:04.341768+00:00"
-    },
-    "74560d7a44342a018b2789983fbde296": {
-      "id": "74560d7a44342a018b2789983fbde296",
-      "title": "Samsung Galaxy Z Fold 7 Tausch  gegen 17 Pro Max in Orange",
-      "price": "",
-      "speicher": "k.A.",
-      "ort": "52074 Laurensberg\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "54 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Gesuch",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-tausch-gegen-17-pro-max-in-orange/3437221301-273-1928",
-      "description": "Ich biete hier ein Samsung Galaxy Z Fold Smartphone an, das mit seiner innovativen Faltfunktion ein...",
-      "full_description": "Ich biete hier ein Samsung Galaxy Z Fold Smartphone an, das mit seiner innovativen Faltfunktion ein einzigartiges Nutzungserlebnis bietet. Es kommt in der Originalverpackung, die das Gerät sicher schützt. TAUSCH GEGEN EN IPHONE 17 PRO MAX IN ORANGE !!!!!!!! * Großes, faltbares Display * Hochwertige Kamera auf der Rückseite * Elegantes schwarzes Design * Inklusive Originalverpackung Dieses Smartphone ist perfekt für alle, die ein vielseitiges Gerät für Arbeit und Freizeit suchen. Es ist in einem sehr guten Zustand mit minimalen Gebrauchsspuren auf dem Display, wie auf dem Bild zu sehen ist. Bei Fragen melde dich gerne.",
-      "assessment": {
-        "category": "Ankauf",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Tausch gegen iPhone 17 Pro Max",
-          "Keine Speicherangabe"
-        ],
-        "positives": [
-          "Originalverpackung",
-          "Guter Zustand",
-          "Faltbares Display"
-        ],
-        "summary": "Samsung Galaxy Z Fold 7 in OVP, Tausch gegen iPhone 17 Pro Max",
-        "source": "groq"
-      },
-      "first_seen": "2026-06-16T17:17:36.785860+00:00"
-    },
-    "cfe681b68259e07de8a5942cc38f991f": {
-      "id": "cfe681b68259e07de8a5942cc38f991f",
-      "title": "samsung galaxy z fold 6 256gb silver shadow",
-      "price": "580 € VB",
-      "speicher": "256 GB",
-      "ort": "47807 Krefeld\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "15 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 6",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6-256gb-silver-shadow/3437061062-173-1980",
-      "description": "Samsung galalxy z fold 6 256gb Farbe silver shadow.",
-      "full_description": "Samsung galalxy z fold 6 256gb Farbe silver shadow.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 2,
-        "label": "Neutral",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Beschreibung des Zustands",
-          "Keine Fotos"
-        ],
-        "positives": [
-          "Hochspezifisches Modell",
-          "Großer Speicher"
-        ],
-        "summary": "Günstiges Galaxy Z Fold 6 ohne Beschreibung des Zustands",
-        "source": "groq"
-      },
-      "first_seen": "2026-06-16T17:17:36.786965+00:00"
-    },
-    "1dec6b1ec9409b57afbbb00d2d206e6d": {
-      "id": "1dec6b1ec9409b57afbbb00d2d206e6d",
-      "title": "Samsung Galaxy Fold 5 Bundle: Handy, Watch 4, Buds 2 und Zubehör",
-      "price": "450 €500 €",
-      "speicher": "k.A.",
-      "ort": "53547 Leubsdorf Rhein\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "94 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-5-bundle-handy-watch-4-buds-2-und-zubehoer/3430168478-173-21336",
-      "description": "Ich verkaufe ein Samsung Bundle, bestehend aus:\nSamsung Galaxy Z Fold5\nSamsung Galaxy...",
-      "full_description": "Ich verkaufe ein Samsung Bundle, bestehend aus: Samsung Galaxy Z Fold5 Samsung Galaxy Watch5 Samsung Galaxy Buds2 Alle Geräte befinden sich in einem guten Zustand und funktionieren einwandfrei. Es sind die üblichen Gebrauchsspuren vorhanden, die die Funktion jedoch nicht beeinträchtigen. Verkauft wird alles zusammen inklusive des vorhandenen Zubehörs. Bei Fragen oder Interesse gerne melden. Besichtigung und Funktionsprüfung sind nach Absprache möglich.",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Spezifikationen zum Zustand des Handys",
-          "Keine Spezifikationen zum Speicher"
-        ],
-        "positives": [
-          "Vollständiges Bundle",
-          "Zubehör inklusive",
-          "Geräte funktionieren einwandfrei"
-        ],
-        "summary": "Gutes Bundle mit Z Fold 5, Watch 5, Buds 2 und Zubehör für 450-500 €",
-        "source": "groq"
-      },
-      "first_seen": "2026-06-19T16:11:49.950909+00:00"
     }
   },
   "last_full_send": "2026-06-21T17:49:57.216905+00:00",
-  "last_run": "2026-06-21T17:49:57.216985+00:00"
+  "last_run": "2026-06-21T19:57:54.899071+00:00"
 }
