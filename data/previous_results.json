@@ -281,39 +281,6 @@
       },
       "first_seen": "2026-06-21T13:16:02.914130+00:00"
     },
-    "69c917c695e444fd458021877e606ea6": {
-      "id": "69c917c695e444fd458021877e606ea6",
-      "title": "SUCHE Samsung Galaxy Z Fold 7 512GB",
-      "price": "850 € VB",
-      "speicher": "512 GB",
-      "ort": "44651 Herne\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "61 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Gesuch",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/suche-samsung-galaxy-z-fold-7-512gb/3440633071-173-2000",
-      "description": "Moin,\n\nSuche *dringend* ein Z Fold 7, 512GB, bestenfalls Abholung heute Abend (21.06.) oder morgen...",
-      "full_description": "Moin, Suche *dringend* ein Z Fold 7, 512GB, bestenfalls Abholung heute Abend (21.06.) oder morgen in NRW Gene gut gebraucht, sollte keine größeren Macken oder Kratzer haben, vor allem nicht in Display. Rechnung und OVP sind mir auch wichtig Zahle marktübliche Preise, VB Gerne schreiben bei Angeboten :)",
-      "assessment": {
-        "category": "Ankauf",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Dringende Suche",
-          "Marktübliche Preise erwarten"
-        ],
-        "positives": [
-          "Guter Zustand",
-          "512 GB Speicher",
-          "Rechnung und OVP erwünscht"
-        ],
-        "summary": "Suche nach Samsung Galaxy Z Fold 7 512GB, guter Zustand, marktüblicher Preis",
-        "source": "groq"
-      },
-      "first_seen": "2026-06-21T13:16:02.914451+00:00"
-    },
     "0027fb74ad22c5e0d2816ff048a0dbf6": {
       "id": "0027fb74ad22c5e0d2816ff048a0dbf6",
       "title": "Samsung Galaxy Z Fold 6 512GB",
@@ -772,8 +739,41 @@
         "source": "groq"
       },
       "first_seen": "2026-06-16T21:15:04.341768+00:00"
+    },
+    "74560d7a44342a018b2789983fbde296": {
+      "id": "74560d7a44342a018b2789983fbde296",
+      "title": "Samsung Galaxy Z Fold 7 Tausch  gegen 17 Pro Max in Orange",
+      "price": "",
+      "speicher": "k.A.",
+      "ort": "52074 Laurensberg\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "54 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold 7",
+      "angebotstyp": "Gesuch",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-tausch-gegen-17-pro-max-in-orange/3437221301-273-1928",
+      "description": "Ich biete hier ein Samsung Galaxy Z Fold Smartphone an, das mit seiner innovativen Faltfunktion ein...",
+      "full_description": "Ich biete hier ein Samsung Galaxy Z Fold Smartphone an, das mit seiner innovativen Faltfunktion ein einzigartiges Nutzungserlebnis bietet. Es kommt in der Originalverpackung, die das Gerät sicher schützt. TAUSCH GEGEN EN IPHONE 17 PRO MAX IN ORANGE !!!!!!!! * Großes, faltbares Display * Hochwertige Kamera auf der Rückseite * Elegantes schwarzes Design * Inklusive Originalverpackung Dieses Smartphone ist perfekt für alle, die ein vielseitiges Gerät für Arbeit und Freizeit suchen. Es ist in einem sehr guten Zustand mit minimalen Gebrauchsspuren auf dem Display, wie auf dem Bild zu sehen ist. Bei Fragen melde dich gerne.",
+      "assessment": {
+        "category": "Ankauf",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Tausch gegen anderes Gerät",
+          "Minimal Gebrauchsspuren"
+        ],
+        "positives": [
+          "Originalverpackung",
+          "Innovative Faltfunktion",
+          "Hochwertige Kamera"
+        ],
+        "summary": "Samsung Galaxy Z Fold 7 in OVP, Tausch gegen iPhone 17 Pro Max",
+        "source": "groq"
+      },
+      "first_seen": "2026-06-21T23:38:07.120929+00:00"
     }
   },
   "last_full_send": "2026-06-21T17:49:57.216905+00:00",
-  "last_run": "2026-06-21T21:25:28.823567+00:00"
+  "last_run": "2026-06-21T23:38:37.038021+00:00"
 }
