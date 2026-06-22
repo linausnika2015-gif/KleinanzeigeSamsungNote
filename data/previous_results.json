@@ -62,6 +62,38 @@
       },
       "first_seen": "2026-04-16T10:48:12.156457+00:00"
     },
+    "cb2b989da657027c6d393877bd51d326": {
+      "id": "cb2b989da657027c6d393877bd51d326",
+      "title": "Samsung Galaxy z fold 7 in schwarz mit 512 GB , TAUSCH MÖGLICH !",
+      "price": "850 € VB",
+      "speicher": "512 GB",
+      "ort": "50969 Zollstock\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "47 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-in-schwarz-mit-512-gb-tausch-moeglich-/3441711249-173-19654",
+      "description": "100 % akku kleine katscher an den Ecken ..sonst Tip top ..möchte am liebsten tauschen .. bin für...",
+      "full_description": "100 % akku kleine katscher an den Ecken ..sonst Tip top ..möchte am liebsten tauschen .. bin für alles offen .. Tausch Verkauf ..",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 3,
+        "label": "Neutral",
+        "price_note": "Günstig",
+        "flags": [
+          "Kleiner Kasten an den Ecken",
+          "Zustand nicht beschrieben"
+        ],
+        "positives": [
+          "512 GB Speicher",
+          "Tauschmöglichkeit"
+        ],
+        "summary": "Samsung Galaxy Z Fold 7 in schwarz, 512 GB, kleine Knicke an den Ecken, Tauschmöglichkeit",
+        "source": "groq"
+      },
+      "first_seen": "2026-06-22T17:45:51.262380+00:00"
+    },
     "e0f542ec0651b3f2589735e8b770aa6c": {
       "id": "e0f542ec0651b3f2589735e8b770aa6c",
       "title": "Samsung Galaxy I Z Fold 6 I Silver Shadow I 512GB I Gut",
@@ -99,7 +131,7 @@
       "speicher": "512 GB",
       "ort": "46499 Hamminkeln\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "61 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -251,39 +283,6 @@
         "source": "groq"
       },
       "first_seen": "2026-06-21T16:03:56.949452+00:00"
-    },
-    "c6b8eddb05c6b58d0e72bdc1d2f3cb35": {
-      "id": "c6b8eddb05c6b58d0e72bdc1d2f3cb35",
-      "title": "Galaxy Z Fold7 256gb",
-      "price": "750 € VB",
-      "speicher": "256 GB",
-      "ort": "53498 Bad Breisig \n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "97 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/galaxy-z-fold7-256gb/3440758164-173-10350",
-      "description": "Hi!\n\nIch verkaufe hier im Auftrag meiner Mutter das Galaxy Z Fold7 in einem guten Zustand!\nDas...",
-      "full_description": "Hi! Ich verkaufe hier im Auftrag meiner Mutter das Galaxy Z Fold7 in einem guten Zustand! Das Handy hat an der Seite, wegen der Hülle, ein paar Pünktchen wo der Lack abgegangen ist :) Meine Mutter hatte das Handy getauscht, kommt damit aber leider nicht zurecht. Außer dem Original Karton und dem Handy, war nichts dabei :( !Privat Verkauf! !Nur Abholung! !Keine Garantie oder Rücknahme!",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Garantie oder Rücknahme",
-          "Nur Abholung",
-          "Zustand nicht genau beschrieben"
-        ],
-        "positives": [
-          "Galaxy Z Fold7 256gb",
-          "Original Karton"
-        ],
-        "summary": "Galaxy Z Fold7 256gb in gutem Zustand, aber ohne Garantie oder Rücknahme",
-        "source": "groq"
-      },
-      "first_seen": "2026-06-21T13:16:02.913822+00:00"
     },
     "f136a42da28f0c2bb070bb164141a8e6": {
       "id": "f136a42da28f0c2bb070bb164141a8e6",
@@ -780,5 +779,5 @@
     }
   },
   "last_full_send": "2026-06-22T12:22:54.649872+00:00",
-  "last_run": "2026-06-22T12:22:54.650091+00:00"
+  "last_run": "2026-06-22T17:46:20.316966+00:00"
 }
