@@ -63,6 +63,40 @@
       },
       "first_seen": "2026-06-23T21:04:28.856058+00:00"
     },
+    "4e0b1a986d522490760394d338eb90f5": {
+      "id": "4e0b1a986d522490760394d338eb90f5",
+      "title": "Samsung Galaxy Z Fold 7 Blue 256GB,neu.. Tausch?",
+      "price": "980 €",
+      "speicher": "256 GB",
+      "ort": "47495 Rheinberg\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "41 km",
+      "zustand": "Neu",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-blue-256gb-neu-tausch-/3444823450-173-1399",
+      "description": "Verkaufe oder tausche hier mein vier Wochen altes, quasi nie benutzes Galaxy Z Fold 7 in Blue mit...",
+      "full_description": "Verkaufe oder tausche hier mein vier Wochen altes, quasi nie benutzes Galaxy Z Fold 7 in Blue mit 256GB, welches keinerlei Gebrauchsspuren oder sonstige Beschädigungen aufweist. Komplettes Zubehör incl der Rechnung und einem Cover, liegt bei. !! Festpreis!! Nur Abholung oder persönlicher Tausch!! Tausch gegen ein aktuelles Smartphone in der Richtung iPhone 17 Pro Iphone 16 Pro Max Google Pixel Fold 10 Samsung Galaxy S26 Ultra",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Festpreis",
+          "Nur Abholung oder persönlicher Tausch"
+        ],
+        "positives": [
+          "Quasi nie benutzt",
+          "Keine Gebrauchsspuren",
+          "Komplettes Zubehör",
+          "Rechnung und Cover"
+        ],
+        "summary": "Neues Galaxy Z Fold 7 in Blue, 256GB, quasi nie benutzt, Tausch gegen aktuelles Smartphone",
+        "source": "groq"
+      },
+      "first_seen": "2026-06-27T10:19:08.168759+00:00"
+    },
     "55d6184f735f7864ab1fae0e9e5e443c": {
       "id": "55d6184f735f7864ab1fae0e9e5e443c",
       "title": "Samsung Galaxy Z Fold5 256GB - Neuwertig",
@@ -249,40 +283,6 @@
       },
       "first_seen": "2026-06-26T12:22:17.408702+00:00"
     },
-    "28861dbda4cffdba4bb9ed61c6d4f957": {
-      "id": "28861dbda4cffdba4bb9ed61c6d4f957",
-      "title": "Samsung Galaxy Z Fold 7 Blue, neu.. Tausch?",
-      "price": "980 €",
-      "speicher": "k.A.",
-      "ort": "47495 Rheinberg\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "41 km",
-      "zustand": "Neu",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-blue-neu-tausch-/3444323163-173-1399",
-      "description": "Verkaufe oder tausche hier mein vier Wochen altes, quasi nie benutzes Galaxy Z Fold 7 in Blue mit...",
-      "full_description": "Verkaufe oder tausche hier mein vier Wochen altes, quasi nie benutzes Galaxy Z Fold 7 in Blue mit 256GB, welches keinerlei Gebrauchsspuren oder sonstige Beschädigungen aufweist. Komplettes Zubehör incl der Rechnung und einem Cover, liegt bei. !! Festpreis!! Nur Abholung oder persönlicher Tausch!! Tausch gegen ein aktuelles Smartphone in der Richtung iPhone 17 Pro Iphone 16 Pro Max Google Pixel Fold 10 Samsung Galaxy S26 Ultra",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Festpreis",
-          "Nur Abholung oder persönlicher Tausch"
-        ],
-        "positives": [
-          "Neu",
-          "Keine Gebrauchsspuren",
-          "Komplettes Zubehör",
-          "Rechnung und Cover"
-        ],
-        "summary": "Neuer Galaxy Z Fold 7 in Blue, 256 GB, komplettes Zubehör, Rechnung und Cover, Tausch gegen aktuelles Smartphone",
-        "source": "groq"
-      },
-      "first_seen": "2026-06-26T12:22:17.409043+00:00"
-    },
     "578fcb68f67084cdde9e106155a9512a": {
       "id": "578fcb68f67084cdde9e106155a9512a",
       "title": "Samsung Galaxy Fold 4 128GB mit Display-Schaden",
@@ -432,7 +432,7 @@
     "48aa0d53bb202ecafdc230ebcea2daf9": {
       "id": "48aa0d53bb202ecafdc230ebcea2daf9",
       "title": "Samsung Galaxy Z Fold 6 mit 256 GB Speicher",
-      "price": "720 € VB",
+      "price": "709 € VB720 €",
       "speicher": "256 GB",
       "ort": "48324 Sendenhorst\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
       "entfernung": "100 km",
@@ -444,21 +444,19 @@
       "description": "Ich verkaufe mein Samsung Galaxy Z Fold 6 mit 256 GB Speicher in Silver Shadow.\n\nDas Handy wurde...",
       "full_description": "Ich verkaufe mein Samsung Galaxy Z Fold 6 mit 256 GB Speicher in Silver Shadow. Das Handy wurde Ende 2024 (November/Dezember) gekauft und ist in einem sehr guten Zustand. Die Akkukapazität liegt aktuell bei 98 %. Mit dabei sind: Originalverpackung Original Kabel SIM-Werkzeug Original Samsung S Pen Case (Beschreibung beachten) Wichtiger Hinweis zum Case: Der Teil für das Frontdisplay ist beschädigt. Ich lege es aber wegen dem S Pen dazu, da der S Pen samt der zwei Ersatzspitzen weiterhin genutzt werden kann. Das Gerät funktioniert einwandfrei und wurde von mir pfleglich behandelt. Rechnung ist vorhanden. Bei Fragen einfach melden. Weitere Fotos kann ich bei Bedarf gerne schicken. Privatverkauf, daher keine Garantie, Gewährleistung, Rücknahme oder Sachmängelhaftung. Der Verkauf erfolgt unter Ausschluss jeglicher Haftung für Sachmängel.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~900 €)",
         "flags": [
-          "Keine Garantie",
-          "Beschädigung am Case"
+          "⚠️ Beschädigungen erwähnt"
         ],
         "positives": [
-          "Neuware",
-          "Hohe Speicherkapazität",
-          "Vollständige Originalausstattung"
+          "✅ Originalverpackung",
+          "✅ Garantie vorhanden",
+          "✅ Rechnung/Beleg vorhanden",
+          "✅ Makellos"
         ],
-        "summary": "Samsung Galaxy Z Fold 6 mit 256 GB, neu, günstig, vollständige Originalausstattung",
-        "source": "groq"
+        "summary": "⚠️ Beschädigungen erwähnt · 🔴 Deutlich überteuert (Ref. ~900 €)"
       },
       "first_seen": "2026-06-24T20:02:10.260762+00:00"
     },
@@ -5720,6 +5718,6 @@
       "first_seen": "2026-06-26T23:18:10.458079+00:00"
     }
   },
-  "last_full_send": "2026-06-27T04:12:04.812498+00:00",
-  "last_run": "2026-06-27T07:55:52.406121+00:00"
+  "last_full_send": "2026-06-27T10:19:35.445581+00:00",
+  "last_run": "2026-06-27T10:19:35.445856+00:00"
 }
