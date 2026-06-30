@@ -103,7 +103,7 @@
       "speicher": "256 GB",
       "ort": "41363 Jüchen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "12 km",
-      "zustand": "Neu",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -134,7 +134,7 @@
       "speicher": "512 GB",
       "ort": "42853 Remscheid\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "51 km",
-      "zustand": "Gut",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -164,7 +164,7 @@
       "id": "6f74dbcb44dc72493b00fa563cd7d8a4",
       "title": "Samsung Galaxy Z Fold 6 wie NEU - neue Displays",
       "price": "649 €",
-      "speicher": "256 GB",
+      "speicher": "k.A.",
       "ort": "53902 Bad Münstereifel\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "78 km",
       "zustand": "Neu (OVP)",
@@ -806,63 +806,6 @@
         "summary": "✅ Makellos · 🟢 Sehr günstig (Ref. ~1400 €)"
       },
       "first_seen": "2026-06-26T23:18:00.806687+00:00"
-    },
-    "55d6184f735f7864ab1fae0e9e5e443c": {
-      "id": "55d6184f735f7864ab1fae0e9e5e443c",
-      "title": "Samsung Galaxy Z Fold5 256GB - Neuwertig",
-      "price": "450 € VB",
-      "speicher": "256 GB",
-      "ort": "48324 Sendenhorst\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
-      "entfernung": "100 km",
-      "zustand": "Wie neu",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold5-256gb-neuwertig/3444600221-173-1441",
-      "description": "Ich biete hier mein neuwertiges Samsung Galaxy Z Fold5 mit 256GB Speicher an. Es ist ein...",
-      "full_description": "Ich biete hier mein neuwertiges Samsung Galaxy Z Fold5 mit 256GB Speicher an. Es ist ein beeindruckendes Falt-Smartphone, das dir sowohl ein kompaktes Handy als auch ein großes Tablet-Erlebnis bietet. - Großes, faltbares Display - 256GB interner Speicher - Leistungsstarker Prozessor für reibungsloses Multitasking - Hochwertige Kamera für beeindruckende Fotos und Videos Das Gerät ist in einem Top-Zustand, da es kaum genutzt wurde und keine sichtbaren Gebrauchsspuren aufweist. Es funktioniert einwandfrei und ist bereit für einen neuen Besitzer. Bei Fragen melde dich gerne.",
-      "assessment": {
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "🟢 Günstiger Preis (Ref. ~650 €)",
-        "flags": [
-          "ℹ️ Gebrauchsspuren"
-        ],
-        "positives": [
-          "✅ Makellos"
-        ],
-        "summary": "ℹ️ Gebrauchsspuren · 🟢 Günstiger Preis (Ref. ~650 €)"
-      },
-      "first_seen": "2026-06-26T18:00:14.446949+00:00"
-    },
-    "abc386f746a40cd50d2db484e70c14ce": {
-      "id": "abc386f746a40cd50d2db484e70c14ce",
-      "title": "Samsung Galaxy Z Fold7 Blue Shadow",
-      "price": "980 € VB",
-      "speicher": "k.A.",
-      "ort": "52385 Nideggen /​ Düren\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "58 km",
-      "zustand": "Wie neu",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold7-blue-shadow/3444580595-173-12896",
-      "description": "Neuwertiges Samsung Galaxy Z Fold7 Blue Shadow Siehe Bilder , nur an Abholer",
-      "full_description": "Neuwertiges Samsung Galaxy Z Fold7 Blue Shadow Siehe Bilder , nur an Abholer",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Wie neu",
-          "Sehr günstiger Preis"
-        ],
-        "summary": "Neuwertiges Samsung Galaxy Z Fold7 Blue Shadow, sehr günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-06-26T18:00:14.447370+00:00"
     },
     "75974e3f7495f0f9871cbf54bac479b4": {
       "id": "75974e3f7495f0f9871cbf54bac479b4",
@@ -5538,6 +5481,6 @@
       "first_seen": "2026-06-30T11:49:07.442830+00:00"
     }
   },
-  "last_full_send": "2026-06-30T12:06:15.358011+00:00",
-  "last_run": "2026-06-30T17:10:56.631977+00:00"
+  "last_full_send": "2026-06-30T20:11:50.742983+00:00",
+  "last_run": "2026-06-30T20:11:50.743324+00:00"
 }
