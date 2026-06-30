@@ -63,6 +63,39 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "1d070a31251913ad91609d0eca50e808": {
+      "id": "1d070a31251913ad91609d0eca50e808",
+      "title": "Samsung Galaxy Z Fold 5 512GB, schwarz",
+      "price": "499 €",
+      "speicher": "512 GB",
+      "ort": "52349 Düren\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "43 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 5",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-5-512gb-schwarz/3422400280-173-1767",
+      "description": "Eigenschaften zum Produkt und Kaufabwicklung:\n\n•\tGerät ist für den deutschen / europäischen...",
+      "full_description": "Eigenschaften zum Produkt und Kaufabwicklung: •\tGerät ist für den deutschen / europäischen Markt •\tKEIN refurbished •\tinkl. Garantie •\tRechnungstellung nach Erwerb auf Ihren Namen",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Unbekannter Zustand",
+          "Keine Fotos"
+        ],
+        "positives": [
+          "512 GB Speicher",
+          "Garantie",
+          "Deutscher Markt"
+        ],
+        "summary": "Günstiges Fold 5 ohne Fotos, unbekannter Zustand",
+        "source": "groq"
+      },
+      "first_seen": "2026-06-30T08:35:18.544618+00:00"
+    },
     "75cf330ab1bf77bde853934bfff4bbcb": {
       "id": "75cf330ab1bf77bde853934bfff4bbcb",
       "title": "Samsung Galaxy Z Fold 7 | 512 GB |",
@@ -133,7 +166,7 @@
     "d207c4dad5f4c9e2f80b1bd1eb628329": {
       "id": "d207c4dad5f4c9e2f80b1bd1eb628329",
       "title": "Samsung Galaxy Z Fold 6 256gb silver shadow Garantie bis 2028",
-      "price": "650 € VB",
+      "price": "590 € VB650 €",
       "speicher": "256 GB",
       "ort": "51149 Porz\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "53 km",
@@ -145,20 +178,18 @@
       "description": "Im Angebot ein Samsung Galaxy Z Fold 6 in der Farbe silver shadow. Das Handy wurde am 7.2.2025 neu...",
       "full_description": "Im Angebot ein Samsung Galaxy Z Fold 6 in der Farbe silver shadow. Das Handy wurde am 7.2.2025 neu bei Media Markt gekauft mit einer zusätzlichen PlusGarantie für 3 Jahre. Der Zustand des Handys ist neuwertig ohne Gebrauchsspuren. Es wurde immer in einer Hülle benutzt, zusätzlich wurden beim Neukauf Schutzfolien aufgebracht. Die Rechnung wird mitgeliefert. Geliefert wird das Handy mit einem Samsung Schnelladegerät inkl. Ladekabel, Schutzhülle und der Rechnung für die Garantieverlängerung. Versand ist möglich, Zahlung bar bei Abholung, Paypal oder Überweisung",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Neuwertiger Zustand",
-          "Garantie bis 2028",
-          "Zusätzliche PlusGarantie für 3 Jahre",
-          "Schutzfolien aufgebracht",
-          "Inklusive Schnelladegerät, Ladekabel, Schutzhülle und Rechnung"
+        "stars": 3,
+        "label": "Neutral",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~900 €)",
+        "flags": [
+          "ℹ️ Gebrauchsspuren"
         ],
-        "summary": "Neuwertiger Samsung Galaxy Z Fold 6 mit Garantie bis 2028 und Zubehör",
-        "source": "groq"
+        "positives": [
+          "✅ Garantie vorhanden",
+          "✅ Rechnung/Beleg vorhanden",
+          "✅ Makellos"
+        ],
+        "summary": "ℹ️ Gebrauchsspuren · 🔴 Deutlich überteuert (Ref. ~900 €)"
       },
       "first_seen": "2026-06-29T19:09:37.526221+00:00"
     },
@@ -752,36 +783,8 @@
         "source": "groq"
       },
       "first_seen": "2026-06-28T14:08:42.805914+00:00"
-    },
-    "f0ed937d869f7b7b25c0ecdb529d5a63": {
-      "id": "f0ed937d869f7b7b25c0ecdb529d5a63",
-      "title": "Samsung galaxy Z fold 6 256 gb Schwarz",
-      "price": "600 € VB",
-      "speicher": "256 GB",
-      "ort": "40472 Ratingen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "28 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 6",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6-256-gb-schwarz/3444373040-173-2083",
-      "description": "Zum Verkauf steht ein Samsung Galaxy Z Fold6 mit 256 GB Speicher in der Farbe Schwarz.\nDas Gerät...",
-      "full_description": "Zum Verkauf steht ein Samsung Galaxy Z Fold6 mit 256 GB Speicher in der Farbe Schwarz. Das Gerät befindet sich in einem sehr guten gebrauchten Zustand und funktioniert einwandfrei. Das Innen- und Außendisplay sind voll funktionsfähig. Das Smartphone wurde stets sorgfältig behandelt. Lieferumfang: Samsung Galaxy Z Fold6 256 GB Schwarz Originalverpackung Originalzubehör Das Gerät wird vor dem Versand auf Werkseinstellungen zurückgesetzt. Privatverkauf, daher keine Garantie, Gewährleistung oder Rücknahme. Versand innerhalb Deutschlands möglich.",
-      "assessment": {
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "🟢 Günstiger Preis (Ref. ~900 €)",
-        "flags": [],
-        "positives": [
-          "✅ Originalverpackung",
-          "✅ Garantie vorhanden",
-          "✅ Makellos"
-        ],
-        "summary": "✅ Originalverpackung · 🟢 Günstiger Preis (Ref. ~900 €)"
-      },
-      "first_seen": "2026-06-26T15:29:19.220590+00:00"
     }
   },
   "last_full_send": "2026-06-30T04:20:41.284517+00:00",
-  "last_run": "2026-06-30T04:20:41.284730+00:00"
+  "last_run": "2026-06-30T08:35:48.248547+00:00"
 }
