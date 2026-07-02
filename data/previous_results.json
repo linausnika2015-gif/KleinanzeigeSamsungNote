@@ -101,7 +101,7 @@
       "speicher": "256 GB",
       "ort": "41236 Mönchengladbach\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "4 km",
-      "zustand": "Neu",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -132,7 +132,7 @@
       "speicher": "256 GB",
       "ort": "46399 Bocholt\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "76 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -310,36 +310,6 @@
         "source": "groq"
       },
       "first_seen": "2026-07-02T08:19:41.158273+00:00"
-    },
-    "2d95cc537a7dbf4240967eb71d4619b6": {
-      "id": "2d95cc537a7dbf4240967eb71d4619b6",
-      "title": "Samsung galaxy z fold 7",
-      "price": "750 € VB",
-      "speicher": "256 GB",
-      "ort": "47051 Duisburg-​Mitte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "35 km",
-      "zustand": "Neu",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7/3448320266-173-2151",
-      "description": "Samsung Galaxy Z Fold7 256 GB – Blau – Wie neu\n\nIch verkaufe mein Samsung Galaxy Z Fold7 mit 256 GB...",
-      "full_description": "Samsung Galaxy Z Fold7 256 GB – Blau – Wie neu Ich verkaufe mein Samsung Galaxy Z Fold7 mit 256 GB Speicher in der Farbe Blau. Das Smartphone befindet sich in sehr gutem, neuwertigem Zustand und funktioniert technisch einwandfrei. Das Display innen und außen sowie das Gehäuse weisen keine nennenswerten Gebrauchsspuren auf. Details: * Modell: Samsung Galaxy Z Fold7 * Speicher: 256 GB * Farbe: Blau * Zustand: Wie neu * Technisch: Voll funktionsfähig * Ohne Originalverpackung (OVP) * Ohne Rechnung Das Gerät wurde stets pfleglich behandelt und wird vor dem Versand auf Werkseinstellungen zurückgesetzt. Lieferumfang: * Samsung Galaxy Z Fold7 (256 GB, Blau) Privatverkauf. Daher keine Garantie, Gewährleistung, Rücknahme oder Umtausch.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Sehr guter Zustand",
-          "Funktioniert einwandfrei",
-          "Pfleglich behandelt"
-        ],
-        "summary": "Samsung Galaxy Z Fold7 256 GB, Blau, neuwertig, günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-01T19:05:19.420764+00:00"
     },
     "e8ba3e41a3b60146672e7eee7aaf7f0e": {
       "id": "e8ba3e41a3b60146672e7eee7aaf7f0e",
@@ -778,8 +748,40 @@
         "source": "groq"
       },
       "first_seen": "2026-06-29T11:20:41.906140+00:00"
+    },
+    "c1e52c2d6042c14c97a9332df732efb2": {
+      "id": "c1e52c2d6042c14c97a9332df732efb2",
+      "title": "Samsung Galaxy Z Fold6 Smartphone mit OVP - Top Zustand 512 gb",
+      "price": "550 € VB650 €",
+      "speicher": "512 GB",
+      "ort": "42107 Elberfeld\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "50 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold 6",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold6-smartphone-mit-ovp-top-zustand-512-gb/3446534743-173-1562",
+      "description": "Ich biete hier mein Samsung Galaxy Z Fold6 Smartphone an, das sich in einem top Zustand befindet....",
+      "full_description": "Ich biete hier mein Samsung Galaxy Z Fold6 Smartphone an, das sich in einem top Zustand befindet. Es ist ein faltbares Smartphone, das dir ein großes Display und innovative Funktionen bietet. Du bekommst es in der Originalverpackung. * Faltbares Design für ein großes Display * Hochwertige Kamera für beeindruckende Fotos * Leistungsstarker Prozessor für reibungsloses Multitasking * Modernes Design in elegantem Schwarz Das Handy ist perfekt für alle, die ein vielseitiges und leistungsstarkes Gerät suchen. Es wurde stets pfleglich behandelt und weist keine sichtbaren Gebrauchsspuren auf. Schreib mir einfach, wenn du Fragen hast!",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Top Zustand",
+          "Originalverpackung",
+          "Faltbares Design",
+          "Hochwertige Kamera",
+          "Leistungsstarker Prozessor"
+        ],
+        "summary": "Samsung Galaxy Z Fold6 in Top Zustand mit OVP für 550€",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-02T18:42:45.900911+00:00"
     }
   },
-  "last_full_send": "2026-07-02T11:41:11.622778+00:00",
-  "last_run": "2026-07-02T16:59:07.372967+00:00"
+  "last_full_send": "2026-07-02T18:43:15.749179+00:00",
+  "last_run": "2026-07-02T18:43:15.749254+00:00"
 }
