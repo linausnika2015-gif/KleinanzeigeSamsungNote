@@ -63,6 +63,36 @@
       },
       "first_seen": "2026-06-23T21:04:28.856058+00:00"
     },
+    "ca9fab73287b37688bb9c367f58d400f": {
+      "id": "ca9fab73287b37688bb9c367f58d400f",
+      "title": "Samsung Galaxy Z Fold 7 I 256GB I Blue Shadow I Neuwertig",
+      "price": "929 €",
+      "speicher": "256 GB",
+      "ort": "41061 Mönchengladbach\n                    \n                    \n                    \n                        \n                            \n                                \n                            \n                            \n                        \n                        \n                            \n                                (0.)",
+      "entfernung": "1 km",
+      "zustand": "Wie neu",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Gewerblich",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-i-256gb-i-blue-shadow-i-neuwertig/3449824444-173-1965",
+      "description": "Samsung Galaxy Z Fold 7 I 256GB I Blue Shadow\n\n✅ Zustand: Neuwertig\n✅ Mit Rechnung & Garantie\n✅...",
+      "full_description": "Samsung Galaxy Z Fold 7 I 256GB I Blue Shadow ✅ Zustand: Neuwertig ✅ Mit Rechnung & Garantie ✅ Differenzbesteuert gemäß §25a UStG Ihre Preisgarantie: Sie haben das Gerät woanders günstiger gesehen (im Umkreis von 25 km)? Kein Problem – Sie zahlen bei uns denselben Preis! Zahlungsmöglichkeiten: • Barzahlung • Überweisung • Kartenzahlung • PayPal (+2,5 % Gebühr) Bestellen & Abholen leicht gemacht: Einfach online oder telefonisch bestellen – und bequem im Store abholen! Eazytroniks Store Hindenburgstraße 140 41061 Mönchengladbach So finden uns: Direkt neben BackWerk, gegenüber Sinn Leffers und schräg gegenüber TK Maxx Öffnungszeiten: Montag – Freitag: 10:00 – 19:00 Uhr Samstag: 10:00 – 18:00 Uhr EAZYTRONIKS STORE – Service! - Top-Produkte - Faire Preise - Persönlicher Service Eazytroniks – Ihr Technikpartner seit 2009 Take it EAZY",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Neuwertiger Zustand",
+          "Mit Rechnung & Garantie",
+          "Preisgarantie"
+        ],
+        "summary": "Neuwertiger Samsung Galaxy Z Fold 7 mit 256 GB für 929 €",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-03T18:20:32.793317+00:00"
+    },
     "d2a22f10e08c4bbe5451c944985154e0": {
       "id": "d2a22f10e08c4bbe5451c944985154e0",
       "title": "Samsung Galaxy  Z Fold 7",
@@ -98,11 +128,11 @@
     "4adacbf590a1e32935306a0400f93ab3": {
       "id": "4adacbf590a1e32935306a0400f93ab3",
       "title": "Samsung Galaxy Z Fold 7 512GB Schwarz",
-      "price": "1.100 € VB",
+      "price": "1.050 € VB1.100 €",
       "speicher": "512 GB",
       "ort": "50997 Godorf\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "53 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -110,18 +140,14 @@
       "description": "Ich biete mein Samsung Galaxy Z Fold 7 mit 512GB Speicher in elegantem Schwarz an. Dieses faltbare...",
       "full_description": "Ich biete mein Samsung Galaxy Z Fold 7 mit 512GB Speicher in elegantem Schwarz an. Dieses faltbare Smartphone ist ein echtes Multitalent und bietet dir ein beeindruckendes Display für Arbeit und Unterhaltung. * Großes, faltbares Display für Tablet-ähnliche Nutzung * 512GB interner Speicher für all deine Daten * Modernes Design in zeitlosem Schwarz * Leistungsstarke Performance für reibungsloses Multitasking Das Gerät ist in einem sehr guten Zustand. Es funktioniert einwandfrei und bietet dir alle Vorteile eines Premium-Smartphones. Bei Fragen melde dich gerne.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "ℹ️ Preis nicht angegeben",
         "flags": [],
         "positives": [
-          "Sehr guter Zustand",
-          "512GB interner Speicher",
-          "Modernes Design"
+          "✅ Makellos"
         ],
-        "summary": "Samsung Galaxy Z Fold 7 512GB in sehr gutem Zustand für 1.100 €",
-        "source": "groq"
+        "summary": "✅ Makellos · ℹ️ Preis nicht angegeben"
       },
       "first_seen": "2026-07-03T16:42:19.520567+00:00"
     },
@@ -216,37 +242,6 @@
         "source": "groq"
       },
       "first_seen": "2026-07-02T16:58:33.133373+00:00"
-    },
-    "9b030e3d55f220ad478ba99ffc083f4a": {
-      "id": "9b030e3d55f220ad478ba99ffc083f4a",
-      "title": "Verkaufe oder tausche Samsung Galaxy Z Fold 7 256GB",
-      "price": "VB",
-      "speicher": "256 GB",
-      "ort": "41236 Mönchengladbach\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "4 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/verkaufe-oder-tausche-samsung-galaxy-z-fold-7-256gb/3448957683-173-1964",
-      "description": "Das Gerät befindet sich in einem Top Zustand und wird mit OVP und 2 hochwertigen Hüllen...",
-      "full_description": "Das Gerät befindet sich in einem Top Zustand und wird mit OVP und 2 hochwertigen Hüllen abgegeben. Hat erst 14 Ladezyklen quasi Neu. Rechnung nicht dabei war ein Geschenk.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Top Zustand",
-          "14 Ladezyklen",
-          "2 hochwertige Hüllen",
-          "OVP"
-        ],
-        "summary": "Samsung Galaxy Z Fold 7 256GB, Top Zustand, 14 Ladezyklen, 2 Hüllen, OVP",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-02T16:58:33.134159+00:00"
     },
     "c3c7fd0bc93f2b7927cd863cbef6a4bf": {
       "id": "c3c7fd0bc93f2b7927cd863cbef6a4bf",
@@ -780,6 +775,6 @@
       "first_seen": "2026-07-03T11:39:07.098378+00:00"
     }
   },
-  "last_full_send": "2026-07-03T11:39:39.415565+00:00",
-  "last_run": "2026-07-03T16:42:51.214596+00:00"
+  "last_full_send": "2026-07-03T18:21:00.268086+00:00",
+  "last_run": "2026-07-03T18:21:00.268165+00:00"
 }
