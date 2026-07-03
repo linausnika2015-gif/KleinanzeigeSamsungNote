@@ -63,6 +63,37 @@
       },
       "first_seen": "2026-06-23T21:04:28.856058+00:00"
     },
+    "99b0744c725dec4cade280f2240d4b3e": {
+      "id": "99b0744c725dec4cade280f2240d4b3e",
+      "title": "dji mini  4 pro  und Galaxy Z Fold 6 tausche gegen  iPhone 17",
+      "price": "",
+      "speicher": "k.A.",
+      "ort": "52066 Aachen-​Mitte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "54 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 6",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/dji-mini-4-pro-und-galaxy-z-fold-6-tausche-gegen-iphone-17/3449925120-273-1923",
+      "description": "dji mini 4 pro , tausche gegen iPhone 17\nUnrealistische Preisvorschläge werden nicht beantwortet.",
+      "full_description": "dji mini 4 pro , tausche gegen iPhone 17 Unrealistische Preisvorschläge werden nicht beantwortet.",
+      "assessment": {
+        "category": "Ankauf",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "Überteuert",
+        "flags": [
+          "Unrealistischer Preis",
+          "Keine Informationen über Zustand und Speicher"
+        ],
+        "positives": [
+          "Tauschmöglichkeit"
+        ],
+        "summary": "Unrealistischer Preis, keine Informationen über Zustand und Speicher",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-03T20:19:52.285521+00:00"
+    },
     "ca9fab73287b37688bb9c367f58d400f": {
       "id": "ca9fab73287b37688bb9c367f58d400f",
       "title": "Samsung Galaxy Z Fold 7 I 256GB I Blue Shadow I Neuwertig",
@@ -92,38 +123,6 @@
         "source": "groq"
       },
       "first_seen": "2026-07-03T18:20:32.793317+00:00"
-    },
-    "d2a22f10e08c4bbe5451c944985154e0": {
-      "id": "d2a22f10e08c4bbe5451c944985154e0",
-      "title": "Samsung Galaxy  Z Fold 7",
-      "price": "800 € VB",
-      "speicher": "k.A.",
-      "ort": "47798 Krefeld\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "17 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7/3449784230-173-1981",
-      "description": "Keine Kratzer\nHülle drum\nPanzer privacy folie\nOvp vorhanden\n\nVersand möglich\nPaypal ist...",
-      "full_description": "Keine Kratzer Hülle drum Panzer privacy folie Ovp vorhanden Versand möglich Paypal ist vorhanden Barzahlung bei Abholung",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Angaben zum Zustand und Speicher",
-          "Keine Fotos oder Videos"
-        ],
-        "positives": [
-          "Keine Kratzer",
-          "Hülle und Panzerfolie vorhanden"
-        ],
-        "summary": "Keine Angaben zum Zustand und Speicher, aber günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-03T16:42:19.520182+00:00"
     },
     "4adacbf590a1e32935306a0400f93ab3": {
       "id": "4adacbf590a1e32935306a0400f93ab3",
@@ -776,5 +775,5 @@
     }
   },
   "last_full_send": "2026-07-03T18:21:00.268086+00:00",
-  "last_run": "2026-07-03T18:21:00.268165+00:00"
+  "last_run": "2026-07-03T20:20:19.868553+00:00"
 }
