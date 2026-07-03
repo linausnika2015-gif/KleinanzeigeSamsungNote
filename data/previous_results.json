@@ -70,7 +70,7 @@
       "speicher": "1 TB",
       "ort": "59077 Hamm\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
       "entfernung": "100 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -93,39 +93,6 @@
         "source": "groq"
       },
       "first_seen": "2026-07-03T08:19:39.998114+00:00"
-    },
-    "f75441af6f9b8446009f59405d43448d": {
-      "id": "f75441af6f9b8446009f59405d43448d",
-      "title": "Samsung Galaxy Z Fold4 256GB Beige mit Zubehör (Defekt)",
-      "price": "100 €",
-      "speicher": "256 GB",
-      "ort": "52080 Verlautenheide\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "49 km",
-      "zustand": "Gebraucht",
-      "model": "Z Fold 4",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold4-256gb-beige-mit-zubehoer-defekt-/3449187989-173-21788",
-      "description": "Ich biete hier ein Samsung Galaxy Z Fold4 in Beige mit 256GB Speicher und 12GB RAM an, zusammen mit...",
-      "full_description": "Ich biete hier ein Samsung Galaxy Z Fold4 in Beige mit 256GB Speicher und 12GB RAM an, zusammen mit einigem Zubehör. Das Handy kommt mit zwei Hüllen und mehreren Displayfolien (zweimal für den inneren Bildschirm und einmal für den äußeren Bildschirm). Ein Ladekabel ist nicht dabei. Das Gerät funktioniert einwandfrei, bis auf den inneren, großen Bildschirm, der schwarz bleibt. Der äußere Bildschirm funktioniert jedoch perfekt. Der innere Bildschirm wurde nach einem Garantiefall getauscht (genau das gleiche Problem wie jetzt), obwohl es nie Stürz gab, und sieht optisch einwandfrei aus. Bei Fragen melde dich gerne.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "Günstig",
-        "flags": [
-          "Defekt",
-          "Schwarzer Bildschirm",
-          "Garantiefall"
-        ],
-        "positives": [
-          "Zusammen mit Zubehör",
-          "Optisch einwandfreier innerer Bildschirm"
-        ],
-        "summary": "Gebrauchter Z Fold 4 in Beige mit 256GB, Defekt an innerem Bildschirm, günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-02T20:25:09.416196+00:00"
     },
     "0e416619f3d449d6746490bb2bed819b": {
       "id": "0e416619f3d449d6746490bb2bed819b",
@@ -347,7 +314,7 @@
     "387b0cda9460002f966f8319b7e66941": {
       "id": "387b0cda9460002f966f8319b7e66941",
       "title": "Samsung Galaxy Z Fold 4 neuwertig + gratis Tasche",
-      "price": "425 € VB",
+      "price": "399 € VB425 €",
       "speicher": "k.A.",
       "ort": "56072 Koblenz\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
       "entfernung": "100 km",
@@ -359,19 +326,17 @@
       "description": "Ich biete hier mein Samsung Galaxy Z Fold 4 an, das sich in einem neuwertigen Zustand befindet. Es...",
       "full_description": "Ich biete hier mein Samsung Galaxy Z Fold 4 an, das sich in einem neuwertigen Zustand befindet. Es wurde immer in der braunen Schutzhülle verwendet, die du gratis dazu bekommst. Farbe Graygreen * Großes, faltbares Display * Hochwertige Kamerafunktionen * Inklusive passender brauner Schutzhülle * Elegantes Design in Schwarz mit silbernem Rahmen Das Handy war stets in der Tasche, daher ist es wirklich wie neu und hat keine sichtbaren Gebrauchsspuren. Es funktioniert einwandfrei und bietet dir ein tolles Smartphone-Erlebnis. Bei Fragen melde dich gerne. Da es sich um einen Privatverkauf handelt, kann ich keine Garantie nach neuem EU-Recht übernehmen. Der Käufer erklärt sich damit einverstanden und erkennt dies mit dem Kauf an! Für weitere Fragen stehe ich gerne zur Verfügung bitte einfach melden wenn sie was wissen wollen oder nicht verstehen.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Neuwertiger Zustand",
-          "Gratis Tasche",
-          "Einwandfreie Funktion",
-          "Elegantes Design"
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~450 €)",
+        "flags": [
+          "ℹ️ Gebrauchsspuren"
         ],
-        "summary": "Samsung Galaxy Z Fold 4 neuwertig, gratis Tasche, günstig",
-        "source": "groq"
+        "positives": [
+          "✅ Garantie vorhanden",
+          "✅ Makellos"
+        ],
+        "summary": "ℹ️ Gebrauchsspuren · 🔴 Deutlich überteuert (Ref. ~450 €)"
       },
       "first_seen": "2026-07-02T11:40:44.116066+00:00"
     },
@@ -435,38 +400,6 @@
         "source": "groq"
       },
       "first_seen": "2026-07-01T19:05:19.420952+00:00"
-    },
-    "14c1f05bc2d42e72ae7d572ab2d971de": {
-      "id": "14c1f05bc2d42e72ae7d572ab2d971de",
-      "title": "Samsung Galaxy Z Fold 7 | 512 GB",
-      "price": "850 €",
-      "speicher": "512 GB",
-      "ort": "42853 Remscheid\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "51 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-512-gb/3448265080-173-1032",
-      "description": "Hallo liebe Ebayer,\nIch verkaufe mein Samsung Galaxy Z Fold 7 mit 512 GB.\n\nBis auf die kleinen...",
-      "full_description": "Hallo liebe Ebayer, Ich verkaufe mein Samsung Galaxy Z Fold 7 mit 512 GB. Leider ist mir das Handy aus der Hand gefallen sodass es am Rahmen kleine Schrammen hat was jedoch die Funktion in keinsterweise beeinträchtigt. Das Display ist oder eher gesagt die Displays sind Kratzfrei und mit ner Hülle ist auch so gut wie nichts sichtbar am Rahmen. Rechnung vom 21.09.25 liegt bei und wird in original mitgegeben. Batteriezustand ist bei 100% ( es hat unter 80 Ladezyklen ) Bei Interesse gerne melden! Den Zustand könnt ihr aus den Bildern entnehmen. Abzuholen entweder in Remscheid oder in Düsseldorf bei mir auf der Arbeit :-)",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Schrammen am Rahmen",
-          "Abnutzung des Batteriezustands"
-        ],
-        "positives": [
-          "Kraterfreies Display",
-          "Batteriezustand bei 100%"
-        ],
-        "summary": "Gebrauchter Z Fold 7 mit 512 GB, guter Zustand, kleine Schrammen am Rahmen",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-01T16:35:02.649239+00:00"
     },
     "5a3c14325b7bf786877361450e6922c1": {
       "id": "5a3c14325b7bf786877361450e6922c1",
@@ -779,8 +712,75 @@
         "source": "groq"
       },
       "first_seen": "2026-06-29T21:41:09.031558+00:00"
+    },
+    "be34ce21a459a0f7ecb4fa72b1f8c413": {
+      "id": "be34ce21a459a0f7ecb4fa72b1f8c413",
+      "title": "Samsung Galaxy Z Fold 7|100% Akku|256 GB|OVP|Schwarz|Lieferung✅",
+      "price": "1.040 €",
+      "speicher": "256 GB",
+      "ort": "41747 Viersen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "8 km",
+      "zustand": "Sehr gut",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Gewerblich",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-100-akku-256-gb-ovp-schwarz-lieferung-/3446797914-173-1791",
+      "description": "⭐️Zum Verkauf steht ein sehr gut erhaltenes Samsung Galaxy Z Fold 7 – 100 % Akku – 256 GB –...",
+      "full_description": "⭐️Zum Verkauf steht ein sehr gut erhaltenes Samsung Galaxy Z Fold 7 – 100 % Akku – 256 GB – Jetblack⭐️ ✅ inkl. einer Schutzhülle ℹ️ Abholung / persönliche Lieferung auch sonn- & feiertags und bis ca. 21 Uhr möglich – nach Termin ✅ Zustand: • Optisch sehr gut • Technisch einwandfrei • Akkuzustand 100% • OVP sehr gut ✅ Details: • Modell: Samsung Galaxy Z Fold 7 • Speicher: 256 GB • Farbe: Jetblack • Ersteinsatz 6. Oktober 2025 • Batterie: 100% • Ladezyklen: 124 • Simlockfrei (frei für alle Netze) – EU-Gerät, offiziell für den deutschen Markt bestimmt ❗️FESTPREIS – Preisanfragen können nicht beantwortet werden❗️ ℹ️ in meinem Profil: • Smartphones, Smartwatches & Tablets • Konsolen, Spiele & Zubehör • VR-Brillen & Zubehör • Gaming-Laptops & Gaming-Monitore ✅ Abholung bevorzugt – auch an Sonn- & Feiertagen – nach Termin ✅ Persönliche Lieferung im nahen Umkreis ggf. möglich ✅ Inzahlungnahme ggf. möglich – bitte dafür anrufen oder Bilder und Details per WhatsApp an 0173 3738951 ⛔️ Kein Tausch möglich! ℹ️ Bezahlung: • Bar bei Abholung • Bei Versand: PayPal (bei Übernahme der Gebühren) oder Überweisung • Versandkosten trägt der Käufer",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Sehr guter Zustand",
+          "100% Akku",
+          "256 GB Speicher",
+          "OVP sehr gut",
+          "Simlockfrei",
+          "EU-Gerät, offiziell für den deutschen Markt bestimmt"
+        ],
+        "summary": "Sehr gut erhaltenes Samsung Galaxy Z Fold 7 mit 256 GB Speicher und 100% Akku zum fairen Preis.",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-03T11:39:07.098378+00:00"
+    },
+    "2a699eae6d8ea7f09f9fa0de968b916e": {
+      "id": "2a699eae6d8ea7f09f9fa0de968b916e",
+      "title": "Samsung Galaxy Z Fold7 512GB Mint NEU",
+      "price": "1.299 €",
+      "speicher": "512 GB",
+      "ort": "40721 Hilden\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "33 km",
+      "zustand": "Neu",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Gewerblich",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold7-512gb-mint-neu/3395925800-173-1857",
+      "description": "Herzlich Willkommen bei Smartphone Communication Hilden\nHändler - Deutsche Ware - Brandneu -...",
+      "full_description": "Herzlich Willkommen bei Smartphone Communication Hilden Händler - Deutsche Ware - Brandneu - Rechnung! Verkauft wird ein: Samsung Galaxy Z Fold7 / Mint / mit 512GB / Brandneu ..................................... Das Handy ist nagelneu und Werkversiegelt, mit Rechnung und voller Hersteller Garantie. Das Gerät ist zu 100 % Simlockfrei, demnach ist das gerät frei für alle Sim-Karten. ............................................. Sie bekommen von unserer Filiale eine Rechnung ausgestellt. Von uns und von Samsung bekommen sie die volle Herstellergarantie ab Aktivierung des Geräts. (Die Rechnung ist nach Paragraph 25a UStG Differenzbesteuerung.) ................................................. Direkt vom Händler Deutsche Ware (Für den Deutschen Markt) Kein Refurbished Gerät Rechnung auf Namen Bezahl möglichkeiten: BAR ................................................ Wie kommt der Preis zustande? Wir sind Händler seit über 14 Jahren in Hilden. Aufgrund dessen haben wir einen sehr großen Kundenstamm, wo wir als freier Händler ungebunden einkaufen und verkaufen können. Je nach Angebot kaufen wir in Mengen von verschiedenem Händler ein. Alle Geräte wurden ordnungsgemäß nach Deutschen Richtlinien mit einem Nachweis eingekauft. Dementsprechend können wir diese Geräte für diese Preise anbieten. Bei weiteren Fragen können Sie uns gerne anschreiben/anrufen oder uns besuchen kommen. ................................................. Wir reparieren auch ihre Handys-Tablets-Laptops mit Displayschaden-Wasserschaden-Kameradefekt-KeineFunktion- und vieles mehr. ................................................ Wir kaufen alle möglichen Smartphones, Tablets, Watches, Buds und Laptops an. Anschrift: Smartphone communication Hilden Axlerhof 2 40721 Hilden Telefon: 0163 8112459 Öffnungszeiten: Mo-Sa. 10:00 Uhr bis 19:00 Uhr So. Geschlossen",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Sehr hoher Preis",
+          "Keine Angaben zu den Kosten für Rechnung und Garantie"
+        ],
+        "positives": [
+          "Brandneu",
+          "Werkversiegelt",
+          "Rechnung und volle Hersteller Garantie",
+          "Simlockfrei"
+        ],
+        "summary": "Brandneues Samsung Galaxy Z Fold7 mit 512 GB für 1.299 €, Rechnung und Garantie inklusive",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-03T11:39:07.098735+00:00"
     }
   },
-  "last_full_send": "2026-07-03T04:52:08.761476+00:00",
-  "last_run": "2026-07-03T08:20:09.991084+00:00"
+  "last_full_send": "2026-07-03T11:39:39.415565+00:00",
+  "last_run": "2026-07-03T11:39:39.415634+00:00"
 }
