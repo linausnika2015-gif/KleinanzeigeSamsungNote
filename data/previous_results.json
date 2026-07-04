@@ -63,6 +63,38 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "dc024e6e4896e9cb6afe0258f43708e6": {
+      "id": "dc024e6e4896e9cb6afe0258f43708e6",
+      "title": "Handy // Samsung Galaxy Z Fold5",
+      "price": "550 € VB",
+      "speicher": "k.A.",
+      "ort": "45329 Altenessen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "53 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 5",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/handy-samsung-galaxy-z-fold5/3450539310-173-2031",
+      "description": "Ich biete das Handy im Auftrag meines Vaters an.\n\nEr hat ein neues Handy und möchte dieses...",
+      "full_description": "Ich biete das Handy im Auftrag meines Vaters an. Er hat ein neues Handy und möchte dieses Verkauf. Der Display wurde erneuert nach gebrauch. Funktioniert einwandfrei und kann auch getestet werden. Nur für Selbstabholer",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Spezifikationen zum Zustand und Speicher",
+          "Selbstabholer erforderlich"
+        ],
+        "positives": [
+          "Erneuerter Display",
+          "Funktioniert einwandfrei"
+        ],
+        "summary": "Samsung Galaxy Z Fold5, erneuerter Display, einwandfrei, Selbstabholer",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-04T14:43:01.269275+00:00"
+    },
     "9a95fb2949290d98278cb16a24eba1d8": {
       "id": "9a95fb2949290d98278cb16a24eba1d8",
       "title": "Samsung Galaxy Z Fold 4 – 512 GB – Top Zustand – Keine Kratzer",
@@ -70,7 +102,7 @@
       "speicher": "512 GB",
       "ort": "40476 Pempelfort\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "25 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold 4",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -746,41 +778,8 @@
         "source": "groq"
       },
       "first_seen": "2026-06-29T21:41:09.031558+00:00"
-    },
-    "be34ce21a459a0f7ecb4fa72b1f8c413": {
-      "id": "be34ce21a459a0f7ecb4fa72b1f8c413",
-      "title": "Samsung Galaxy Z Fold 7|100% Akku|256 GB|OVP|Schwarz|Lieferung✅",
-      "price": "1.040 €",
-      "speicher": "256 GB",
-      "ort": "41747 Viersen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "8 km",
-      "zustand": "Sehr gut",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-100-akku-256-gb-ovp-schwarz-lieferung-/3446797914-173-1791",
-      "description": "⭐️Zum Verkauf steht ein sehr gut erhaltenes Samsung Galaxy Z Fold 7 – 100 % Akku – 256 GB –...",
-      "full_description": "⭐️Zum Verkauf steht ein sehr gut erhaltenes Samsung Galaxy Z Fold 7 – 100 % Akku – 256 GB – Jetblack⭐️ ✅ inkl. einer Schutzhülle ℹ️ Abholung / persönliche Lieferung auch sonn- & feiertags und bis ca. 21 Uhr möglich – nach Termin ✅ Zustand: • Optisch sehr gut • Technisch einwandfrei • Akkuzustand 100% • OVP sehr gut ✅ Details: • Modell: Samsung Galaxy Z Fold 7 • Speicher: 256 GB • Farbe: Jetblack • Ersteinsatz 6. Oktober 2025 • Batterie: 100% • Ladezyklen: 124 • Simlockfrei (frei für alle Netze) – EU-Gerät, offiziell für den deutschen Markt bestimmt ❗️FESTPREIS – Preisanfragen können nicht beantwortet werden❗️ ℹ️ in meinem Profil: • Smartphones, Smartwatches & Tablets • Konsolen, Spiele & Zubehör • VR-Brillen & Zubehör • Gaming-Laptops & Gaming-Monitore ✅ Abholung bevorzugt – auch an Sonn- & Feiertagen – nach Termin ✅ Persönliche Lieferung im nahen Umkreis ggf. möglich ✅ Inzahlungnahme ggf. möglich – bitte dafür anrufen oder Bilder und Details per WhatsApp an 0173 3738951 ⛔️ Kein Tausch möglich! ℹ️ Bezahlung: • Bar bei Abholung • Bei Versand: PayPal (bei Übernahme der Gebühren) oder Überweisung • Versandkosten trägt der Käufer",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Sehr guter Zustand",
-          "100% Akku",
-          "256 GB Speicher",
-          "OVP sehr gut",
-          "Simlockfrei",
-          "EU-Gerät, offiziell für den deutschen Markt bestimmt"
-        ],
-        "summary": "Sehr gut erhaltenes Samsung Galaxy Z Fold 7 mit 256 GB Speicher und 100% Akku zum fairen Preis.",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-03T11:39:07.098378+00:00"
     }
   },
   "last_full_send": "2026-07-04T12:13:10.078831+00:00",
-  "last_run": "2026-07-04T12:13:10.078920+00:00"
+  "last_run": "2026-07-04T14:43:30.922501+00:00"
 }
