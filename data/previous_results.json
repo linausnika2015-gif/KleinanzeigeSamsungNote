@@ -63,6 +63,39 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "175e1bc340f70721fc4423563f23174e": {
+      "id": "175e1bc340f70721fc4423563f23174e",
+      "title": "Top Gepflegtes Samsung Galaxy Z Fold 7 512GB Schwarz Tausch",
+      "price": "950 € VB",
+      "speicher": "512 GB",
+      "ort": "40227 Oberbilk\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "26 km",
+      "zustand": "Gebraucht",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/top-gepflegtes-samsung-galaxy-z-fold-7-512gb-schwarz-tausch/3452835780-173-16749",
+      "description": "Verkaufe mein Z Fold 7,\nImmer Top gepflegt\nImmer in sehr robuster Hülle gewesen\n100% Akku...",
+      "full_description": "Verkaufe mein Z Fold 7, Immer Top gepflegt Immer in sehr robuster Hülle gewesen 100% Akku Zustand Gekauft Oktober 2025, also 9 Monate alt ACHTUNG Ich möchte es tauschen mit Zuzahlung des Käufers gegen ein anderes Handy, Es sollte folgende Anforderungen erfüllen: ESIM Fähig 5G Android 15+ KEINE iPhones Gebraucht wäre in Ordnung Ohne Schäden Je günstiger das Handy, desto besser Gerne Angebote machen. Die Rechnung kann nach dem Kauf per Mail weitergeleitet werden Da ich erst meine Daten übertragen möchte auf das zu tauschende Handy, ist eine halbe Stunde Wartezeit vor Ort einzurechnen, da ich erst Sachen wie Zwei Faktor Authentifizierung und so übertragen muss bevor ich das Gerät zurücksetzen kann.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Tauschhandel",
+          "Wartezeit vor Ort"
+        ],
+        "positives": [
+          "Gepflegtes Gerät",
+          "100% Akku",
+          "Robuste Hülle"
+        ],
+        "summary": "Gebrauchter Z Fold 7 in gutem Zustand, Tauschhandel gegen ein anderes Handy",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-07T05:02:10.266400+00:00"
+    },
     "a2533dc9ad4aeedecea80b712c345ee4": {
       "id": "a2533dc9ad4aeedecea80b712c345ee4",
       "title": "Samsung Galaxy Z Fold 3 5G Black 256GB",
@@ -750,40 +783,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-06T17:10:23.476346+00:00"
-    },
-    "5a3c14325b7bf786877361450e6922c1": {
-      "id": "5a3c14325b7bf786877361450e6922c1",
-      "title": "Samsung Galaxy Z Fold6 256GB",
-      "price": "600 € VB700 €",
-      "speicher": "256 GB",
-      "ort": "45772 Marl\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "72 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 6",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold6-256gb/3445374097-173-1772",
-      "description": "Ich biete hier mein Samsung Galaxy Z Fold6 mit 256 GB Speicherplatz an. Es wurde am 4. August 2024...",
-      "full_description": "Ich biete hier mein Samsung Galaxy Z Fold6 mit 256 GB Speicherplatz an. Es wurde am 4. August 2024 gekauft. * 256 GB Speicher * Display vorne ohne Kratzer und hinten wurde im Rahmen einr Service Reparatur komplett ersetzt bedeutet das Innere Display ist neu und somit ohne Kratzer. Unterlagen vorhanden. * Modell: Galaxy Z Fold6 Das Telefon hat nur leichte Gebrauchsspuren, die kaum auffallen und den Gesamtwert nicht mindern. Es funktioniert einwandfrei und ist bereit für einen neuen Besitzer. Bei Fragen melde dich gerne. Privatverkauf daher keine Garantie keine Gewährleistung gekauft wie gesehen.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Neu gekauft am 4. August 2024",
-          "256 GB Speicher",
-          "Display ohne Kratzer",
-          "Innere Display neu und ohne Kratzer",
-          "Unterlagen vorhanden"
-        ],
-        "summary": "Neuer Samsung Galaxy Z Fold6 mit 256 GB Speicher, leichte Gebrauchsspuren, einwandfreier Zustand",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-06T20:09:33.232614+00:00"
     }
   },
-  "last_full_send": "2026-07-06T20:10:01.854098+00:00",
-  "last_run": "2026-07-07T00:17:04.163215+00:00"
+  "last_full_send": "2026-07-07T05:02:37.200412+00:00",
+  "last_run": "2026-07-07T05:02:37.200482+00:00"
 }
