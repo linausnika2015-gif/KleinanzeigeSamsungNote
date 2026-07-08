@@ -95,40 +95,6 @@
       },
       "first_seen": "2026-07-08T10:28:31.218950+00:00"
     },
-    "48d5cc2b13054a40d8f87aa53fce5f82": {
-      "id": "48d5cc2b13054a40d8f87aa53fce5f82",
-      "title": "Samsung Galaxy Z Fold 7 Schwarz 256 GB",
-      "price": "500 € VB600 €",
-      "speicher": "256 GB",
-      "ort": "47229 Friemersheim\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "28 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-schwarz-256-gb/3453646828-173-23094",
-      "description": "Hallo,\nZum Verkauf steht hier ein tolles Samsung Galaxy Z Fold 7 in Schwarz mit 256 GB. Das...",
-      "full_description": "Hallo, Zum Verkauf steht hier ein tolles Samsung Galaxy Z Fold 7 in Schwarz mit 256 GB. Das Außendisplay funktioniert ohne Probleme,Das Innendisplay hat leider einen Schaden und geht nicht mehr an. Ansonsten lässt es sich ganz normal nutzen nur halt innen nicht. Wie auf den Bildern zu erkennen hat es auch ein paar Gebrauchsspuren und die obere Kamera hat am Glas einen kleinen riss was aber der Funktion keinen Abbruch tut es macht tadellose Bilder und der riss ist im Gebrauch nicht zu bemerken. Ich bitte dennoch beim Preis fair zu bleiben denn wir haben uns bereits erkundigt was man dafür verlangen kann. Dies bitte ich zu berücksichtigen. Am besten ist vorbei kommen und sich selbst ein Bild zu machen. Die OVP ist leider nicht mehr vorhanden. Es ist Simlock frei also kann für alle Netze genutzt werden. Dabei ist ein Nagelneues Paket mit Panzerglas und eine Schutzhülle. Kein Versand nur Abholung.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "Günstig",
-        "flags": [
-          "Defektes Innendisplay",
-          "Gebrauchsspuren",
-          "Riss auf der Kamera"
-        ],
-        "positives": [
-          "Tadelloses Außendisplay",
-          "Simlock-frei",
-          "Inklusive Panzerglas und Schutzhülle"
-        ],
-        "summary": "Defektes Innendisplay, aber günstig und mit Zubehör",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-08T07:38:13.247797+00:00"
-    },
     "938949ffc440a3b61da3a34fdaf9070b": {
       "id": "938949ffc440a3b61da3a34fdaf9070b",
       "title": "Gebrauchtes Samsung Galaxy Z Fold 4",
@@ -762,7 +728,7 @@
       "speicher": "256 GB",
       "ort": "45772 Marl\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "72 km",
-      "zustand": "Neu",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -788,8 +754,39 @@
         "source": "groq"
       },
       "first_seen": "2026-07-08T12:47:34.024445+00:00"
+    },
+    "12d033b45764984892ed82d2132c4300": {
+      "id": "12d033b45764984892ed82d2132c4300",
+      "title": "Handyhülle für Samsung Galaxy Z Fold 4 - Schwarz",
+      "price": "8 €",
+      "speicher": "k.A.",
+      "ort": "46419 Isselburg\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "71 km",
+      "zustand": "Neu",
+      "model": "Z Fold 4",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/handyhuelle-fuer-samsung-galaxy-z-fold-4-schwarz/3447946888-173-1848",
+      "description": "Ich biete hier eine praktische Handyhülle für das Samsung Galaxy Z Fold 4 an. Diese Hülle schützt...",
+      "full_description": "Ich biete hier eine praktische Handyhülle für das Samsung Galaxy Z Fold 4 an. Diese Hülle schützt dein Smartphone optimal vor Kratzern und Stößen im Alltag. * Speziell für Samsung Galaxy Z Fold 4 entwickelt * Elegantes schwarzes Design * Robuster Schutz für dein Gerät * Präzise Aussparungen für Anschlüsse und Tasten Die Hülle ist neu und unbenutzt, ideal, um dein Handy sofort zu schützen. Sie liegt gut in der Hand und bewahrt die schlanke Form deines Foldable-Smartphones. Bei Fragen melde dich gerne. Privatverkauf keine Rücknahme",
+      "assessment": {
+        "category": "Zubehör",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Sehr günstig",
+        "flags": [],
+        "positives": [
+          "Neu und unbenutzt",
+          "Elegantes schwarzes Design",
+          "Robuster Schutz",
+          "Präzise Aussparungen"
+        ],
+        "summary": "Praktische Handyhülle für Samsung Galaxy Z Fold 4 - Neu und günstig",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-08T15:29:39.491664+00:00"
     }
   },
   "last_full_send": "2026-07-08T10:29:13.728284+00:00",
-  "last_run": "2026-07-08T12:48:01.615544+00:00"
+  "last_run": "2026-07-08T15:30:08.304544+00:00"
 }
