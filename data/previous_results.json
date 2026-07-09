@@ -63,6 +63,39 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "9f8c0129b169769eaf55ac8ed1251ac1": {
+      "id": "9f8c0129b169769eaf55ac8ed1251ac1",
+      "title": "Samsung Galaxy Z Fold6 256 GB / 12 GB RAM – Sehr guter Zustand",
+      "price": "850 € VB",
+      "speicher": "256 GB",
+      "ort": "44532 Lünen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "88 km",
+      "zustand": "Sehr gut",
+      "model": "Z Fold 6",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold6-256-gb-12-gb-ram-sehr-guter-zustand/3454420479-173-1752",
+      "description": "Ich verkaufe mein Samsung Galaxy Z Fold6 mit 256 GB Speicher und 12 GB RAM.\nDas Smartphone...",
+      "full_description": "Ich verkaufe mein Samsung Galaxy Z Fold6 mit 256 GB Speicher und 12 GB RAM. Das Smartphone funktioniert einwandfrei. Display, Kameras und alle Funktionen sind ohne Probleme. Es wurde stets mit Hülle verwendet. Zustand: Technisch 100 % funktionsfähig Optisch guter Zustand Es können leichte Gebrauchsspuren bzw. kleine Kratzer vorhanden sein (siehe Fotos) Lieferumfang: Samsung Galaxy Z Fold6 Originalverpackung Schutzhülle (MagSafe-kompatibel) Privatverkauf, daher keine Garantie, Gewährleistung oder Rücknahme. Bei Fragen einfach schreiben.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Garantie",
+          "Privatverkauf"
+        ],
+        "positives": [
+          "Sehr guter Zustand",
+          "Funktioniert einwandfrei",
+          "Lieferumfang enthält Originalverpackung und Schutzhülle"
+        ],
+        "summary": "Samsung Galaxy Z Fold6 in sehr gutem Zustand für 850 €",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-09T04:06:57.949788+00:00"
+    },
     "6d06a6a77ca6d1e056139f643f4cd931": {
       "id": "6d06a6a77ca6d1e056139f643f4cd931",
       "title": "Samsung Galaxy Z Fold7 Blau - Top Zustand",
@@ -754,39 +787,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-08T12:47:34.024445+00:00"
-    },
-    "12d033b45764984892ed82d2132c4300": {
-      "id": "12d033b45764984892ed82d2132c4300",
-      "title": "Handyhülle für Samsung Galaxy Z Fold 4 - Schwarz",
-      "price": "8 €",
-      "speicher": "k.A.",
-      "ort": "46419 Isselburg\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "71 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 4",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/handyhuelle-fuer-samsung-galaxy-z-fold-4-schwarz/3447946888-173-1848",
-      "description": "Ich biete hier eine praktische Handyhülle für das Samsung Galaxy Z Fold 4 an. Diese Hülle schützt...",
-      "full_description": "Ich biete hier eine praktische Handyhülle für das Samsung Galaxy Z Fold 4 an. Diese Hülle schützt dein Smartphone optimal vor Kratzern und Stößen im Alltag. * Speziell für Samsung Galaxy Z Fold 4 entwickelt * Elegantes schwarzes Design * Robuster Schutz für dein Gerät * Präzise Aussparungen für Anschlüsse und Tasten Die Hülle ist neu und unbenutzt, ideal, um dein Handy sofort zu schützen. Sie liegt gut in der Hand und bewahrt die schlanke Form deines Foldable-Smartphones. Bei Fragen melde dich gerne. Privatverkauf keine Rücknahme",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Neu und unbenutzt",
-          "Elegantes schwarzes Design",
-          "Robuster Schutz",
-          "Präzise Aussparungen"
-        ],
-        "summary": "Praktische Handyhülle für Samsung Galaxy Z Fold 4 - Neu und günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-08T15:29:39.491664+00:00"
     }
   },
-  "last_full_send": "2026-07-08T17:48:43.030296+00:00",
-  "last_run": "2026-07-08T23:19:49.186890+00:00"
+  "last_full_send": "2026-07-09T04:07:23.879884+00:00",
+  "last_run": "2026-07-09T04:07:23.879969+00:00"
 }
