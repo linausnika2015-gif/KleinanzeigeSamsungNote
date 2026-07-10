@@ -100,7 +100,7 @@
     "01083a7e8f5c9315c9d1db8dbae4684b": {
       "id": "01083a7e8f5c9315c9d1db8dbae4684b",
       "title": "Samsung Galaxy Z Fold 4",
-      "price": "150 € VB",
+      "price": "140 € VB150 €",
       "speicher": "k.A.",
       "ort": "42349 Cronenberg\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "48 km",
@@ -112,22 +112,19 @@
       "description": "Guten Tag,\n\nich biete hier ein Samsung Galaxy Z Fold 4 mit sichtbaren Gebrauchsspuren an. Das...",
       "full_description": "Guten Tag, ich biete hier ein Samsung Galaxy Z Fold 4 mit sichtbaren Gebrauchsspuren an. Das Außendisplay und WLAN funktioniert nicht mehr, was sehr stark auf ein Problem mit einem Flex-Kabel im inneren des Gerätes hindeutet. Jemand der sich auskennt, kriegt das vielleicht wieder hin. Ansonsten funktioniert das Gerät einwandfrei. Kameras, Innendisplay, sonstige Funktionen sind Akku laufen alle einwandfrei. Trotzdem wird das Gerät als defekt verkauft. Bei Fragen gerne schreiben :) Der Verkauf erfolgt unter Ausschluss jeglicher Sachmängelhaftung. Die Haftung auf Schadenersatz wegen Verletzungen von Gesundheit, Körper oder Leben und grob fahrlässiger und/oder vorsätzlicher Verletzungen meiner Pflichten als Verkäufer bleibt davon unberührt. Da es sich um einen Privatverkauf handelt, sind Rücknahme, Garantie und Gewährleistung ausgeschlossen.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 2,
-        "label": "Vorsicht",
-        "price_note": "Überteuert",
+        "stars": 0,
+        "label": "Neutral",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~450 €)",
         "flags": [
-          "Defekt",
-          "Flex-Kabel-Probleme",
-          "Keine Garantie",
-          "Keine Rücknahme"
+          "⚠️ Als defekt beschrieben",
+          "⚠️ Displayschaden",
+          "ℹ️ Gebrauchsspuren"
         ],
         "positives": [
-          "Gebrauchsspuren sichtbar",
-          "Kameras und Innendisplay funktionieren einwandfrei"
+          "✅ Garantie vorhanden",
+          "✅ Makellos"
         ],
-        "summary": "Defektes Samsung Galaxy Z Fold 4 mit sichtbaren Gebrauchsspuren, Flex-Kabel-Problemen und keinem Garantie- oder Rücknahmerecht.",
-        "source": "groq"
+        "summary": "⚠️ Als defekt beschrieben · 🔴 Deutlich überteuert (Ref. ~450 €)"
       },
       "first_seen": "2026-07-09T20:53:27.284316+00:00"
     },
@@ -607,6 +604,36 @@
       },
       "first_seen": "2026-07-07T15:47:21.892902+00:00"
     },
+    "8666c7f98de2037b6833fb9d69c1994f": {
+      "id": "8666c7f98de2037b6833fb9d69c1994f",
+      "title": "ICH SUCHE SAMSUNG GALAXY Z FLIP ODER FOLD ( NEU VERSIEGELT )",
+      "price": "400 €",
+      "speicher": "k.A.",
+      "ort": "44145 Innenstadt-​Nord\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "82 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold",
+      "angebotstyp": "Gesuch",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/ich-suche-samsung-galaxy-z-flip-oder-fold-neu-versiegelt-/3452808693-173-1106",
+      "description": "ICH SUCHE:\n\nSamsung Galaxy Z Flip 6 in Blau 400€ Neu Versiegelt\n\nSamsung Galaxy Z Flip 5 Mint 300€...",
+      "full_description": "ICH SUCHE: Samsung Galaxy Z Flip 6 in Blau 400€ Neu Versiegelt Samsung Galaxy Z Flip 5 Mint 300€ Neu Versiegelt Samsung Galaxy Z Fold 5 Blau 400€Neu Versiegelt Bei Interesse gerne eine Nachricht hinterlassen MfG",
+      "assessment": {
+        "category": "Ankauf",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Neu",
+          "Versiegelt",
+          "OVP"
+        ],
+        "summary": "Suche nach neuem Samsung Galaxy Z Flip oder Fold, günstige Preise",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-10T12:06:41.293075+00:00"
+    },
     "a2533dc9ad4aeedecea80b712c345ee4": {
       "id": "a2533dc9ad4aeedecea80b712c345ee4",
       "title": "Samsung Galaxy Z Fold 3 5G Black 256GB",
@@ -758,38 +785,8 @@
         "summary": "ℹ️ Kratzer vorhanden · 🔴 Deutlich überteuert (Ref. ~900 €)"
       },
       "first_seen": "2026-07-05T15:22:32.433647+00:00"
-    },
-    "6ce756b39d0811a3f324938f596f652e": {
-      "id": "6ce756b39d0811a3f324938f596f652e",
-      "title": "Hama Tablet Case Fold Clear für Samsung Galaxy Tab S9+",
-      "price": "15 € VB",
-      "speicher": "k.A.",
-      "ort": "42651 Solingen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "46 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/hama-tablet-case-fold-clear-fuer-samsung-galaxy-tab-s9-/3451118393-285-2122",
-      "description": "Ich biete hier ein unbenutztes Hama Tablet Case \"Fold Clear\" an, passend für das Samsung...",
-      "full_description": "Ich biete hier ein unbenutztes Hama Tablet Case \"Fold Clear\" an, passend für das Samsung Galaxy Tab S9+ mit 12.4 Zoll. Es ist eine praktische Hülle, die dein Tablet schützt und gleichzeitig funktionell ist. Hier sind die Details: * Passend für Samsung Galaxy Tab S9+ (12.4\") * Mit automatischer Ein-/Ausschaltfunktion * Bietet zwei Standfunktionen * Verfügt über eine transparente Rückseite Das Case ist noch originalverpackt und wurde nie benutzt, daher ist es in einem einwandfreien Zustand. Es ist ideal, um dein Tablet stilvoll zu schützen und bequem zu nutzen. Bei Fragen melde dich gerne.",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Neu und originalverpackt",
-          "Funktionell und praktisch",
-          "Ideal für Samsung Galaxy Tab S9+"
-        ],
-        "summary": "Hama Tablet Case Fold Clear für Samsung Galaxy Tab S9+, neu und originalverpackt",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-05T11:09:11.507943+00:00"
     }
   },
-  "last_full_send": "2026-07-10T05:02:36.061223+00:00",
-  "last_run": "2026-07-10T08:33:37.151638+00:00"
+  "last_full_send": "2026-07-10T12:07:10.092080+00:00",
+  "last_run": "2026-07-10T12:07:10.092150+00:00"
 }
