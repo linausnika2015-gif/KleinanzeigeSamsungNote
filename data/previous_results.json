@@ -63,6 +63,37 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "2c3fc59d533c87f550fa7ea7be957ec6": {
+      "id": "2c3fc59d533c87f550fa7ea7be957ec6",
+      "title": "Samsung Galaxy Z Fold 6 256GB",
+      "price": "650 € VB",
+      "speicher": "256 GB",
+      "ort": "41363 Jüchen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "12 km",
+      "zustand": "Wie neu",
+      "model": "Z Fold 6",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6-256gb/3456342871-173-1186",
+      "description": "Verkaufe mein wenig bis kaum genutztes Samsung Galaxy Z Fold 6 in rosa.\n\nDas Akku liegt durch die...",
+      "full_description": "Verkaufe mein wenig bis kaum genutztes Samsung Galaxy Z Fold 6 in rosa. Das Akku liegt durch die wenige Benutzung bei 100% 256 GB Keine Risse, keine Kratzer Außenzustand ist neuwertig Bei Fragen gerne melden.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Wie neu",
+          "100% Akku",
+          "Keine Risse oder Kratzer",
+          "256 GB Speicher"
+        ],
+        "summary": "Wie neu verkaufenes Z Fold 6 mit 256 GB Speicher für 650 €",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-11T13:46:37.567222+00:00"
+    },
     "f0e78d126f1a9df342be9d0fbcc3e92d": {
       "id": "f0e78d126f1a9df342be9d0fbcc3e92d",
       "title": "Samsung Galaxy Z Fold6 256 GB – funktionsfähig - Displayfehler",
@@ -70,7 +101,7 @@
       "speicher": "256 GB",
       "ort": "41066 Mönchengladbach\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "4 km",
-      "zustand": "Gebraucht",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -99,7 +130,7 @@
     "c04e11cb00ad2bef27290f171eaf68a8": {
       "id": "c04e11cb00ad2bef27290f171eaf68a8",
       "title": "Samsung Galaxy z Fold 7 256GB jetblack",
-      "price": "959 € VB999 €",
+      "price": "899 € VB999 €",
       "speicher": "256 GB",
       "ort": "52222 Stolberg (Rhld)\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "48 km",
@@ -749,38 +780,8 @@
         "summary": "⚠️ Riss vorhanden · 🔴 Deutlich überteuert (Ref. ~1400 €)"
       },
       "first_seen": "2026-07-07T15:47:21.891820+00:00"
-    },
-    "8666c7f98de2037b6833fb9d69c1994f": {
-      "id": "8666c7f98de2037b6833fb9d69c1994f",
-      "title": "ICH SUCHE SAMSUNG GALAXY Z FLIP ODER FOLD ( NEU VERSIEGELT )",
-      "price": "400 €",
-      "speicher": "k.A.",
-      "ort": "44145 Innenstadt-​Nord\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "82 km",
-      "zustand": "Neu (OVP)",
-      "model": "Z Fold",
-      "angebotstyp": "Gesuch",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/ich-suche-samsung-galaxy-z-flip-oder-fold-neu-versiegelt-/3452808693-173-1106",
-      "description": "ICH SUCHE:\n\nSamsung Galaxy Z Flip 6 in Blau 400€ Neu Versiegelt\n\nSamsung Galaxy Z Flip 5 Mint 300€...",
-      "full_description": "ICH SUCHE: Samsung Galaxy Z Flip 6 in Blau 400€ Neu Versiegelt Samsung Galaxy Z Flip 5 Mint 300€ Neu Versiegelt Samsung Galaxy Z Fold 5 Blau 400€Neu Versiegelt Bei Interesse gerne eine Nachricht hinterlassen MfG",
-      "assessment": {
-        "category": "Ankauf",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Neu",
-          "Versiegelt",
-          "OVP"
-        ],
-        "summary": "Suche nach neuem Samsung Galaxy Z Flip oder Fold, günstige Preise",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-10T12:06:41.293075+00:00"
     }
   },
   "last_full_send": "2026-07-11T10:22:28.829599+00:00",
-  "last_run": "2026-07-11T12:00:30.742059+00:00"
+  "last_run": "2026-07-11T13:47:05.236124+00:00"
 }
