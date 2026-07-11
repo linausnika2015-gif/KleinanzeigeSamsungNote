@@ -70,7 +70,7 @@
       "speicher": "k.A.",
       "ort": "52428 Jülich\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "28 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 3",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -126,7 +126,7 @@
     "93866579579e834ae5fbeee3d85e125a": {
       "id": "93866579579e834ae5fbeee3d85e125a",
       "title": "Galaxy Z Fold 6 256GB Navy Blue (leichte Gebrauchsspuren)",
-      "price": "760 € VB",
+      "price": "750 € VB",
       "speicher": "256 GB",
       "ort": "40591 Wersten\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "26 km",
@@ -138,22 +138,18 @@
       "description": "Hallo, liebe Kleinanzeigen-Freunde,\n\nich biete hier mein gebrauchtes Galaxy Z Fold 6 mit leichten...",
       "full_description": "Hallo, liebe Kleinanzeigen-Freunde, ich biete hier mein gebrauchtes Galaxy Z Fold 6 mit leichten Gebrauchsspuren an. Mittlerweile habe ich für das Handy auch eine Hülle gekauft, die ich natürlich dazugebe. Das Handy hat makellose Bildschirme, allerdings den ein oder anderen Kratzer oder kleine Macken an den Ecken, da es mir leider einmal ohne Hülle eine Treppe heruntergefallen ist. Die Originalverpackung ist vorhanden. Ich verkaufe das Handy, da ich es mir lediglich wegen der Klappfunktion gekauft habe. Nun benötige ich aber ein neues, normales und es würde bei mir nur noch in der Schublade liegen. Es gibt keine dummen Fragen oder Angebote, also immer nur her damit und schreibt mich gerne an. Ich hoffe auf einen fairen Deal ✌️ Das Handy wird unter Ausschluss jeglicher Sachmängelhaftung verkauft.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
+        "stars": 1,
+        "label": "Meiden",
+        "price_note": "🟢 Günstiger Preis (Ref. ~900 €)",
         "flags": [
-          "Kratzer an den Ecken",
-          "Gebrauchsspuren",
-          "keine Garantie"
+          "ℹ️ Kratzer vorhanden",
+          "ℹ️ Gebrauchsspuren"
         ],
         "positives": [
-          "Makellose Bildschirme",
-          "Hülle inklusive",
-          "Originalverpackung vorhanden"
+          "✅ Originalverpackung",
+          "✅ Makellos"
         ],
-        "summary": "Gebrauchtes Galaxy Z Fold 6 mit leichten Gebrauchsspuren, Hülle und Originalverpackung",
-        "source": "groq"
+        "summary": "ℹ️ Kratzer vorhanden · 🟢 Günstiger Preis (Ref. ~900 €)"
       },
       "first_seen": "2026-07-11T19:19:52.117125+00:00"
     },
@@ -789,5 +785,5 @@
     }
   },
   "last_full_send": "2026-07-11T17:09:42.258269+00:00",
-  "last_run": "2026-07-11T21:01:12.049518+00:00"
+  "last_run": "2026-07-11T22:00:09.573789+00:00"
 }
