@@ -63,6 +63,70 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "5e19d55bdf84c0b127468ce77578bf93": {
+      "id": "5e19d55bdf84c0b127468ce77578bf93",
+      "title": "Samsung Galaxy Z Fold 7 mit 512 GB | TOP",
+      "price": "920 €",
+      "speicher": "512 GB",
+      "ort": "42853 Remscheid\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "51 km",
+      "zustand": "Sehr gut",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-mit-512-gb-top/3456597916-173-1032",
+      "description": "Hallo zusammen,\n\nVerkaufe mein Samsung Galaxy Z Fold 7 mit 512 GB in der Farbe Schwarz.\n\nDas Handy...",
+      "full_description": "Hallo zusammen, Verkaufe mein Samsung Galaxy Z Fold 7 mit 512 GB in der Farbe Schwarz. Das Handy befindet sich in einem sehr sehr guten Zustand sowohl optisch als auch technisch. Akku liegt noch bei 100%. Rechnung vom 20.10.25 liegt bei und wird mitgegeben. Das Handy ist knapp bisschen über ein halbes Jahr alt. Bei Interesse gerne melden. Abholbar ab Montag oder auch postalischer versandt ab Montag erst möglich.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Sehr guter Zustand",
+          "100% Akku",
+          "Rechnung liegt bei"
+        ],
+        "summary": "Samsung Galaxy Z Fold 7 mit 512 GB in sehr gutem Zustand zum günstigen Preis",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-11T19:19:52.116790+00:00"
+    },
+    "93866579579e834ae5fbeee3d85e125a": {
+      "id": "93866579579e834ae5fbeee3d85e125a",
+      "title": "Galaxy Z Fold 6 256GB Navy Blue (leichte Gebrauchsspuren)",
+      "price": "760 € VB",
+      "speicher": "256 GB",
+      "ort": "40591 Wersten\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "26 km",
+      "zustand": "Gebraucht",
+      "model": "Z Fold 6",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/galaxy-z-fold-6-256gb-navy-blue-leichte-gebrauchsspuren-/3456571051-173-29992",
+      "description": "Hallo, liebe Kleinanzeigen-Freunde,\n\nich biete hier mein gebrauchtes Galaxy Z Fold 6 mit leichten...",
+      "full_description": "Hallo, liebe Kleinanzeigen-Freunde, ich biete hier mein gebrauchtes Galaxy Z Fold 6 mit leichten Gebrauchsspuren an. Mittlerweile habe ich für das Handy auch eine Hülle gekauft, die ich natürlich dazugebe. Das Handy hat makellose Bildschirme, allerdings den ein oder anderen Kratzer oder kleine Macken an den Ecken, da es mir leider einmal ohne Hülle eine Treppe heruntergefallen ist. Die Originalverpackung ist vorhanden. Ich verkaufe das Handy, da ich es mir lediglich wegen der Klappfunktion gekauft habe. Nun benötige ich aber ein neues, normales und es würde bei mir nur noch in der Schublade liegen. Es gibt keine dummen Fragen oder Angebote, also immer nur her damit und schreibt mich gerne an. Ich hoffe auf einen fairen Deal ✌️ Das Handy wird unter Ausschluss jeglicher Sachmängelhaftung verkauft.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Kratzer an den Ecken",
+          "Gebrauchsspuren",
+          "keine Garantie"
+        ],
+        "positives": [
+          "Makellose Bildschirme",
+          "Hülle inklusive",
+          "Originalverpackung vorhanden"
+        ],
+        "summary": "Gebrauchtes Galaxy Z Fold 6 mit leichten Gebrauchsspuren, Hülle und Originalverpackung",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-11T19:19:52.117125+00:00"
+    },
     "a241eb29e014916174c83d9b96503b1f": {
       "id": "a241eb29e014916174c83d9b96503b1f",
       "title": "Samsung Galaxy Z Fold 4 5G mit Originalverpackung",
@@ -102,7 +166,7 @@
       "speicher": "256 GB",
       "ort": "52531 Übach-​Palenberg\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "38 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -725,70 +789,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-07T20:55:11.140005+00:00"
-    },
-    "e591268182b93e01052b7b48f52b8a83": {
-      "id": "e591268182b93e01052b7b48f52b8a83",
-      "title": "Galaxy Z Fold7 Carbon Shield Case",
-      "price": "25 €",
-      "speicher": "k.A.",
-      "ort": "56070 Lützel\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
-      "entfernung": "100 km",
-      "zustand": "Neu (OVP)",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/galaxy-z-fold7-carbon-shield-case/3453468818-173-29460",
-      "description": "Ich biete hier dieses Samsung case Originalverpackt an. In dem Set sind 2 Schutzfolien, das Case...",
-      "full_description": "Ich biete hier dieses Samsung case Originalverpackt an. In dem Set sind 2 Schutzfolien, das Case und Zubehör zum montieren dabei. Es sind noch ein paar zu haben.",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Originalverpackt",
-          "Zubehör zum Montieren dabei",
-          "Günstiger Preis"
-        ],
-        "summary": "Neues Samsung Case für Z Fold 7, Originalverpackt, günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-07T18:09:45.613945+00:00"
-    },
-    "d581f03c3accfa43f22f379b2ede6cd1": {
-      "id": "d581f03c3accfa43f22f379b2ede6cd1",
-      "title": "Samsung Galaxy Z Fold6 512GB Silver Shadow",
-      "price": "799 €",
-      "speicher": "512 GB",
-      "ort": "40721 Hilden\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "33 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 6",
-      "angebotstyp": "Angebot",
-      "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold6-512gb-silver-shadow/3402633323-173-1857",
-      "description": "Herzlich Willkommen bei Smartphone Communication Hilden\nHändler - Deutsche Ware - Brandneu -...",
-      "full_description": "Herzlich Willkommen bei Smartphone Communication Hilden Händler - Deutsche Ware - Brandneu - Rechnung! Verkauft wird ein: Samsung Galaxy Z Fold6 / Silver Shadow / mit 512GB / Wie neu ..................................... Das Handy ist wie neu ohne Verpackung, mit Rechnung und 12 Monate Garantie. Das Gerät ist zu 100 % Simlockfrei, demnach ist das gerät frei für alle Sim-Karten. ............................................. Sie bekommen von unserer Filiale eine Rechnung ausgestellt. Von uns bekommen sie 12 Monate Garantie ab Aktivierung des Geräts. (Die Rechnung ist nach Paragraph 25a UStG Differenzbesteuerung.) ................................................. Direkt vom Händler Deutsche Ware (Für den Deutschen Markt) Kein Refurbished Gerät Rechnung auf Namen Bezahl möglichkeiten: BAR ................................................ Wie kommt der Preis zustande? Wir sind Händler seit über 14 Jahren in Hilden. Aufgrund dessen haben wir einen sehr großen Kundenstamm, wo wir als freier Händler ungebunden einkaufen und verkaufen können. Je nach Angebot kaufen wir in Mengen von verschiedenem Händler ein. Alle Geräte wurden ordnungsgemäß nach Deutschen Richtlinien mit einem Nachweis eingekauft. Dementsprechend können wir diese Geräte für diese Preise anbieten. Bei weiteren Fragen können Sie uns gerne anschreiben/anrufen oder uns besuchen kommen. ................................................. Wir reparieren auch ihre Handys-Tablets-Laptops mit Displayschaden-Wasserschaden-Kameradefekt-KeineFunktion- und vieles mehr. ................................................ Wir kaufen alle möglichen Smartphones, Tablets, Watches, Buds und Laptops an. Anschrift: Smartphone communication Hilden Axlerhof 2 40721 Hilden Telefon: 0163 8112459 Öffnungszeiten: Mo-Sa. 10:00 Uhr bis 19:00 Uhr So. Geschlossen",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Neuware",
-          "Rechnung und 12 Monate Garantie",
-          "Simlockfrei",
-          "Direkt vom Händler",
-          "Deutsche Ware"
-        ],
-        "summary": "Neuer Samsung Galaxy Z Fold6 mit 512GB, Rechnung und 12 Monate Garantie",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-07T18:09:45.614264+00:00"
     }
   },
   "last_full_send": "2026-07-11T17:09:42.258269+00:00",
-  "last_run": "2026-07-11T17:09:42.258346+00:00"
+  "last_run": "2026-07-11T19:20:22.602403+00:00"
 }
