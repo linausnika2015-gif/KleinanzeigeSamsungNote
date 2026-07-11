@@ -63,6 +63,37 @@
       },
       "first_seen": "2026-06-23T21:04:28.856058+00:00"
     },
+    "c04e11cb00ad2bef27290f171eaf68a8": {
+      "id": "c04e11cb00ad2bef27290f171eaf68a8",
+      "title": "Samsung Galaxy z Fold 7 256GB jetblack",
+      "price": "999 € VB",
+      "speicher": "256 GB",
+      "ort": "52222 Stolberg (Rhld)\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "48 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-256gb-jetblack/3455973576-173-1734",
+      "description": "Hallo,\n\nBiete ein Fold 7 in schwarz mit 256GB an.\nOriginalverpackung mit ladekabel kein ladegerät...",
+      "full_description": "Hallo, Biete ein Fold 7 in schwarz mit 256GB an. Originalverpackung mit ladekabel kein ladegerät wie original Lieferung. Wurde Ende März gekauft jedoch nicht wirklich benutzt. Verkaufe nur an Abholer Gerät kann natürlich getestet werden. Privatverkauf Mfg",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Neu",
+          "Originalverpackung",
+          "Ende März gekauft",
+          "Privatverkauf"
+        ],
+        "summary": "Neuer Fold 7 in schwarz mit 256GB, Originalverpackung, günstig",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-11T08:55:06.883267+00:00"
+    },
     "5a3c14325b7bf786877361450e6922c1": {
       "id": "5a3c14325b7bf786877361450e6922c1",
       "title": "Samsung Galaxy Z Fold6 256GB",
@@ -750,36 +781,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-06T17:10:23.468779+00:00"
-    },
-    "3713a0cbca9992785b830e5dd107aad9": {
-      "id": "3713a0cbca9992785b830e5dd107aad9",
-      "title": "Samsung Galaxy Z Fold7 256 GB Jetblack + 4 Original Samsung Cases",
-      "price": "990 €999 €",
-      "speicher": "256 GB",
-      "ort": "50171 Kerpen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "41 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold7-256-gb-jetblack-4-original-samsung-cases/3452231988-173-1827",
-      "description": "Ich verkaufe mein Samsung Galaxy Z Fold7 in der Farbe Jetblack mit 256 GB Speicher.\n\nDas Smartphone...",
-      "full_description": "Ich verkaufe mein Samsung Galaxy Z Fold7 in der Farbe Jetblack mit 256 GB Speicher. Das Smartphone wurde im September 2025 gekauft und befindet sich in einem sehr guten, gepflegten Zustand. Es funktioniert einwandfrei und wurde stets sorgfältig behandelt. Zum Schutz ist auf der Rückseite bereits eine Schutzfolie angebracht. Außerdem befindet sich auf dem Außendisplay ein Panzerglas. Im Lieferumfang sind 4 originale Samsung Cases enthalten, die zusammen einen Neupreis von ca. 260 € haben. Lieferumfang: - Samsung Galaxy Z Fold7 256 GB in Jetblack - Samsung Clear Grip Case - Samsung Silicone Case - Samsung Clear Magnet Case - Samsung Carbon Shield Case - Originalverpackung Nur Abholung, kein Versand. Das Gerät kann vor Ort gerne besichtigt und getestet werden. Privatverkauf, daher keine Garantie, Gewährleistung oder Rücknahme.",
-      "assessment": {
-        "stars": 2,
-        "label": "Vorsicht",
-        "price_note": "🔴 Deutlich überteuert (Ref. ~1400 €)",
-        "flags": [],
-        "positives": [
-          "✅ Originalverpackung",
-          "✅ Garantie vorhanden",
-          "✅ Makellos"
-        ],
-        "summary": "✅ Originalverpackung · 🔴 Deutlich überteuert (Ref. ~1400 €)"
-      },
-      "first_seen": "2026-07-06T13:57:31.436664+00:00"
     }
   },
   "last_full_send": "2026-07-11T03:34:35.556378+00:00",
-  "last_run": "2026-07-11T06:23:13.490754+00:00"
+  "last_run": "2026-07-11T08:55:32.715661+00:00"
 }
