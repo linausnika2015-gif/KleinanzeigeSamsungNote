@@ -63,6 +63,39 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "86067c8ab9416233cb3d684c7fb0a4e6": {
+      "id": "86067c8ab9416233cb3d684c7fb0a4e6",
+      "title": "Samsung Galaxy Z Fold7 256 GB – Blau tausch möglich",
+      "price": "VB",
+      "speicher": "256 GB",
+      "ort": "58119 Hagen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "80 km",
+      "zustand": "Sehr gut",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold7-256-gb-blau-tausch-moeglich/3457376652-173-2016",
+      "description": "Verkaufe mein Samsung Galaxy Z Fold7 mit 256 GB Speicher in der Farbe Blau.\n\nZustand:\n\n- Sehr guter...",
+      "full_description": "Verkaufe mein Samsung Galaxy Z Fold7 mit 256 GB Speicher in der Farbe Blau. Zustand: - Sehr guter Zustand - Das Gehäuse hat ein paar kleine Gebrauchsspuren bzw. minimale Macken, die die Funktion nicht beeinträchtigen. Funktion: - Technisch einwandfrei - Alles funktioniert ohne Probleme Lieferumfang: - Samsung Galaxy Z Fold7 - Ladekabel - Schutzhüllen Restgarantie bis 15.10.2027 - ohne Originalverpackung - ohne Rechnung - Tausch möglich - Nur Abholung - Privatverkauf, daher keine Rücknahme, Garantie oder Gewährleistung. Mit freundlichen Grüßen",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Rechnung",
+          "Keine Rücknahme"
+        ],
+        "positives": [
+          "Sehr guter Zustand",
+          "Technisch einwandfrei",
+          "Tausch möglich"
+        ],
+        "summary": "Samsung Galaxy Z Fold7 256 GB in Blau, sehr guter Zustand, Tausch möglich",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-12T17:11:29.424124+00:00"
+    },
     "3cf9752775b3b9892445645fbc03cdcf": {
       "id": "3cf9752775b3b9892445645fbc03cdcf",
       "title": "Samsung Galaxy Fold 4 512GB -> absoluter Neuzustand (auch Akku) !",
@@ -70,7 +103,7 @@
       "speicher": "512 GB",
       "ort": "44225 Hombruch\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "76 km",
-      "zustand": "Neu",
+      "zustand": "k.A.",
       "model": "Z Fold 4",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -786,37 +819,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-09T18:56:29.159373+00:00"
-    },
-    "b65074c28d11536b423d0c2e84e53023": {
-      "id": "b65074c28d11536b423d0c2e84e53023",
-      "title": "Hama Tablet Case Fold für Samsung Galaxy Tab A8 10.5\"",
-      "price": "5 €",
-      "speicher": "k.A.",
-      "ort": "45326 Altenessen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "51 km",
-      "zustand": "Neu (OVP)",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/hama-tablet-case-fold-fuer-samsung-galaxy-tab-a8-10-5-/3454913299-285-2036",
-      "description": "Ich biete hier ein neues, ungeöffnetes Hama Tablet Case 'Fold' in Schwarz an. Es ist...",
-      "full_description": "Ich biete hier ein neues, ungeöffnetes Hama Tablet Case 'Fold' in Schwarz an. Es ist speziell für das Samsung Galaxy Tab A8 mit einer Größe von 10.5 Zoll konzipiert. Dieses praktische Case schützt dein Tablet optimal und bietet zusätzliche Funktionen. Es ist noch in der Originalverpackung und wurde nie benutzt. * Passend für Samsung Galaxy Tab A8 10.5\" * Automatische Ein-/Ausschaltfunktion * Zwei Standfunktionen für bequemes Ansehen * Magnetverschluss für sicheren Halt * Elegantes schwarzes Design Das Case ist ideal, um dein Tablet vor Kratzern und Stößen zu schützen und gleichzeitig die Nutzung zu erleichtern. Es ist in einwandfreiem, neuem Zustand. Bei Fragen melde dich gerne.",
-      "assessment": {
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "🟢 Sehr günstig (Ref. ~180 €)",
-        "flags": [
-          "ℹ️ Kratzer vorhanden"
-        ],
-        "positives": [
-          "✅ Originalverpackung",
-          "✅ Makellos"
-        ],
-        "summary": "ℹ️ Kratzer vorhanden · 🟢 Sehr günstig (Ref. ~180 €)"
-      },
-      "first_seen": "2026-07-09T16:07:19.914379+00:00"
     }
   },
   "last_full_send": "2026-07-12T13:49:07.433410+00:00",
-  "last_run": "2026-07-12T15:08:21.355816+00:00"
+  "last_run": "2026-07-12T17:11:57.658707+00:00"
 }
