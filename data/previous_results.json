@@ -63,6 +63,101 @@
       },
       "first_seen": "2026-06-23T21:04:28.856058+00:00"
     },
+    "bd5252d084512ee729316945ee4f9b2e": {
+      "id": "bd5252d084512ee729316945ee4f9b2e",
+      "title": "Samsung Galaxy Z Fold7 wie Neu 3 Monate alt Rechnung Garantie",
+      "price": "950 €",
+      "speicher": "256 GB",
+      "ort": "51103 Kalk\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "49 km",
+      "zustand": "Neu",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold7-wie-neu-3-monate-alt-rechnung-garantie/3458100643-173-17009",
+      "description": "Zum Verkauf steht ein neuwertiges Samsung Galaxy Z Fold7 5G\n\n256GB\n\nFarbe Schwarz\n\nDatum der...",
+      "full_description": "Zum Verkauf steht ein neuwertiges Samsung Galaxy Z Fold7 5G 256GB Farbe Schwarz Datum der Aktivierung: 30.03.2026 Privacy Panzerglass auf dem kleinen Display Kameraschutz drauf + 2 neue Handy Hüllen Das Handy ist wie Neu, es wurde nur 37x geladen und hat natürlich noch 100% Akkukapazität Es hat auch dementsprechend absolut keine Gebrauchsspuren(Kratzer, Katscher oder sonstiges) Haben es zur Vertragsverlängerung erhalten, keine Rechnung vorhanden!!! BITTE LESEN!!! FESTPREIS!!! Unnötige Anfragen wie nur \"Hallo\", \"noch da?\", \"letzte Preis?\" usw. werden unverzüglich gelöscht!!! Solange die Anzeige aktiv ist, solange ist es dementsprechend auch verfügbar!!! Wir bieten keinen Versand an!!!",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Rechnung vorhanden",
+          "Festpreis ohne Preisverhandlung"
+        ],
+        "positives": [
+          "Neuwertiges Gerät",
+          "Hoher Speicher",
+          "Kameraschutz und Handyhüllen"
+        ],
+        "summary": "Neuwertiges Samsung Galaxy Z Fold7 256GB für 950€",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-13T15:47:35.485915+00:00"
+    },
+    "904eefe56ff8329cff8a2b82e8fcc2ea": {
+      "id": "904eefe56ff8329cff8a2b82e8fcc2ea",
+      "title": "Samsung Galaxy Z Fold 6",
+      "price": "400 €",
+      "speicher": "k.A.",
+      "ort": "51469 Bergisch Gladbach\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "52 km",
+      "zustand": "Neu",
+      "model": "Z Fold 6",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6/3458098845-173-1590",
+      "description": "Samsung Galaxy Z Fold 6\nTelefon ist wie Neu\nBeide Displays Ohne Kratzer\nTelefon Hat Von Bulgarische...",
+      "full_description": "Samsung Galaxy Z Fold 6 Telefon ist wie Neu Beide Displays Ohne Kratzer Telefon Hat Von Bulgarische Anbieter Yettel Netlock Deswegen Verkaufe ich Als Bastlerware Siehe Original Bilder",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 3,
+        "label": "Vorsicht",
+        "price_note": "Überteuert",
+        "flags": [
+          "Bulgarischer Anbieter",
+          "Netlock",
+          "Bastlerware"
+        ],
+        "positives": [
+          "Zustand wie neu",
+          "Beide Displays ohne Kratzer"
+        ],
+        "summary": "Neuer Z Fold 6, aber ungewöhnlicher Hintergrund",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-13T15:47:35.486238+00:00"
+    },
+    "81b2a8280ee44dd64cfa0d4ffc5141f2": {
+      "id": "81b2a8280ee44dd64cfa0d4ffc5141f2",
+      "title": "samsung galaxy z fold 7",
+      "price": "VB",
+      "speicher": "k.A.",
+      "ort": "41169 Mönchengladbach\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "7 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold 7",
+      "angebotstyp": "Gesuch",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7/3458011424-173-1961",
+      "description": "Ich suche ein z fold 7 neu und versiegelt mit Rechnung bzw Lieferschein\n\nZahle bar bis 1200 Euro",
+      "full_description": "Ich suche ein z fold 7 neu und versiegelt mit Rechnung bzw Lieferschein Zahle bar bis 1200 Euro",
+      "assessment": {
+        "category": "Ankauf",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Neu und versiegelt",
+          "Rechnung oder Lieferschein"
+        ],
+        "summary": "Z Fold 7 Ankauf, Neu und versiegelt, bis 1200 Euro",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-13T15:47:35.486534+00:00"
+    },
     "a70333be3984305244f98a68efaeb780": {
       "id": "a70333be3984305244f98a68efaeb780",
       "title": "Samsung Galaxy Z Fold 6 - 256GB | 12GB - Silber",
@@ -70,7 +165,7 @@
       "speicher": "256 GB",
       "ort": "50823 Ehrenfeld\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "44 km",
-      "zustand": "Neu",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Gewerblich",
@@ -160,39 +255,6 @@
         "source": "groq"
       },
       "first_seen": "2026-07-08T12:47:34.024445+00:00"
-    },
-    "12f0708a982b8a2b2f667b90a2b23155": {
-      "id": "12f0708a982b8a2b2f667b90a2b23155",
-      "title": "Samsung Galaxy Z Fold 6",
-      "price": "420 €",
-      "speicher": "k.A.",
-      "ort": "51469 Bergisch Gladbach\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "52 km",
-      "zustand": "Neu",
-      "model": "Z Fold 6",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6/3457552755-173-1590",
-      "description": "Samsung Galaxy Z Fold 6\nTelefon ist wie Neu\nTelefon Hat Von Bulgarische Anbieter Yettel...",
-      "full_description": "Samsung Galaxy Z Fold 6 Telefon ist wie Neu Telefon Hat Von Bulgarische Anbieter Yettel Netlock Deswegen Verkaufe ich Als Bastlerware Siehe Original Bilder",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 3,
-        "label": "Vorsicht",
-        "price_note": "Überteuert",
-        "flags": [
-          "Bulgarischer Anbieter",
-          "Netlock",
-          "Bastlerware"
-        ],
-        "positives": [
-          "Original Bilder",
-          "Neuwertzustand"
-        ],
-        "summary": "Neuer Z Fold 6, aber Bulgarischer Anbieter und Netlock",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-12T19:18:46.299242+00:00"
     },
     "7eab0ce519e892be07e9cc4cf8ff42b4": {
       "id": "7eab0ce519e892be07e9cc4cf8ff42b4",
@@ -288,37 +350,6 @@
         "summary": "ℹ️ Gebrauchsspuren · 🟢 Sehr günstig (Ref. ~1400 €)"
       },
       "first_seen": "2026-07-12T17:11:29.424124+00:00"
-    },
-    "3cf9752775b3b9892445645fbc03cdcf": {
-      "id": "3cf9752775b3b9892445645fbc03cdcf",
-      "title": "Samsung Galaxy Fold 4 512GB -> absoluter Neuzustand (auch Akku) !",
-      "price": "340 € VB",
-      "speicher": "512 GB",
-      "ort": "44225 Hombruch\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "76 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 4",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-4-512gb-absoluter-neuzustand-auch-akku-/3457266223-173-1091",
-      "description": "Hallo zusammen,\n\nich muss mal wieder meine Handysammlung verkleinern und verkaufe daher aktuell...",
-      "full_description": "Hallo zusammen, ich muss mal wieder meine Handysammlung verkleinern und verkaufe daher aktuell mein Samsung Fold 4. Hier biete ich daher mein Samsung Galaxy Fold 4 in Grau-Grün mit 512 GB an. Das Handy ist in absolutem Neuzustand ! Zu einem großen Teil sind noch die Schutzfolien auf den Rändern und z.B. der Rückseite vorhanden. Auf den Bildschirmen sind ebenfalls noch die originalen Schutzfolien vorhanden. Beide Bildschirme und auch der Akku sind daher ebenfalls in Top-Zustand und auch sonst kann ich keine Gebrauchsspuren finden. Schaut Euch gerne alle Bilder an :-) Lieferumfang: Handy OVP von Vodafone 1 Hülle, ebenfalls wie neu Noch Fragen ? Gerne, schreibt mich an. Unverschämte Preisanfragen und \"Letzte Preis\" Anfragen werden aber nicht beantwortet ;-) Viele Grüße und bis bald ! Ingo",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "absoluter Neuzustand",
-          "Top-Zustand",
-          "Originalschutzfolien",
-          "Lieferumfang: Handy OVP, Hülle"
-        ],
-        "summary": "Samsung Galaxy Fold 4 512GB in absolutem Neuzustand für 340€",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-12T15:07:53.703038+00:00"
     },
     "74d88bc184a0a04cc9d1197b8b3da2ca": {
       "id": "74d88bc184a0a04cc9d1197b8b3da2ca",
@@ -754,39 +785,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-10T19:46:42.461414+00:00"
-    },
-    "01083a7e8f5c9315c9d1db8dbae4684b": {
-      "id": "01083a7e8f5c9315c9d1db8dbae4684b",
-      "title": "Samsung Galaxy Z Fold 4",
-      "price": "140 €150 €",
-      "speicher": "k.A.",
-      "ort": "42349 Cronenberg\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "48 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 4",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-4/3455079245-173-1577",
-      "description": "Guten Tag,\n\nich biete hier ein Samsung Galaxy Z Fold 4 mit sichtbaren Gebrauchsspuren an. Das...",
-      "full_description": "Guten Tag, ich biete hier ein Samsung Galaxy Z Fold 4 mit sichtbaren Gebrauchsspuren an. Das Außendisplay und WLAN funktioniert nicht mehr, was sehr stark auf ein Problem mit einem Flex-Kabel im inneren des Gerätes hindeutet. Jemand der sich auskennt, kriegt das vielleicht wieder hin. Ansonsten funktioniert das Gerät einwandfrei. Kameras, Innendisplay, sonstige Funktionen sind Akku laufen alle einwandfrei. Trotzdem wird das Gerät als defekt verkauft. Bei Fragen gerne schreiben :) Der Verkauf erfolgt unter Ausschluss jeglicher Sachmängelhaftung. Die Haftung auf Schadenersatz wegen Verletzungen von Gesundheit, Körper oder Leben und grob fahrlässiger und/oder vorsätzlicher Verletzungen meiner Pflichten als Verkäufer bleibt davon unberührt. Da es sich um einen Privatverkauf handelt, sind Rücknahme, Garantie und Gewährleistung ausgeschlossen.",
-      "assessment": {
-        "stars": 0,
-        "label": "Neutral",
-        "price_note": "🔴 Deutlich überteuert (Ref. ~450 €)",
-        "flags": [
-          "⚠️ Als defekt beschrieben",
-          "⚠️ Displayschaden",
-          "ℹ️ Gebrauchsspuren"
-        ],
-        "positives": [
-          "✅ Garantie vorhanden",
-          "✅ Makellos"
-        ],
-        "summary": "⚠️ Als defekt beschrieben · 🔴 Deutlich überteuert (Ref. ~450 €)"
-      },
-      "first_seen": "2026-07-09T20:53:27.284316+00:00"
     }
   },
   "last_full_send": "2026-07-13T12:15:43.208967+00:00",
-  "last_run": "2026-07-13T12:15:43.209051+00:00"
+  "last_run": "2026-07-13T15:48:10.183662+00:00"
 }
