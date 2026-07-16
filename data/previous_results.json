@@ -570,35 +570,6 @@
       },
       "first_seen": "2026-07-13T18:02:36.745362+00:00"
     },
-    "81b2a8280ee44dd64cfa0d4ffc5141f2": {
-      "id": "81b2a8280ee44dd64cfa0d4ffc5141f2",
-      "title": "samsung galaxy z fold 7",
-      "price": "VB",
-      "speicher": "k.A.",
-      "ort": "41169 Mönchengladbach\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "7 km",
-      "zustand": "Neu (OVP)",
-      "model": "Z Fold 7",
-      "angebotstyp": "Gesuch",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7/3458011424-173-1961",
-      "description": "Ich suche ein z fold 7 neu und versiegelt mit Rechnung bzw Lieferschein\n\nZahle bar bis 1200 Euro",
-      "full_description": "Ich suche ein z fold 7 neu und versiegelt mit Rechnung bzw Lieferschein Zahle bar bis 1200 Euro",
-      "assessment": {
-        "category": "Ankauf",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Neu und versiegelt",
-          "Rechnung oder Lieferschein"
-        ],
-        "summary": "Z Fold 7 Ankauf, Neu und versiegelt, bis 1200 Euro",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-13T15:47:35.486534+00:00"
-    },
     "a70333be3984305244f98a68efaeb780": {
       "id": "a70333be3984305244f98a68efaeb780",
       "title": "Samsung Galaxy Z Fold 6 - 256GB | 12GB - Silber",
@@ -784,8 +755,40 @@
         "source": "groq"
       },
       "first_seen": "2026-07-12T13:48:36.970545+00:00"
+    },
+    "498598552d12c4093a732d6cecaa40f0": {
+      "id": "498598552d12c4093a732d6cecaa40f0",
+      "title": "Samsung Galaxy Fold 2 5G",
+      "price": "230 € VB",
+      "speicher": "256 GB",
+      "ort": "53913 Swisttal\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "65 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 2",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-2-5g/3456971629-173-1666",
+      "description": "Verkaufe hier ein Samsung Galaxy Z Fold2\n256 GB Speicher\nGebrauchsspuren vorhanden (siehe...",
+      "full_description": "Verkaufe hier ein Samsung Galaxy Z Fold2 256 GB Speicher Gebrauchsspuren vorhanden (siehe Fotos) Lieferumfang: Samsung Galaxy Z Fold2 Kein weiteres Zubehör, sofern nicht auf den Bildern. Privatverkauf: Dies ist ein Privatverkauf. Keine Garantie, keine Gewährleistung, keine Rücknahme und keine Erstattung. Rückgabe, Umtausch oder Nachverhandlungen nach dem Kauf sind ausgeschlossen.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 3,
+        "label": "Neutral",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Garantie",
+          "Keine Rücknahme"
+        ],
+        "positives": [
+          "256 GB Speicher",
+          "5G"
+        ],
+        "summary": "Gebrauchter Z Fold 2 256 GB für 230 €",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-16T09:21:54.299395+00:00"
     }
   },
   "last_full_send": "2026-07-16T03:29:59.377032+00:00",
-  "last_run": "2026-07-16T06:27:42.895870+00:00"
+  "last_run": "2026-07-16T09:22:20.902682+00:00"
 }
