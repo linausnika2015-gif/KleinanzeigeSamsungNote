@@ -63,35 +63,37 @@
       },
       "first_seen": "2026-06-23T21:04:28.856058+00:00"
     },
-    "aee261b518c3d2607da20f72cadeba9e": {
-      "id": "aee261b518c3d2607da20f72cadeba9e",
-      "title": "samsung galaxy Z fold 6 top zustand",
-      "price": "500 € VB",
-      "speicher": "256 GB",
-      "ort": "52351 Düren\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "45 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 6",
+    "aa08027e12a593ee1bf5b55782bcf97e": {
+      "id": "aa08027e12a593ee1bf5b55782bcf97e",
+      "title": "Samsung Galaxy z Fold4",
+      "price": "390 € VB",
+      "speicher": "k.A.",
+      "ort": "53940 Hellenthal\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "83 km",
+      "zustand": "Sehr gut",
+      "model": "Z Fold 4",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6-top-zustand/3460570958-173-1768",
-      "description": "Ich biete hier mein Samsung Galaxy Z Fold 6 mit 256GB Speicher an. Dieses innovative Smartphone...",
-      "full_description": "Ich biete hier mein Samsung Galaxy Z Fold 6 mit 256GB Speicher an. Dieses innovative Smartphone kommt mit einer passenden Schutzhülle, die es optimal schützt. * Großes, faltbares Display für Multitasking * 256GB interner Speicher für all deine Daten * Inklusive robuster schwarzer Schutzhülle * Leistungsstarke Kamera * Modernes Design in Schwarz Das Handy ist in einem sehr guten Zustand und funktioniert einwandfrei. Es wurde stets pfleglich behandelt und die Hülle hat es vor Kratzern bewahrt. Bei Fragen melde dich gerne. Nur Abholung",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold4/3460715505-173-1730",
+      "description": "Samsung Galaxy z Fold4\nSehr gute Zustand. Mit Ladekabel netzteil.\n\nBar zahlen Ort abholen oder...",
+      "full_description": "Samsung Galaxy z Fold4 Sehr gute Zustand. Mit Ladekabel netzteil. Bar zahlen Ort abholen oder überweisung PayPal als Freund möglich . Versand möglich. Kein direkt kaufen.",
       "assessment": {
         "category": "Gerät",
         "stars": 5,
         "label": "Sehr empfehlenswert",
         "price_note": "Günstig",
-        "flags": [],
+        "flags": [
+          "Kein direkter Kauf möglich",
+          "Keine Speicherangabe"
+        ],
         "positives": [
           "Sehr guter Zustand",
-          "256 GB Speicher",
-          "Inklusive Schutzhülle"
+          "Ladekabel und Netzteil enthalten"
         ],
-        "summary": "Samsung Galaxy Z Fold 6 in sehr gutem Zustand mit 256 GB Speicher und Schutzhülle zum günstigen Preis von 500 €",
+        "summary": "Samsung Galaxy Z Fold 4 in sehr gutem Zustand zum günstigen Preis",
         "source": "groq"
       },
-      "first_seen": "2026-07-16T18:14:34.809032+00:00"
+      "first_seen": "2026-07-16T22:11:43.523503+00:00"
     },
     "c210528417ac6e84a167c02354f0d25e": {
       "id": "c210528417ac6e84a167c02354f0d25e",
@@ -600,34 +602,6 @@
       },
       "first_seen": "2026-07-15T14:03:21.936716+00:00"
     },
-    "a407fff748fcf685affb3be37ddc071d": {
-      "id": "a407fff748fcf685affb3be37ddc071d",
-      "title": "Samsung Galaxy Z Fold 6 - 256GB mit Hülle",
-      "price": "500 € VB550 €",
-      "speicher": "256 GB",
-      "ort": "52351 Düren\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "45 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 6",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6-256gb-mit-huelle/3459234018-173-1768",
-      "description": "Ich biete hier mein Samsung Galaxy Z Fold 6 mit 256GB Speicher an. Dieses innovative Smartphone...",
-      "full_description": "Ich biete hier mein Samsung Galaxy Z Fold 6 mit 256GB Speicher an. Dieses innovative Smartphone kommt mit einer passenden Schutzhülle, die es optimal schützt. * Großes, faltbares Display für Multitasking * 256GB interner Speicher für all deine Daten * Inklusive robuster schwarzer Schutzhülle * Leistungsstarke Kamera * Modernes Design in Schwarz Das Handy ist in einem sehr guten Zustand und funktioniert einwandfrei. Es wurde stets pfleglich behandelt und die Hülle hat es vor Kratzern bewahrt. Bei Fragen melde dich gerne. Nur Abholung",
-      "assessment": {
-        "stars": 1,
-        "label": "Meiden",
-        "price_note": "🔴 Deutlich überteuert (Ref. ~900 €)",
-        "flags": [
-          "ℹ️ Kratzer vorhanden"
-        ],
-        "positives": [
-          "✅ Makellos"
-        ],
-        "summary": "ℹ️ Kratzer vorhanden · 🔴 Deutlich überteuert (Ref. ~900 €)"
-      },
-      "first_seen": "2026-07-15T00:00:36.087819+00:00"
-    },
     "4175e9c8f64cd20f645ee6e7e226d511": {
       "id": "4175e9c8f64cd20f645ee6e7e226d511",
       "title": "5",
@@ -788,8 +762,40 @@
         "source": "groq"
       },
       "first_seen": "2026-07-13T18:02:36.745362+00:00"
+    },
+    "a70333be3984305244f98a68efaeb780": {
+      "id": "a70333be3984305244f98a68efaeb780",
+      "title": "Samsung Galaxy Z Fold 6 - 256GB | 12GB - Silber",
+      "price": "579 €",
+      "speicher": "256 GB",
+      "ort": "50823 Ehrenfeld\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "44 km",
+      "zustand": "Neu",
+      "model": "Z Fold 6",
+      "angebotstyp": "Angebot",
+      "anbieter": "Gewerblich",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6-256gb-12gb-silber/3434248680-173-981",
+      "description": "WILLKOMMEN BEI ARMAC | AN- & VERKAUF\n\n\n_______________________________\n\n\nPRODUKTDETAILS\n\nModell:...",
+      "full_description": "WILLKOMMEN BEI ARMAC | AN- & VERKAUF _______________________________ PRODUKTDETAILS Modell: Samsung Galaxy Z Fold 6 Speicher: 256GB | 12GB Farbe: Silber Zubehör: USB-Kabel Verpackung: Ja Batteriezustand: 100% Anzahl der Zyklen: 19 Ersteinsatz: 27. April 2025 OPTISCHER ZUSTAND Display: WIE NEU - Die Herstellerfolie ist drauf Rückseite: Mit sichtbaren Gebrauchsspuren Rahmen: WIE NEU _______________________________ HINWEISE ZU UNSEREN GEBRAUCHTEN GERÄTEN ✔️12 Monate Gewährleistung ✔️ Keine Reparaturen, die meisten Geräte befinden sich im Originalzustand. ✔️ Geprüft & voll funktionsfähig _______________________________ Wir schaffen es nicht immer, allen zu antworten. Bei Fragen, Abholungen oder Verkäufen einfach anrufen und direkt klären. _______________________________ ALLGEMEINE INFORMATIONEN Zahlungsmöglichkeit: Nur Barzahlung ❗️ Nur Selbstabholung. Adresse: Venloer Str. 182, 50823 Köln Beim Kauf erhalten Sie von uns eine Quittung. Quittung: Wird nach § 25a UStG (Differenzbesteuerung) ausgestellt - kein MwSt. Ausweis möglich. _______________________________ ÖFFNUNGSZEITEN: Mo - Sa: 10:30 - 18:30 Uhr An Sonn- und Feiertagen: Geschlossen GESCHÄFTSSTELLE | ADRESSE: Venloer Str. 182, 50823 Köln U-BAHN-HALTESTELLE: Piusstraße - Linie 3 und 4 KONTAKT: Tel.: 0221 16910298 _______________________________ Alle genannten Markennamen und Warenzeichen sind Eigentum der jeweiligen Eigentümer und Rechteinhaber. Unser Impressum, Hinweise zur Batterieentsorgung, (GPSR) Hersteller/EU Verantwortliche Person und weitere Informationen erreichen Sie durch einen Klick auf „Rechtliche Angaben“.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Neuware",
+          "100% Batteriezustand",
+          "WIE NEU-Optischer Zustand",
+          "12 Monate Gewährleistung",
+          "Keine Reparaturen"
+        ],
+        "summary": "Neues Samsung Galaxy Z Fold 6 mit 256GB Speicher und 12GB RAM, Silber, 100% Batteriezustand, 12 Monate Gewährleistung",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-16T22:11:43.532392+00:00"
     }
   },
   "last_full_send": "2026-07-16T18:15:02.093621+00:00",
-  "last_run": "2026-07-16T20:08:30.394530+00:00"
+  "last_run": "2026-07-16T22:12:12.687822+00:00"
 }
