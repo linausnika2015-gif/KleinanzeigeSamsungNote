@@ -70,7 +70,7 @@
       "speicher": "256 GB",
       "ort": "52351 Düren\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "45 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -453,7 +453,7 @@
     "14ca97f3dfb3aac9170051cc453690cc": {
       "id": "14ca97f3dfb3aac9170051cc453690cc",
       "title": "Samsung Galaxy Z Fold 4",
-      "price": "380 € VB420 €",
+      "price": "350 € VB420 €",
       "speicher": "k.A.",
       "ort": "58135 Hagen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "70 km",
@@ -791,5 +791,5 @@
     }
   },
   "last_full_send": "2026-07-16T18:15:02.093621+00:00",
-  "last_run": "2026-07-16T18:15:02.093703+00:00"
+  "last_run": "2026-07-16T20:08:30.394530+00:00"
 }
