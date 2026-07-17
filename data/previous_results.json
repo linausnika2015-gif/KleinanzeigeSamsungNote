@@ -63,6 +63,73 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "d7251a179cf5672c0fba2eac9aec04b7": {
+      "id": "d7251a179cf5672c0fba2eac9aec04b7",
+      "title": "Samsung Galaxy Z fold 3 in schwarz",
+      "price": "295 €",
+      "speicher": "k.A.",
+      "ort": "44805 Bochum-​Nord\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "68 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 3",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-3-in-schwarz/3460953630-173-1943",
+      "description": "Biete mein Samsung galaxy Zfold3 in schwarz an wegen Neuanschaffung Zwei kleine gebrauchsspuren...",
+      "full_description": "Biete mein Samsung galaxy Zfold3 in schwarz an wegen Neuanschaffung Zwei kleine gebrauchsspuren sonst top Zustand Keine gewährleistung keine rücknahme Nur abholung",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 3,
+        "label": "Vorsicht",
+        "price_note": "Überteuert",
+        "flags": [
+          "Keine Gewährleistung",
+          "Keine Rücknahme",
+          "Kleinanzeigen-Preis"
+        ],
+        "positives": [
+          "Top Zustand",
+          "Gebrauchsspuren klein"
+        ],
+        "summary": "Z Fold 3 in schwarz, top Zustand, aber ohne Gewährleistung",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-17T10:07:28.718557+00:00"
+    },
+    "cc3989ff832b8efef442f9c47e6cd19f": {
+      "id": "cc3989ff832b8efef442f9c47e6cd19f",
+      "title": "Samsung Galaxy Z Fold 7 256 GB Schwarz",
+      "price": "350 €",
+      "speicher": "256 GB",
+      "ort": "47229 Friemersheim\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "28 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-256-gb-schwarz/3460862345-173-23094",
+      "description": "Hallo,\nZum Verkauf steht hier ein tolles Samsung Galaxy Z Fold 7 in Schwarz mit 256 GB. Das...",
+      "full_description": "Hallo, Zum Verkauf steht hier ein tolles Samsung Galaxy Z Fold 7 in Schwarz mit 256 GB. Das Außendisplay funktioniert ohne Probleme,Das Innendisplay hat leider einen Schaden und geht nicht mehr an. Ansonsten lässt es sich ganz normal nutzen nur halt innen nicht. Wie auf den Bildern zu erkennen hat es auch ein paar Gebrauchsspuren und die obere Kamera hat am Glas einen kleinen riss was aber der Funktion keinen Abbruch tut es macht tadellose Bilder und der riss ist im Gebrauch nicht zu bemerken. Ich bitte dennoch beim Preis fair zu bleiben denn wir haben uns bereits erkundigt was man dafür verlangen kann. Dies bitte ich zu berücksichtigen. Am besten ist vorbei kommen und sich selbst ein Bild zu machen. Die OVP ist leider nicht mehr vorhanden. Es ist Simlock frei also kann für alle Netze genutzt werden. Dabei ist ein Nagelneues Paket mit Panzerglas und eine Schutzhülle. Kein Versand nur Abholung.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 3,
+        "label": "Neutral",
+        "price_note": "Günstig",
+        "flags": [
+          "Schaden am Innendisplay",
+          "Gebrauchsspuren",
+          "Riss am Glas der oberen Kamera"
+        ],
+        "positives": [
+          "Tadellose Bilder",
+          "Simlock frei",
+          "Nagelneues Zubehör"
+        ],
+        "summary": "Samsung Galaxy Z Fold 7 mit Schaden am Innendisplay, aber gutem Außendisplay und Zubehör",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-17T10:07:28.719711+00:00"
+    },
     "5f6ead3f6663a4633ee75c994f75dbe4": {
       "id": "5f6ead3f6663a4633ee75c994f75dbe4",
       "title": "Samsung Galaxy Z Fold 4",
@@ -727,73 +794,8 @@
         "summary": "✅ Originalverpackung · ℹ️ Preis nicht angegeben"
       },
       "first_seen": "2026-07-15T14:03:21.936716+00:00"
-    },
-    "4175e9c8f64cd20f645ee6e7e226d511": {
-      "id": "4175e9c8f64cd20f645ee6e7e226d511",
-      "title": "5",
-      "price": "615 € VB",
-      "speicher": "512 GB",
-      "ort": "48163 Mecklenbeck\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
-      "entfernung": "100 km",
-      "zustand": "k.A.",
-      "model": "Other",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6/3459186361-173-17020",
-      "description": "Ich verkaufe mein Handy Mit 512 GB Speicher.",
-      "full_description": "Ich verkaufe mein Handy Mit 512 GB Speicher.",
-      "assessment": {
-        "category": "Sonstiges",
-        "stars": 2,
-        "label": "Vorsicht",
-        "price_note": "Überteuert",
-        "flags": [
-          "Keine Beschreibung des Zustands",
-          "Keine Angaben zum Modell"
-        ],
-        "positives": [
-          "Großer Speicher"
-        ],
-        "summary": "Keine Informationen zum Modell, Zustand oder Preis",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-14T20:19:17.633357+00:00"
-    },
-    "c0b2beb08ec6230aa8757dc33184a2d6": {
-      "id": "c0b2beb08ec6230aa8757dc33184a2d6",
-      "title": "Samsung Galaxy Z Fold 7 256 GB Schwarz",
-      "price": "350 €",
-      "speicher": "256 GB",
-      "ort": "47229 Friemersheim\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "28 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-256-gb-schwarz/3458985078-173-23094",
-      "description": "Hallo,\nZum Verkauf steht hier ein tolles Samsung Galaxy Z Fold 7 in Schwarz mit 256 GB. Das...",
-      "full_description": "Hallo, Zum Verkauf steht hier ein tolles Samsung Galaxy Z Fold 7 in Schwarz mit 256 GB. Das Außendisplay funktioniert ohne Probleme,Das Innendisplay hat leider einen Schaden und geht nicht mehr an. Ansonsten lässt es sich ganz normal nutzen nur halt innen nicht. Wie auf den Bildern zu erkennen hat es auch ein paar Gebrauchsspuren und die obere Kamera hat am Glas einen kleinen riss was aber der Funktion keinen Abbruch tut es macht tadellose Bilder und der riss ist im Gebrauch nicht zu bemerken. Ich bitte dennoch beim Preis fair zu bleiben denn wir haben uns bereits erkundigt was man dafür verlangen kann. Dies bitte ich zu berücksichtigen. Am besten ist vorbei kommen und sich selbst ein Bild zu machen. Die OVP ist leider nicht mehr vorhanden. Es ist Simlock frei also kann für alle Netze genutzt werden. Dabei ist ein Nagelneues Paket mit Panzerglas und eine Schutzhülle. Kein Versand nur Abholung.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "Günstig",
-        "flags": [
-          "Defektes Innendisplay",
-          "Gebrauchsspuren",
-          "Riss am Glas der Oberen Kamera"
-        ],
-        "positives": [
-          "Tadellose Bilder",
-          "Simlock frei",
-          "Panzerglas und Schutzhülle im Lieferumfang"
-        ],
-        "summary": "Defektes Innendisplay, aber Außendisplay funktioniert, Gebrauchsspuren, Riss am Glas der Oberen Kamera",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-14T16:22:54.904038+00:00"
     }
   },
   "last_full_send": "2026-07-17T04:16:55.533378+00:00",
-  "last_run": "2026-07-17T07:25:56.921568+00:00"
+  "last_run": "2026-07-17T10:07:59.769087+00:00"
 }
