@@ -63,72 +63,6 @@
       },
       "first_seen": "2026-06-23T21:04:28.856058+00:00"
     },
-    "ab00fb9179d41e2915977f1c1586b059": {
-      "id": "ab00fb9179d41e2915977f1c1586b059",
-      "title": "Samsung Galaxy Fold 3 5G 256GB Tausche gegen...?",
-      "price": "",
-      "speicher": "256 GB",
-      "ort": "45770 Marl\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "75 km",
-      "zustand": "Wie neu",
-      "model": "Z Fold 3",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-3-5g-256gb-tausche-gegen-/3462162734-273-1773",
-      "description": "Ich biete hier mein Samsung Galaxy Fold 3 5G an, das sich in einem neuwertigen Zustand befindet. Es...",
-      "full_description": "Ich biete hier mein Samsung Galaxy Fold 3 5G an, das sich in einem neuwertigen Zustand befindet. Es kommt mit einer passenden Hülle und einem Stift, was es zu einem praktischen Begleiter macht. * Zustand: Neuwertig * Farbe: Schwarz * Inklusive Hülle und Stift * Modell: Galaxy Fold 3 5G Das Handy ist ideal für alle, die ein modernes Smartphone mit großem, faltbarem Display suchen. Leider ist die Originalverpackung nicht mehr vorhanden, da meine Kinder damit gespielt und sie kaputt gemacht haben. Schreib mir einfach, wenn du Fragen hast. Ich würde auch gegen ein Samsung ultra Modell tauschen oder ein iPhone plus oder Max Modelle werden bevorzugt. Jeh nach Modelle oder Handy würde ich noch ein Horno 200 Lite dazu geben.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Originalverpackung vorhanden",
-          "Kinder haben das Gerät manipuliert"
-        ],
-        "positives": [
-          "Neuwertiger Zustand",
-          "Inklusive Hülle und Stift",
-          "Praktischer Begleiter"
-        ],
-        "summary": "Samsung Galaxy Fold 3 5G in neuwertigem Zustand, inklusive Hülle und Stift, gegen Samsung Ultra oder iPhone Modelle tauschen",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-18T17:07:27.059747+00:00"
-    },
-    "1b7d9d0a45d10e885eff1ebdcffca3ea": {
-      "id": "1b7d9d0a45d10e885eff1ebdcffca3ea",
-      "title": "Samsung Galaxy Fold 3 5G 256GB Tausche gegen...?",
-      "price": "VB",
-      "speicher": "256 GB",
-      "ort": "45770 Marl\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "75 km",
-      "zustand": "Wie neu",
-      "model": "Z Fold 3",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-3-5g-256gb-tausche-gegen-/3462161537-173-1773",
-      "description": "Ich biete hier mein Samsung Galaxy Fold 3 5G an, das sich in einem neuwertigen Zustand befindet. Es...",
-      "full_description": "Ich biete hier mein Samsung Galaxy Fold 3 5G an, das sich in einem neuwertigen Zustand befindet. Es kommt mit einer passenden Hülle und einem Stift, was es zu einem praktischen Begleiter macht. * Zustand: Neuwertig * Farbe: Schwarz * Inklusive Hülle und Stift * Modell: Galaxy Fold 3 5G Das Handy ist ideal für alle, die ein modernes Smartphone mit großem, faltbarem Display suchen. Leider ist die Originalverpackung nicht mehr vorhanden, da meine Kinder damit gespielt und sie kaputt gemacht haben. Schreib mir einfach, wenn du Fragen hast. Ich würde auch gegen ein Samsung ultra Modell tauschen oder ein iPhone plus oder Max Modelle werden bevorzugt. Jeh nach Modelle oder Handy würde ich noch ein Horno 200 Lite dazu geben.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Originalverpackung vorhanden",
-          "Kinder haben das Gerät manipuliert"
-        ],
-        "positives": [
-          "Neuwertiger Zustand",
-          "Inklusive Hülle und Stift",
-          "Praktischer Begleiter"
-        ],
-        "summary": "Samsung Galaxy Fold 3 5G in neuwertigem Zustand, inklusive Hülle und Stift, gegen Samsung Ultra oder iPhone Modelle tauschen",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-18T17:07:27.060106+00:00"
-    },
     "3063e8e19cf54275647c2168a6ef2694": {
       "id": "3063e8e19cf54275647c2168a6ef2694",
       "title": "Samsung Galaxy folder 2",
@@ -348,7 +282,7 @@
     "d7251a179cf5672c0fba2eac9aec04b7": {
       "id": "d7251a179cf5672c0fba2eac9aec04b7",
       "title": "Samsung Galaxy Z fold 3 in schwarz",
-      "price": "280 €295 €",
+      "price": "260 €295 €",
       "speicher": "k.A.",
       "ort": "44805 Bochum-​Nord\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "68 km",
@@ -789,8 +723,72 @@
         "source": "groq"
       },
       "first_seen": "2026-07-15T17:33:18.792348+00:00"
+    },
+    "14ca97f3dfb3aac9170051cc453690cc": {
+      "id": "14ca97f3dfb3aac9170051cc453690cc",
+      "title": "Samsung Galaxy Z Fold 4",
+      "price": "350 € VB420 €",
+      "speicher": "k.A.",
+      "ort": "58135 Hagen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "70 km",
+      "zustand": "Gut",
+      "model": "Z Fold 4",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-4/3459736223-173-2017",
+      "description": "Hallo,\n\nIch verkaufe mein gut erhaltenes Galaxy Fold 4.\nKaufdatum: 21.11.2022\n\nBei Fragen gerne...",
+      "full_description": "Hallo, Ich verkaufe mein gut erhaltenes Galaxy Fold 4. Kaufdatum: 21.11.2022 Bei Fragen gerne melden :) Da privatverkauf keine Garantie oder Gewährleistung.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Garantie oder Gewährleistung",
+          "Privatverkauf"
+        ],
+        "positives": [
+          "Gut erhalten",
+          "Kaufdatum bekannt"
+        ],
+        "summary": "Gut erhaltenes Galaxy Fold 4 zum günstigen Preis",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-18T19:17:55.532206+00:00"
+    },
+    "c5962d8ade16964941276ff3294419ba": {
+      "id": "c5962d8ade16964941276ff3294419ba",
+      "title": "Samsung Galaxy Z Fold 4 inkl OVP",
+      "price": "380 € VB",
+      "speicher": "k.A.",
+      "ort": "47877 Willich\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "9 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 4",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-4-inkl-ovp/3459726793-173-1918",
+      "description": "Keine Kratzer auf den displays vorhanden, lediglich wenige Gebrauchsspuren am Gehäuse durch normale...",
+      "full_description": "Keine Kratzer auf den displays vorhanden, lediglich wenige Gebrauchsspuren am Gehäuse durch normale Nutzung. Ovp ist natürlich vorhanden.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Angaben zum Zustand des Speichers"
+        ],
+        "positives": [
+          "Keine Kratzer auf den Displays",
+          "wenige Gebrauchsspuren am Gehäuse",
+          "OVP vorhanden"
+        ],
+        "summary": "Gebrauchter Z Fold 4 mit OVP, wenige Gebrauchsspuren, kein Display-Schaden",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-18T19:17:55.532489+00:00"
     }
   },
   "last_full_send": "2026-07-18T17:07:58.350369+00:00",
-  "last_run": "2026-07-18T17:07:58.350446+00:00"
+  "last_run": "2026-07-18T19:18:27.214616+00:00"
 }
