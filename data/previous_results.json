@@ -70,7 +70,7 @@
       "speicher": "12 GB",
       "ort": "53773 Hennef (Sieg)\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "77 km",
-      "zustand": "Wie neu",
+      "zustand": "k.A.",
       "model": "Z Fold 5",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -192,7 +192,7 @@
     "a70f0dcb3f7f720cd0af9afc8501df65": {
       "id": "a70f0dcb3f7f720cd0af9afc8501df65",
       "title": "Samsung Galaxy Z Fold 4",
-      "price": "400 € VB",
+      "price": "390 € VB400 €",
       "speicher": "k.A.",
       "ort": "50969 Zollstock\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "47 km",
@@ -204,18 +204,12 @@
       "description": "Ich biete mein Samsung Handy Fold 4 in Schwarz an\nSehr guter Zustand kaum benutzt.\nEine Handy Hülle...",
       "full_description": "Ich biete mein Samsung Handy Fold 4 in Schwarz an Sehr guter Zustand kaum benutzt. Eine Handy Hülle ist dabei. Tausch auch möglich",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~450 €)",
         "flags": [],
-        "positives": [
-          "Sehr guter Zustand",
-          "Kaum benutzt",
-          "Handy Hülle inklusive"
-        ],
-        "summary": "Samsung Galaxy Z Fold 4, Sehr guter Zustand, 400€ VB",
-        "source": "groq"
+        "positives": [],
+        "summary": "🔴 Deutlich überteuert (Ref. ~450 €)"
       },
       "first_seen": "2026-07-17T14:50:04.584054+00:00"
     },
@@ -788,5 +782,5 @@
     }
   },
   "last_full_send": "2026-07-18T03:24:19.502029+00:00",
-  "last_run": "2026-07-18T06:14:12.209623+00:00"
+  "last_run": "2026-07-18T08:55:22.021607+00:00"
 }
