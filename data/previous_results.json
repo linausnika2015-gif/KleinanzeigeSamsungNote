@@ -1,5 +1,36 @@
 {
   "listings": {
+    "ef36088e651db5a56b18b53aa4ff0571": {
+      "id": "ef36088e651db5a56b18b53aa4ff0571",
+      "title": "✅ ANKAUF ✅ Samsung Galaxy S25 S26 Ultra 5G Plus S26+ Z Flip Fold 6 7 ZFlip ZFold / Apple MacBook Pro Air 2025 M5 CHIP 13 14 15 iPad 11 16GB 24GB 32GB Max Mac Book i Pad 128GB 256GB 512GB 1TB iPhone 17",
+      "price": "VB",
+      "speicher": "16 GB",
+      "ort": "44575 Castrop-​Rauxel\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "72 km",
+      "zustand": "Neu",
+      "model": "Z Fold 6",
+      "angebotstyp": "Gesuch",
+      "anbieter": "Gewerblich",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/-ankauf-samsung-galaxy-s25-s26-ultra-5g-plus-s26-z-flip-fold-6-7-zflip-zfold-apple-macbook-pro-air-2025-m5-chip-13-14-15-ipad-11-16gb-24gb-32gb-max-mac-book-i-pad-128gb-256gb-512gb-1tb-iphone-17/3036704671-173-1997",
+      "description": "Ankauf von Smartphones, iPads & Notebooks – Neu oder Aktuell Gebraucht\nUnser Standort:\n* ❌❌ Obere...",
+      "full_description": "**Ankauf von Smartphones, iPads & Notebooks – Neu oder Aktuell Gebraucht** **Unser Standort:** * ❌❌ **Obere Münsterstraße 16** 44575 Castrop-Rauxel * **‼️(neben der Schreinerei Eckhardt ) ‼️** **Kontaktmöglichkeiten**: * Rufen Sie uns an unter der Rufnummer **0178 9235656** **oder Schreiben Sie uns:** * **über Kleinanzeigen** * **per WhatsApp** * **via Telegram** **Was wir ankaufen:** * Neue und versiegelte Geräte * Aktuelle gebrauchte Modelle in gutem Zustand * Gerätetypen: Smartphones, iPads, MacBooks, Laptops und mehr **So einfach funktioniert der Ankauf:** **1 Kontakt aufnehmen** Senden Sie uns eine Nachricht mit den folgenden Angaben: * Marke und Modell (z. B. iPhone 14 Pro Max, MacBook Pro) * Speichergröße und Zustand (Neu/Gebraucht) * Zubehör (z. B. Ladegerät, Originalverpackung) * Ihre Preisvorstellung: Wie viel möchten Sie für Ihr Gerät? **2 Angebot erhalten** * Wir prüfen Ihre Angaben und senden Ihnen schnell ein faires Angebot. **3 Übergabe des Geräts** Vor Ort im Shop: * Bringen Sie Ihr Gerät nach Terminvereinbarung direkt zu uns. Kostenlose Parkplätze stehen direkt vor dem Shop zur Verfügung! **Abholung:** * Wir holen Ihr Gerät innerhalb von 60 Minuten im Umkreis von 50 km ab. **Versand:** * Senden Sie Ihr Gerät bequem an uns. Nach Erhalt zahlen wir den vereinbarten Betrag noch am gleichen Tag per Echtzeit-Überweisung. **Wichtige Hinweise:** * Defekte Geräte kaufen wir nicht. * Der Ankauf erfolgt nur gegen Vorlage eines gültigen Ausweises und mit einem Kaufvertrag. **Jetzt Kontakt aufnehmen – Wir freuen uns auf Ihre Nachricht!** **Copyright-Hinweis:** **© S.A** **Die Inhalte dieser Seite sind urheberrechtlich geschützt. Jede Vervielfältigung oder kommerzielle Nutzung ist ohne schriftliche Zustimmung untersagt.** **Rechtsverletzungen: Bei Verstößen gegen das Urheberrecht behalten wir uns rechtliche Schritte vor.**",
+      "assessment": {
+        "category": "Ankauf",
+        "stars": 2,
+        "label": "Neutral",
+        "price_note": "Fair",
+        "flags": [
+          "Kein spezifischer Preis genannt",
+          "Keine klare Beschreibung des Ankaufprozesses"
+        ],
+        "positives": [
+          "Kostenlose Parkplätze vor dem Shop"
+        ],
+        "summary": "Ankauf von Smartphones, iPads und Notebooks in Castrop-Rauxel",
+        "source": "groq"
+      },
+      "first_seen": "2026-06-23T21:04:28.856058+00:00"
+    },
     "ca37aab08e4d1112407a23a8b12dca0e": {
       "id": "ca37aab08e4d1112407a23a8b12dca0e",
       "title": "❌SUCHE ANKAUF Samsung Galaxy S24 S25 S26 Ultra Plus Tab S9 S10 S11  Z Fold Flip 7",
@@ -32,36 +63,38 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
-    "ef36088e651db5a56b18b53aa4ff0571": {
-      "id": "ef36088e651db5a56b18b53aa4ff0571",
-      "title": "✅ ANKAUF ✅ Samsung Galaxy S25 S26 Ultra 5G Plus S26+ Z Flip Fold 6 7 ZFlip ZFold / Apple MacBook Pro Air 2025 M5 CHIP 13 14 15 iPad 11 16GB 24GB 32GB Max Mac Book i Pad 128GB 256GB 512GB 1TB iPhone 17",
-      "price": "VB",
-      "speicher": "16 GB",
-      "ort": "44575 Castrop-​Rauxel\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "72 km",
-      "zustand": "Neu",
+    "187e73d4308ae93f731603c65728a1c8": {
+      "id": "187e73d4308ae93f731603c65728a1c8",
+      "title": "Samsung Galaxy Z Fold6 - 256GB | 12GB  - Silber - Batterie 100%",
+      "price": "639 €",
+      "speicher": "256 GB",
+      "ort": "50823 Ehrenfeld\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "44 km",
+      "zustand": "Gut",
       "model": "Z Fold 6",
-      "angebotstyp": "Gesuch",
+      "angebotstyp": "Angebot",
       "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/-ankauf-samsung-galaxy-s25-s26-ultra-5g-plus-s26-z-flip-fold-6-7-zflip-zfold-apple-macbook-pro-air-2025-m5-chip-13-14-15-ipad-11-16gb-24gb-32gb-max-mac-book-i-pad-128gb-256gb-512gb-1tb-iphone-17/3036704671-173-1997",
-      "description": "Ankauf von Smartphones, iPads & Notebooks – Neu oder Aktuell Gebraucht\nUnser Standort:\n* ❌❌ Obere...",
-      "full_description": "**Ankauf von Smartphones, iPads & Notebooks – Neu oder Aktuell Gebraucht** **Unser Standort:** * ❌❌ **Obere Münsterstraße 16** 44575 Castrop-Rauxel * **‼️(neben der Schreinerei Eckhardt ) ‼️** **Kontaktmöglichkeiten**: * Rufen Sie uns an unter der Rufnummer **0178 9235656** **oder Schreiben Sie uns:** * **über Kleinanzeigen** * **per WhatsApp** * **via Telegram** **Was wir ankaufen:** * Neue und versiegelte Geräte * Aktuelle gebrauchte Modelle in gutem Zustand * Gerätetypen: Smartphones, iPads, MacBooks, Laptops und mehr **So einfach funktioniert der Ankauf:** **1 Kontakt aufnehmen** Senden Sie uns eine Nachricht mit den folgenden Angaben: * Marke und Modell (z. B. iPhone 14 Pro Max, MacBook Pro) * Speichergröße und Zustand (Neu/Gebraucht) * Zubehör (z. B. Ladegerät, Originalverpackung) * Ihre Preisvorstellung: Wie viel möchten Sie für Ihr Gerät? **2 Angebot erhalten** * Wir prüfen Ihre Angaben und senden Ihnen schnell ein faires Angebot. **3 Übergabe des Geräts** Vor Ort im Shop: * Bringen Sie Ihr Gerät nach Terminvereinbarung direkt zu uns. Kostenlose Parkplätze stehen direkt vor dem Shop zur Verfügung! **Abholung:** * Wir holen Ihr Gerät innerhalb von 60 Minuten im Umkreis von 50 km ab. **Versand:** * Senden Sie Ihr Gerät bequem an uns. Nach Erhalt zahlen wir den vereinbarten Betrag noch am gleichen Tag per Echtzeit-Überweisung. **Wichtige Hinweise:** * Defekte Geräte kaufen wir nicht. * Der Ankauf erfolgt nur gegen Vorlage eines gültigen Ausweises und mit einem Kaufvertrag. **Jetzt Kontakt aufnehmen – Wir freuen uns auf Ihre Nachricht!** **Copyright-Hinweis:** **© S.A** **Die Inhalte dieser Seite sind urheberrechtlich geschützt. Jede Vervielfältigung oder kommerzielle Nutzung ist ohne schriftliche Zustimmung untersagt.** **Rechtsverletzungen: Bei Verstößen gegen das Urheberrecht behalten wir uns rechtliche Schritte vor.**",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold6-256gb-12gb-silber-batterie-100-/3461967863-173-981",
+      "description": "WILLKOMMEN BEI ARMAC | AN- & VERKAUF\n\n\n_______________________________\n\n\nPRODUKTDETAILS\n\nModell:...",
+      "full_description": "WILLKOMMEN BEI ARMAC | AN- & VERKAUF _______________________________ PRODUKTDETAILS Modell: Samsung Galaxy Z Fold 6 Speicher: 256GB | 12GB RAM Farbe: Silber Zubehör: USB-Kabel Verpackung: Nein Batteriezustand: 100% Anzahl der Zyklen: 103 Gut - Mit sichtbaren Gebrauchsspuren _______________________________ HINWEISE ZU UNSEREN GEBRAUCHTEN GERÄTEN ✔️12 Monate Gewährleistung ✔️ Keine Reparaturen, die meisten Geräte befinden sich im Originalzustand. ✔️ Geprüft & voll funktionsfähig _______________________________ Wir schaffen es nicht immer, allen zu antworten. Bei Fragen, Abholungen oder Verkäufen einfach anrufen und direkt klären. _______________________________ ALLGEMEINE INFORMATIONEN Zahlungsmöglichkeit: Nur Barzahlung ❗️ Nur Selbstabholung. Adresse: Venloer Str. 182, 50823 Köln Beim Kauf erhalten Sie von uns eine Quittung. Quittung: Wird nach § 25a UStG (Differenzbesteuerung) ausgestellt - kein MwSt. Ausweis möglich. _______________________________ ÖFFNUNGSZEITEN: Mo - Sa: 10:30 - 18:30 Uhr An Sonn- und Feiertagen: Geschlossen GESCHÄFTSSTELLE | ADRESSE: Venloer Str. 182, 50823 Köln U-BAHN-HALTESTELLE: Piusstraße - Linie 3 und 4 KONTAKT: Tel.: 0221 16910298 _______________________________ Alle genannten Markennamen und Warenzeichen sind Eigentum der jeweiligen Eigentümer und Rechteinhaber. Unser Impressum, Hinweise zur Batterieentsorgung, (GPSR) Hersteller/EU Verantwortliche Person und weitere Informationen erreichen Sie durch einen Klick auf „Rechtliche Angaben“.",
       "assessment": {
-        "category": "Ankauf",
-        "stars": 2,
-        "label": "Neutral",
-        "price_note": "Fair",
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
         "flags": [
-          "Kein spezifischer Preis genannt",
-          "Keine klare Beschreibung des Ankaufprozesses"
+          "Keine Angaben zu Reparaturen",
+          "Keine Angaben zu demografischen Daten des Vorgunten"
         ],
         "positives": [
-          "Kostenlose Parkplätze vor dem Shop"
+          "Guter Zustand",
+          "Batterie 100%",
+          "12 Monate Gewährleistung"
         ],
-        "summary": "Ankauf von Smartphones, iPads und Notebooks in Castrop-Rauxel",
+        "summary": "Samsung Galaxy Z Fold 6 in gutem Zustand, 256GB, 12GB RAM, Silber, 639€",
         "source": "groq"
       },
-      "first_seen": "2026-06-23T21:04:28.856058+00:00"
+      "first_seen": "2026-07-18T13:41:43.849430+00:00"
     },
     "b76c7233f2e7721744dfc4b8faab833c": {
       "id": "b76c7233f2e7721744dfc4b8faab833c",
@@ -747,40 +780,8 @@
         "summary": "✅ Garantie vorhanden · 🔴 Deutlich überteuert (Ref. ~450 €)"
       },
       "first_seen": "2026-07-15T15:44:45.101387+00:00"
-    },
-    "c5962d8ade16964941276ff3294419ba": {
-      "id": "c5962d8ade16964941276ff3294419ba",
-      "title": "Samsung Galaxy Z Fold 4 inkl OVP",
-      "price": "380 € VB",
-      "speicher": "k.A.",
-      "ort": "47877 Willich\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "9 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 4",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-4-inkl-ovp/3459726793-173-1918",
-      "description": "Keine Kratzer auf den displays vorhanden, lediglich wenige Gebrauchsspuren am Gehäuse durch normale...",
-      "full_description": "Keine Kratzer auf den displays vorhanden, lediglich wenige Gebrauchsspuren am Gehäuse durch normale Nutzung. Ovp ist natürlich vorhanden.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Zustand und Speicher nicht angegeben"
-        ],
-        "positives": [
-          "Keine Kratzer auf den Displays",
-          "wenige Gebrauchsspuren am Gehäuse",
-          "OVP vorhanden"
-        ],
-        "summary": "Gebrauchter Z Fold 4 mit OVP, wenige Gebrauchsspuren, Preis 380 €",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-15T15:44:45.101763+00:00"
     }
   },
   "last_full_send": "2026-07-18T10:34:55.289838+00:00",
-  "last_run": "2026-07-18T12:00:27.948356+00:00"
+  "last_run": "2026-07-18T13:42:12.150961+00:00"
 }
