@@ -63,6 +63,39 @@
       },
       "first_seen": "2026-06-23T21:04:28.856058+00:00"
     },
+    "a3fc3c5c4ce0a7824c64d90471c1add3": {
+      "id": "a3fc3c5c4ce0a7824c64d90471c1add3",
+      "title": "Samsung Galaxy Z Fold 6 – BURGA & RINBMAX Hüllen",
+      "price": "80 €",
+      "speicher": "k.A.",
+      "ort": "45279 Essen Freisenbruch\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "53 km",
+      "zustand": "Sehr gut",
+      "model": "Z Fold 6",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6-burga-rinbmax-huellen/3462986332-173-26514",
+      "description": "Beschreibung:\n\nIch verkaufe insgesamt sechs hochwertige und gepflegte Handyhüllen für das Samsung...",
+      "full_description": "Beschreibung: Ich verkaufe insgesamt sechs hochwertige und gepflegte Handyhüllen für das Samsung Galaxy Z Fold 6. Enthalten sind: fünf originale BURGA-Hüllen in unterschiedlichen Designs eine braune RINBMAX-Hülle mit praktischem Ring und integriertem Aufsteller jeweils inklusive des passenden vorderen Rahmens Die Hüllen wurden gebraucht, befinden sich jedoch insgesamt in einem sehr guten und gepflegten Zustand. Sie bieten zuverlässigen Schutz und ermöglichen durch die verschiedenen Designs jederzeit einen schnellen Wechsel des Looks. Der Verkauf erfolgt bevorzugt als komplettes Set. Abholung und Versand sind nach Absprache möglich. Privatverkauf, daher keine Garantie, Gewährleistung oder Rücknahme.",
+      "assessment": {
+        "category": "Zubehör",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Garantie",
+          "Keine Rücknahme"
+        ],
+        "positives": [
+          "Sehr gute Hüllen",
+          "Verschiedene Designs",
+          "Praktischer Ring und Aufsteller"
+        ],
+        "summary": "Sechs hochwertige Hüllen für Samsung Galaxy Z Fold 6 zum günstigen Preis",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-19T15:06:41.998287+00:00"
+    },
     "d2b0b98c6a6e18945bb8cf8186b6b7ae": {
       "id": "d2b0b98c6a6e18945bb8cf8186b6b7ae",
       "title": "samsung galaxy z fold 3",
@@ -752,42 +785,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-15T19:32:01.760920+00:00"
-    },
-    "af48b77b5cce615e921625b609e98442": {
-      "id": "af48b77b5cce615e921625b609e98442",
-      "title": "Samsung Galaxy Z Fold 6",
-      "price": "550 €",
-      "speicher": "256 GB",
-      "ort": "50735 Weidenpesch\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "44 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 6",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6/3459815342-173-994",
-      "description": "Samsung Galaxy Z Fold 6\n256 GB\nin Navy\n2 Kratzer auf dem kleinen Bildschirm\nLeichte Gebrauchsspuren...",
-      "full_description": "Samsung Galaxy Z Fold 6 256 GB in Navy 2 Kratzer auf dem kleinen Bildschirm Leichte Gebrauchsspuren am Rand Nur Abholung und Barzahlung",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Garantie",
-          "Barzahlung",
-          "Nur Abholung"
-        ],
-        "positives": [
-          "Samsung Galaxy Z Fold 6",
-          "256 GB Speicher",
-          "Navy Farbe"
-        ],
-        "summary": "Samsung Galaxy Z Fold 6 256 GB, Navy, 2 Kratzer auf Bildschirm, Gebrauchsspuren",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-15T17:33:18.792348+00:00"
     }
   },
   "last_full_send": "2026-07-19T13:45:56.502861+00:00",
-  "last_run": "2026-07-19T13:45:56.502937+00:00"
+  "last_run": "2026-07-19T15:07:09.560984+00:00"
 }
