@@ -63,6 +63,38 @@
       },
       "first_seen": "2026-06-23T21:04:28.856058+00:00"
     },
+    "ee73d13c7d7b7d9188507fafde1382de": {
+      "id": "ee73d13c7d7b7d9188507fafde1382de",
+      "title": "2",
+      "price": "12 € VB",
+      "speicher": "k.A.",
+      "ort": "44793 Bochum-​Mitte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "61 km",
+      "zustand": "Neu (OVP)",
+      "model": "Other",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/galaxy-z-fold-5-strap-case-neu/3463494787-173-1948",
+      "description": "Neu und ungeöffnet",
+      "full_description": "Neu und ungeöffnet",
+      "assessment": {
+        "category": "Sonstiges",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Sehr hoher Preis",
+          "Keine Spezifikationen zum Modell"
+        ],
+        "positives": [
+          "Neu und ungeöffnet",
+          "OVP"
+        ],
+        "summary": "Sehr hoher Preis für ein unbekanntes Modell",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-19T23:06:47.593977+00:00"
+    },
     "3997423d8418b153e54d7e5c202409d3": {
       "id": "3997423d8418b153e54d7e5c202409d3",
       "title": "Samsung Galaxy Fold 5 ,  512 GB Defekt!",
@@ -755,38 +787,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-15T19:32:01.760234+00:00"
-    },
-    "c3b5702782d510cb25cb30b3d95dd7f2": {
-      "id": "c3b5702782d510cb25cb30b3d95dd7f2",
-      "title": "Original Samsung Galaxy Z Fold 7 Carbon Shield Case + 2 Folien",
-      "price": "20 €",
-      "speicher": "k.A.",
-      "ort": "50171 Kerpen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "41 km",
-      "zustand": "Neu",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/original-samsung-galaxy-z-fold-7-carbon-shield-case-2-folien/3459891645-173-1827",
-      "description": "Ich biete hier ein originales Samsung Galaxy Z Fold 7 Carbon Shield Case an, das noch neu und...",
-      "full_description": "Ich biete hier ein originales Samsung Galaxy Z Fold 7 Carbon Shield Case an, das noch neu und unbenutzt ist. Dazu gibt es zwei passende Schutzfolien. Kein Versand nur Abholung.",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Neu und unbenutzt",
-          "Original Samsung Case",
-          "Zwei Schutzfolien enthalten"
-        ],
-        "summary": "Orig. Samsung Case für Z Fold 7 + 2 Folien, neu, 20€",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-15T19:32:01.760585+00:00"
     }
   },
   "last_full_send": "2026-07-19T21:03:11.912580+00:00",
-  "last_run": "2026-07-19T22:04:47.534114+00:00"
+  "last_run": "2026-07-19T23:07:14.480916+00:00"
 }
