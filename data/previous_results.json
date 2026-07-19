@@ -63,6 +63,39 @@
       },
       "first_seen": "2026-06-23T21:04:28.856058+00:00"
     },
+    "3997423d8418b153e54d7e5c202409d3": {
+      "id": "3997423d8418b153e54d7e5c202409d3",
+      "title": "Samsung Galaxy Fold 5 ,  512 GB Defekt!",
+      "price": "250 €",
+      "speicher": "512 GB",
+      "ort": "45239 Essen-​Werden\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "45 km",
+      "zustand": "Gut",
+      "model": "Z Fold 5",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-5-512-gb-defekt-/3463206815-173-2044",
+      "description": "Ich verkaufe eine Samsung Galaxy Fold 5 , 512 GB, funktioniert gut außer inneren Display, hat eine...",
+      "full_description": "Ich verkaufe eine Samsung Galaxy Fold 5 , 512 GB, funktioniert gut außer inneren Display, hat eine weiße Streifen. Display muss getausch werden. in Rest alles ist okay mit den Handy. Dazu kommt auch Galaxy buds 2 pro Kopfhörer. Kommt mit original Karton und eine hülle dabei. Diese Handy ich verkaufe als Defekte wäre zum reparieren oder für teile.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 3,
+        "label": "Vorsicht",
+        "price_note": "Überteuert",
+        "flags": [
+          "Defekt",
+          "Inneres Display beschädigt",
+          "Weißer Streifen auf dem Display"
+        ],
+        "positives": [
+          "Galaxy Buds 2 inklusive",
+          "Original Karton und Hülle vorhanden"
+        ],
+        "summary": "Defektes Samsung Galaxy Fold 5 mit Galaxy Buds 2, Reparatur oder Teile",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-19T17:09:59.393554+00:00"
+    },
     "a3fc3c5c4ce0a7824c64d90471c1add3": {
       "id": "a3fc3c5c4ce0a7824c64d90471c1add3",
       "title": "Samsung Galaxy Z Fold 6 – BURGA & RINBMAX Hüllen",
@@ -70,7 +103,7 @@
       "speicher": "k.A.",
       "ort": "45279 Essen Freisenbruch\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "53 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -357,7 +390,7 @@
     "a70f0dcb3f7f720cd0af9afc8501df65": {
       "id": "a70f0dcb3f7f720cd0af9afc8501df65",
       "title": "Samsung Galaxy Z Fold 4",
-      "price": "370 € VB400 €",
+      "price": "360 € VB400 €",
       "speicher": "k.A.",
       "ort": "50969 Zollstock\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "47 km",
@@ -752,41 +785,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-15T19:32:01.760585+00:00"
-    },
-    "1dca12adcc411fc6b0b80bc02a5db64c": {
-      "id": "1dca12adcc411fc6b0b80bc02a5db64c",
-      "title": "Original Samsung Galaxy Z Fold 7 Silikon Case +2  Folien",
-      "price": "15 €",
-      "speicher": "k.A.",
-      "ort": "50171 Kerpen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "41 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/original-samsung-galaxy-z-fold-7-silikon-case-2-folien/3459886320-173-1827",
-      "description": "Ich biete hier ein originales Samsung Galaxy Z Fold 7 Silikon Case in Schwarz an, inklusive zwei...",
-      "full_description": "Ich biete hier ein originales Samsung Galaxy Z Fold 7 Silikon Case in Schwarz an, inklusive zwei unbenutzten Schutzfolien. * Original Samsung Zubehör * Integrierter Ständer für bequemes Ansehen * Farbe: Schwarz * Inklusive zwei unbenutzten Schutzfolien Die Hülle befindet sich in einem guten Zustand mit leichten Gebrauchsspuren, die die Funktion in keiner Weise beeinträchtigen. Die Schutzfolien sind noch unbenutzt und bieten zusätzlichen Schutz für dein Display. Kein Versand nur Abholung.",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [
-          "Kein Versand",
-          "Gebrauchsspuren"
-        ],
-        "positives": [
-          "Original Samsung Zubehör",
-          "Inklusive zwei Schutzfolien",
-          "Guter Zustand"
-        ],
-        "summary": "Orig. Samsung Z Fold 7 Silikon Case + 2 Folien, günstig, Abholung",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-15T19:32:01.760920+00:00"
     }
   },
   "last_full_send": "2026-07-19T13:45:56.502861+00:00",
-  "last_run": "2026-07-19T15:07:09.560984+00:00"
+  "last_run": "2026-07-19T17:10:27.562667+00:00"
 }
