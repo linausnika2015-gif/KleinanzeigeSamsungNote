@@ -624,38 +624,6 @@
       },
       "first_seen": "2026-07-16T22:11:43.523503+00:00"
     },
-    "c210528417ac6e84a167c02354f0d25e": {
-      "id": "c210528417ac6e84a167c02354f0d25e",
-      "title": "Samsung Galaxy Z Fold 7 512GB • Wie neu • 100% Akku",
-      "price": "999 €",
-      "speicher": "512 GB",
-      "ort": "45665 Recklinghausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "73 km",
-      "zustand": "Neu",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-512gb-wie-neu-100-akku/3460542755-173-1984",
-      "description": "​Hallo zusammen,\n\n​ich verkaufe mein Samsung Galaxy Z Fold 7 mit 512 GB Speicher in absolutem...",
-      "full_description": "​Hallo zusammen, ​ich verkaufe mein Samsung Galaxy Z Fold 7 mit 512 GB Speicher in absolutem Top-Zustand. Das Gerät wurde kaum benutzt und weist keinerlei Gebrauchsspuren auf – wie neu! ​Highlights: ​Zustand: Absolut neuwertig (wie neu) ​Akkukapazität: 100% ​Ladezyklen: Nur 64 Zyklen! (Nachweis auf den Fotos) ​Speicher: 512 GB ​Zubehör inklusive: Im Paket ist jede Menge hochwertiges und teures Zubehör enthalten (Taschen/Hüllen etc. – siehe Bilder). ​Das Smartphone kann gerne vor Ort getestet und abgeholt werden. Versand gegen Aufpreis möglich. ​Bei Fragen einfach melden! ​Privatverkauf: Keine Garantie, Gewährleistung oder Rücknahme.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Absolut neuwertiger Zustand",
-          "100% Akku",
-          "Nur 64 Ladezyklen",
-          "512 GB Speicher",
-          "Viel Zubehör enthalten"
-        ],
-        "summary": "Samsung Galaxy Z Fold 7 512GB in Top-Zustand, 100% Akku, 64 Ladezyklen, Zubehör enthalten",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-16T16:37:00.721500+00:00"
-    },
     "aa41878941e791b01bae88d923553ec1": {
       "id": "aa41878941e791b01bae88d923553ec1",
       "title": "Samsung Galaxy Z Fold 4 256 GB",
@@ -781,8 +749,41 @@
         "source": "groq"
       },
       "first_seen": "2026-07-20T14:27:32.982114+00:00"
+    },
+    "b10df210e760d3db2d5575a198e3c7c0": {
+      "id": "b10df210e760d3db2d5575a198e3c7c0",
+      "title": "Original Samsung Galaxy Z Fold 7 Clear Magnet Case + 2 Folien",
+      "price": "10 €",
+      "speicher": "k.A.",
+      "ort": "50171 Kerpen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "41 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/original-samsung-galaxy-z-fold-7-clear-magnet-case-2-folien/3459898162-173-1827",
+      "description": "Ich biete hier ein originales Samsung Galaxy Z Fold 7 Clear Magnet Case an, inklusive zwei...",
+      "full_description": "Ich biete hier ein originales Samsung Galaxy Z Fold 7 Clear Magnet Case an, inklusive zwei passenden Schutzfolien. * Original Samsung Z Fold 7 Clear Magnet Case * Inklusive 2 Schutzfolien * Transparentes Design mit Magnetring Das Case ist in einem guten Zustand mit leichten Gebrauchsspuren.",
+      "assessment": {
+        "category": "Zubehör",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Sehr günstig",
+        "flags": [
+          "Keine Beschreibung des Zustands des Case"
+        ],
+        "positives": [
+          "Original Case",
+          "Transparentes Design",
+          "Magnetring",
+          "Inklusive 2 Schutzfolien"
+        ],
+        "summary": "Original Samsung Galaxy Z Fold 7 Clear Magnet Case + 2 Folien, günstig",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-20T19:02:04.858239+00:00"
     }
   },
-  "last_full_send": "2026-07-20T11:10:08.907327+00:00",
-  "last_run": "2026-07-20T16:40:54.499929+00:00"
+  "last_full_send": "2026-07-20T19:02:33.532549+00:00",
+  "last_run": "2026-07-20T19:02:33.532620+00:00"
 }
