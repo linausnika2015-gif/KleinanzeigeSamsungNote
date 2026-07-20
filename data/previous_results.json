@@ -63,10 +63,44 @@
       },
       "first_seen": "2026-06-23T21:04:28.856058+00:00"
     },
-    "55df54f92052c0d47efcd2a3a8f578b5": {
-      "id": "55df54f92052c0d47efcd2a3a8f578b5",
-      "title": "Samsung Z Fold 7 (256GB) & Galaxy Watch 8 Bundle",
-      "price": "1.400 € VB",
+    "052db04de43f7672e438ad3ba1bec568": {
+      "id": "052db04de43f7672e438ad3ba1bec568",
+      "title": "Samsung Galaxy Z Fold 3  5 G mit 256 GB Speicher, top Zustand",
+      "price": "150 €",
+      "speicher": "256 GB",
+      "ort": "44269 Schüren\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "83 km",
+      "zustand": "Sehr gut",
+      "model": "Z Fold 3",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-3-5-g-mit-256-gb-speicher-top-zustand/3463721855-173-1089",
+      "description": "Gebe hier mein Samsung Galaxy Z Fold 3 mit 256 GB und Dual Sim ab.\nDas Gerät befindet sich in einem...",
+      "full_description": "Gebe hier mein Samsung Galaxy Z Fold 3 mit 256 GB und Dual Sim ab. Das Gerät befindet sich in einem sehr gutem zustand.Also wer ein Top Z Fold 3 sucht ,hätte hier ein wirklich gutes Gerät.Leider hat es an der rückseite an der oberen Kante eine leichte beschädigung die aber in keinster Weise beeinträchtigt und durch dieses Schutzetuis nicht sichtbar ist .Deshalb auch nur 150 €. Displays sind absolut okay auch am Rahmen ist nichts beschädigt. Bei Fragen einfach melden.Versand möglich .",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Leichte Beschädigung an der Rückseite",
+          "Keine Garantie"
+        ],
+        "positives": [
+          "Top Zustand",
+          "256 GB Speicher",
+          "Dual Sim",
+          "Versand möglich"
+        ],
+        "summary": "Samsung Galaxy Z Fold 3 256 GB, sehr guter Zustand, leichte Beschädigung an der Rückseite, 150 €",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-20T11:09:38.266937+00:00"
+    },
+    "7ccc1000efd2e1da5bdaab12b6287811": {
+      "id": "7ccc1000efd2e1da5bdaab12b6287811",
+      "title": "Samsung Z Fold 7 (256GB) & Galaxy Watch 8 Bundle + Buds 3",
+      "price": "VB",
       "speicher": "256 GB",
       "ort": "58675 Hemer\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "94 km",
@@ -74,14 +108,14 @@
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-z-fold-7-256gb-galaxy-watch-8-bundle/3463566269-173-1425",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-z-fold-7-256gb-galaxy-watch-8-bundle-buds-3/3463566269-173-1425",
       "description": "Ich biete hier ein tolles Technik-Bundle an: ein Samsung Z Fold 7 mit 256GB Speicher und eine...",
       "full_description": "Ich biete hier ein tolles Technik-Bundle an: ein Samsung Z Fold 7 mit 256GB Speicher und eine Samsung Galaxy Watch 8. Beide Geräte sind wie neu und wurden kaum genutzt. * Samsung Z Fold 7 (256GB) in Top-Zustand * Samsung Galaxy Watch 8, nur einen Monat alt * Inklusive Originalverpackungen und Rechnungen * Eine transparente Schutzhülle für das Z Fold 7 ist ebenfalls dabei Das Z Fold 7 bietet dir ein beeindruckendes faltbares Display und die Galaxy Watch 8 ist der perfekte Begleiter für deinen Alltag. Beide funktionieren einwandfrei und sind bereit für einen neuen Besitzer. Die Geräte sind in einem hervorragenden, neuwertigen Zustand. Du wirst viel Freude daran haben. Bei Fragen melde dich gerne.",
       "assessment": {
         "category": "Zubehör",
         "stars": 5,
         "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
+        "price_note": "Sehr günstig",
         "flags": [],
         "positives": [
           "Top-Zustand",
@@ -89,10 +123,10 @@
           "Rechnungen",
           "Transparente Schutzhülle"
         ],
-        "summary": "Neues Bundle mit Z Fold 7 und Galaxy Watch 8, beide in Top-Zustand",
+        "summary": "Neues Bundle mit Z Fold 7, Galaxy Watch 8 und Buds 3, Originalverpackungen und Rechnungen",
         "source": "groq"
       },
-      "first_seen": "2026-07-20T07:21:21.401663+00:00"
+      "first_seen": "2026-07-20T11:09:38.268079+00:00"
     },
     "6e1312c2b80b9c767cb07390a5d8bf8c": {
       "id": "6e1312c2b80b9c767cb07390a5d8bf8c",
@@ -752,40 +786,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-16T14:14:50.438043+00:00"
-    },
-    "769166f2dd794817ccbe784d828d9e17": {
-      "id": "769166f2dd794817ccbe784d828d9e17",
-      "title": "SAMSUNG GALAXY Z FOLD 7 512GB JETBLACK VERSIEGELT 105513 XXYY",
-      "price": "1.299 € VB",
-      "speicher": "512 GB",
-      "ort": "45127 Essen-​Stadtmitte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "49 km",
-      "zustand": "Neu (OVP)",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-512gb-jetblack-versiegelt-105513-xxyy-/3460330916-173-2053",
-      "description": "▶ Rabatt bei Kauf vor Ort\n▶ vorheriger Kontakt / Anfrage ist sinnvoll\n▶ Leihhaus Rauer Essen\n▶...",
-      "full_description": "▶ Rabatt bei Kauf vor Ort ▶ vorheriger Kontakt / Anfrage ist sinnvoll ▶ Leihhaus Rauer Essen ▶ Akazienallee 1, 45127 Essen Tel: 0201 / 2438279 Versand KOSTENLOS innerhalb Deutschlands mit Nachweis/ Sendungsnummer Kontakt / Anfragen bitte über das Textfeld Bitte geben Sie bei Zahlung oder Abholung unbedingt die folgende Produktnummer an: 105513 ▶ Angaben: Samsung Galaxy Z Fold 7 Speicher: 512GB RAM: 12GB Farbe: Schwarz Model: SM-F966B/DS Das Gerät ist original versiegelt. ▶ Lieferumfang: Samsung Galaxy Z Fold 7 Original Verpackung Ladekabel BDA - - - - INFO: Viele unserer weiteren Angebote finden Sie außerdem, wenn Sie die Buchstaben XXYY in das Suchfeld (SUCHE) bei Kleinanzeigen eingeben. Wir sind einer der preiswertesten Schmuckanbieter Europas. Unsere Preise sind absolut niedrig. - - - - - Eine Bezahlung ist möglich per Paypal oder Überweisung bzw. nach Abschluss des Kaufvertrages und Abholung vor Ort (Click and Collect). - - - - - Ankauf und Inzahlungnahme. Auszahlung sofort bis zu 50.000 Euro! Kontaktieren Sie uns unter Tel.: 0201 / 2438279 - - - - - Der Versand innerhalb Deutschlands ist für Sie kostenlos. Der Versand erfolgt als versichertes Paket über DHL oder über ein Werttransportunternehmen. Bitte beachten Sie!!! Die Kosten für eine Rücksendung sind vom Käufer zu tragen. - - - - - Leihhaus Rauer Essen Akazienallee 1 45127 Essen Öffnungszeiten: Mo. – Fr.: 09:30 – 18:00 Uhr Sa: 10:00 – 16:00 Uhr - - - - - Zur Kaufabwicklung: Sobald Sie Ihr Interesse geäußert haben, können Sie den genannten Betrag auf unser Konto überweisen. Nach Zahlungseingang werden wir den Artikel an die übermittelte Adresse versenden. Die Kleinanzeige dient nur dazu, Interessenten auf unsere Waren aufmerksam zu machen – sie stellt die Basis für spätere Vertragsverhandlungen dar. Es handelt sich bei der Anzeige weder um ein verbindliches Angebot, noch um eine Einladung zur Abgabe eines solchen. Alle angegebenen Preise verstehen sich inklusive Mehrwertsteuer. Die angebotenen Gebrauchtwaren",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Neu (OVP)",
-          "512 GB Speicher",
-          "12 GB RAM",
-          "Versand KOSTENLOS innerhalb Deutschlands",
-          "Rabatt bei Kauf vor Ort"
-        ],
-        "summary": "Neuer Samsung Galaxy Z Fold 7 512GB in Schwarz, OVP, kostenloses Versand innerhalb Deutschlands",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-16T14:14:50.438411+00:00"
     }
   },
-  "last_full_send": "2026-07-20T03:56:29.040928+00:00",
-  "last_run": "2026-07-20T07:21:52.628918+00:00"
+  "last_full_send": "2026-07-20T11:10:08.907327+00:00",
+  "last_run": "2026-07-20T11:10:08.907401+00:00"
 }
