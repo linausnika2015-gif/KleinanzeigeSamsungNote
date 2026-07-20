@@ -689,7 +689,7 @@
     "f4a316e54065bca2a8ce6850ad79b189": {
       "id": "f4a316e54065bca2a8ce6850ad79b189",
       "title": "Samsung Galaxy Z Fold 8 Ultra Case Hülle Anti Rutsch Handschlaufe",
-      "price": "11 €",
+      "price": "10 €11 €",
       "speicher": "k.A.",
       "ort": "41470 Neuss\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "21 km",
@@ -701,21 +701,14 @@
       "description": "Handyhülle für Samsung Galaxy Z Fold 8 Ultra, in blau, mit Anti rutsch Handschlaufe.\n\nWie auf den...",
       "full_description": "Handyhülle für Samsung Galaxy Z Fold 8 Ultra, in blau, mit Anti rutsch Handschlaufe. Wie auf den Bildern zu sehen. Die Hülle wurde nur für die Bilder einmal raus geholt. Die Hülle kann abgeholt oder für 2,20,- als Brief verschickt werden. Privatverkauf. Der Verkauf erfolgt unter Ausschluss jeglicher Sachmängelhaftung. Keine Garantie und keine Rücknahme.(PKP)",
       "assessment": {
-        "category": "Zubehör",
         "stars": 2,
-        "label": "Neutral",
-        "price_note": "Sehr günstig",
-        "flags": [
-          "Keine Garantie",
-          "Keine Rücknahme",
-          "Privatverkauf ohne Sachmängelhaftung"
-        ],
+        "label": "Vorsicht",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~180 €)",
+        "flags": [],
         "positives": [
-          "Günstiger Preis",
-          "Anti-Rutsch-Handscheibe"
+          "✅ Garantie vorhanden"
         ],
-        "summary": "Günstige Hülle für Z Fold 8 Ultra, aber ohne Garantie und Rücknahme",
-        "source": "groq"
+        "summary": "✅ Garantie vorhanden · 🔴 Deutlich überteuert (Ref. ~180 €)"
       },
       "first_seen": "2026-07-16T14:14:50.438043+00:00"
     },
@@ -785,5 +778,5 @@
     }
   },
   "last_full_send": "2026-07-20T19:02:33.532549+00:00",
-  "last_run": "2026-07-20T19:02:33.532620+00:00"
+  "last_run": "2026-07-20T20:37:55.713107+00:00"
 }
