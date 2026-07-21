@@ -63,6 +63,38 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "57f484da2a427270661365edc0202ac3": {
+      "id": "57f484da2a427270661365edc0202ac3",
+      "title": "Mobigear Tri-Fold Samsung Galaxy Tab S6 Hülle Klapphülle dunkelbl",
+      "price": "10 €",
+      "speicher": "k.A.",
+      "ort": "53229 Holzlar\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "71 km",
+      "zustand": "k.A.",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/mobigear-tri-fold-samsung-galaxy-tab-s6-huelle-klapphuelle-dunkelbl/3464631993-285-23780",
+      "description": "Unbenutzter Artikel (Fehlkauf).\n\nKlapphülle geeignet für Samsung Galaxy Tab S6\nFarbe:...",
+      "full_description": "Unbenutzter Artikel (Fehlkauf). Klapphülle geeignet für Samsung Galaxy Tab S6 Farbe: dunkelblau Lässt sich wie ein Buch öffnen und schützt Vorder- und Rückseite. Durch die Standfunktion lässt sich das Tablet aufrecht hinstellen. Schließt automatisch dank integrierter Magnete. Privatverkauf, daher keine Garantie oder Rücknahme. Tier- und rauchfreier Haushalt.",
+      "assessment": {
+        "category": "Zubehör",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Sehr günstig",
+        "flags": [
+          "Fehlkauf",
+          "Keine Garantie"
+        ],
+        "positives": [
+          "Unbenutzter Artikel",
+          "Klapphülle geeignet für Samsung Galaxy Tab S6"
+        ],
+        "summary": "Günstige Klapphülle für Samsung Galaxy Tab S6, unbenutzt, aber Fehlkauf",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-21T11:55:41.968038+00:00"
+    },
     "c6a82e894f53d91ab00e8f176a0f96b3": {
       "id": "c6a82e894f53d91ab00e8f176a0f96b3",
       "title": "Samsung Galaxy Z Fold4 512GB | *NEU*",
@@ -323,7 +355,7 @@
     "9ff2e85f30f1cbb0b4bde63984be2e32": {
       "id": "9ff2e85f30f1cbb0b4bde63984be2e32",
       "title": "Galaxy Z Fold 5 1TB Schwarz - Innendisplay defekt - Bastler",
-      "price": "300 € VB",
+      "price": "250 € VB300 €",
       "speicher": "1 TB",
       "ort": "53783 Eitorf\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "85 km",
@@ -335,21 +367,14 @@
       "description": "Samsung Galaxy Z Fold 5 (SM-F946B/DS), 1 TB, Phantom Black, Dual-SIM.\nDefekt – bitte...",
       "full_description": "Samsung Galaxy Z Fold 5 (SM-F946B/DS), 1 TB, Phantom Black, Dual-SIM. Defekt – bitte vollständig lesen: Im aufgeklappten Innendisplay verläuft ein heller Streifen quer über die rechte Displayhälfte und zusätzlich ein schwarzer Streifen mitten im Bild (siehe Foto). Das Display ist ansonsten hell und funktioniert, aber der Fehler kann sich erfahrungsgemäß verschlechtern. Verkauf daher ausdrücklich als defekt / für Bastler oder als Ersatzteilspender.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 2,
-        "label": "Vorsicht",
-        "price_note": "Günstig",
+        "stars": 0,
+        "label": "Neutral",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~650 €)",
         "flags": [
-          "Defekt",
-          "Innendisplay",
-          "Bastler"
+          "⚠️ Als defekt beschrieben"
         ],
-        "positives": [
-          "1 TB Speicher",
-          "Phantom Black"
-        ],
-        "summary": "Defektes Galaxy Z Fold 5 mit 1 TB Speicher zum günstigen Preis",
-        "source": "groq"
+        "positives": [],
+        "summary": "⚠️ Als defekt beschrieben · 🔴 Deutlich überteuert (Ref. ~650 €)"
       },
       "first_seen": "2026-07-19T00:03:02.719322+00:00"
     },
@@ -515,7 +540,7 @@
     "a70f0dcb3f7f720cd0af9afc8501df65": {
       "id": "a70f0dcb3f7f720cd0af9afc8501df65",
       "title": "Samsung Galaxy Z Fold 4",
-      "price": "360 € VB400 €",
+      "price": "350 € VB400 €",
       "speicher": "k.A.",
       "ort": "50969 Zollstock\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "47 km",
@@ -744,39 +769,8 @@
         "summary": "✅ Garantie vorhanden · 🔴 Deutlich überteuert (Ref. ~180 €)"
       },
       "first_seen": "2026-07-16T14:14:50.438043+00:00"
-    },
-    "769166f2dd794817ccbe784d828d9e17": {
-      "id": "769166f2dd794817ccbe784d828d9e17",
-      "title": "SAMSUNG GALAXY Z FOLD 7 512GB JETBLACK VERSIEGELT 105513 XXYY",
-      "price": "1.299 € VB",
-      "speicher": "512 GB",
-      "ort": "45127 Essen-​Stadtmitte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "49 km",
-      "zustand": "Neu (OVP)",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-512gb-jetblack-versiegelt-105513-xxyy-/3460330916-173-2053",
-      "description": "▶ Rabatt bei Kauf vor Ort\n▶ vorheriger Kontakt / Anfrage ist sinnvoll\n▶ Leihhaus Rauer Essen\n▶...",
-      "full_description": "▶ Rabatt bei Kauf vor Ort ▶ vorheriger Kontakt / Anfrage ist sinnvoll ▶ Leihhaus Rauer Essen ▶ Akazienallee 1, 45127 Essen Tel: 0201 / 2438279 Versand KOSTENLOS innerhalb Deutschlands mit Nachweis/ Sendungsnummer Kontakt / Anfragen bitte über das Textfeld Bitte geben Sie bei Zahlung oder Abholung unbedingt die folgende Produktnummer an: 105513 ▶ Angaben: Samsung Galaxy Z Fold 7 Speicher: 512GB RAM: 12GB Farbe: Schwarz Model: SM-F966B/DS Das Gerät ist original versiegelt. ▶ Lieferumfang: Samsung Galaxy Z Fold 7 Original Verpackung Ladekabel BDA - - - - INFO: Viele unserer weiteren Angebote finden Sie außerdem, wenn Sie die Buchstaben XXYY in das Suchfeld (SUCHE) bei Kleinanzeigen eingeben. Wir sind einer der preiswertesten Schmuckanbieter Europas. Unsere Preise sind absolut niedrig. - - - - - Eine Bezahlung ist möglich per Paypal oder Überweisung bzw. nach Abschluss des Kaufvertrages und Abholung vor Ort (Click and Collect). - - - - - Ankauf und Inzahlungnahme. Auszahlung sofort bis zu 50.000 Euro! Kontaktieren Sie uns unter Tel.: 0201 / 2438279 - - - - - Der Versand innerhalb Deutschlands ist für Sie kostenlos. Der Versand erfolgt als versichertes Paket über DHL oder über ein Werttransportunternehmen. Bitte beachten Sie!!! Die Kosten für eine Rücksendung sind vom Käufer zu tragen. - - - - - Leihhaus Rauer Essen Akazienallee 1 45127 Essen Öffnungszeiten: Mo. – Fr.: 09:30 – 18:00 Uhr Sa: 10:00 – 16:00 Uhr - - - - - Zur Kaufabwicklung: Sobald Sie Ihr Interesse geäußert haben, können Sie den genannten Betrag auf unser Konto überweisen. Nach Zahlungseingang werden wir den Artikel an die übermittelte Adresse versenden. Die Kleinanzeige dient nur dazu, Interessenten auf unsere Waren aufmerksam zu machen – sie stellt die Basis für spätere Vertragsverhandlungen dar. Es handelt sich bei der Anzeige weder um ein verbindliches Angebot, noch um eine Einladung zur Abgabe eines solchen. Alle angegebenen Preise verstehen sich inklusive Mehrwertsteuer. Die angebotenen Gebrauchtwaren",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Neu (OVP)",
-          "512 GB Speicher",
-          "12 GB RAM",
-          "Versand KOSTENLOS innerhalb Deutschlands"
-        ],
-        "summary": "Neuer Samsung Galaxy Z Fold 7 512GB in Schwarz, OVP, KOSTENLOSER Versand innerhalb Deutschlands",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-20T14:27:32.982114+00:00"
     }
   },
-  "last_full_send": "2026-07-21T03:39:58.515590+00:00",
-  "last_run": "2026-07-21T09:33:41.256557+00:00"
+  "last_full_send": "2026-07-21T11:56:09.975406+00:00",
+  "last_run": "2026-07-21T11:56:09.975475+00:00"
 }
