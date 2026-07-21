@@ -63,6 +63,38 @@
       },
       "first_seen": "2026-06-23T21:04:28.856058+00:00"
     },
+    "ac161ebad7c2113dea61dbd1c4d79163": {
+      "id": "ac161ebad7c2113dea61dbd1c4d79163",
+      "title": "Galaxy Fold 3 in Silber mit 256 GB",
+      "price": "199 € VB",
+      "speicher": "256 GB",
+      "ort": "42477 Radevormwald\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "65 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 3",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/galaxy-fold-3-in-silber-mit-256-gb/3465034934-173-1560",
+      "description": "Ich biete mein Samsung Galaxy Fold 3 in der Farbe Silber mit 256 GB Speicher an. Es ist ein...",
+      "full_description": "Ich biete mein Samsung Galaxy Fold 3 in der Farbe Silber mit 256 GB Speicher an. Es ist ein wirklich vielseitiges Smartphone, das sich aufklappen lässt und dir so ein großes Display bietet. Das Handy ist perfekt für Multitasking oder um einfach Inhalte auf einem größeren Bildschirm zu genießen. Es ist in einem guten Zustand und funktioniert einwandfrei. Kleiner Pixelfehler im Innendisplay mittig rechts. Bei Fragen melde dich gerne. Lieferung: Nur Gerät Inclusive Hülle.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Kleiner Pixelfehler im Innendisplay"
+        ],
+        "positives": [
+          "Guter Zustand",
+          "Funktioniert einwandfrei",
+          "Inklusive Hülle"
+        ],
+        "summary": "Galaxy Fold 3 in Silber, 256 GB, guter Zustand, kleiner Pixelfehler",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-21T20:22:34.424102+00:00"
+    },
     "4c3427c085b22b7194890d6bc0bb7218": {
       "id": "4c3427c085b22b7194890d6bc0bb7218",
       "title": "Samsung Galaxy Z Fold6 256GB Crafted Black",
@@ -70,7 +102,7 @@
       "speicher": "256 GB",
       "ort": "40721 Hilden\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "33 km",
-      "zustand": "Neu",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Gewerblich",
@@ -319,37 +351,6 @@
       },
       "first_seen": "2026-07-20T16:40:23.769343+00:00"
     },
-    "7ccc1000efd2e1da5bdaab12b6287811": {
-      "id": "7ccc1000efd2e1da5bdaab12b6287811",
-      "title": "Samsung Z Fold 7 (256GB) & Galaxy Watch 8 Bundle + Buds 3",
-      "price": "VB",
-      "speicher": "256 GB",
-      "ort": "58675 Hemer\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "94 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-z-fold-7-256gb-galaxy-watch-8-bundle-buds-3/3463566269-173-1425",
-      "description": "Ich biete hier ein tolles Technik-Bundle an: ein Samsung Z Fold 7 mit 256GB Speicher und eine...",
-      "full_description": "Ich biete hier ein tolles Technik-Bundle an: ein Samsung Z Fold 7 mit 256GB Speicher und eine Samsung Galaxy Watch 8. Beide Geräte sind wie neu und wurden kaum genutzt. * Samsung Z Fold 7 (256GB) in Top-Zustand * Samsung Galaxy Watch 8, nur einen Monat alt * Inklusive Originalverpackungen und Rechnungen * Eine transparente Schutzhülle für das Z Fold 7 ist ebenfalls dabei Das Z Fold 7 bietet dir ein beeindruckendes faltbares Display und die Galaxy Watch 8 ist der perfekte Begleiter für deinen Alltag. Beide funktionieren einwandfrei und sind bereit für einen neuen Besitzer. Die Geräte sind in einem hervorragenden, neuwertigen Zustand. Du wirst viel Freude daran haben. Bei Fragen melde dich gerne.",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Top-Zustand",
-          "Originalverpackungen",
-          "Rechnungen",
-          "Transparente Schutzhülle"
-        ],
-        "summary": "Neues Bundle mit Z Fold 7, Galaxy Watch 8 und Buds 3, Originalverpackungen und Rechnungen",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-20T11:09:38.268079+00:00"
-    },
     "6e1312c2b80b9c767cb07390a5d8bf8c": {
       "id": "6e1312c2b80b9c767cb07390a5d8bf8c",
       "title": "Samsung Galaxy Z Fold 4",
@@ -491,7 +492,7 @@
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
       "url": "https://www.kleinanzeigen.de/s-anzeige/galaxy-z-fold-5-1tb-schwarz-innendisplay-defekt-bastler/3462358485-173-1694",
-      "description": "Samsung Galaxy Z Fold 5 (SM-F946B/DS), 1 TB, Phantom Black, Dual-SIM.\nDefekt – bitte...",
+      "description": "Samsung Galaxy Z Fold 5 (SM-F946B/DS), 1 TB, Phantom Black, Dual-SIM.\n\nDefekt: Innendisplay...",
       "full_description": "Samsung Galaxy Z Fold 5 (SM-F946B/DS), 1 TB, Phantom Black, Dual-SIM. Defekt – bitte vollständig lesen: Im aufgeklappten Innendisplay verläuft ein heller Streifen quer über die rechte Displayhälfte und zusätzlich ein schwarzer Streifen mitten im Bild (siehe Foto). Das Display ist ansonsten hell und funktioniert, aber der Fehler kann sich erfahrungsgemäß verschlechtern. Verkauf daher ausdrücklich als defekt / für Bastler oder als Ersatzteilspender.",
       "assessment": {
         "stars": 0,
@@ -785,5 +786,5 @@
     }
   },
   "last_full_send": "2026-07-21T18:22:43.434639+00:00",
-  "last_run": "2026-07-21T18:22:43.434717+00:00"
+  "last_run": "2026-07-21T20:23:01.653479+00:00"
 }
