@@ -1,5 +1,36 @@
 {
   "listings": {
+    "ef36088e651db5a56b18b53aa4ff0571": {
+      "id": "ef36088e651db5a56b18b53aa4ff0571",
+      "title": "✅ ANKAUF ✅ Samsung Galaxy S25 S26 Ultra 5G Plus S26+ Z Flip Fold 6 7 ZFlip ZFold / Apple MacBook Pro Air 2025 M5 CHIP 13 14 15 iPad 11 16GB 24GB 32GB Max Mac Book i Pad 128GB 256GB 512GB 1TB iPhone 17",
+      "price": "VB",
+      "speicher": "16 GB",
+      "ort": "44575 Castrop-​Rauxel\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "72 km",
+      "zustand": "Neu",
+      "model": "Z Fold 6",
+      "angebotstyp": "Gesuch",
+      "anbieter": "Gewerblich",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/-ankauf-samsung-galaxy-s25-s26-ultra-5g-plus-s26-z-flip-fold-6-7-zflip-zfold-apple-macbook-pro-air-2025-m5-chip-13-14-15-ipad-11-16gb-24gb-32gb-max-mac-book-i-pad-128gb-256gb-512gb-1tb-iphone-17/3036704671-173-1997",
+      "description": "Ankauf von Smartphones, iPads & Notebooks – Neu oder Aktuell Gebraucht\nUnser Standort:\n* ❌❌ Obere...",
+      "full_description": "**Ankauf von Smartphones, iPads & Notebooks – Neu oder Aktuell Gebraucht** **Unser Standort:** * ❌❌ **Obere Münsterstraße 16** 44575 Castrop-Rauxel * **‼️(neben der Schreinerei Eckhardt ) ‼️** **Kontaktmöglichkeiten**: * Rufen Sie uns an unter der Rufnummer **0178 9235656** **oder Schreiben Sie uns:** * **über Kleinanzeigen** * **per WhatsApp** * **via Telegram** **Was wir ankaufen:** * Neue und versiegelte Geräte * Aktuelle gebrauchte Modelle in gutem Zustand * Gerätetypen: Smartphones, iPads, MacBooks, Laptops und mehr **So einfach funktioniert der Ankauf:** **1 Kontakt aufnehmen** Senden Sie uns eine Nachricht mit den folgenden Angaben: * Marke und Modell (z. B. iPhone 14 Pro Max, MacBook Pro) * Speichergröße und Zustand (Neu/Gebraucht) * Zubehör (z. B. Ladegerät, Originalverpackung) * Ihre Preisvorstellung: Wie viel möchten Sie für Ihr Gerät? **2 Angebot erhalten** * Wir prüfen Ihre Angaben und senden Ihnen schnell ein faires Angebot. **3 Übergabe des Geräts** Vor Ort im Shop: * Bringen Sie Ihr Gerät nach Terminvereinbarung direkt zu uns. Kostenlose Parkplätze stehen direkt vor dem Shop zur Verfügung! **Abholung:** * Wir holen Ihr Gerät innerhalb von 60 Minuten im Umkreis von 50 km ab. **Versand:** * Senden Sie Ihr Gerät bequem an uns. Nach Erhalt zahlen wir den vereinbarten Betrag noch am gleichen Tag per Echtzeit-Überweisung. **Wichtige Hinweise:** * Defekte Geräte kaufen wir nicht. * Der Ankauf erfolgt nur gegen Vorlage eines gültigen Ausweises und mit einem Kaufvertrag. **Jetzt Kontakt aufnehmen – Wir freuen uns auf Ihre Nachricht!** **Copyright-Hinweis:** **© S.A** **Die Inhalte dieser Seite sind urheberrechtlich geschützt. Jede Vervielfältigung oder kommerzielle Nutzung ist ohne schriftliche Zustimmung untersagt.** **Rechtsverletzungen: Bei Verstößen gegen das Urheberrecht behalten wir uns rechtliche Schritte vor.**",
+      "assessment": {
+        "category": "Ankauf",
+        "stars": 2,
+        "label": "Neutral",
+        "price_note": "Fair",
+        "flags": [
+          "Kein spezifischer Preis genannt",
+          "Keine klare Beschreibung des Ankaufprozesses"
+        ],
+        "positives": [
+          "Kostenlose Parkplätze vor dem Shop"
+        ],
+        "summary": "Ankauf von Smartphones, iPads und Notebooks in Castrop-Rauxel",
+        "source": "groq"
+      },
+      "first_seen": "2026-06-23T21:04:28.856058+00:00"
+    },
     "ca37aab08e4d1112407a23a8b12dca0e": {
       "id": "ca37aab08e4d1112407a23a8b12dca0e",
       "title": "❌SUCHE ANKAUF Samsung Galaxy S24 S25 S26 Ultra Plus Tab S9 S10 S11  Z Fold Flip 7",
@@ -32,36 +63,65 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
-    "ef36088e651db5a56b18b53aa4ff0571": {
-      "id": "ef36088e651db5a56b18b53aa4ff0571",
-      "title": "✅ ANKAUF ✅ Samsung Galaxy S25 S26 Ultra 5G Plus S26+ Z Flip Fold 6 7 ZFlip ZFold / Apple MacBook Pro Air 2025 M5 CHIP 13 14 15 iPad 11 16GB 24GB 32GB Max Mac Book i Pad 128GB 256GB 512GB 1TB iPhone 17",
-      "price": "VB",
-      "speicher": "16 GB",
-      "ort": "44575 Castrop-​Rauxel\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "72 km",
-      "zustand": "Neu",
-      "model": "Z Fold 6",
-      "angebotstyp": "Gesuch",
-      "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/-ankauf-samsung-galaxy-s25-s26-ultra-5g-plus-s26-z-flip-fold-6-7-zflip-zfold-apple-macbook-pro-air-2025-m5-chip-13-14-15-ipad-11-16gb-24gb-32gb-max-mac-book-i-pad-128gb-256gb-512gb-1tb-iphone-17/3036704671-173-1997",
-      "description": "Ankauf von Smartphones, iPads & Notebooks – Neu oder Aktuell Gebraucht\nUnser Standort:\n* ❌❌ Obere...",
-      "full_description": "**Ankauf von Smartphones, iPads & Notebooks – Neu oder Aktuell Gebraucht** **Unser Standort:** * ❌❌ **Obere Münsterstraße 16** 44575 Castrop-Rauxel * **‼️(neben der Schreinerei Eckhardt ) ‼️** **Kontaktmöglichkeiten**: * Rufen Sie uns an unter der Rufnummer **0178 9235656** **oder Schreiben Sie uns:** * **über Kleinanzeigen** * **per WhatsApp** * **via Telegram** **Was wir ankaufen:** * Neue und versiegelte Geräte * Aktuelle gebrauchte Modelle in gutem Zustand * Gerätetypen: Smartphones, iPads, MacBooks, Laptops und mehr **So einfach funktioniert der Ankauf:** **1 Kontakt aufnehmen** Senden Sie uns eine Nachricht mit den folgenden Angaben: * Marke und Modell (z. B. iPhone 14 Pro Max, MacBook Pro) * Speichergröße und Zustand (Neu/Gebraucht) * Zubehör (z. B. Ladegerät, Originalverpackung) * Ihre Preisvorstellung: Wie viel möchten Sie für Ihr Gerät? **2 Angebot erhalten** * Wir prüfen Ihre Angaben und senden Ihnen schnell ein faires Angebot. **3 Übergabe des Geräts** Vor Ort im Shop: * Bringen Sie Ihr Gerät nach Terminvereinbarung direkt zu uns. Kostenlose Parkplätze stehen direkt vor dem Shop zur Verfügung! **Abholung:** * Wir holen Ihr Gerät innerhalb von 60 Minuten im Umkreis von 50 km ab. **Versand:** * Senden Sie Ihr Gerät bequem an uns. Nach Erhalt zahlen wir den vereinbarten Betrag noch am gleichen Tag per Echtzeit-Überweisung. **Wichtige Hinweise:** * Defekte Geräte kaufen wir nicht. * Der Ankauf erfolgt nur gegen Vorlage eines gültigen Ausweises und mit einem Kaufvertrag. **Jetzt Kontakt aufnehmen – Wir freuen uns auf Ihre Nachricht!** **Copyright-Hinweis:** **© S.A** **Die Inhalte dieser Seite sind urheberrechtlich geschützt. Jede Vervielfältigung oder kommerzielle Nutzung ist ohne schriftliche Zustimmung untersagt.** **Rechtsverletzungen: Bei Verstößen gegen das Urheberrecht behalten wir uns rechtliche Schritte vor.**",
+    "9163afdce6fa14eb68035ac7932f517e": {
+      "id": "9163afdce6fa14eb68035ac7932f517e",
+      "title": "Samsung Galaxy Fold 7 256gb",
+      "price": "800 €",
+      "speicher": "256 GB",
+      "ort": "50321 Brühl\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "52 km",
+      "zustand": "Sehr gut",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-7-256gb/3466866618-173-1158",
+      "description": "Ich biete hier mein sehr gut erhaltenes Samsung Galaxy Fold 7 zum Verkauf an.\nDas Handy war bei mir...",
+      "full_description": "Ich biete hier mein sehr gut erhaltenes Samsung Galaxy Fold 7 zum Verkauf an. Das Handy war bei mir nicht lange in Gebrauch, ich habe es meistens nur für kurze Arbeiten benutzt. Der Zustand ist wirklich tadellos wie man auf den Bildern sehen kann, bei weiteren Fragen können Sie mich gerne anschreiben. Eine Rechnung mit der dazugehörigen Garantielaufzeit ist ebenfalls vorhanden. Liebe Grüße",
       "assessment": {
-        "category": "Ankauf",
-        "stars": 2,
-        "label": "Neutral",
-        "price_note": "Fair",
-        "flags": [
-          "Kein spezifischer Preis genannt",
-          "Keine klare Beschreibung des Ankaufprozesses"
-        ],
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
         "positives": [
-          "Kostenlose Parkplätze vor dem Shop"
+          "Sehr guter Zustand",
+          "Kurze Benutzung",
+          "Rechnung und Garantie vorhanden"
         ],
-        "summary": "Ankauf von Smartphones, iPads und Notebooks in Castrop-Rauxel",
+        "summary": "Sehr gut erhaltenes Fold 7 zum fairen Preis",
         "source": "groq"
       },
-      "first_seen": "2026-06-23T21:04:28.856058+00:00"
+      "first_seen": "2026-07-24T09:27:42.842915+00:00"
+    },
+    "e35ba1708345f9e8b28a087ffc2b1684": {
+      "id": "e35ba1708345f9e8b28a087ffc2b1684",
+      "title": "Samsung Galaxy Fold 6 256GB Blau",
+      "price": "550 €",
+      "speicher": "256 GB",
+      "ort": "45899 Gelsenkirchen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "55 km",
+      "zustand": "Gebraucht",
+      "model": "Z Fold 6",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-6-256gb-blau/3466847414-173-1004",
+      "description": "Biete mein Fold 6 zum Verkauf an.\nDas Gerät befindet sich praktisch in neuen Zustand da der gesamte...",
+      "full_description": "Biete mein Fold 6 zum Verkauf an. Das Gerät befindet sich praktisch in neuen Zustand da der gesamte rahmen+displays und akku anfang Juli von Samsung ausgetauscht wurden. Am Gerät befinden sich keinerlei Macken. Wurde seit der Reparatur mit der auf den Bildern abgebildeten Hülle genutzt Mit dabei gebe ich ein Dbrand grip case mit xray skins Original Rechnung nicht vorhaden, aber eine vom gebrauchthändler OVP vorhanden",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Praktisch neuer Zustand",
+          "Reparatur durch Samsung",
+          "Hülle und Case im Lieferumfang"
+        ],
+        "summary": "Gebrauchter Samsung Galaxy Fold 6 in praktisch neuem Zustand, repariert durch Samsung, mit Hülle und Case",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-24T09:27:42.843283+00:00"
     },
     "32fe7dc9ae0d18caa2133144d167d325": {
       "id": "32fe7dc9ae0d18caa2133144d167d325",
@@ -192,9 +252,9 @@
       },
       "first_seen": "2026-07-23T19:39:05.376030+00:00"
     },
-    "984409d7337b21753c304ad3b0c48a28": {
-      "id": "984409d7337b21753c304ad3b0c48a28",
-      "title": "Samsung Galaxy z fold 8 Rabattcode",
+    "cb47e7e1029e1b2b866064a82c48beca": {
+      "id": "cb47e7e1029e1b2b866064a82c48beca",
+      "title": "Rabattcode Samsung Galaxy Z Fold 8......",
       "price": "50 €",
       "speicher": "k.A.",
       "ort": "47179 Walsum\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
@@ -203,7 +263,7 @@
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-rabattcode/3466634824-173-2143",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/rabattcode-samsung-galaxy-z-fold-8-/3466634824-173-2143",
       "description": "\"Sichern Sie sich jetzt das Samsung Galaxy Samsung Galaxy Z Fold8, Fold8 Ultra und Flip8 mit...",
       "full_description": "\"Sichern Sie sich jetzt das Samsung Galaxy Samsung Galaxy Z Fold8, Fold8 Ultra und Flip8 mit einem Rabatt von -30%!\" Verkauft wird ein Code für den Zugang zur Telekom-Aktion unter https://shop.telekom.de/samsung-aktion Versand erfolgt digital.",
       "assessment": {
@@ -212,16 +272,17 @@
         "label": "Vorsicht",
         "price_note": "Überteuert",
         "flags": [
-          "Keine Beschreibung des verkauften Produkts",
-          "Keine Angaben zum Zustand und Speicher"
+          "Kein Gerät verkauft",
+          "Digitaler Versand",
+          "Keine Informationen über das Gerät"
         ],
         "positives": [
           "Rabattcode für Telekom-Aktion"
         ],
-        "summary": "Kein Samsung Galaxy Fold-Produkt, sondern Rabattcode für Telekom-Aktion",
+        "summary": "Kein Gerät verkauft, sondern Rabattcode für Telekom-Aktion",
         "source": "groq"
       },
-      "first_seen": "2026-07-23T19:39:05.376238+00:00"
+      "first_seen": "2026-07-24T09:27:42.845392+00:00"
     },
     "9f44977b896e7f79093f1ed49e040e61": {
       "id": "9f44977b896e7f79093f1ed49e040e61",
@@ -427,7 +488,7 @@
       "angebotstyp": "Angebot",
       "anbieter": "Gewerblich",
       "url": "https://www.kleinanzeigen.de/s-anzeige/handy-kaufhilfe-auswahl-vorab-pruefung-iphone-samsung-pixel-iphone-13-14-15-16-17-pro-max-samsung-galaxy-s23-s24-s25-s26-ultra-plus-z-flip-fold-fe-google-pixel-8-9-10-pro-xiaomi-14-15-/3466514410-298-1861",
-      "description": "HANDY: SUCHE, AUSWAHL & VORAB-PRÜFUNG auf Kleinanzeigen:\n\n1. Bedarf klären: Sie schreiben mir,...",
+      "description": "HANDY: SUCHE, AUSWAHL & VORAB-PRÜFUNG auf Kleinanzeigen\n\nSie suchen ein Handy auf Kleinanzeigen und...",
       "full_description": "# HANDY: SUCHE, AUSWAHL & VORAB-PRÜFUNG auf Kleinanzeigen: 1. **Bedarf klären:** Sie schreiben mir, welches Handy Sie suchen. Falls Sie sich noch nicht für ein Modell entschieden haben, helfe ich Ihnen, das passende Modell auszuwählen. 2. **Angebote filtern:** Ich suche passende Angebote heraus und treffe eine gezielte Vorauswahl. 3. **Angebote & Verkäufer prüfen:** Ich analysiere die ausgewählten Angebote im Detail und überprüfe die Zuverlässigkeit der Verkäufer. 4. **Kommunikation übernehmen:** Ich kläre mit den Verkäufern alle technischen Daten und Informationen, die in der Anzeige fehlen. 5. **Käuferschutz & Sicherheit:** Ich wähle bevorzugt Angebote aus, bei denen eine Zahlung mit Käuferschutz möglich ist (bei Versand). SIE ERHALTEN: **2–3 sorgfältig ausgewählte Angebote mit den besten Voraussetzungen für einen sicheren Kauf** + **Ausführliche Checkliste für Ihre nächsten Schritte:** — Kauf mit Versand: Sichere Durchführung der Bezahlung mit Käuferschutz • Sendungsverfolgung und wichtige Fristen • Prüfung und Test des Handys nach Erhalt • Vorgehen bei Problemen (vollständige oder teilweise Rückerstattung) — Kauf bei Abholung: Planung des Treffens (Was Sie zur Prüfung mitbringen sollten & Auswahl des Treffpunkts) • Prüfung und Test des Handys direkt beim Treffen • Vorgehen bei nachträglich festgestellten Mängeln **PREIS: 29 €** WIE ES FUNKTIONIERT (Ablauf): 1. **Kontakt**: Sie schreiben mir einfach hier im Chat, welches Handymodell Sie kaufen möchten und welches Budget Sie haben. Falls Sie sich noch nicht für ein Modell entschieden haben, nennen Sie mir einfach Ihr Budget. Weitere Wünsche oder Anforderungen können Sie ebenfalls gerne angeben. 2. **Details klären**: Ich antworte Ihnen und wir klären gemeinsam alle Anforderungen und Details für die Suche nach dem passenden Handy. 3. **Bezahlung**: Nach Ihrer Zusage sende ich Ihnen die Zahlungsdaten (PayPal oder Banküberweisung). 4. **Meine Arbeit**: Nach Zahlungseingang beginne ich sofort mit der gezielten Suche, ",
       "assessment": {
         "category": "Ankauf",
@@ -725,75 +786,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-23T12:45:13.489009+00:00"
-    },
-    "888ae83a50b37469c30563480fa7927f": {
-      "id": "888ae83a50b37469c30563480fa7927f",
-      "title": "Samsung Galaxy Fold 4 defekt",
-      "price": "100 €",
-      "speicher": "k.A.",
-      "ort": "47169 Fahrn\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "42 km",
-      "zustand": "Gebraucht",
-      "model": "Z Fold 4",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-4-defekt/3466093843-173-19837",
-      "description": "Der kleine Bildschirm funktioniert, aber beim Aufklappen des großen Bildschirms tritt ein Problem...",
-      "full_description": "Der kleine Bildschirm funktioniert, aber beim Aufklappen des großen Bildschirms tritt ein Problem auf; das Gerät wird „wie besehen“ (mit dem Defekt) verkauft und eignet sich als Ersatzteilspender. Bei Fragen können Sie mich gerne kontaktieren. Privatverkauf; keine Gewährleistung oder Rückgaberecht.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 2,
-        "label": "Vorsicht",
-        "price_note": "Sehr günstig",
-        "flags": [
-          "Defekt",
-          "Keine Gewährleistung",
-          "Kein Rückgaberecht"
-        ],
-        "positives": [
-          "Günstiger Preis",
-          "Kleiner Bildschirm funktioniert"
-        ],
-        "summary": "Defektes Samsung Galaxy Fold 4 zum sehr günstigen Preis, aber ohne Gewährleistung",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-23T10:32:24.671362+00:00"
-    },
-    "07c32acf9161e711f02bf5444227982c": {
-      "id": "07c32acf9161e711f02bf5444227982c",
-      "title": "Samsung Galaxy Z Fold 8 Ultra 512 GB Neu",
-      "price": "1.899 € VB1.999 €",
-      "speicher": "512 GB",
-      "ort": "45772 Marl\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "72 km",
-      "zustand": "Neu",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-ultra-512-gb-neu/3465970266-173-1772",
-      "description": "Ich biete ein brandneues Samsung Galaxy Z Fold 8 Ultra mit 512 GB Speicherplatz an. Dieses...",
-      "full_description": "Ich biete ein brandneues Samsung Galaxy Z Fold 8 Ultra mit 512 GB Speicherplatz an. Dieses innovative Smartphone kombiniert ein elegantes Design mit modernster Technologie und bietet dir ein einzigartiges Nutzererlebnis. Es ist perfekt für Multitasking und Unterhaltung unterwegs. * Großes, faltbares Display für immersive Ansichten * Leistungsstarker Prozessor für reibungslose Performance * Beeindruckendes Kamerasystem für hochwertige Fotos * 512 GB interner Speicher für all deine Daten * Elegantes Design in Dunkelgrün Das Gerät ist noch originalverpackt und unbenutzt, also absolut neuwertig. Du erhältst ein High-End-Smartphone, das keine Wünsche offen lässt. Bei Fragen melde dich gerne. Ab dem 05.08 erhältlich",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Falsche Modellbezeichnung (kein Z Fold 8 Ultra bekannt)"
-        ],
-        "positives": [
-          "Originalverpackt",
-          "Unbenutzt",
-          "Großes, faltbares Display",
-          "Leistungsstarker Prozessor",
-          "Beeindruckendes Kamerasystem"
-        ],
-        "summary": "Brandneues Samsung Galaxy Z Fold mit 512 GB Speicher, aber falsche Modellbezeichnung",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-24T06:35:11.481045+00:00"
     }
   },
   "last_full_send": "2026-07-24T03:35:31.252787+00:00",
-  "last_run": "2026-07-24T06:35:41.245280+00:00"
+  "last_run": "2026-07-24T09:28:17.323793+00:00"
 }
