@@ -63,6 +63,38 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "ce6c933961dcb2026f5d3483179eb642": {
+      "id": "ce6c933961dcb2026f5d3483179eb642",
+      "title": "Galaxy Z Fold 8 512 GB Pistachio",
+      "price": "1.750 €",
+      "speicher": "512 GB",
+      "ort": "44329 Lanstrop\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "89 km",
+      "zustand": "Neu",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/galaxy-z-fold-8-512-gb-pistachio/3466974653-173-27528",
+      "description": "Biete das neue Galaxy Z Fold 8 mit 512 GB Speicher an.\nDas Handy kommt in der Farbe Pistachio...",
+      "full_description": "Biete das neue Galaxy Z Fold 8 mit 512 GB Speicher an. Das Handy kommt in der Farbe Pistachio an. Neu mit Rechnung. Das Handy kommt am 03.08 auf dem Markt und ich bekomme es voraussichtlich bis zum 05.08. Sobald ich es habe wird es weiter verschickt.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Preis ist deutlich über dem Marktpreis",
+          "Keine Angabe zu Lieferzeitpunkt"
+        ],
+        "positives": [
+          "Neu mit Rechnung",
+          "Pistachio Farbe"
+        ],
+        "summary": "Neues Galaxy Z Fold 8 in Pistachio Farbe für 1.750 €",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-24T11:50:53.125197+00:00"
+    },
     "9163afdce6fa14eb68035ac7932f517e": {
       "id": "9163afdce6fa14eb68035ac7932f517e",
       "title": "Samsung Galaxy Fold 7 256gb",
@@ -100,7 +132,7 @@
       "speicher": "256 GB",
       "ort": "45899 Gelsenkirchen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "55 km",
-      "zustand": "Gebraucht",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -481,8 +513,8 @@
       "title": "HANDY-KAUFHILFE: Auswahl & Vorab-Prüfung | iPhone, Samsung, Pixel...| iPhone 13 14 15 16 17 Pro Max | Samsung Galaxy S23 S24 S25 S26 Ultra Plus Z Flip Fold FE | Google Pixel 8 9 10 Pro | Xiaomi 14 15",
       "price": "29 €",
       "speicher": "k.A.",
-      "ort": "53757 Sankt Augustin\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "72 km",
+      "ort": "53757 Sankt Augustin +  Kommt zu dir\n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "200 km",
       "zustand": "k.A.",
       "model": "Z Fold",
       "angebotstyp": "Angebot",
@@ -756,38 +788,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-23T17:41:07.634524+00:00"
-    },
-    "68ef9514ef9495b1dc5d2160a3ad4031": {
-      "id": "68ef9514ef9495b1dc5d2160a3ad4031",
-      "title": "Samsung Galaxy Z Fold 3 Schutzhülle",
-      "price": "10 €",
-      "speicher": "k.A.",
-      "ort": "51371 Leverkusen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "38 km",
-      "zustand": "Neu (OVP)",
-      "model": "Z Fold 3",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-3-schutzhuelle/3466234981-173-1994",
-      "description": "Guten Tag\n\nVerkaufe eine neue, originalverpackte Schutzhülle für das Samsung Galaxy Z Fold 3. Die...",
-      "full_description": "Guten Tag Verkaufe eine neue, originalverpackte Schutzhülle für das Samsung Galaxy Z Fold 3. Die Hülle wurde nie benutzt und befindet sich in der ungeöffneten Originalverpackung. Abholung sowie Versand möglich Liebe Grüße",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Neu",
-          "Originalverpackt",
-          "Abholung und Versand möglich"
-        ],
-        "summary": "Neue, OVP Schutzhülle für Z Fold 3 zum günstigen Preis",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-23T12:45:13.489009+00:00"
     }
   },
-  "last_full_send": "2026-07-24T03:35:31.252787+00:00",
-  "last_run": "2026-07-24T09:28:17.323793+00:00"
+  "last_full_send": "2026-07-24T11:51:20.979694+00:00",
+  "last_run": "2026-07-24T11:51:20.979774+00:00"
 }
