@@ -1,37 +1,5 @@
 {
   "listings": {
-    "5560191eea7f149640001ebcd4ab79be": {
-      "id": "5560191eea7f149640001ebcd4ab79be",
-      "title": "HANDY-KAUFHILFE: Auswahl & Vorab-Prüfung | iPhone, Samsung, Pixel...| iPhone 13 14 15 16 17 Pro Max | Samsung Galaxy S23 S24 S25 S26 Ultra Plus Z Flip Fold FE | Google Pixel 8 9 10 Pro | Xiaomi 14 15",
-      "price": "15 €",
-      "speicher": "k.A.",
-      "ort": "53757 Sankt Augustin +  Kommt zu dir\n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "200 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/handy-kaufhilfe-auswahl-vorab-pruefung-iphone-samsung-pixel-iphone-13-14-15-16-17-pro-max-samsung-galaxy-s23-s24-s25-s26-ultra-plus-z-flip-fold-fe-google-pixel-8-9-10-pro-xiaomi-14-15-/3466514410-298-1861",
-      "description": "Handy-Kaufhilfe: Top 3 geprüfte Angebote passend zu Ihrer Anfrage\n\nSie suchen ein Handy auf...",
-      "full_description": "# Handy-Kaufhilfe: Top 3 geprüfte Angebote passend zu Ihrer Anfrage Sie suchen ein Handy auf Kleinanzeigen und möchten keinen Fehlkauf riskieren? Als erfahrener Smartphone-Experte übernehme ich für Sie die Suche, Auswahl, Prüfung und Kommunikation – damit Sie das passende Handy sicher kaufen können. SIE ERHALTEN: **Top 3 geprüfte Angebote passend zu Ihrer Anfrage** +**Ausführliche Checkliste für Ihre nächsten Schritte:** — Kauf mit Versand: Sichere Durchführung der Bezahlung mit Käuferschutz • Sendungsverfolgung und wichtige Fristen • Prüfung und Test des Handys nach Erhalt • Vorgehen bei Problemen (vollständige oder teilweise Rückerstattung) — Kauf bei Abholung: Planung des Treffens (was Sie zur Prüfung mitbringen sollten & Auswahl des Treffpunkts) • Prüfung und Test des Handys direkt beim Treffen • Vorgehen bei nachträglich festgestellten Mängeln **PREIS: 15 €** WIE ES FUNKTIONIERT (Ablauf): 1. **Kontakt**: Sie schreiben mir einfach hier im Chat, welches Handymodell Sie kaufen möchten und welches Budget Sie haben. Falls Sie sich noch nicht für ein Modell entschieden haben, nennen Sie mir einfach Ihr Budget. Weitere Wünsche oder Anforderungen können Sie ebenfalls gerne angeben. 2. **Details klären**: Ich antworte Ihnen und wir klären gemeinsam alle Anforderungen und Details für die Suche nach dem passenden Handy. 3. **Bezahlung**: Nach Ihrer Zusage sende ich Ihnen die Zahlungsdaten (PayPal mit Käuferschutz oder Banküberweisung). 4. **Meine Arbeit**: Nach Zahlungseingang beginne ich sofort mit folgenden Schritten: Gezielte Suche und passende Vorauswahl der Angebote • Detaillierte Prüfung der Angebote & Verkäufer-Zuverlässigkeit • Klärung fehlender technischer Daten direkt mit den Verkäufern • Finale Auswahl der besten Angebote für Sie. 5. **Ihr Ergebnis**: Sie erhalten innerhalb von 24–48 Stunden Ihre Top 3 ausgewählten und geprüften Angebote sowie eine ausführliche Checkliste mit Ihren nächsten Schritten. **Schreiben Sie mir jetzt eine Nachricht – ich freue mich da",
-      "assessment": {
-        "category": "Ankauf",
-        "stars": 2,
-        "label": "Neutral",
-        "price_note": "Sehr günstig",
-        "flags": [
-          "Keine spezifischen Details zum Gerät",
-          "Unklarer Preis"
-        ],
-        "positives": [
-          "Kaufhilfe durch Experten",
-          "Prüfung und Test des Handys"
-        ],
-        "summary": "Kaufhilfe durch Experten für 15 €, aber keine Details zum Gerät",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-27T15:48:54.505859+00:00"
-    },
     "ca37aab08e4d1112407a23a8b12dca0e": {
       "id": "ca37aab08e4d1112407a23a8b12dca0e",
       "title": "❌SUCHE ANKAUF Samsung Galaxy S24 S25 S26 Ultra Plus Tab S9 S10 S11  Z Fold Flip 7",
@@ -63,6 +31,38 @@
         "source": "groq"
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
+    },
+    "5560191eea7f149640001ebcd4ab79be": {
+      "id": "5560191eea7f149640001ebcd4ab79be",
+      "title": "HANDY-KAUFHILFE: Auswahl & Vorab-Prüfung | iPhone, Samsung, Pixel...| iPhone 13 14 15 16 17 Pro Max | Samsung Galaxy S23 S24 S25 S26 Ultra Plus Z Flip Fold FE | Google Pixel 8 9 10 Pro | Xiaomi 14 15",
+      "price": "15 €",
+      "speicher": "k.A.",
+      "ort": "53757 Sankt Augustin +  Kommt zu dir\n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "200 km",
+      "zustand": "k.A.",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Gewerblich",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/handy-kaufhilfe-auswahl-vorab-pruefung-iphone-samsung-pixel-iphone-13-14-15-16-17-pro-max-samsung-galaxy-s23-s24-s25-s26-ultra-plus-z-flip-fold-fe-google-pixel-8-9-10-pro-xiaomi-14-15-/3466514410-298-1861",
+      "description": "Handy-Kaufhilfe: Top 3 geprüfte Angebote passend zu Ihrer Anfrage\n\nSie suchen ein Handy auf...",
+      "full_description": "# Handy-Kaufhilfe: Top 3 geprüfte Angebote passend zu Ihrer Anfrage Sie suchen ein Handy auf Kleinanzeigen und möchten keinen Fehlkauf riskieren? Als erfahrener Smartphone-Experte übernehme ich für Sie die Suche, Auswahl, Prüfung und Kommunikation – damit Sie das passende Handy sicher kaufen können. SIE ERHALTEN: **Top 3 geprüfte Angebote passend zu Ihrer Anfrage** +**Ausführliche Checkliste für Ihre nächsten Schritte:** — Kauf mit Versand: Sichere Durchführung der Bezahlung mit Käuferschutz • Sendungsverfolgung und wichtige Fristen • Prüfung und Test des Handys nach Erhalt • Vorgehen bei Problemen (vollständige oder teilweise Rückerstattung) — Kauf bei Abholung: Planung des Treffens (was Sie zur Prüfung mitbringen sollten & Auswahl des Treffpunkts) • Prüfung und Test des Handys direkt beim Treffen • Vorgehen bei nachträglich festgestellten Mängeln **PREIS: 15 €** WIE ES FUNKTIONIERT (Ablauf): 1. **Kontakt**: Sie schreiben mir einfach hier im Chat, welches Handymodell Sie kaufen möchten und welches Budget Sie haben. Falls Sie sich noch nicht für ein Modell entschieden haben, nennen Sie mir einfach Ihr Budget. Weitere Wünsche oder Anforderungen können Sie ebenfalls gerne angeben. 2. **Details klären**: Ich antworte Ihnen und wir klären gemeinsam alle Anforderungen und Details für die Suche nach dem passenden Handy. 3. **Bezahlung**: Nach Ihrer Zusage sende ich Ihnen die Zahlungsdaten (PayPal mit Käuferschutz oder Banküberweisung). 4. **Meine Arbeit**: Nach Zahlungseingang beginne ich sofort mit folgenden Schritten: Gezielte Suche und passende Vorauswahl der Angebote • Detaillierte Prüfung der Angebote & Verkäufer-Zuverlässigkeit • Klärung fehlender technischer Daten direkt mit den Verkäufern • Finale Auswahl der besten Angebote für Sie. 5. **Ihr Ergebnis**: Sie erhalten innerhalb von 24–48 Stunden Ihre Top 3 ausgewählten und geprüften Angebote sowie eine ausführliche Checkliste mit Ihren nächsten Schritten. **Schreiben Sie mir jetzt eine Nachricht – ich freue mich da",
+      "assessment": {
+        "category": "Ankauf",
+        "stars": 2,
+        "label": "Neutral",
+        "price_note": "Sehr günstig",
+        "flags": [
+          "Keine spezifischen Details zum Gerät",
+          "Unklarer Preis"
+        ],
+        "positives": [
+          "Kaufhilfe durch Experten",
+          "Prüfung und Test des Handys"
+        ],
+        "summary": "Kaufhilfe durch Experten für 15 €, aber keine Details zum Gerät",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-27T15:48:54.505859+00:00"
     },
     "4ff2ef348428ac2bf320901640a03d41": {
       "id": "4ff2ef348428ac2bf320901640a03d41",
@@ -725,33 +725,6 @@
       },
       "first_seen": "2026-07-26T10:08:23.182506+00:00"
     },
-    "0e159f670a3790ab3c0cdbb99a2f593d": {
-      "id": "0e159f670a3790ab3c0cdbb99a2f593d",
-      "title": "Samsung Galaxy Z Fold8 | 512 GB | Cream | Neu & Eingeschweißt",
-      "price": "1.650 €1.699 €",
-      "speicher": "512 GB",
-      "ort": "44329 Lanstrop\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "89 km",
-      "zustand": "Neu",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-512-gb-cream-neu-eingeschweisst/3468440995-173-27528",
-      "description": "Samsung Gialaxy Z Fold 8 faltbar 512 GB Smartphone Neu\nBiete das neue Galaxy Z Fold 8 mit 512 GB...",
-      "full_description": "Samsung Gialaxy Z Fold 8 faltbar 512 GB Smartphone Neu Biete das neue Galaxy Z Fold 8 mit 512 GB Speicher an. Das Handy kommt in der Farbe Cream. Neu mit Rechnung. Das Handy kommt am 03.08 auf dem Markt und ich bekomme es voraussichtlich bis zum 08.08. Sobald ich es habe wird es weiter verschickt. Lieferumfang: Handy inkl. OVP Ladekabel, SIM-Nadel",
-      "assessment": {
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "ℹ️ Preis nicht angegeben",
-        "flags": [],
-        "positives": [
-          "✅ Originalverpackung",
-          "✅ Rechnung/Beleg vorhanden"
-        ],
-        "summary": "✅ Originalverpackung · ℹ️ Preis nicht angegeben"
-      },
-      "first_seen": "2026-07-26T07:43:07.104556+00:00"
-    },
     "055b023dbe81d8d064a07332d3c8516c": {
       "id": "055b023dbe81d8d064a07332d3c8516c",
       "title": "Samsung Galaxy Z Fold 8 ULTRA Green Shadow 512GB",
@@ -818,8 +791,41 @@
         "source": "groq"
       },
       "first_seen": "2026-07-25T21:04:39.284432+00:00"
+    },
+    "8bb855d9865cb80bbf76259f20e005ef": {
+      "id": "8bb855d9865cb80bbf76259f20e005ef",
+      "title": "Samsung Galaxy Fold 8 Ultra 512gb",
+      "price": "1.599 €1.800 €",
+      "speicher": "512 GB",
+      "ort": "45968 Gladbeck\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "55 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-8-ultra-512gb/3468267631-173-1801",
+      "description": "Biete hier ein neues ungeöffnetes Galaxy Fold 8 Ultra mit 512gb Speicher.\nDas Handy wied erst am...",
+      "full_description": "Biete hier ein neues ungeöffnetes Galaxy Fold 8 Ultra mit 512gb Speicher. Das Handy wied erst am 03.08.26 geliefert. Kann Versendet oder abgeholt werden",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Hochpreis",
+          "Neuware ohne Rabatt"
+        ],
+        "positives": [
+          "Neuware",
+          "OVP",
+          "Versand oder Abholung möglich"
+        ],
+        "summary": "Neues, ungeöffnetes Galaxy Fold 8 Ultra mit 512gb Speicher für hohen Preis",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-28T03:27:27.234903+00:00"
     }
   },
-  "last_full_send": "2026-07-27T19:48:11.713726+00:00",
-  "last_run": "2026-07-27T23:15:10.760940+00:00"
+  "last_full_send": "2026-07-28T03:27:54.436078+00:00",
+  "last_run": "2026-07-28T03:27:54.436163+00:00"
 }
