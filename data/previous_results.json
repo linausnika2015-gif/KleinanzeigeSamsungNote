@@ -63,6 +63,38 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "20d4ca2af6ff5277db59f41739813de0": {
+      "id": "20d4ca2af6ff5277db59f41739813de0",
+      "title": "Galaxy Z Fold 6",
+      "price": "530 € VB",
+      "speicher": "k.A.",
+      "ort": "40227 Oberbilk\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "26 km",
+      "zustand": "Sehr gut",
+      "model": "Z Fold 6",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/galaxy-z-fold-6/3471112496-173-16749",
+      "description": "Z Fold6 in sehr gutem Zustand. Alles funktioniert einwandfrei, Bildschirme frei von Kratzern. Mit...",
+      "full_description": "Z Fold6 in sehr gutem Zustand. Alles funktioniert einwandfrei, Bildschirme frei von Kratzern. Mit dabei: OVP, neues unmontiertes Carbon-Case, S-Pen, Ladegerät 25W. Kaufdatum 02/2025 Vetkauf ohne Garantie und Rücknahme",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Vetkauf ohne Garantie und Rücknahme"
+        ],
+        "positives": [
+          "Sehr guter Zustand",
+          "Bildschirme frei von Kratzern",
+          "Inklusive OVP, Carbon-Case, S-Pen und Ladegerät"
+        ],
+        "summary": "Galaxy Z Fold 6 in sehr gutem Zustand, inklusive Zubehör, günstig",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-29T06:40:37.148871+00:00"
+    },
     "ed1f15b478fb084f223de45b327d5f80": {
       "id": "ed1f15b478fb084f223de45b327d5f80",
       "title": "Samsung Galaxy Z Fold 6 in Originalverpackung",
@@ -754,41 +786,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-26T14:42:24.769057+00:00"
-    },
-    "402a4c1e1c9d5e2346779383ba4d3dd9": {
-      "id": "402a4c1e1c9d5e2346779383ba4d3dd9",
-      "title": "Samsung Galaxy Z Fold7 Jet Black 512 GB mit Hüllen",
-      "price": "789 €",
-      "speicher": "512 GB",
-      "ort": "47226 Rheinhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "30 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold7-jet-black-512-gb-mit-huellen/3468592872-173-2136",
-      "description": "Aktuell verschiebt sich die Ankunft meines neuen Smartphone auf den 29.7.26...da ich aber nicht...",
-      "full_description": "Ich biete hier mein Samsung Galaxy Z Fold7 in Jet Black mit 512 GB Speicher an. Es kommt mit der Originalverpackung und der Rechnung der Telekom vom 11.07.2025. * Jet Black Farbe * 512 GB Speicher * Inklusive Magsafe Hüllen * Originalverpackung und Rechnung vorhanden Das Innendisplay ist in Top-Zustand. Das Frontdisplay hat Kratzer, die jedoch mit einer Displayfolie nicht mehr sichtbar sind. Die Ränder und der Rahmen sind, wie auf den Bildern zu sehen, ohne Macken oder Kratzer. Bei Fragen melde dich gerne. Garantie über Telekom bzw Samsung....keine Garantie oder Sachmängelhaftung durch meine Person.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Kratzer auf dem Frontdisplay",
-          "Keine Garantie"
-        ],
-        "positives": [
-          "Neu in OVP",
-          "Magsafe Hüllen",
-          "Rechnung und Garantie vorhanden"
-        ],
-        "summary": "Samsung Galaxy Z Fold7 in Jet Black mit 512 GB Speicher, neu in OVP, mit Magsafe Hüllen und Rechnung",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-26T10:08:23.181383+00:00"
     }
   },
   "last_full_send": "2026-07-29T03:30:16.288225+00:00",
-  "last_run": "2026-07-29T03:30:16.288302+00:00"
+  "last_run": "2026-07-29T06:41:07.364457+00:00"
 }
