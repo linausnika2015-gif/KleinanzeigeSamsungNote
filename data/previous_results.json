@@ -63,6 +63,37 @@
       },
       "first_seen": "2026-06-23T21:04:28.856058+00:00"
     },
+    "cf46ec13e2b228d2c1359379052bb047": {
+      "id": "cf46ec13e2b228d2c1359379052bb047",
+      "title": "Samsung Galaxy Z Fold 7 256 GB wie Neu in OVP",
+      "price": "890 € VB",
+      "speicher": "256 GB",
+      "ort": "48653 Coesfeld\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "94 km",
+      "zustand": "Neu",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-256-gb-wie-neu-in-ovp/3471612726-173-1173",
+      "description": "Ich biete hier mein Samsung Galaxy Z Fold6 an, ein innovatives faltbares Smartphone, das dir ein...",
+      "full_description": "Ich biete hier mein Samsung Galaxy Z Fold6 an, ein innovatives faltbares Smartphone, das dir ein einzigartiges Nutzungserlebnis bietet. * Großes, faltbares Display für Multitasking und Entertainment * Hochwertiges Kamerasystem mit drei Linsen auf der Rückseite * Elegantes, schlankes Design in Silber * Leistungsstarke Performance für alle Anwendungen Wie Neu, keine Schrammen, Macken, wird in einer Schutzhülle benutzt. Das Gerät ist perfekt für alle, die ein vielseitiges Smartphone suchen, das sowohl kompakt als auch großformatig genutzt werden kann. Es befindet sich in einem sehr guten Zustand mit minimalen Gebrauchsspuren. OVP vorhanden, Rechnung ebenfalls, gekauft im April 26 Keine Garantie und Rücknahme meinerseits. Es gelten die Regelungen für privaten Verkauf bei Kleinanzeigen. Bezahlung entweder Sicher Kaufen von Kleinanzeigen, PayPal Waren und Dienstleistungen, Überweisung oder Bar bei Abholung. Schreib mir einfach, wenn du Fragen hast. VG Markus",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Wie Neu",
+          "OVP vorhanden",
+          "Rechnung ebenfalls",
+          "Geringe Gebrauchsspuren"
+        ],
+        "summary": "Samsung Galaxy Z Fold 7 256 GB wie Neu in OVP für 890 €",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-29T17:23:29.599312+00:00"
+    },
     "d9a9cb0838980623790f87ee96c08fa7": {
       "id": "d9a9cb0838980623790f87ee96c08fa7",
       "title": "Samsung Galaxy Z Fold8 256 GB – Cream – Neu & OVP",
@@ -755,39 +786,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-29T15:16:12.211977+00:00"
-    },
-    "f921b1406102e9175905f3d95328fa27": {
-      "id": "f921b1406102e9175905f3d95328fa27",
-      "title": "Suche Samsung Galaxy z fold 5",
-      "price": "300 €",
-      "speicher": "k.A.",
-      "ort": "46119 Oberhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "47 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 5",
-      "angebotstyp": "Gesuch",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/suche-samsung-galaxy-z-fold-5/3469292939-173-1289",
-      "description": "Suche ein Funktionstüchtige Z fold 5 ohne displaychäden",
-      "full_description": "Suche ein Funktionstüchtige Z fold 5 ohne displaychäden",
-      "assessment": {
-        "category": "Ankauf",
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "Günstig",
-        "flags": [
-          "Unbekannter Zustand",
-          "Unbekannter Speicher"
-        ],
-        "positives": [
-          "Suche nach einem funktionstüchtigen Gerät"
-        ],
-        "summary": "Suche nach Z Fold 5 ohne Displaychäden",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-29T15:16:12.212279+00:00"
     }
   },
-  "last_full_send": "2026-07-29T09:45:45.421169+00:00",
-  "last_run": "2026-07-29T15:16:43.526332+00:00"
+  "last_full_send": "2026-07-29T17:23:56.186864+00:00",
+  "last_run": "2026-07-29T17:23:56.186939+00:00"
 }
