@@ -1,37 +1,5 @@
 {
   "listings": {
-    "5560191eea7f149640001ebcd4ab79be": {
-      "id": "5560191eea7f149640001ebcd4ab79be",
-      "title": "HANDY-KAUFHILFE: Auswahl & Vorab-Prüfung | iPhone, Samsung, Pixel...| iPhone 13 14 15 16 17 Pro Max | Samsung Galaxy S23 S24 S25 S26 Ultra Plus Z Flip Fold FE | Google Pixel 8 9 10 Pro | Xiaomi 14 15",
-      "price": "15 €",
-      "speicher": "k.A.",
-      "ort": "53757 Sankt Augustin +  Kommt zu dir\n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "200 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/handy-kaufhilfe-auswahl-vorab-pruefung-iphone-samsung-pixel-iphone-13-14-15-16-17-pro-max-samsung-galaxy-s23-s24-s25-s26-ultra-plus-z-flip-fold-fe-google-pixel-8-9-10-pro-xiaomi-14-15-/3466514410-298-1861",
-      "description": "Handy-Kaufhilfe: Top 3 geprüfte Angebote passend zu Ihrer Anfrage\n\nSie suchen ein Handy auf...",
-      "full_description": "# Handy-Kaufhilfe: Top 3 geprüfte Angebote passend zu Ihrer Anfrage Sie suchen ein Handy auf Kleinanzeigen und möchten keinen Fehlkauf riskieren? Als erfahrener Smartphone-Experte übernehme ich für Sie die Suche, Auswahl, Prüfung und Kommunikation – damit Sie das passende Handy sicher kaufen können. SIE ERHALTEN: **Top 3 geprüfte Angebote passend zu Ihrer Anfrage** +**Ausführliche Checkliste für Ihre nächsten Schritte:** — Kauf mit Versand: Sichere Durchführung der Bezahlung mit Käuferschutz • Sendungsverfolgung und wichtige Fristen • Prüfung und Test des Handys nach Erhalt • Vorgehen bei Problemen (vollständige oder teilweise Rückerstattung) — Kauf bei Abholung: Planung des Treffens (was Sie zur Prüfung mitbringen sollten & Auswahl des Treffpunkts) • Prüfung und Test des Handys direkt beim Treffen • Vorgehen bei nachträglich festgestellten Mängeln **PREIS: 15 €** WIE ES FUNKTIONIERT (Ablauf): 1. **Kontakt**: Sie schreiben mir einfach hier im Chat, welches Handymodell Sie kaufen möchten und welches Budget Sie haben. Falls Sie sich noch nicht für ein Modell entschieden haben, nennen Sie mir einfach Ihr Budget. Weitere Wünsche oder Anforderungen können Sie ebenfalls gerne angeben. 2. **Details klären**: Ich antworte Ihnen und wir klären gemeinsam alle Anforderungen und Details für die Suche nach dem passenden Handy. 3. **Bezahlung**: Nach Ihrer Zusage sende ich Ihnen die Zahlungsdaten (PayPal mit Käuferschutz oder Banküberweisung). 4. **Meine Arbeit**: Nach Zahlungseingang beginne ich sofort mit folgenden Schritten: Gezielte Suche und passende Vorauswahl der Angebote • Detaillierte Prüfung der Angebote & Verkäufer-Zuverlässigkeit • Klärung fehlender technischer Daten direkt mit den Verkäufern • Finale Auswahl der besten Angebote für Sie. 5. **Ihr Ergebnis**: Sie erhalten innerhalb von 24–48 Stunden Ihre Top 3 ausgewählten und geprüften Angebote sowie eine ausführliche Checkliste mit Ihren nächsten Schritten. **Schreiben Sie mir jetzt eine Nachricht – ich freue mich da",
-      "assessment": {
-        "category": "Ankauf",
-        "stars": 2,
-        "label": "Neutral",
-        "price_note": "Sehr günstig",
-        "flags": [
-          "Unklarer Preis",
-          "Keine Details zum Gerät"
-        ],
-        "positives": [
-          "Kaufhilfe",
-          "Prüfung und Test des Handys"
-        ],
-        "summary": "Kaufhilfe für Smartphones, Preis 15 €, keine Details zum Gerät",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-30T20:21:30.850699+00:00"
-    },
     "ca37aab08e4d1112407a23a8b12dca0e": {
       "id": "ca37aab08e4d1112407a23a8b12dca0e",
       "title": "❌SUCHE ANKAUF Samsung Galaxy S24 S25 S26 Ultra Plus Tab S9 S10 S11  Z Fold Flip 7",
@@ -64,6 +32,102 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "5560191eea7f149640001ebcd4ab79be": {
+      "id": "5560191eea7f149640001ebcd4ab79be",
+      "title": "HANDY-KAUFHILFE: Auswahl & Vorab-Prüfung | iPhone, Samsung, Pixel...| iPhone 13 14 15 16 17 Pro Max | Samsung Galaxy S23 S24 S25 S26 Ultra Plus Z Flip Fold FE | Google Pixel 8 9 10 Pro | Xiaomi 14 15",
+      "price": "15 €",
+      "speicher": "k.A.",
+      "ort": "53757 Sankt Augustin +  Kommt zu dir\n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "200 km",
+      "zustand": "k.A.",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Gewerblich",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/handy-kaufhilfe-auswahl-vorab-pruefung-iphone-samsung-pixel-iphone-13-14-15-16-17-pro-max-samsung-galaxy-s23-s24-s25-s26-ultra-plus-z-flip-fold-fe-google-pixel-8-9-10-pro-xiaomi-14-15-/3466514410-298-1861",
+      "description": "Handy-Kaufhilfe: Top 3 geprüfte Angebote passend zu Ihrer Anfrage\n\nSie suchen ein Handy auf...",
+      "full_description": "# Handy-Kaufhilfe: Top 3 geprüfte Angebote passend zu Ihrer Anfrage Sie suchen ein Handy auf Kleinanzeigen und möchten keinen Fehlkauf riskieren? Als erfahrener Smartphone-Experte übernehme ich für Sie die Suche, Auswahl, Prüfung und Kommunikation – damit Sie das passende Handy sicher kaufen können. SIE ERHALTEN: **Top 3 geprüfte Angebote passend zu Ihrer Anfrage** +**Ausführliche Checkliste für Ihre nächsten Schritte:** — Kauf mit Versand: Sichere Durchführung der Bezahlung mit Käuferschutz • Sendungsverfolgung und wichtige Fristen • Prüfung und Test des Handys nach Erhalt • Vorgehen bei Problemen (vollständige oder teilweise Rückerstattung) — Kauf bei Abholung: Planung des Treffens (was Sie zur Prüfung mitbringen sollten & Auswahl des Treffpunkts) • Prüfung und Test des Handys direkt beim Treffen • Vorgehen bei nachträglich festgestellten Mängeln **PREIS: 15 €** WIE ES FUNKTIONIERT (Ablauf): 1. **Kontakt**: Sie schreiben mir einfach hier im Chat, welches Handymodell Sie kaufen möchten und welches Budget Sie haben. Falls Sie sich noch nicht für ein Modell entschieden haben, nennen Sie mir einfach Ihr Budget. Weitere Wünsche oder Anforderungen können Sie ebenfalls gerne angeben. 2. **Details klären**: Ich antworte Ihnen und wir klären gemeinsam alle Anforderungen und Details für die Suche nach dem passenden Handy. 3. **Bezahlung**: Nach Ihrer Zusage sende ich Ihnen die Zahlungsdaten (PayPal mit Käuferschutz oder Banküberweisung). 4. **Meine Arbeit**: Nach Zahlungseingang beginne ich sofort mit folgenden Schritten: Gezielte Suche und passende Vorauswahl der Angebote • Detaillierte Prüfung der Angebote & Verkäufer-Zuverlässigkeit • Klärung fehlender technischer Daten direkt mit den Verkäufern • Finale Auswahl der besten Angebote für Sie. 5. **Ihr Ergebnis**: Sie erhalten innerhalb von 24–48 Stunden Ihre Top 3 ausgewählten und geprüften Angebote sowie eine ausführliche Checkliste mit Ihren nächsten Schritten. **Schreiben Sie mir jetzt eine Nachricht – ich freue mich da",
+      "assessment": {
+        "category": "Ankauf",
+        "stars": 2,
+        "label": "Neutral",
+        "price_note": "Sehr günstig",
+        "flags": [
+          "Unklarer Preis",
+          "Keine Details zum Gerät"
+        ],
+        "positives": [
+          "Kaufhilfe",
+          "Prüfung und Test des Handys"
+        ],
+        "summary": "Kaufhilfe für Smartphones, Preis 15 €, keine Details zum Gerät",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-30T20:21:30.850699+00:00"
+    },
+    "3b8a938979e04deb6dc8e27495dbe51b": {
+      "id": "3b8a938979e04deb6dc8e27495dbe51b",
+      "title": "5",
+      "price": "2.100 €",
+      "speicher": "k.A.",
+      "ort": "45968 Gladbeck\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "55 km",
+      "zustand": "k.A.",
+      "model": "Other",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-ultra-rechnung-alle-dabei/3472503654-173-1801",
+      "description": "Samsung Galaxy Z Fold8 Ultra Rechnung alle dabei",
+      "full_description": "Samsung Galaxy Z Fold8 Ultra Rechnung alle dabei",
+      "assessment": {
+        "category": "Sonstiges",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "Überteuert",
+        "flags": [
+          "Falsches Modell",
+          "Unklarer Zustand",
+          "Unklare Spezifikationen"
+        ],
+        "positives": [
+          "Rechnung liegt vor"
+        ],
+        "summary": "Falsches Modell, unklarer Zustand und Spezifikationen, überhöhter Preis",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-30T22:14:58.642210+00:00"
+    },
+    "a7c3c2e11ef3c0df15e187de88dc83d2": {
+      "id": "a7c3c2e11ef3c0df15e187de88dc83d2",
+      "title": "Samsung Galaxy Z Fold7 1TB / 16GB Blue Shadow OVP & Zubehör",
+      "price": "1.900 € VB",
+      "speicher": "1 TB",
+      "ort": "51103 Kalk\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "49 km",
+      "zustand": "Wie neu",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold7-1tb-16gb-blue-shadow-ovp-zubehoer/3472495230-173-17009",
+      "description": "Verkaufe mein Samsung Galaxy Z Fold7 in der Farbe Blue Shadow mit der großen 1 TB Speicher-Variante...",
+      "full_description": "Verkaufe mein Samsung Galaxy Z Fold7 in der Farbe Blue Shadow mit der großen 1 TB Speicher-Variante und 16 GB RAM. Das Smartphone befindet sich in sehr gepflegtem, nahezu neuwertigem Zustand und funktioniert selbstverständlich einwandfrei. Sehr leichte Schlieren am Frontdisplay. Innen makellos.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Schlieren am Frontdisplay"
+        ],
+        "positives": [
+          "Gepflegter Zustand",
+          "Einwandfreie Funktion",
+          "Großer Speicher"
+        ],
+        "summary": "Gepflegter Z Fold 7 mit 1 TB Speicher und 16 GB RAM für 1.900 €",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-30T22:14:58.642557+00:00"
+    },
     "791ccdc2dce822e5b6dd472716f4e556": {
       "id": "791ccdc2dce822e5b6dd472716f4e556",
       "title": "Samsung Galaxy Fold 6",
@@ -71,7 +135,7 @@
       "speicher": "k.A.",
       "ort": "46397 Bocholt\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "73 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -776,73 +840,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-29T09:45:02.948255+00:00"
-    },
-    "be34ce21a459a0f7ecb4fa72b1f8c413": {
-      "id": "be34ce21a459a0f7ecb4fa72b1f8c413",
-      "title": "Samsung Galaxy Z Fold 7|100% Akku|256 GB|OVP|Schwarz|Lieferung✅",
-      "price": "1.000 €",
-      "speicher": "256 GB",
-      "ort": "41747 Viersen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "8 km",
-      "zustand": "Sehr gut",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-100-akku-256-gb-ovp-schwarz-lieferung-/3446797914-173-1791",
-      "description": "⭐️Zum Verkauf steht ein sehr gut erhaltenes Samsung Galaxy Z Fold 7 – 100 % Akku – 256 GB –...",
-      "full_description": "⭐️Zum Verkauf steht ein sehr gut erhaltenes Samsung Galaxy Z Fold 7 – 100 % Akku – 256 GB – Jetblack⭐️ ✅ inkl. einer Schutzhülle ℹ️ Abholung / persönliche Lieferung auch sonn- & feiertags und bis ca. 21 Uhr möglich – nach Termin ✅ Zustand: • Optisch sehr gut • Technisch einwandfrei • Akkuzustand 100% • OVP sehr gut ✅ Details: • Modell: Samsung Galaxy Z Fold 7 • Speicher: 256 GB • Farbe: Jetblack • Ersteinsatz 6. Oktober 2025 • Batterie: 100% • Ladezyklen: 124 • Simlockfrei (frei für alle Netze) – EU-Gerät, offiziell für den deutschen Markt bestimmt ❗️FESTPREIS – Preisanfragen können nicht beantwortet werden❗️ ℹ️ in meinem Profil: • Smartphones, Smartwatches & Tablets • Konsolen, Spiele & Zubehör • VR-Brillen & Zubehör • Gaming-Laptops & Gaming-Monitore ✅ Abholung bevorzugt – auch an Sonn- & Feiertagen – nach Termin ✅ Persönliche Lieferung im nahen Umkreis ggf. möglich ✅ Inzahlungnahme ggf. möglich – bitte dafür anrufen oder Bilder und Details per WhatsApp an 0173 3738951 ⛔️ Kein Tausch möglich! ℹ️ Bezahlung: • Bar bei Abholung • Bei Versand: PayPal (bei Übernahme der Gebühren) oder Überweisung • Versandkosten trägt der Käufer",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Sehr guter Zustand",
-          "100% Akku",
-          "256 GB Speicher",
-          "OVP sehr gut",
-          "Simlockfrei",
-          "EU-Gerät",
-          "Festpreis"
-        ],
-        "summary": "Sehr gut erhaltenes Samsung Galaxy Z Fold 7 mit 256 GB Speicher und 100% Akku zum fairen Preis",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-29T09:45:02.948516+00:00"
-    },
-    "5f241b277904e6a5edea775c90780da1": {
-      "id": "5f241b277904e6a5edea775c90780da1",
-      "title": "PITAKA Aramid-Hülle für Samsung Galaxy Z Fold 7 – Neu & OVP",
-      "price": "40 €",
-      "speicher": "k.A.",
-      "ort": "58089 Hagen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "72 km",
-      "zustand": "Neu",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/pitaka-aramid-huelle-fuer-samsung-galaxy-z-fold-7-neu-ovp/3471122770-173-2010",
-      "description": "Ich verkaufe eine originale PITAKA ultradünne Aramidfaser-Hülle für das Samsung Galaxy Z Fold 7 in...",
-      "full_description": "Ich verkaufe eine originale PITAKA ultradünne Aramidfaser-Hülle für das Samsung Galaxy Z Fold 7 in Schwarz/Grau. Die Hülle ist neu, unbenutzt und befindet sich in der Originalverpackung. Details: * ✅ Passend für Samsung Galaxy Z Fold 7 * ✅ Original PITAKA * ✅ Farbe: Schwarz/Grau * ✅ Hochwertige Aramidfaser (Carbon-Optik) * ✅ Ultraleicht & extrem dünn * ✅ MagSafe-kompatibel * ✅ Neu & originalverpackt Ideal für alle, die ihr Fold 7 optimal schützen möchten, ohne auf das schlanke Design zu verzichten. Abholung oder Versand gegen Kostenübernahme möglich. Privatverkauf, daher keine Garantie, Gewährleistung oder Rücknahme.",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Neu und originalverpackt",
-          "Hochwertige Aramidfaser",
-          "Ultraleicht und extrem dünn",
-          "MagSafe-kompatibel"
-        ],
-        "summary": "Neue PITAKA-Hülle für Z Fold 7, originale Verpackung, sehr günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-29T09:45:02.948739+00:00"
     }
   },
   "last_full_send": "2026-07-30T16:43:18.464212+00:00",
-  "last_run": "2026-07-30T20:22:09.782900+00:00"
+  "last_run": "2026-07-30T22:15:31.397321+00:00"
 }
