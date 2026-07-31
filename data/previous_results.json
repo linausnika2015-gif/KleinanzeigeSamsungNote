@@ -63,6 +63,41 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "4b829ce03752c2cdf0603ce8bf973a5e": {
+      "id": "4b829ce03752c2cdf0603ce8bf973a5e",
+      "title": "Biete Samsung Galaxy Z Fold 3 in schwarz",
+      "price": "220 €",
+      "speicher": "256 GB",
+      "ort": "44805 Bochum-​Nord\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "68 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 3",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/biete-samsung-galaxy-z-fold-3-in-schwarz/3472612365-173-1943",
+      "description": "Biete mein Samsung Galaxy Z Fold 3 in schwarz 256gb Mit Ladekabel ohne stecker Karton 2kleine...",
+      "full_description": "Biete mein Samsung Galaxy Z Fold 3 in schwarz 256gb Mit Ladekabel ohne stecker Karton 2kleine gebrauchspuren an der seite Sonst top zustand Keine Gewährleistung,keine Rücknahme,keine Garantie Nur Abholung Bo Gerthe Einfach anschauen kommen",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 3,
+        "label": "Vorsicht",
+        "price_note": "Überteuert",
+        "flags": [
+          "Keine Gewährleistung",
+          "Keine Rücknahme",
+          "Keine Garantie",
+          "Kleine Gebrauchspuren"
+        ],
+        "positives": [
+          "256 GB Speicher",
+          "Ladekabel ohne Stecker",
+          "Karton vorhanden"
+        ],
+        "summary": "Samsung Galaxy Z Fold 3 in schwarz, 256 GB, 220 €, Abholung Bochum",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-31T08:06:03.350457+00:00"
+    },
     "3b8a938979e04deb6dc8e27495dbe51b": {
       "id": "3b8a938979e04deb6dc8e27495dbe51b",
       "title": "5",
@@ -774,42 +809,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-29T12:10:36.085686+00:00"
-    },
-    "34268083ec76f0f1f208a532560c92b8": {
-      "id": "34268083ec76f0f1f208a532560c92b8",
-      "title": "Galaxy Z Fold8 Ultra 512gb  Graphite",
-      "price": "2.049 € VB",
-      "speicher": "512 GB",
-      "ort": "47059 Duisburg-​Mitte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "33 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/galaxy-z-fold8-ultra-512gb-graphite/3471168378-173-2150",
-      "description": "Biete ein Samsung Galaxy Z Fold 8 Ultra mit 512 GB.\nEs wird erst zwischen dem 06.08-11.08...",
-      "full_description": "Biete ein Samsung Galaxy Z Fold 8 Ultra mit 512 GB. Es wird erst zwischen dem 03.08-06.08 geliefert. Das Handy ist ein Vertragshandy. Neu Orginal verpackt. Mit Rechnung. Keine Rücknahme. Nur für Selbstabholer. Mit freundlichen Grüßen",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [
-          "Vertragshandy",
-          "Keine Rücknahme",
-          "Nur Selbstabholer"
-        ],
-        "positives": [
-          "Neu",
-          "Orginalverpackt",
-          "Mit Rechnung"
-        ],
-        "summary": "Neuer Samsung Galaxy Z Fold 8 Ultra mit 512 GB, Selbstabholer nur",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-29T09:45:02.948255+00:00"
     }
   },
-  "last_full_send": "2026-07-31T00:12:03.269198+00:00",
-  "last_run": "2026-07-31T04:32:18.325568+00:00"
+  "last_full_send": "2026-07-31T08:06:30.872594+00:00",
+  "last_run": "2026-07-31T08:06:30.872672+00:00"
 }
