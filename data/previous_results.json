@@ -63,14 +63,48 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "9f92a9b1a853681f595763d51a11c86a": {
+      "id": "9f92a9b1a853681f595763d51a11c86a",
+      "title": "Zum Verkauf steht ein neuwertiges Samsung Galaxy Z Fold7",
+      "price": "850 €",
+      "speicher": "256 GB",
+      "ort": "51103 Kalk\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "49 km",
+      "zustand": "Wie neu",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/zum-verkauf-steht-ein-neuwertiges-samsung-galaxy-z-fold7/3472906951-173-17009",
+      "description": "Zum Verkauf steht ein neuwertiges Samsung Galaxy Z Fold7\n\n256GB\n\nFarbe Blue Shadow\n\nRechnung...",
+      "full_description": "Zum Verkauf steht ein neuwertiges Samsung Galaxy Z Fold7 256GB Farbe Blue Shadow Rechnung vorhanden, Rechnungsdatum August 2025 Garantie bis August 2027 OVP vorhanden 100% Akkukapazität Akku ist in einem Top Zustand, das Handy wurde immer nur auf maximal 80% geladen Das Handy hat absolut keine Gebrauchsspuren(Kratzer, Katscher oder sonstiges) Es wurde vom ersten Tag an mit einer 360° Handy Hülle inklusive Panzerglass benutzt, deshalb auch der neuwertige Zustand Beide Display ohne irgendwelche Micro Kratzer BITTE LESEN!!! FESTPREIS!!!!!!!!!! ALLE ANFRAGEN BEZÜGLICH DEN PREIS WERDEN IGNORIERT!!!!!!! Solange die Anzeige aktiv ist, solange ist es dementsprechend auch verfügbar!!! Wir bieten keinen Versand an!!!",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Festpreis",
+          "Kein Versand"
+        ],
+        "positives": [
+          "Neuwertiger Zustand",
+          "Rechnung vorhanden",
+          "Garantie bis August 2027",
+          "100% Akkukapazität"
+        ],
+        "summary": "Neuwertiges Samsung Galaxy Z Fold7 256GB, Rechnung und Garantie vorhanden, 100% Akkukapazität",
+        "source": "groq"
+      },
+      "first_seen": "2026-07-31T14:28:24.987999+00:00"
+    },
     "5bcd17e29a10e986ae286552c8b0b776": {
       "id": "5bcd17e29a10e986ae286552c8b0b776",
       "title": "Samsung Galaxy Fold 6 im Top Zustand mit Restgarantie",
-      "price": "499 €",
+      "price": "479 €499 €",
       "speicher": "k.A.",
       "ort": "42277 Oberbarmen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "55 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -78,19 +112,15 @@
       "description": "FESTPREIS!!! KEIN TAUSCH!!! Auf was ist letzter Preis reagiere ich nicht\n\nZum Verkauf steht das...",
       "full_description": "FESTPREIS!!! KEIN TAUSCH!!! Auf was ist letzter Preis reagiere ich nicht Zum Verkauf steht das Samsung Galaxy Fold 6 mit Garantie bis 04.10.2026 Rechnung wird mitgegeben! Das Handy ist in einem sehr guten Zustand - siehe Bilder Die hochwertige Hülle mit Magsafe ist dabei!",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~900 €)",
         "flags": [],
         "positives": [
-          "Top Zustand",
-          "Restgarantie",
-          "Festpreis",
-          "Hülle mit Magsafe"
+          "✅ Garantie vorhanden",
+          "✅ Rechnung/Beleg vorhanden"
         ],
-        "summary": "Samsung Galaxy Fold 6 in sehr gutem Zustand mit Restgarantie und Hülle für 499 €",
-        "source": "groq"
+        "summary": "✅ Garantie vorhanden · 🔴 Deutlich überteuert (Ref. ~900 €)"
       },
       "first_seen": "2026-07-31T11:33:04.784266+00:00"
     },
@@ -101,7 +131,7 @@
       "speicher": "256 GB",
       "ort": "59439 Holzwickede\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "89 km",
-      "zustand": "Gebraucht",
+      "zustand": "k.A.",
       "model": "Z Fold 3",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -134,7 +164,7 @@
       "speicher": "512 GB",
       "ort": "50354 Hürth\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "47 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold 5",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -158,41 +188,6 @@
         "source": "groq"
       },
       "first_seen": "2026-07-31T11:33:04.785761+00:00"
-    },
-    "4b829ce03752c2cdf0603ce8bf973a5e": {
-      "id": "4b829ce03752c2cdf0603ce8bf973a5e",
-      "title": "Biete Samsung Galaxy Z Fold 3 in schwarz",
-      "price": "220 €",
-      "speicher": "256 GB",
-      "ort": "44805 Bochum-​Nord\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "68 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 3",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/biete-samsung-galaxy-z-fold-3-in-schwarz/3472612365-173-1943",
-      "description": "Biete mein Samsung Galaxy Z Fold 3 in schwarz 256gb Mit Ladekabel ohne stecker Karton 2kleine...",
-      "full_description": "Biete mein Samsung Galaxy Z Fold 3 in schwarz 256gb Mit Ladekabel ohne stecker Karton 2kleine gebrauchspuren an der seite Sonst top zustand Keine Gewährleistung,keine Rücknahme,keine Garantie Nur Abholung Bo Gerthe Einfach anschauen kommen",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 3,
-        "label": "Vorsicht",
-        "price_note": "Überteuert",
-        "flags": [
-          "Keine Gewährleistung",
-          "Keine Rücknahme",
-          "Keine Garantie",
-          "Kleine Gebrauchspuren"
-        ],
-        "positives": [
-          "256 GB Speicher",
-          "Ladekabel ohne Stecker",
-          "Karton vorhanden"
-        ],
-        "summary": "Samsung Galaxy Z Fold 3 in schwarz, 256 GB, 220 €, Abholung Bochum",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-31T08:06:03.350457+00:00"
     },
     "3b8a938979e04deb6dc8e27495dbe51b": {
       "id": "3b8a938979e04deb6dc8e27495dbe51b",
@@ -261,7 +256,7 @@
     "791ccdc2dce822e5b6dd472716f4e556": {
       "id": "791ccdc2dce822e5b6dd472716f4e556",
       "title": "Samsung Galaxy Fold 6",
-      "price": "750 € VB",
+      "price": "740 € VB750 €",
       "speicher": "k.A.",
       "ort": "46397 Bocholt\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "73 km",
@@ -273,29 +268,22 @@
       "description": "Ich biete hier mein Samsung Galaxy Fold 6 in Roségold an. Es ist ein wirklich beeindruckendes...",
       "full_description": "Ich biete hier mein Samsung Galaxy Fold 6 in Roségold an. Es ist ein wirklich beeindruckendes Smartphone, das dir ein großes Display im Tablet-Format bietet, wenn du es aufklappst. * Faltbares Display für maximale Flexibilität * Elegantes Roségold-Finish * Dreifach-Kamerasystem auf der Rückseite Das Handy ist in einem sehr guten Zustand und funktioniert einwandfrei. Es ist perfekt für alle, die ein vielseitiges Gerät suchen, das sowohl als Smartphone als auch als kleines Tablet dient. Schreib mir einfach, wenn du Fragen hast. !!!Kein Versand!!! Da es sich um einen Privatkauf handelt KEINE GARANTIE UND KEINE RÜCKNAHME.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Garantie",
-          "Keine Rückerstattung"
-        ],
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~900 €)",
+        "flags": [],
         "positives": [
-          "Sehr guter Zustand",
-          "Funktioniert einwandfrei",
-          "Faltbares Display",
-          "Elegantes Design"
+          "✅ Garantie vorhanden",
+          "✅ Makellos"
         ],
-        "summary": "Samsung Galaxy Fold 6 in Roségold, sehr guter Zustand, kein Versand",
-        "source": "groq"
+        "summary": "✅ Garantie vorhanden · 🔴 Deutlich überteuert (Ref. ~900 €)"
       },
       "first_seen": "2026-07-30T20:21:30.851403+00:00"
     },
     "dc794a12a30ecb380700c34e7071dc14": {
       "id": "dc794a12a30ecb380700c34e7071dc14",
       "title": "Neu Samsung Galaxy Fold 8 Ultra 512GB Graphite",
-      "price": "1.600 € VB",
+      "price": "1.550 €1.600 €",
       "speicher": "512 GB",
       "ort": "45968 Gladbeck\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "55 km",
@@ -307,21 +295,14 @@
       "description": "Ich biete ein neues, ungeöffnetes Samsung Galaxy Fold 8 Ultra von Telekom an. Es kommt mit...",
       "full_description": "Ich biete ein neues, ungeöffnetes Samsung Galaxy Fold 8 Ultra von Telekom an. Es kommt mit großzügigen 512 GB Speicher in der eleganten Farbe Graphite. Dieses Smartphone ist ein echtes Highlight für alle Technik-Fans. * Modell: Samsung Galaxy Fold 8 Ultra * Speicher: 512 GB * Farbe: Graphite * Zustand: Neu und ungeöffnet Das Handy wird erst am 03.08.2026 geliefert, danach ist es bereit für dich. Die Rechnung ist selbstverständlich dabei. Bei Fragen melde dich gerne.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Hochpreis",
-          "Telekom-Verkauf"
-        ],
+        "stars": 3,
+        "label": "Neutral",
+        "price_note": "ℹ️ Preis nicht angegeben",
+        "flags": [],
         "positives": [
-          "Neu und ungeöffnet",
-          "Großzügiger Speicher",
-          "Elegante Farbe"
+          "✅ Rechnung/Beleg vorhanden"
         ],
-        "summary": "Neues, ungeöffnetes Galaxy Fold 8 Ultra für 1.600 €",
-        "source": "groq"
+        "summary": "✅ Rechnung/Beleg vorhanden · ℹ️ Preis nicht angegeben"
       },
       "first_seen": "2026-07-30T20:21:30.851718+00:00"
     },
@@ -815,6 +796,6 @@
       "first_seen": "2026-07-29T19:37:28.599546+00:00"
     }
   },
-  "last_full_send": "2026-07-31T08:06:30.872594+00:00",
-  "last_run": "2026-07-31T11:33:40.735840+00:00"
+  "last_full_send": "2026-07-31T14:28:52.488309+00:00",
+  "last_run": "2026-07-31T14:28:52.488393+00:00"
 }
