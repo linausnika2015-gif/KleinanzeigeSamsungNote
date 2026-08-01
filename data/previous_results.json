@@ -63,6 +63,74 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "bd50ac6b1a5ce5691dac4e4ccc8c2583": {
+      "id": "bd50ac6b1a5ce5691dac4e4ccc8c2583",
+      "title": "Samsung Galaxy Fold Z 8 Ultra 512 GB Neu und versiegelt",
+      "price": "1.700 €",
+      "speicher": "512 GB",
+      "ort": "51145 Porz\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "56 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-z-8-ultra-512-gb-neu-und-versiegelt/3473596021-173-964",
+      "description": "Verkaufe mein brandneues Samsung Galaxy Z Fold8 Ultra. Das Gerät ist originalverpackt und...",
+      "full_description": "Verkaufe mein brandneues Samsung Galaxy Z Fold8 Ultra. Das Gerät ist originalverpackt und versiegelt, also komplett ungeöffnet. ✅ Neu & versiegelt ✅ Originalrechnung von Mediamarkt vorhanden (Kaufpreis: 2.400 €) ✅ Keine Gebrauchsspuren ✅ Sofort verfügbar Die Rechnung gibt es selbstverständlich mit dazu. Bei Fragen einfach melden. Solange die Anzeige online ist, ist das Handy noch verfügbar.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Überteuert",
+          "Keine Gebrauchsspuren, aber Preis ist zu hoch"
+        ],
+        "positives": [
+          "Originalverpackt",
+          "Versiegelt",
+          "Originalrechnung von Mediamarkt vorhanden"
+        ],
+        "summary": "Neu und versiegelt, aber überhöhter Preis",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-01T12:08:09.070074+00:00"
+    },
+    "53bd0cbcfee328a7f9e09c62fcfec989": {
+      "id": "53bd0cbcfee328a7f9e09c62fcfec989",
+      "title": "Samsung Galaxy Z Fold 7 512gb Mint kein Fold 8",
+      "price": "1.300 €",
+      "speicher": "512 GB",
+      "ort": "47506 Neukirchen-​Vluyn\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "29 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-512gb-mint-kein-fold-8/3473506168-173-1128",
+      "description": "Verkaufe mein Samsung Galaxy z Fold 7 in der Farbe Mint mit 512gb Speicher.\n\nDas Gerät befindet...",
+      "full_description": "Verkaufe mein Samsung Galaxy z Fold 7 in der Farbe Mint mit 512gb Speicher. Das Gerät befindet sich in der Versiegelten Original Verpackung. Das Smartphone muß abgeholt werden Ich biete keinen Versand an. Von Privat keine Garantie Gewährleistung oder Rücknahme sowie nachverhandlungen sind ausgeschlossen.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Kein Versand",
+          "Keine Garantie",
+          "Keine Rücknahme",
+          "Keine Nachverhandlungen"
+        ],
+        "positives": [
+          "Neu in OVP",
+          "Mint-Farbe",
+          "512 GB Speicher"
+        ],
+        "summary": "Neuer Z Fold 7 in OVP, Mint-Farbe, 512 GB, kein Versand",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-01T12:08:09.070370+00:00"
+    },
     "abcc85ebe9fe6619608a00411581fadb": {
       "id": "abcc85ebe9fe6619608a00411581fadb",
       "title": "Samsung Galaxy Z Fold",
@@ -70,7 +138,7 @@
       "speicher": "k.A.",
       "ort": "59067 Hamm\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
       "entfernung": "100 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -351,7 +419,7 @@
     "7ada5c432b317bb598fbeb376d8a7a3f": {
       "id": "7ada5c432b317bb598fbeb376d8a7a3f",
       "title": "Samsung Galaxy Fold 8 Ultra 512gb Neu",
-      "price": "1.750 € VB",
+      "price": "1.700 € VB1.750 €",
       "speicher": "512 GB",
       "ort": "45968 Gladbeck\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "55 km",
@@ -363,20 +431,15 @@
       "description": "Biete hier ein neues Ungeöffnetes Fold 8 Ultra mit Rechnung und Garantie\nHandy wird ab Montag...",
       "full_description": "Biete hier ein neues Ungeöffnetes Fold 8 Ultra mit Rechnung und Garantie Handy wird ab Montag geliefert.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Preis ist zu hoch",
-          "Keine Angaben zu Garantie"
-        ],
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "ℹ️ Preis nicht angegeben",
+        "flags": [],
         "positives": [
-          "Neu und ungeöffnet",
-          "Rechnung und Garantie"
+          "✅ Garantie vorhanden",
+          "✅ Rechnung/Beleg vorhanden"
         ],
-        "summary": "Neues, ungeöffnetes Fold 8 Ultra mit Rechnung und Garantie",
-        "source": "groq"
+        "summary": "✅ Garantie vorhanden · ℹ️ Preis nicht angegeben"
       },
       "first_seen": "2026-07-31T16:51:04.878180+00:00"
     },
@@ -716,72 +779,8 @@
         "source": "groq"
       },
       "first_seen": "2026-07-30T14:25:55.941702+00:00"
-    },
-    "b53b99fba308095b07989adb829513f1": {
-      "id": "b53b99fba308095b07989adb829513f1",
-      "title": "Samsung Galaxy Z Fold8 Ultra 1TB, graphite, neu, m. Rechnung",
-      "price": "2.000 €",
-      "speicher": "1 TB",
-      "ort": "51674 Wiehl\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "80 km",
-      "zustand": "Neu",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-ultra-1tb-graphite-neu-m-rechnung/3472169902-173-1542",
-      "description": "Angeboten wird aus einem Vertragsabschluss ein\n\n*** Samsung Galaxy Z Fold8 Ultra 1TB in der Farbe...",
-      "full_description": "Angeboten wird aus einem Vertragsabschluss ein *** Samsung Galaxy Z Fold8 Ultra 1TB in der Farbe graphite (dunkelgrau) *** neu - versiegelt - OVP - Kopie der Rechnung wird zum Zwecke der Geltendmachung der Garantie/Gewährleistung beim Hersteller mitgeliefert werden. UVP des Herstellers ist 2.799,- € Das Teil soll laut Samsung-/DHL-Mitteilung am 31.07.26 bei mir ankommen. Der Preis gilt so wie er da steht. „Letzte Preis“-Anfragen werden ignoriert und solange der Artikel hier veröffentlicht ist, solange ist er noch verfügbar. Abholung nach Absprache Versand nur bei Vorab-Überweisung, hier über „sicher bezahlen“ und Übernahme der jeweiligen Gebühren oder mittels Paypal (Freunde) und zusätzlich der Versandkosten (wegen des Wertes ist eine separate Versicherung notwendig, daher erhöhte Versandkosten). Der Verkauf erfolgt von Privat - keine Garantie, keine Gewährleistung oder Rücknahme durch mich.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Keine Garantie/Gewährleistung",
-          "Vorab-Überweisung erforderlich"
-        ],
-        "positives": [
-          "Neu und versiegelt",
-          "Rechnung und OVP enthalten",
-          "Hochspezifische Beschreibung"
-        ],
-        "summary": "Neuer Samsung Galaxy Z Fold8 Ultra 1TB für 2.000€, keine Garantie",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-30T14:25:55.942003+00:00"
-    },
-    "ad964ddaf3abcc2a2ab9241d90fac4ee": {
-      "id": "ad964ddaf3abcc2a2ab9241d90fac4ee",
-      "title": "Samsung Galaxy Z Fold 6 - 256GB | 12GB - Navy - WIE NEU",
-      "price": "699 €",
-      "speicher": "256 GB",
-      "ort": "50823 Ehrenfeld\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "44 km",
-      "zustand": "Neu",
-      "model": "Z Fold 6",
-      "angebotstyp": "Angebot",
-      "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-6-256gb-12gb-navy-wie-neu/3472094775-173-981",
-      "description": "WILLKOMMEN BEI ARMAC | AN- & VERKAUF\n\n\n_______________________________\n\n\nPRODUKTDETAILS\n\nModell:...",
-      "full_description": "WILLKOMMEN BEI ARMAC | AN- & VERKAUF _______________________________ PRODUKTDETAILS Modell: Samsung Galaxy Z Fold 6 Speicher: 256GB | 12GB Farbe: Navy Zubehör: USB-Kabel Verpackung: Ja OPTISCHER ZUSTAND WIE NEU _______________________________ HINWEISE ZU UNSEREN GEBRAUCHTEN GERÄTEN ✔️12 Monate Gewährleistung ✔️ Keine Reparaturen, die meisten Geräte befinden sich im Originalzustand. ✔️ Geprüft & voll funktionsfähig _______________________________ Wir schaffen es nicht immer, allen zu antworten. Bei Fragen, Abholungen oder Verkäufen einfach anrufen und direkt klären. _______________________________ ALLGEMEINE INFORMATIONEN Zahlungsmöglichkeit: Nur Barzahlung ❗️ Nur Selbstabholung. Adresse: Venloer Str. 182, 50823 Köln Beim Kauf erhalten Sie von uns eine Quittung. Quittung: Wird nach § 25a UStG (Differenzbesteuerung) ausgestellt - kein MwSt. Ausweis möglich. _______________________________ ÖFFNUNGSZEITEN: Mo - Sa: 10:30 - 18:30 Uhr An Sonn- und Feiertagen: Geschlossen GESCHÄFTSSTELLE | ADRESSE: Venloer Str. 182, 50823 Köln U-BAHN-HALTESTELLE: Piusstraße - Linie 3 und 4 KONTAKT: Tel.: 0221 16910298 _______________________________ Alle genannten Markennamen und Warenzeichen sind Eigentum der jeweiligen Eigentümer und Rechteinhaber. Unser Impressum, Hinweise zur Batterieentsorgung, (GPSR) Hersteller/EU Verantwortliche Person und weitere Informationen erreichen Sie durch einen Klick auf „Rechtliche Angaben“.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "WIE NEU",
-          "12 Monate Gewährleistung",
-          "Keine Reparaturen",
-          "Geprüft & voll funktionsfähig"
-        ],
-        "summary": "Samsung Galaxy Z Fold 6, 256GB, 12GB, Navy, Neu, 699€",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-01T10:07:08.840952+00:00"
     }
   },
-  "last_full_send": "2026-08-01T04:28:40.124802+00:00",
-  "last_run": "2026-08-01T10:07:42.776783+00:00"
+  "last_full_send": "2026-08-01T12:08:40.308114+00:00",
+  "last_run": "2026-08-01T12:08:40.308236+00:00"
 }
