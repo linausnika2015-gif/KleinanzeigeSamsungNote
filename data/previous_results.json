@@ -63,6 +63,39 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "72fd35cedce8833a14fc1c5d12982307": {
+      "id": "72fd35cedce8833a14fc1c5d12982307",
+      "title": "iPhone 14 MacBook Air Kabel Kopfhörer Samsung Galaxy Z Fold sam",
+      "price": "VB",
+      "speicher": "256 GB",
+      "ort": "48167 Angelmodde\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
+      "entfernung": "100 km",
+      "zustand": "k.A.",
+      "model": "Z Fold",
+      "angebotstyp": "Gesuch",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/iphone-14-macbook-air-kabel-kopfhoerer-samsung-galaxy-z-fold-sam/3473223075-173-942",
+      "description": "iPhone 14 256 GB und ein MacBook Air tauschen gegen\nSamsung Galaxy Z Fold. Ich würde noch ein...",
+      "full_description": "iPhone 14 256 GB und ein MacBook Air tauschen gegen Samsung Galaxy Z Fold. Ich würde noch ein Kopfhörer, also Kabel Kopfhörer drauf packen also drei Sachen für eine Handy weil ich finde mein Display ist zu klein Und mein Auto ist leider in Werkstatt also könnten Sie bitte vorbeikommen LG",
+      "assessment": {
+        "category": "Ankauf",
+        "stars": 2,
+        "label": "Neutral",
+        "price_note": "Überteuert",
+        "flags": [
+          "Unklarer Preis",
+          "Unklarer Zustand",
+          "Unklare Verhandlung"
+        ],
+        "positives": [
+          "Vielseitige Angebotsmöglichkeit",
+          "Inklusive Zubehör"
+        ],
+        "summary": "Unklarer Tauschhandel mit übertriebenem Preis",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-01T00:08:51.787223+00:00"
+    },
     "b782f008c78e42c91d2e8bf893e792f3": {
       "id": "b782f008c78e42c91d2e8bf893e792f3",
       "title": "Samsung Galaxy Z Fold8 Ultra 256GB Graphite Neu",
@@ -190,36 +223,6 @@
         "source": "groq"
       },
       "first_seen": "2026-07-31T20:26:06.858453+00:00"
-    },
-    "514a87a2359df434750453a0b612336d": {
-      "id": "514a87a2359df434750453a0b612336d",
-      "title": "Suche Samsung Galaxy Z Fold 8 Neu",
-      "price": "VB",
-      "speicher": "k.A.",
-      "ort": "42899 Remscheid\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "55 km",
-      "zustand": "Neu (OVP)",
-      "model": "Z Fold",
-      "angebotstyp": "Gesuch",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/suche-samsung-galaxy-z-fold-8-neu/3473124005-173-1037",
-      "description": "Hallo\n\nBin auf der Suche nach einem Samsung Galaxy Z Fold 8,\nsollte neu versiegelt und mit Rechnung...",
-      "full_description": "Hallo Bin auf der Suche nach einem Samsung Galaxy Z Fold 8, sollte neu versiegelt und mit Rechnung oder Lieferschein sein. Abholort Sollte Wuppertal, Remscheid Solingen, Schwelm Wermelskirchen bzw in der Nähe sein. Suche sofort eins zum abholen. Farbe bevorzugt schwarz oder chreme. Speicher große ist egal. Für Angebote bitte eine Nachricht senden.",
-      "assessment": {
-        "category": "Ankauf",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Neu",
-          "OVP",
-          "Rechnung oder Lieferschein"
-        ],
-        "summary": "Suche nach neuem Samsung Galaxy Z Fold 8 in Remscheid",
-        "source": "groq"
-      },
-      "first_seen": "2026-07-31T18:40:09.716803+00:00"
     },
     "07c32acf9161e711f02bf5444227982c": {
       "id": "07c32acf9161e711f02bf5444227982c",
@@ -538,7 +541,7 @@
     "a7c3c2e11ef3c0df15e187de88dc83d2": {
       "id": "a7c3c2e11ef3c0df15e187de88dc83d2",
       "title": "Samsung Galaxy Z Fold7 1TB / 16GB Blue Shadow OVP & Zubehör",
-      "price": "1.900 € VB",
+      "price": "1.850 € VB1.900 €",
       "speicher": "1 TB",
       "ort": "51103 Kalk\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "49 km",
@@ -550,20 +553,15 @@
       "description": "Verkaufe mein Samsung Galaxy Z Fold7 in der Farbe Blue Shadow mit der großen 1 TB Speicher-Variante...",
       "full_description": "Verkaufe mein Samsung Galaxy Z Fold7 in der Farbe Blue Shadow mit der großen 1 TB Speicher-Variante und 16 GB RAM. Das Smartphone befindet sich in sehr gepflegtem, nahezu neuwertigem Zustand und funktioniert selbstverständlich einwandfrei. Sehr leichte Schlieren am Frontdisplay. Innen makellos.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Schlieren am Frontdisplay"
-        ],
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "ℹ️ Preis nicht angegeben",
+        "flags": [],
         "positives": [
-          "Gepflegter Zustand",
-          "Einwandfreie Funktion",
-          "Großer Speicher"
+          "✅ Originalverpackung",
+          "✅ Makellos"
         ],
-        "summary": "Gepflegter Z Fold 7 mit 1 TB Speicher und 16 GB RAM für 1.900 €",
-        "source": "groq"
+        "summary": "✅ Originalverpackung · ℹ️ Preis nicht angegeben"
       },
       "first_seen": "2026-07-30T22:14:58.642557+00:00"
     },
@@ -786,5 +784,5 @@
     }
   },
   "last_full_send": "2026-07-31T22:13:02.641132+00:00",
-  "last_run": "2026-07-31T22:13:02.641204+00:00"
+  "last_run": "2026-08-01T00:09:17.761418+00:00"
 }
