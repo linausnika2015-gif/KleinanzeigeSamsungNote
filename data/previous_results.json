@@ -64,6 +64,37 @@
       },
       "first_seen": "2026-06-23T21:04:28.856471+00:00"
     },
+    "0aa5a5aacd5ccdcb8a6618a717bd8803": {
+      "id": "0aa5a5aacd5ccdcb8a6618a717bd8803",
+      "title": "Samsung Galaxy Z Fold 3 512GB Schwarz + Zubehör S Pen",
+      "price": "330 €",
+      "speicher": "512 GB",
+      "ort": "50825 Ehrenfeld\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "42 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold 3",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-3-512gb-schwarz-zubehoer-s-pen/3475040822-173-951",
+      "description": "Hallo, ich biete ein Samsung Galaxy Z Fold 3 mit 512GB Speicher und 12GB RAM in der Farbe Phantom...",
+      "full_description": "Hallo, ich biete ein Samsung Galaxy Z Fold 3 mit 512GB Speicher und 12GB RAM in der Farbe Phantom Black (Schwarz). Das Gerät ist in einem sehr guten gebrauchten Zustand. Beide Displays sind frei von Kratzern. Das Zubehör ist noch versiegelt und unbenutzt. Abholung und Versand möglich. Bei weiteren Fragen einfach melden.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Beworben als 'neu', aber tatsächlicher Zustand ist 'gebraucht'"
+        ],
+        "positives": [
+          "Zubehör (S Pen) inklusive",
+          "Abholung und Versand möglich"
+        ],
+        "summary": "Samsung Galaxy Z Fold 3 512GB Schwarz mit S Pen, gebraucht, günstig",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-02T21:05:33.729890+00:00"
+    },
     "5f8a771d7787a612e8807ce9848985f0": {
       "id": "5f8a771d7787a612e8807ce9848985f0",
       "title": "Samsung Galaxy Z Fold 8 256GB Graphite Neu OVP Rechnung",
@@ -385,37 +416,6 @@
         "source": "groq"
       },
       "first_seen": "2026-08-02T11:24:08.492995+00:00"
-    },
-    "874bd326173748c936b472dddcb7c82e": {
-      "id": "874bd326173748c936b472dddcb7c82e",
-      "title": "Samsung Galaxy Z Fold3 5G – 256 GB – Silber – Lautsprecher defekt",
-      "price": "189 €",
-      "speicher": "256 GB",
-      "ort": "59439 Holzwickede\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "89 km",
-      "zustand": "Gebraucht",
-      "model": "Z Fold 3",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold3-5g-256-gb-silber-lautsprecher-defekt/3474221421-173-1371",
-      "description": "Verkaufe ein Samsung Galaxy Z Fold3 5G mit 256 GB Speicher in der Farbe Silber.\n\nDas Smartphone...",
-      "full_description": "Verkaufe ein Samsung Galaxy Z Fold3 5G mit 256 GB Speicher in der Farbe Silber. Das Smartphone befindet sich optisch in einem sehr guten Zustand und funktioniert bis auf den Lautsprecher einwandfrei. Zustand: * Sehr guter optischer Zustand * Lautsprecher defekt * Ansonsten technisch einwandfrei * Display und Klappmechanismus funktionieren einwandfrei * Den genauen optischen Zustand bitte den Bildern entnehmen. Technische Daten: * Modell: Samsung Galaxy Z Fold3 5G * Speicher: 256 GB * Farbe: Silber * 7,6” Dynamic AMOLED 2X Hauptdisplay * 6,2” Außendisplay * 5G * Triple-Kamera * Fingerabdrucksensor * USB-C Lieferumfang: * Samsung Galaxy Z Fold3 5G * OVP Abholung oder versicherter Versand möglich.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Lautsprecher defekt"
-        ],
-        "positives": [
-          "Sehr guter optischer Zustand",
-          "Display und Klappmechanismus funktionieren einwandfrei"
-        ],
-        "summary": "Gebrauchter Z Fold 3 mit Lautsprecherdefekt, sehr guter Zustand, 256 GB, 189 €",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-02T09:17:09.121624+00:00"
     },
     "2f3d7494f836411c041044c7b8534942": {
       "id": "2f3d7494f836411c041044c7b8534942",
@@ -799,5 +799,5 @@
     }
   },
   "last_full_send": "2026-08-02T19:23:34.169216+00:00",
-  "last_run": "2026-08-02T19:23:34.169295+00:00"
+  "last_run": "2026-08-02T21:06:01.154613+00:00"
 }
