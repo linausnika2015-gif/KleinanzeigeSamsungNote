@@ -501,7 +501,7 @@
     "26b49267c127aac439a240d0698b92cc": {
       "id": "26b49267c127aac439a240d0698b92cc",
       "title": "Samsung Galaxy Z Fold8 512 GB Graphite – Neu / Versiegelt",
-      "price": "1.650 €",
+      "price": "1.600 €1.650 €",
       "speicher": "512 GB",
       "ort": "52066 Aachen-​Mitte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "54 km",
@@ -513,22 +513,17 @@
       "description": "Ich verkaufe ein Samsung Galaxy Z Fold8 mit 512 GB Speicher in der Farbe Graphite.\n\nDetails:\n*...",
       "full_description": "Ich verkaufe ein Samsung Galaxy Z Fold8 mit 512 GB Speicher in der Farbe Graphite. Details: * Speicher: 512 GB * Farbe: Graphite * SIM-Version * Zustand: neu und ungeöffnet und versiegelt * Rechnung: vorhanden * Garantie: Herstellergarantie für zwei Jahre bei Samsung. Das Gerät erhält Updates von Samsung für 7 Jahre lang. Das Gerät funktioniert einwandfrei und wird mit dem vollständigen Originalzubehör verkauft. Besichtigung und Abholung in Aachen möglich. Versand ist nach ebenfalls möglich. Privatverkauf unter Ausschluss von Garantie, Gewährleistung und Rücknahme. Eine gegebenenfalls bestehende Herstellergarantie bleibt davon unberührt.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Privatverkauf ohne Garantie",
-          "Kein Rabatt für Neukäufer"
-        ],
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "ℹ️ Preis nicht angegeben",
+        "flags": [],
         "positives": [
-          "Neu und ungeöffnet",
-          "Versiegelt",
-          "Herstellergarantie für zwei Jahre",
-          "Updates von Samsung für 7 Jahre"
+          "✅ Originalverpackung",
+          "✅ Garantie vorhanden",
+          "✅ Rechnung/Beleg vorhanden",
+          "✅ Makellos"
         ],
-        "summary": "Neu und ungeöffnetes Samsung Galaxy Z Fold8 mit 512 GB Speicher für 1.650 €",
-        "source": "groq"
+        "summary": "✅ Originalverpackung · ℹ️ Preis nicht angegeben"
       },
       "first_seen": "2026-08-03T15:49:16.865311+00:00"
     },
@@ -792,5 +787,5 @@
     }
   },
   "last_full_send": "2026-08-04T03:30:23.269928+00:00",
-  "last_run": "2026-08-04T03:30:23.270009+00:00"
+  "last_run": "2026-08-04T06:36:40.035392+00:00"
 }
