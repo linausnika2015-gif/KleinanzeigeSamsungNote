@@ -1,37 +1,5 @@
 {
   "listings": {
-    "ca37aab08e4d1112407a23a8b12dca0e": {
-      "id": "ca37aab08e4d1112407a23a8b12dca0e",
-      "title": "❌SUCHE ANKAUF Samsung Galaxy S24 S25 S26 Ultra Plus Tab S9 S10 S11  Z Fold Flip 7",
-      "price": "VB",
-      "speicher": "k.A.",
-      "ort": "45964 Gladbeck\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "56 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
-      "angebotstyp": "Gesuch",
-      "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/-suche-ankauf-samsung-galaxy-s24-s25-s26-ultra-plus-tab-s9-s10-s11-z-fold-flip-7/2539140366-173-1803",
-      "description": "HANDY MACBOOK SAMSUNG APPLE ANKAUF- WIR KAUFEN AN !!! Wir kaufen dein Handy, MacBook iPad...",
-      "full_description": "HANDY MACBOOK SAMSUNG APPLE ANKAUF- WIR KAUFEN AN !!! Wir kaufen dein Handy, MacBook iPad Samsung.... Jetzt Sofort Bargeld bei uns !!!!! Wir kaufen Smartphones, MacBooks,Tablets iMac,iPhone, Google Pixel , Samsung und vieles mehr….. Unkompliziert & schnell Wir kaufen auch in höheren Mengen. Stückzahl spielt keine Rolle / Alles anbieten!!! SOFORT BARGELD Ohne Termin / Sofort Bargeldauszahlung Wir Kaufen Gebraucht und Neu !!!! Abholung ebenfalls möglich ( einfach anschreiben oder anrufen) Adresse : Horsterstr 52 Plz : 45964 GLADBECK Telefon: 015736415930 / 02043-273270 Öffnungszeiten: Mo. - Fr. 10 Uhr - 18 Uhr Samstag : 10Uhr - 14Uhr ————————————————————— Bitte melden Sie sich mit dem Modell , welches sie uns verkaufen wollen und Ihrer Preisvorstellung. ——————————————————— Ankauf folgender Geräte: (Wenn Ihr Gerät nicht auf der Liste ist, einfach anschreiben und nachfragen) Apple iPhone 12 / 13 / 14 / 15 in allen Varianten (PRO / MAX / MINI ) In jeder Speichergröße Apple MacBook Pro / Air (M1/ M2 / M1 Pro / M1 Max M3 Max M2 Max) 13‘‘ 14‘‘ 16‘‘ In jeder Speichergrösse Apple iMac ( M1 ) Apple iPad ( alle Varianten anbieten) (2020 / 2021 / 2022) M1 / M2 Apple iPad Pro 5. Gen / 6.Gen 7 Gen Apple iPad Air (ab 4. Gen ) Apple TV Geräte / Apple AirPods / Apple Watch kaufen wir auch an !!! ( bitte nur Neuware bei AirPods) ————————————————- Samsung / Google Geräte Samsung Galaxy S24 / Ultra / S22 Ultra / S22 + Samsung Galaxy Z Flip 6 / Z Fold 6 Samsung Google Pixel 7 / Pixel 7 Pro Tab Geräte ( Tab S8 / Tab S8 + / Tab S8 / S9 Ultra) Galaxy Watch ab 5 / 6 —————————- Sofort Bargeld bei Uns im Shop Abholung auch möglich nach Absprache",
-      "assessment": {
-        "category": "Ankauf",
-        "stars": 2,
-        "label": "Neutral",
-        "price_note": "Sehr günstig",
-        "flags": [
-          "Keine spezifischen Details zum Ankauf von Samsung Galaxy Fold",
-          "Keine Informationen über den Preis"
-        ],
-        "positives": [
-          "Schnelle Bargeldauszahlung",
-          "Keine Terminvereinbarung erforderlich"
-        ],
-        "summary": "Ankauf von verschiedenen Geräten, inklusive Samsung Galaxy Fold, aber ohne spezifische Details",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-07T11:52:52.252373+00:00"
-    },
     "059e4834ca13c620aa1ccbcb1aadd2e2": {
       "id": "059e4834ca13c620aa1ccbcb1aadd2e2",
       "title": "Samsung Galaxy Z Fold8 256GB Graphite",
@@ -64,6 +32,136 @@
         "source": "groq"
       },
       "first_seen": "2026-08-07T17:55:34.439621+00:00"
+    },
+    "ca37aab08e4d1112407a23a8b12dca0e": {
+      "id": "ca37aab08e4d1112407a23a8b12dca0e",
+      "title": "❌SUCHE ANKAUF Samsung Galaxy S24 S25 S26 Ultra Plus Tab S9 S10 S11  Z Fold Flip 7",
+      "price": "VB",
+      "speicher": "k.A.",
+      "ort": "45964 Gladbeck\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "56 km",
+      "zustand": "k.A.",
+      "model": "Z Fold",
+      "angebotstyp": "Gesuch",
+      "anbieter": "Gewerblich",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/-suche-ankauf-samsung-galaxy-s24-s25-s26-ultra-plus-tab-s9-s10-s11-z-fold-flip-7/2539140366-173-1803",
+      "description": "HANDY MACBOOK SAMSUNG APPLE ANKAUF- WIR KAUFEN AN !!! Wir kaufen dein Handy, MacBook iPad...",
+      "full_description": "HANDY MACBOOK SAMSUNG APPLE ANKAUF- WIR KAUFEN AN !!! Wir kaufen dein Handy, MacBook iPad Samsung.... Jetzt Sofort Bargeld bei uns !!!!! Wir kaufen Smartphones, MacBooks,Tablets iMac,iPhone, Google Pixel , Samsung und vieles mehr….. Unkompliziert & schnell Wir kaufen auch in höheren Mengen. Stückzahl spielt keine Rolle / Alles anbieten!!! SOFORT BARGELD Ohne Termin / Sofort Bargeldauszahlung Wir Kaufen Gebraucht und Neu !!!! Abholung ebenfalls möglich ( einfach anschreiben oder anrufen) Adresse : Horsterstr 52 Plz : 45964 GLADBECK Telefon: 015736415930 / 02043-273270 Öffnungszeiten: Mo. - Fr. 10 Uhr - 18 Uhr Samstag : 10Uhr - 14Uhr ————————————————————— Bitte melden Sie sich mit dem Modell , welches sie uns verkaufen wollen und Ihrer Preisvorstellung. ——————————————————— Ankauf folgender Geräte: (Wenn Ihr Gerät nicht auf der Liste ist, einfach anschreiben und nachfragen) Apple iPhone 12 / 13 / 14 / 15 in allen Varianten (PRO / MAX / MINI ) In jeder Speichergröße Apple MacBook Pro / Air (M1/ M2 / M1 Pro / M1 Max M3 Max M2 Max) 13‘‘ 14‘‘ 16‘‘ In jeder Speichergrösse Apple iMac ( M1 ) Apple iPad ( alle Varianten anbieten) (2020 / 2021 / 2022) M1 / M2 Apple iPad Pro 5. Gen / 6.Gen 7 Gen Apple iPad Air (ab 4. Gen ) Apple TV Geräte / Apple AirPods / Apple Watch kaufen wir auch an !!! ( bitte nur Neuware bei AirPods) ————————————————- Samsung / Google Geräte Samsung Galaxy S24 / Ultra / S22 Ultra / S22 + Samsung Galaxy Z Flip 6 / Z Fold 6 Samsung Google Pixel 7 / Pixel 7 Pro Tab Geräte ( Tab S8 / Tab S8 + / Tab S8 / S9 Ultra) Galaxy Watch ab 5 / 6 —————————- Sofort Bargeld bei Uns im Shop Abholung auch möglich nach Absprache",
+      "assessment": {
+        "category": "Ankauf",
+        "stars": 2,
+        "label": "Neutral",
+        "price_note": "Sehr günstig",
+        "flags": [
+          "Keine spezifischen Details zum Ankauf von Samsung Galaxy Fold",
+          "Keine Informationen über den Preis"
+        ],
+        "positives": [
+          "Schnelle Bargeldauszahlung",
+          "Keine Terminvereinbarung erforderlich"
+        ],
+        "summary": "Ankauf von verschiedenen Geräten, inklusive Samsung Galaxy Fold, aber ohne spezifische Details",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-07T11:52:52.252373+00:00"
+    },
+    "d625429fe1edd6ba75072d036339f98b": {
+      "id": "d625429fe1edd6ba75072d036339f98b",
+      "title": "Samsung Galaxy z Fold 8 Ultra 512gb Neu",
+      "price": "1.650 € VB",
+      "speicher": "512 GB",
+      "ort": "45968 Gladbeck\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "55 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-ultra-512gb-neu/3479006651-173-1801",
+      "description": "Biete hier ein neued ungeöffneted Fold 8 ultra mit 512gb speicher\nRechnung wied mitgegeben.\n\nAm...",
+      "full_description": "Biete hier ein neued ungeöffneted Fold 8 ultra mit 512gb speicher Rechnung wied mitgegeben. Am besten Abholen",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Neuware-Preis",
+          "Keine Angabe zu Gebrauch"
+        ],
+        "positives": [
+          "Neuware",
+          "OVP",
+          "Rechnung beigelegt"
+        ],
+        "summary": "Neuware Samsung Galaxy Z Fold 8 Ultra mit 512 GB für 1.650 €",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-07T20:52:08.331804+00:00"
+    },
+    "31677abc41ccbb507d9b8d44169cee43": {
+      "id": "31677abc41ccbb507d9b8d44169cee43",
+      "title": "Samsung Galaxy Z Fold8 256GB Graphite",
+      "price": "1.400 €",
+      "speicher": "256 GB",
+      "ort": "53844 Troisdorf\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "65 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-256gb-graphite/3478971103-173-1798",
+      "description": "Das Gerät ist originalverpackt und versiegelt.\nFarbe: Graphite\nSpeichergröße: 256GB",
+      "full_description": "Das GerÃ¤t ist originalverpackt und versiegelt. Farbe: Graphite SpeichergrÃ¶Ãe: 256GB",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Sehr hoher Preis",
+          "Keine Angaben zu der Seriennummer"
+        ],
+        "positives": [
+          "Originalverpackt und versiegelt",
+          "Neuware"
+        ],
+        "summary": "Neues Samsung Galaxy Z Fold8 256GB Graphite, OVP, sehr hoher Preis",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-07T20:52:08.332106+00:00"
+    },
+    "a5299c3dd128eb6068da8d84c2d150ac": {
+      "id": "a5299c3dd128eb6068da8d84c2d150ac",
+      "title": "Samsung Galaxy Z Fold 5 (1TB)- Teildefekt",
+      "price": "370 € VB",
+      "speicher": "1 TB",
+      "ort": "46045 Oberhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "42 km",
+      "zustand": "Gebraucht",
+      "model": "Z Fold 5",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-5-1tb-teildefekt/3478968643-173-1286",
+      "description": "Ich verkaufe hier mein Samsung Galaxy Z Fold 5 mit großzügigen 1TB Speicherplatz. Das Gerät wird...",
+      "full_description": "Ich verkaufe hier mein Samsung Galaxy Z Fold 5 mit groÃzÃ¼gigen 1TB Speicherplatz. Das GerÃ¤t wird ausdrÃ¼cklich als defekt angeboten, da das Innendisplay nicht mehr funktioniert und auch der Fingerabdrucksensor ohne Funktion ist. Das AuÃendisplay ist jedoch noch nutzbar. - Modell: Samsung Galaxy Z Fold 5 - SpeicherkapazitÃ¤t: 1TB - ÃuÃeres Display voll funktionsfÃ¤hig - Innendisplay defekt - Fingerabdrucksensor defekt Das Smartphone weist aufgrund der genannten MÃ¤ngel deutliche EinschrÃ¤nkungen in der Nutzung auf und eignet sich daher ideal als Ersatzteilspender oder fÃ¼r Bastler, die das GerÃ¤t reparieren mÃ¶chten. Schreib mir einfach, wenn du Fragen hast.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "Günstig",
+        "flags": [
+          "Teildefekt",
+          "Innendisplay nicht funktioniert",
+          "Fingerabdrucksensor defekt"
+        ],
+        "positives": [
+          "1TB Speicher",
+          "Außendisplay voll funktionsfähig"
+        ],
+        "summary": "Gebrauchtes Z Fold 5 mit Teildefekt, ideal für Ersatzteilspender oder Bastler",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-07T20:52:08.332408+00:00"
     },
     "e675dff42962bc301de9e00a5bb45bd7": {
       "id": "e675dff42962bc301de9e00a5bb45bd7",
@@ -101,10 +199,10 @@
       "id": "a2c966efed73d9e19011ed15a6e554cf",
       "title": "Samsung Galaxy Z Fold 7 - Top Zustand",
       "price": "900 € VB",
-      "speicher": "256 GB",
+      "speicher": "k.A.",
       "ort": "47445 Moers\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "34 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -739,102 +837,8 @@
         "source": "groq"
       },
       "first_seen": "2026-08-07T11:02:15.650923+00:00"
-    },
-    "ed4ee15f4d7465e2ecdb79a0decf910f": {
-      "id": "ed4ee15f4d7465e2ecdb79a0decf910f",
-      "title": "Samsung Galaxy Z Fold5 Gray 512GB Neu",
-      "price": "589 € VB",
-      "speicher": "512 GB",
-      "ort": "40789 Monheim am Rhein\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "34 km",
-      "zustand": "Neu",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold5-gray-512gb-neu/3478414404-173-1116",
-      "description": "Ich verkaufe hier ein Samsung Galaxy Z Fold5 in der Farbe Gray mit 512 GB Speicher.\n\nIch hatte zwei...",
-      "full_description": "Ich verkaufe hier ein Samsung Galaxy Z Fold5 in der Farbe Gray mit 512 GB Speicher. Ich hatte zwei Z Fold5 über Kleinanzeigen gekauft und habe mich entschieden, das andere Gerät mit mehr Speicherplatz zu behalten. Deshalb verkaufe ich dieses wieder. Das Smartphone ist komplett neu. Laut dem Vorbesitzer wurde es gar nicht benutzt, sondern lediglich als Ersatzhandy aufbewahrt. Es befindet sich daher in einem einwandfreien, neuwertigen Zustand und wird in der Originalverpackung verkauft. Details: Samsung Galaxy Z Fold5 Farbe: Gray 512 GB Speicher Originalverpackung Einwandfreier Zustand Voll funktionsfähig Bei Fragen oder Interesse kannst du mir gerne schreiben. Privatverkauf: Der Verkauf erfolgt unter Ausschluss jeglicher Sachmängelhaftung. Keine Rücknahme, keine Garantie und keine Gewährleistung.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Neuware",
-          "Originalverpackung",
-          "Einwandfreier Zustand",
-          "Voll funktionsfähig"
-        ],
-        "summary": "Neuware Samsung Galaxy Z Fold5 in Gray mit 512 GB Speicher",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-07T09:12:37.905943+00:00"
-    },
-    "c90cd37a52d5d3e5064522d4fb845035": {
-      "id": "c90cd37a52d5d3e5064522d4fb845035",
-      "title": "Suche! Samsung Galaxy Fold 8 Ultra 1 TB cream",
-      "price": "1.700 €",
-      "speicher": "1 TB",
-      "ort": "52223 Stolberg (Rhld)\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "52 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
-      "angebotstyp": "Gesuch",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/suche-samsung-galaxy-fold-8-ultra-1-tb-cream/3478369923-173-1732",
-      "description": "Ich suche ein Fold 8 Ultra in cream mit 1TB Speicher. Nur Abholung gegen Barzahlung. Bitte nur...",
-      "full_description": "Ich suche ein Fold 8 Ultra in cream mit 1TB Speicher. Nur Abholung gegen Barzahlung. Bitte nur versiegelt und ungeöffnet mit Nachweis über Herkunft (Rechnung o.ä.). Ich bin bereit 1700 Euro zu zahlen!",
-      "assessment": {
-        "category": "Ankauf",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Barzahlung",
-          "Nur Abholung",
-          "Versiegelt und ungeöffnet",
-          "Nachweis über Herkunft"
-        ],
-        "summary": "Suche nach neuem Samsung Galaxy Fold 8 Ultra in cream mit 1TB Speicher für 1700 Euro",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-07T09:12:37.906659+00:00"
-    },
-    "052e7160661ae6b8e78a785f3d58454f": {
-      "id": "052e7160661ae6b8e78a785f3d58454f",
-      "title": "Samsung Galaxy Z Fold 8 Graphite NEU VERSIEGELT",
-      "price": "1.400 €",
-      "speicher": "k.A.",
-      "ort": "45896 Gelsenkirchen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "61 km",
-      "zustand": "Neu (OVP)",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-graphite-neu-versiegelt/3478333004-173-1002",
-      "description": "Samsung Galaxy Z Fold 8 Graphite\nNEU VERSIEGELT\n\nVersicherter Versand bei Vorkasse möglich\nKann...",
-      "full_description": "Samsung Galaxy Z Fold 8 Graphite NEU VERSIEGELT Versicherter Versand bei Vorkasse möglich Kann auch gerne abgeholt werden Privatverkauf. Garantie über Herstellen, bei Anmeldung über die Samsung Members App",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Preis ist zu hoch",
-          "Keine Spezifikationen zum Speicher"
-        ],
-        "positives": [
-          "Neu und versiegelt",
-          "Garantie über Hersteller"
-        ],
-        "summary": "Neues Samsung Galaxy Z Fold 8 Graphite für 1.400 €, aber Preis ist zu hoch",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-07T07:36:48.737819+00:00"
     }
   },
   "last_full_send": "2026-08-07T15:04:23.223987+00:00",
-  "last_run": "2026-08-07T19:09:47.110932+00:00"
+  "last_run": "2026-08-07T20:52:43.635148+00:00"
 }
