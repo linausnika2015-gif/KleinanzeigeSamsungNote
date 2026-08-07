@@ -1,35 +1,37 @@
 {
   "listings": {
-    "8d571203fd9c7c78192606414eaa3b91": {
-      "id": "8d571203fd9c7c78192606414eaa3b91",
-      "title": "3 TOP HANDY-ANGEBOTE FÜR DEINE SUCHE. EXPERTENAUSWAHL. Für Handy: iPhone 11 12 13 14 15 16 17 Pro Max | Samsung Galaxy S23 S24 S25 S26 Ultra Plus Z Flip Fold FE | Google Pixel 8 9 10 Pro Xiaomi 14 15",
-      "price": "3 €",
-      "speicher": "k.A.",
-      "ort": "53757 Sankt Augustin +  Kommt zu dir\n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "200 km",
-      "zustand": "k.A.",
+    "059e4834ca13c620aa1ccbcb1aadd2e2": {
+      "id": "059e4834ca13c620aa1ccbcb1aadd2e2",
+      "title": "Samsung Galaxy Z Fold8 256GB Graphite",
+      "price": "1.500 €",
+      "speicher": "256 GB",
+      "ort": "58739 Wickede (Ruhr)\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
+      "entfernung": "100 km",
+      "zustand": "Neu (OVP)",
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/3-top-handy-angebote-fuer-deine-suche-expertenauswahl-fuer-handy-iphone-11-12-13-14-15-16-17-pro-max-samsung-galaxy-s23-s24-s25-s26-ultra-plus-z-flip-fold-fe-google-pixel-8-9-10-pro-xiaomi-14-15/3476425555-298-1861",
-      "description": "Erhalte 3 Top-Handy-Angebote für deine Suche.\n\nExpertenauswahl der besten Angebote für dich\n\nSo...",
-      "full_description": "# **Erhalte 3 Top-Handy-Angebote fÃ¼r deine Suche.** Expertenauswahl der besten Angebote fÃ¼r dich **So funktioniert es:** **1) Anfrage:** Schreib mir hier, welches Handy du suchst: â Modell und Budget (falls du noch kein Modell ausgewÃ¤hlt hast â Marke und Budget) â Falls gewÃ¼nscht: Farbe, SpeichergrÃ¶Ãe und weitere WÃ¼nsche **2) Expertenauswahl:** Ich analysiere Kleinanzeigen-Angebote und wÃ¤hle die 3 besten Angebote nach deinen Kriterien aus **3) Ergebnis:** Innerhalb weniger Stunden erhÃ¤ltst du 3 Top-Handy-Angebote auf Kleinanzeigen **4) Bezahlung:** Nach Erhalt der 3 Top-Handy-Angebote bezahlst du 3 â¬ (PayPal oder BankÃ¼berweisung) Ich heiÃe Alex. Ich analysiere Kleinanzeigen-Angebote und erstelle eine Expertenauswahl der besten Angebote anhand der individuellen Anforderungen meiner Kunden. Dieses Angebot ist nicht mit Kleinanzeigen verbunden und wird von Kleinanzeigen weder unterstÃ¼tzt noch autorisiert. Apple, iPhone, Samsung, Galaxy, Google, Pixel, Xiaomi und Kleinanzeigen sind Marken ihrer jeweiligen Inhaber. ZusÃ¤tzlich: Vor-Ort-Beratung auf Anfrage.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-256gb-graphite/3476904183-173-1448",
+      "description": "Ich biete hier ein Samsung Galaxy Z Fold8 in der Farbe Graphite an. Das Gerät verfügt über einen...",
+      "full_description": "Ich biete hier ein Samsung Galaxy Z Fold8 in der Farbe Graphite an. Das Gerät verfügt über einen Speicher von 256GB und kommt in der Originalverpackung. - Modell: Samsung Galaxy Z Fold8 - Speicherkapazität: 256GB - Farbe: Graphite - Inklusive Originalverpackung Das Smartphone ist ein leistungsstarkes Foldable und bietet ein innovatives Display-Erlebnis. Es befindet sich in einem einwandfreien Zustand, da es sich um ein unbenutztes Gerät handelt. Kein Versand und kein Paypal. Schreib mir gerne, wenn du Fragen zum Gerät hast.",
       "assessment": {
-        "category": "Sonstiges",
-        "stars": 1,
-        "label": "Meiden",
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
         "price_note": "Überteuert",
         "flags": [
-          "Kein spezifisches Gerät genannt",
-          "Unklarer Preis"
+          "Kein Versand",
+          "Kein Paypal"
         ],
         "positives": [
-          "Vor-Ort-Beratung auf Anfrage"
+          "Neu",
+          "OVP",
+          "Einwandfreier Zustand"
         ],
-        "summary": "Kein spezifisches Gerät angeboten, sondern eine Dienstleistung",
+        "summary": "Neues Samsung Galaxy Z Fold8 in OVP für 1.500€",
         "source": "groq"
       },
-      "first_seen": "2026-08-07T03:56:55.782563+00:00"
+      "first_seen": "2026-08-07T07:36:48.737346+00:00"
     },
     "ca37aab08e4d1112407a23a8b12dca0e": {
       "id": "ca37aab08e4d1112407a23a8b12dca0e",
@@ -62,6 +64,38 @@
         "source": "groq"
       },
       "first_seen": "2026-08-06T09:45:57.456439+00:00"
+    },
+    "052e7160661ae6b8e78a785f3d58454f": {
+      "id": "052e7160661ae6b8e78a785f3d58454f",
+      "title": "Samsung Galaxy Z Fold 8 Graphite NEU VERSIEGELT",
+      "price": "1.400 €",
+      "speicher": "k.A.",
+      "ort": "45896 Gelsenkirchen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "61 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-graphite-neu-versiegelt/3478333004-173-1002",
+      "description": "Samsung Galaxy Z Fold 8 Graphite\nNEU VERSIEGELT\n\nVersicherter Versand bei Vorkasse möglich\nKann...",
+      "full_description": "Samsung Galaxy Z Fold 8 Graphite NEU VERSIEGELT Versicherter Versand bei Vorkasse möglich Kann auch gerne abgeholt werden Privatverkauf. Garantie über Herstellen, bei Anmeldung über die Samsung Members App",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Preis ist zu hoch",
+          "Keine Spezifikationen zum Speicher"
+        ],
+        "positives": [
+          "Neu und versiegelt",
+          "Garantie über Hersteller"
+        ],
+        "summary": "Neues Samsung Galaxy Z Fold 8 Graphite für 1.400 €, aber Preis ist zu hoch",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-07T07:36:48.737819+00:00"
     },
     "8c9837f0bb1e5fefab5e2c940f1babbf": {
       "id": "8c9837f0bb1e5fefab5e2c940f1babbf",
@@ -828,41 +862,8 @@
         "source": "groq"
       },
       "first_seen": "2026-08-06T15:22:59.818346+00:00"
-    },
-    "8407763bdbf99993a0aee408b221d89c": {
-      "id": "8407763bdbf99993a0aee408b221d89c",
-      "title": "Samsung Galaxy Z Fold 8 Ultra 256GB Graphite Neu & OVP",
-      "price": "VB",
-      "speicher": "256 GB",
-      "ort": "45879 Gelsenkirchen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "57 km",
-      "zustand": "Neu (OVP)",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-ultra-256gb-graphite-neu-ovp/3477756590-173-1013",
-      "description": "Ich biete hier ein brandneues Samsung Galaxy Z Fold 8 Ultra an. Es ist noch originalverpackt und...",
-      "full_description": "Ich biete hier ein brandneues Samsung Galaxy Z Fold 8 Ultra an. Es ist noch originalverpackt und wurde nicht geöffnet. Dieses High-End-Smartphone kommt in der eleganten Farbe Graphite und bietet dir ein beeindruckendes Falterlebnis mit viel Speicherplatz. * Modell: Samsung Galaxy Z Fold 8 Ultra * Speicher: 256 GB * Farbe: Graphite * Zustand: Nagelneu und originalverpackt Das Gerät kommt mit Rechnung und voller Garantie, sodass du auf der sicheren Seite bist. Es ist perfekt für alle, die ein leistungsstarkes und innovatives Smartphone suchen. Bei Fragen melde dich gerne. Nur Abholung möglich.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Nur Abholung möglich",
-          "Keine Versandmöglichkeit"
-        ],
-        "positives": [
-          "Nagelneu und originalverpackt",
-          "Voller Garantie",
-          "Rechnung beiliegend"
-        ],
-        "summary": "Brandneues Samsung Galaxy Z Fold 8 Ultra, Graphite, 256 GB, OVP, nur Abholung",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-06T12:09:59.164696+00:00"
     }
   },
-  "last_full_send": "2026-08-07T00:12:16.064909+00:00",
-  "last_run": "2026-08-07T05:47:35.604708+00:00"
+  "last_full_send": "2026-08-07T07:37:25.814140+00:00",
+  "last_run": "2026-08-07T07:37:25.814230+00:00"
 }
