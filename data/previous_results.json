@@ -32,38 +32,99 @@
       },
       "first_seen": "2026-08-08T11:37:01.459765+00:00"
     },
-    "059e4834ca13c620aa1ccbcb1aadd2e2": {
-      "id": "059e4834ca13c620aa1ccbcb1aadd2e2",
-      "title": "Samsung Galaxy Z Fold8 256GB Graphite",
-      "price": "1.500 €",
-      "speicher": "256 GB",
-      "ort": "58739 Wickede (Ruhr)\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
-      "entfernung": "100 km",
-      "zustand": "Neu (OVP)",
+    "afe0330623314263274d3a11c7da3300": {
+      "id": "afe0330623314263274d3a11c7da3300",
+      "title": "HANDY-ANGEBOT PRÜFEN. FACHKUNDIG. SOFORT. | Für Smartphone: iPhone 11 12 13 14 15 16 17 Pro Max | Samsung Galaxy S23 S24 S25 S26 Ultra Plus Z Flip Fold FE | Google Pixel 8 9 10 Pro | Xiaomi 13 14 15",
+      "price": "3 €",
+      "speicher": "k.A.",
+      "ort": "53757 Sankt Augustin +  Kommt zu dir\n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "200 km",
+      "zustand": "k.A.",
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-256gb-graphite/3476904183-173-1448",
-      "description": "Ich biete hier ein Samsung Galaxy Z Fold8 in der Farbe Graphite an. Das Gerät verfügt über einen...",
-      "full_description": "Ich biete hier ein Samsung Galaxy Z Fold8 in der Farbe Graphite an. Das Gerät verfügt über einen Speicher von 256GB und kommt in der Originalverpackung. - Modell: Samsung Galaxy Z Fold8 - Speicherkapazität: 256GB - Farbe: Graphite - Inklusive Originalverpackung Das Smartphone ist ein leistungsstarkes Foldable und bietet ein innovatives Display-Erlebnis. Es befindet sich in einem einwandfreien Zustand, da es sich um ein unbenutztes Gerät handelt. Kein Versand und kein Paypal. Schreib mir gerne, wenn du Fragen zum Gerät hast.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/handy-angebot-pruefen-fachkundig-sofort-fuer-smartphone-iphone-11-12-13-14-15-16-17-pro-max-samsung-galaxy-s23-s24-s25-s26-ultra-plus-z-flip-fold-fe-google-pixel-8-9-10-pro-xiaomi-13-14-15/3476425555-298-1861",
+      "description": "ERHALTE EINE FACHKUNDIGE PRÜFUNG EINES HANDY-ANGEBOTS VOR DEM KAUF\n\n⚡ NUR 3 € – BIS ZU 2 ANGEBOTE...",
+      "full_description": "# ERHALTE EINE FACHKUNDIGE PRÜFUNG EINES HANDY-ANGEBOTS VOR DEM KAUF ⚡ **NUR 3 €** – BIS ZU 2 ANGEBOTE PRÜFEN LASSEN **SO FUNKTIONIERT ES:** **1) ANFRAGE** — Senden Sie mir den Link zu der Anzeige, die Sie prüfen lassen möchten, oder die ID dieser Anzeige (sie befindet sich unten). **2) FACHKUNDIGE PRÜFUNG** — Ich beginne sofort mit der Prüfung dieses Handy-Angebots: ~ Mehrstufige Prüfung der Anzeige und des Verkäufers auf mögliche Risiken (Betrug, fremde Fotos, Unstimmigkeiten usw.) ~ Prüfung der verfügbaren technischen Daten und detaillierte Analyse der Fotos (Unstimmigkeiten, nicht angegebene Schäden usw.) ~ Analyse des Preises und Möglichkeit der Zahlung mit Käuferschutz (In der Regel innerhalb von 30 Min.). **3) ERGEBNIS — SIE ERHALTEN:** ✔️ Kaufempfehlung: Ja oder Nein; ✔️ erkannte Risiken; ✔️ was vor dem Kauf zusätzlich geklärt werden sollte; ✔️ empfohlene Zahlungsmethoden (Versand). **4) BEZAHLUNG** — Nach Erhalt des Prüfergebnisses bezahlen Sie 3 € (PayPal oder Banküberweisung). **Ich heiße Alex**. Ich führe fachkundige Prüfungen von Handy-Angeboten vor dem Kauf durch und analysiere sie auf mögliche Risiken, technische Unstimmigkeiten und weitere relevante Punkte. Dieses Angebot ist nicht mit Kleinanzeigen verbunden und wird von Kleinanzeigen weder unterstützt noch autorisiert. Apple, iPhone, Samsung, Galaxy, Google, Pixel, Xiaomi und Kleinanzeigen sind Marken ihrer jeweiligen Inhaber. Zusätzlich: Vor-Ort-Beratung auf Anfrage.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
+        "category": "Sonstiges",
+        "stars": 2,
+        "label": "Neutral",
+        "price_note": "Sehr günstig",
         "flags": [
-          "Kein Versand",
-          "Kein Paypal"
+          "Keine Informationen über das angebotene Gerät",
+          "Unklare Prüfungsmethode"
         ],
         "positives": [
-          "Neu",
-          "OVP",
-          "Einwandfreier Zustand"
+          "Fachkundige Prüfung vor dem Kauf möglich"
         ],
-        "summary": "Neues Samsung Galaxy Z Fold8 in OVP für 1.500 €",
+        "summary": "Fachkundige Prüfung von Handy-Angeboten für 3 €",
         "source": "groq"
       },
-      "first_seen": "2026-08-08T14:42:15.492427+00:00"
+      "first_seen": "2026-08-08T15:38:40.360217+00:00"
+    },
+    "6c61613ad1fc89f2cf6fdf9d8758b830": {
+      "id": "6c61613ad1fc89f2cf6fdf9d8758b830",
+      "title": "Samsung Galaxy Z Fold8 Ultra + Galaxy Watch9 + Galaxy Buds4 Pro",
+      "price": "2.700 €",
+      "speicher": "k.A.",
+      "ort": "47057 Duisburg-​Mitte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "35 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-ultra-galaxy-watch9-galaxy-buds4-pro/3479636385-173-2149",
+      "description": "Samsung Galaxy Z Fold8 Ultra\n⌚ Samsung Galaxy Watch9\nSamsung Galaxy Buds4 Pro\n\nZum Verkauf steht...",
+      "full_description": "Samsung Galaxy Z Fold8 Ultra ⌚ Samsung Galaxy Watch9 Samsung Galaxy Buds4 Pro Zum Verkauf steht ein hochwertiges Samsung-Premium-Paket, bestehend aus drei aktuellen Samsung-Produkten. Einzelpreise / Gesamtwert Galaxy Z Fold8 Ultra: 2.799 € ⌚ Galaxy Watch9: 439 € Galaxy Buds4 Pro: 249 € ➡️ Gesamtwert: 3.487 € Mein Paketpreis für alle drei zusammen: nur 2.700 €! Du sparst damit 787 € gegenüber dem Gesamtwert! Im Paket enthalten: ✅ Samsung Galaxy Z Fold8 Ultra ✅ Samsung Galaxy Watch9 ✅ Samsung Galaxy Buds4 Pro ✅ Originalverpackungen wie auf den Fotos ⭐ Perfekt für Samsung-Fans oder als hochwertiges Komplettpaket. Bitte beachten: Die Fotos zeigen die angebotenen Artikel und Verpackungen. Bei Interesse gerne melden. Abholung möglich Bei ernsthaftem Interesse gerne schreiben. Bitte keine unrealistischen Preisangebote.",
+      "assessment": {
+        "category": "Zubehör",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Sehr günstig",
+        "flags": [],
+        "positives": [
+          "Günstiges Paketpreis",
+          "Alle drei Artikel in Originalverpackung",
+          "Perfekt für Samsung-Fans"
+        ],
+        "summary": "Günstiges Paket mit Z Fold8 Ultra, Watch9 und Buds4 Pro in Originalverpackung",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-08T15:38:40.360546+00:00"
+    },
+    "87da810a822a4c9f137c182e03a5446d": {
+      "id": "87da810a822a4c9f137c182e03a5446d",
+      "title": "Samsung Galaxy Z Fold 5 - Inneres Display defekt",
+      "price": "130 €",
+      "speicher": "256 GB",
+      "ort": "42899 Remscheid\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "55 km",
+      "zustand": "Gebraucht",
+      "model": "Z Fold 5",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-5-inneres-display-defekt/3479594741-173-1037",
+      "description": "Ich biete hier mein Samsung Galaxy Z Fold 5 an. Das innere Display ist leider defekt, aber das...",
+      "full_description": "Ich biete hier mein Samsung Galaxy Z Fold 5 an. Das innere Display ist leider defekt, aber das äußere Display funktioniert einwandfrei und hat noch die Displayschutzfolie. Es ist eine gute Gelegenheit für Bastler oder als Ersatzteilspender. Eine Schutzhülle ist ebenfalls dabei. * Marke: Samsung * Modell: Galaxy Z Fold 5 * Farbe: Schwarz * Speicher: 256 GB * Äußeres Display voll funktionsfähig * Displayschutzfolie vorhanden Die seitlichen Kanten des Geräts weisen einige Kratzer auf. Ansonsten ist das Handy in einem gebrauchten Zustand. Schreib mir einfach, wenn du Fragen hast!",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "Günstig",
+        "flags": [
+          "Defektes Inneres Display",
+          "Kratzer an den seitlichen Kanten"
+        ],
+        "positives": [
+          "Äußeres Display funktioniert einwandfrei",
+          "Displayschutzfolie vorhanden",
+          "Schutzhülle dabei"
+        ],
+        "summary": "Gebrauchtes Z Fold 5 mit defektem Inneren Display und Kratzern an den Kanten für 130 €",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-08T15:38:40.360861+00:00"
     },
     "e208cd4a16990395c26713bbd500fae0": {
       "id": "e208cd4a16990395c26713bbd500fae0",
@@ -105,7 +166,7 @@
       "speicher": "256 GB",
       "ort": "47229 Rheinhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "28 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -324,38 +385,6 @@
       },
       "first_seen": "2026-08-08T13:06:10.781085+00:00"
     },
-    "25313ed590369a76eb6cea4ed7b1d5ba": {
-      "id": "25313ed590369a76eb6cea4ed7b1d5ba",
-      "title": "Samsung Galaxy Z Fold5 SM-F946B - 512GB - Icy Blue (Ohne Simlock)",
-      "price": "400 €",
-      "speicher": "512 GB",
-      "ort": "51147 Porz\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "60 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold5-sm-f946b-512gb-icy-blue-ohne-simlock-/3479413308-173-961",
-      "description": "Ich verkaufe hier ein außergewöhnliches Stück Technik für alle, die mit ihrem Smartphone nicht nur...",
-      "full_description": "Ich verkaufe hier ein außergewöhnliches Stück Technik für alle, die mit ihrem Smartphone nicht nur kommunizieren, sondern auch ihre Leidenschaft für Foto- und Videografie ausleben möchten. Das Samsung Galaxy Z Fold 5 überzeugt mit einer hervorragenden Kamera, schnellem und präzisem Autofokus sowie beeindruckender Low-Light-Performance. Durch das große faltbare Innendisplay behält man beim Fotografieren und Filmen stets den perfekten Überblick über die Aufnahme. Der Zustand ist sehr gut, mit nur geringen Gebrauchsspuren. Auf dem äußeren Display befinden sich ein paar oberflächliche, kaum sichtbare Kratzer, das innere Display ist nahezu wie neu. Das Gerät ist technisch voll funktionsfähig. Zum Lieferumfang gehören das Samsung Galaxy Z Fold 5 mit 512 GB Speicher in der Farbe Icy Blue sowie die Originalverpackung. Zusätzlich lege ich kostenloses Zubehör bei: den Samsung S Pen Fold Edition (EJ-PF946) für das Galaxy Z Fold 5 und ein schwarzes Case mit Stifthalterung. Bei Fragen einfach melden. Dies ist ein Privatverkauf – keine Garantie.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Sehr guter Zustand",
-          "Originalverpackung",
-          "Kostenloses Zubehör (S Pen und Case)",
-          "Faltbares Innendisplay",
-          "Hervorragende Kamera"
-        ],
-        "summary": "Samsung Galaxy Z Fold 5 in gutem Zustand mit Zubehör, 512 GB Speicher, Icy Blue Farbe",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-08T13:06:10.781407+00:00"
-    },
     "ca37aab08e4d1112407a23a8b12dca0e": {
       "id": "ca37aab08e4d1112407a23a8b12dca0e",
       "title": "❌SUCHE ANKAUF Samsung Galaxy S24 S25 S26 Ultra Plus Tab S9 S10 S11  Z Fold Flip 7",
@@ -453,20 +482,20 @@
       },
       "first_seen": "2026-08-08T10:44:45.686289+00:00"
     },
-    "549b47ba43426256117f9f63f8f1b58f": {
-      "id": "549b47ba43426256117f9f63f8f1b58f",
-      "title": "Samsung Galaxy Z Fold5 512 GB Phantom Black",
+    "1ec374a90c6544064deea60b4bd482c0": {
+      "id": "1ec374a90c6544064deea60b4bd482c0",
+      "title": "Samsung Galaxy Z Fold5 256 GB Phantom Black",
       "price": "550 € VB",
-      "speicher": "512 GB",
+      "speicher": "256 GB",
       "ort": "59227 Ahlen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
       "entfernung": "100 km",
-      "zustand": "k.A.",
+      "zustand": "Sehr gut",
       "model": "Z Fold 5",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold5-512-gb-phantom-black/3479248010-173-1905",
-      "description": "Ich biete hier mein Samsung Galaxy Z Fold5 mit 512 GB Speicher in Phantom Black an. Dieses faltbare...",
-      "full_description": "Ich biete hier mein Samsung Galaxy Z Fold5 mit 512 GB Speicher in Phantom Black an. Dieses faltbare Smartphone ist ein echtes Multitalent und bietet dir die FlexibilitÃ¤t eines Handys und die BildschirmgrÃ¶Ãe eines Tablets in einem GerÃ¤t. * GroÃes, faltbares Display fÃ¼r immersive Erlebnisse * 512 GB interner Speicher fÃ¼r all deine Daten * Elegantes Phantom Black Design * Leistungsstarker Prozessor fÃ¼r reibungsloses Multitasking Das Z Fold5 ist perfekt fÃ¼r Arbeit und Unterhaltung unterwegs. Du kannst problemlos mehrere Apps gleichzeitig nutzen oder deine Lieblingsinhalte auf dem groÃen Bildschirm genieÃen. Es befindet sich in einem sehr guten Zustand mit minimalen Gebrauchsspuren. Schreib mir einfach, wenn du Fragen hast.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold5-256-gb-phantom-black/3479248010-173-1905",
+      "description": "Ich biete hier mein Samsung Galaxy Z Fold5 mit256 GB Speicher in Phantom Black an. Dieses faltbare...",
+      "full_description": "Ich biete hier mein Samsung Galaxy Z Fold5 mit256 GB Speicher in Phantom Black an. Dieses faltbare Smartphone ist ein echtes Multitalent und bietet dir die Flexibilität eines Handys und die Bildschirmgröße eines Tablets in einem Gerät. * Großes, faltbares Display für immersive Erlebnisse * 512 GB interner Speicher für all deine Daten * Elegantes Phantom Black Design * Leistungsstarker Prozessor für reibungsloses Multitasking Das Z Fold5 ist perfekt für Arbeit und Unterhaltung unterwegs. Du kannst problemlos mehrere Apps gleichzeitig nutzen oder deine Lieblingsinhalte auf dem großen Bildschirm genießen. Es befindet sich in einem sehr guten Zustand mit minimalen Gebrauchsspuren. Schreib mir einfach, wenn du Fragen hast.",
       "assessment": {
         "category": "Gerät",
         "stars": 5,
@@ -475,14 +504,13 @@
         "flags": [],
         "positives": [
           "Sehr guter Zustand",
-          "Großes, faltbares Display",
-          "512 GB interner Speicher",
-          "Elegantes Design"
+          "Hoher Speicher",
+          "Faltbares Display"
         ],
-        "summary": "Samsung Galaxy Z Fold5 in sehr gutem Zustand, 512 GB Speicher, Phantom Black",
+        "summary": "Samsung Galaxy Z Fold5 in sehr gutem Zustand, 256 GB Speicher, Phantom Black",
         "source": "groq"
       },
-      "first_seen": "2026-08-08T09:49:07.391535+00:00"
+      "first_seen": "2026-08-08T15:38:40.364747+00:00"
     },
     "4b28cd67683d62ee8952d64b684ab52a": {
       "id": "4b28cd67683d62ee8952d64b684ab52a",
@@ -801,41 +829,8 @@
         "source": "groq"
       },
       "first_seen": "2026-08-07T20:52:08.331804+00:00"
-    },
-    "a5299c3dd128eb6068da8d84c2d150ac": {
-      "id": "a5299c3dd128eb6068da8d84c2d150ac",
-      "title": "Samsung Galaxy Z Fold 5 (1TB)- Teildefekt",
-      "price": "370 € VB",
-      "speicher": "1 TB",
-      "ort": "46045 Oberhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "42 km",
-      "zustand": "Gebraucht",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-5-1tb-teildefekt/3478968643-173-1286",
-      "description": "Ich verkaufe hier mein Samsung Galaxy Z Fold 5 mit großzügigen 1TB Speicherplatz. Das Gerät wird...",
-      "full_description": "Ich verkaufe hier mein Samsung Galaxy Z Fold 5 mit groÃzÃ¼gigen 1TB Speicherplatz. Das GerÃ¤t wird ausdrÃ¼cklich als defekt angeboten, da das Innendisplay nicht mehr funktioniert und auch der Fingerabdrucksensor ohne Funktion ist. Das AuÃendisplay ist jedoch noch nutzbar. - Modell: Samsung Galaxy Z Fold 5 - SpeicherkapazitÃ¤t: 1TB - ÃuÃeres Display voll funktionsfÃ¤hig - Innendisplay defekt - Fingerabdrucksensor defekt Das Smartphone weist aufgrund der genannten MÃ¤ngel deutliche EinschrÃ¤nkungen in der Nutzung auf und eignet sich daher ideal als Ersatzteilspender oder fÃ¼r Bastler, die das GerÃ¤t reparieren mÃ¶chten. Schreib mir einfach, wenn du Fragen hast.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 2,
-        "label": "Vorsicht",
-        "price_note": "Günstig",
-        "flags": [
-          "Teildefekt",
-          "Innendisplay nicht funktioniert",
-          "Fingerabdrucksensor defekt"
-        ],
-        "positives": [
-          "1TB Speicher",
-          "Außendisplay voll funktionsfähig"
-        ],
-        "summary": "Gebrauchtes Z Fold 5 mit Teildefekt, ideal für Ersatzteilspender oder Bastler",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-07T20:52:08.332408+00:00"
     }
   },
   "last_full_send": "2026-08-08T10:45:24.959008+00:00",
-  "last_run": "2026-08-08T14:43:01.711483+00:00"
+  "last_run": "2026-08-08T15:39:17.377158+00:00"
 }
