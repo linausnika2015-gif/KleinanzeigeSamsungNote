@@ -61,6 +61,36 @@
       },
       "first_seen": "2026-08-09T21:42:01.203196+00:00"
     },
+    "6ffa69cee7f80ef096aa4da65575eb65": {
+      "id": "6ffa69cee7f80ef096aa4da65575eb65",
+      "title": "Galaxy Fold 8 // 512GB inkl Original Carbon Case  // Honor V6",
+      "price": "1.600 € VB",
+      "speicher": "512 GB",
+      "ort": "51105 Poll\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "49 km",
+      "zustand": "k.A.",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/galaxy-fold-8-512gb-inkl-original-carbon-case-honor-v6/3480897950-173-17010",
+      "description": "Tausche das brandneue Samsung Galaxy Fold 8 in der Farbe Graphite mit 512 GB gegen ein Honor Magic...",
+      "full_description": "Tausche das brandneue Samsung Galaxy Fold 8 in der Farbe Graphite mit 512 GB gegen ein Honor Magic v6 oder Vivo Y Fold 6. Handy ist eine Woche jung mit original Rechnung von Samsung. Dazu packe ein Original Samsung Carbon Hülle in blau dazu.",
+      "assessment": {
+        "category": "Ankauf",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Brandneues Gerät",
+          "Original Rechnung",
+          "Original Carbon Case"
+        ],
+        "summary": "Brandneues Galaxy Fold 8 für Honor Magic v6 oder Vivo Y Fold 6",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-09T22:42:27.754765+00:00"
+    },
     "51b67f0a5f9467a3df86df828db5370b": {
       "id": "51b67f0a5f9467a3df86df828db5370b",
       "title": "samsung galaxy fold 8",
@@ -796,41 +826,8 @@
         "source": "groq"
       },
       "first_seen": "2026-08-09T09:50:42.534308+00:00"
-    },
-    "fd8eb60c784c153528df2db1797d42cb": {
-      "id": "fd8eb60c784c153528df2db1797d42cb",
-      "title": "Tausche iPhone 17 Pro Max 512GB gegen Galaxy Z Fold 8",
-      "price": "1.499 €",
-      "speicher": "512 GB",
-      "ort": "51103 Kalk\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "49 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
-      "angebotstyp": "Gesuch",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/tausche-iphone-17-pro-max-512gb-gegen-galaxy-z-fold-8/3480015105-173-17009",
-      "description": "Ich biete mein iPhone 17 Pro Max mit 512 GB Speicher zum Tausch an. Es ist in einem Top-Zustand,...",
-      "full_description": "Ich biete mein iPhone 17 Pro Max mit 512 GB Speicher zum Tausch an. Es ist in einem Top-Zustand, quasi wie neu, und der Akku ist sehr gut erhalten. Ich suche ausschließlich einen Tausch gegen ein Samsung Galaxy Z Fold 8, das ebenfalls voll funktionsfähig und ohne Mängel sein sollte. * iPhone 17 Pro Max, 512 GB * Farbe: Weiß * Top Zustand, wie neu * Sehr gute Akkuleistung Es gibt eine kleine Schramme am Rahmen, die jedoch keinerlei Auswirkungen auf die Funktionalität des Handys hat. Bei Fragen melde dich gerne.",
-      "assessment": {
-        "category": "Ankauf",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Tauschhandel",
-          "iPhone 17 Pro Max"
-        ],
-        "positives": [
-          "Top-Zustand",
-          "gute Akkuleistung",
-          "kleine Schramme am Rahmen"
-        ],
-        "summary": "Tauschhandel für Galaxy Z Fold 8 gegen iPhone 17 Pro Max 512GB",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-09T08:55:09.809819+00:00"
     }
   },
   "last_full_send": "2026-08-09T19:42:39.695288+00:00",
-  "last_run": "2026-08-09T21:42:32.848181+00:00"
+  "last_run": "2026-08-09T22:42:54.097310+00:00"
 }
