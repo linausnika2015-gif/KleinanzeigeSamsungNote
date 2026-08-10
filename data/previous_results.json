@@ -63,6 +63,76 @@
       },
       "first_seen": "2026-08-09T11:38:06.335807+00:00"
     },
+    "d499073d30bfeb3476d45ecde9bfd2bb": {
+      "id": "d499073d30bfeb3476d45ecde9bfd2bb",
+      "title": "SAMSUNG GALAXY FOLD 8 ULTRA",
+      "price": "1.400 €",
+      "speicher": "256 GB",
+      "ort": "58089 Hagen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "72 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-8-ultra/3481538190-173-2010",
+      "description": "Verkaufe hier ein nagelneues Samsung Galaxy Fold 8 Ultra mit 256 GB Speicher in der Farbe Graphit....",
+      "full_description": "Verkaufe hier ein nagelneues Samsung Galaxy Fold 8 Ultra mit 256 GB Speicher in der Farbe Graphit. Es ist versiegelt und mit Rechnung. Kein Tausch. NUR ABHOLUNG und Barzahlung. Verkauf von privat ohne Garantie, Gewährleistung oder Rücknahme!",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Keine Garantie",
+          "Keine Rücknahme",
+          "Nur Abholung",
+          "Barzahlung"
+        ],
+        "positives": [
+          "Nagelneu",
+          "Versiegelt",
+          "Mit Rechnung"
+        ],
+        "summary": "Nagelneues Fold 8 Ultra mit 256 GB, Graphit, OVP, keine Garantie",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-10T17:58:37.686865+00:00"
+    },
+    "7747be186f832b1fc76bc07a8b8954af": {
+      "id": "7747be186f832b1fc76bc07a8b8954af",
+      "title": "Samsung Galaxy Fold 8 Ultra… 256 GB versiegelt",
+      "price": "1.400 €",
+      "speicher": "256 GB",
+      "ort": "58089 Hagen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "72 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-8-ultra-256-gb-versiegelt/3481529452-173-2010",
+      "description": "Verkaufe hier ein nagelneues Samsung Galaxy Fold 8 Ultra mit 256GB Speicher… Es ist versiegelt und...",
+      "full_description": "Verkaufe hier ein nagelneues Samsung Galaxy Fold 8 Ultra mit 256GB Speicher… Es ist versiegelt und mit Rechnung. Farbe Graphit Handeln ist ok aber wenn Anfragen unter 1300 Euro kommen werden nicht beantwortet. Kein tauschen NUR ABHOLUNG und Barzahlung… Verkauf von privat ohne Garantie Gewährleistung oder Rücknahme!!!!",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Kein Tausch",
+          "Nur Abholung",
+          "Barzahlung",
+          "Keine Garantie"
+        ],
+        "positives": [
+          "Nagelneu",
+          "Versiegelt",
+          "Mit Rechnung"
+        ],
+        "summary": "Nagelneues Fold 8 Ultra mit 256 GB, versiegelt und mit Rechnung, aber überhöhter Preis",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-10T17:58:37.687227+00:00"
+    },
     "46bd54d8566b211a25a5f76b13b2364b": {
       "id": "46bd54d8566b211a25a5f76b13b2364b",
       "title": "Samsung Galaxy Z Fold6 Smartphone Originalverpackung",
@@ -440,40 +510,6 @@
       },
       "first_seen": "2026-08-10T08:47:22.245173+00:00"
     },
-    "bb7709aa26e09ec2b47164f55f6f3cae": {
-      "id": "bb7709aa26e09ec2b47164f55f6f3cae",
-      "title": "Samsung Galaxy Fold 8 Ultra",
-      "price": "1.399 €",
-      "speicher": "256 GB",
-      "ort": "58089 Hagen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "72 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-8-ultra/3480938377-173-2010",
-      "description": "Verkaufe hier ein nagelneues Samsung Galaxy Fold 8 Ultra mit 256 GB Speicher in der Farbe Graphit....",
-      "full_description": "Verkaufe hier ein nagelneues Samsung Galaxy Fold 8 Ultra mit 256 GB Speicher in der Farbe Graphit. Es ist versiegelt und mit Rechnung. NUR ABHOLUNG und Barzahlung. Verkauf von privat ohne Garantie, GewÃ¤hrleistung oder RÃ¼cknahme!",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Keine Garantie",
-          "Keine Rückerstattung",
-          "Nur Abholung"
-        ],
-        "positives": [
-          "Neu und versiegelt",
-          "Rechnung",
-          "Großes Speicher"
-        ],
-        "summary": "Nagelneues Fold 8 Ultra mit 256 GB, aber teuer und ohne Garantie",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-10T15:09:46.218231+00:00"
-    },
     "dab3e9b89259718df309c1cfdf1cfa02": {
       "id": "dab3e9b89259718df309c1cfdf1cfa02",
       "title": "Stylus Eingabestift für Samsung Galaxy Z Fold Serie (NEU)",
@@ -755,40 +791,6 @@
       },
       "first_seen": "2026-08-09T14:45:10.763607+00:00"
     },
-    "3bdcedde8e4fcd6ad9a65f2ef4671824": {
-      "id": "3bdcedde8e4fcd6ad9a65f2ef4671824",
-      "title": "Samsung Galaxy  Fold  8 Ultra",
-      "price": "1.399 €",
-      "speicher": "256 GB",
-      "ort": "58089 Hagen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "72 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-8-ultra/3480448095-173-2010",
-      "description": "Verkaufe hier ein nagelneues Samsung Galaxy Fold 8 Ultra mit 256 GB Speicher in der Farbe Graphit....",
-      "full_description": "Verkaufe hier ein nagelneues Samsung Galaxy Fold 8 Ultra mit 256 GB Speicher in der Farbe Graphit. Es ist versiegelt und mit Rechnung. NUR ABHOLUNG und Barzahlung. Angebote unter 1250 Euro werden nicht beantwortet und ich tausche nicht. Verkauf von privat ohne Garantie, GewÃ¤hrleistung oder RÃ¼cknahme!",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Keine Rückerstattung",
-          "Keine Garantie",
-          "Barzahlung erforderlich"
-        ],
-        "positives": [
-          "Nagelneu",
-          "Versiegelt",
-          "Rechnung"
-        ],
-        "summary": "Nagelneues Fold 8 Ultra mit 256 GB, Graphit, Barzahlung, Abholung",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-10T15:09:46.221163+00:00"
-    },
     "e64d4589ccb5c860ba64ab4b59c11d99": {
       "id": "e64d4589ccb5c860ba64ab4b59c11d99",
       "title": "Samsung Galaxy Z Fold8 Ultra Neu&OVP +Fitbit Air",
@@ -824,5 +826,5 @@
     }
   },
   "last_full_send": "2026-08-10T15:10:28.734805+00:00",
-  "last_run": "2026-08-10T17:03:31.662498+00:00"
+  "last_run": "2026-08-10T17:59:09.505688+00:00"
 }
