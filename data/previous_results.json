@@ -64,10 +64,75 @@
       },
       "first_seen": "2026-08-09T11:38:06.335807+00:00"
     },
+    "c908ae4e82e11546a4bd31a9e040e06b": {
+      "id": "c908ae4e82e11546a4bd31a9e040e06b",
+      "title": "Samsung Galaxy Z Fold 256GB",
+      "price": "1.100 €",
+      "speicher": "256 GB",
+      "ort": "40764 Langenfeld\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "37 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 2",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-256gb/3482527947-173-1863",
+      "description": "Ich verkaufe hier mein Samsung Galaxy Z Fold mit 256GB Speicherplatz. Das Gerät befindet sich in...",
+      "full_description": "Ich verkaufe hier mein Samsung Galaxy Z Fold mit 256GB Speicherplatz. Das Gerät befindet sich in einem schwarzen Schutzcase ink Ständer und safeladezone von spigen. - Modell: Samsung Galaxy Z Fold - Speicherkapazität: 256GB - Inklusive schwarzer Schutzhülle - Aktuelle One UI Software installiert Das Smartphone ist in einem gepflegten Zustand und wurde stets sorgsam behandelt. Es bietet dir durch das faltbare Display eine flexible Nutzung für Arbeit und Multimedia. Bei weiteren Fragen stehe ich dir gerne zur Verfügung",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Fotos des Geräts",
+          "Keine Beschreibung des Zustands"
+        ],
+        "positives": [
+          "Faltbares Display",
+          "256 GB Speicher",
+          "Aktuelle Software",
+          "Schwarze Schutzhülle"
+        ],
+        "summary": "Gepflegtes Samsung Galaxy Z Fold 2 mit 256 GB Speicher und schwarzer Schutzhülle zum günstigen Preis.",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-11T20:57:15.565928+00:00"
+    },
+    "443bbf15949d3d457514a185ef45042e": {
+      "id": "443bbf15949d3d457514a185ef45042e",
+      "title": "Samsung Galaxy Z Fold8 512GB Pistachio NEU OVP versiegelt",
+      "price": "1.580 € VB",
+      "speicher": "512 GB",
+      "ort": "45883 Gelsenkirchen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "56 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-512gb-pistachio-neu-ovp-versiegelt/3482491589-173-1006",
+      "description": "Ich verkaufe hier ein brandneues Samsung Galaxy Z Fold8 in der Farbe Pistachio mit einem...",
+      "full_description": "Ich verkaufe hier ein brandneues Samsung Galaxy Z Fold8 in der Farbe Pistachio mit einem Speicherplatz von 512GB. Das Gerät ist noch originalverpackt und wurde nicht geöffnet. - Modell: Samsung F971 Galaxy Z Fold8 - Speicher: 512GB - Farbe: Pistachio - Zustand: Neu und in der Originalverpackung Das Smartphone besticht durch sein faltbares Display und die hochwertige Verarbeitung. Da es sich um ein Neugerät handelt, ist es in einem einwandfreien Zustand. Anfragen mit unter 1400 werden direkt aussortiert Ich werde einen Kopfhörer aus meinen Anzeigen mit beilegen Bei Interesse oder Fragen kannst du dich gerne melden.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Preis ist deutlich über dem Marktwert"
+        ],
+        "positives": [
+          "Neu und OVP",
+          "Hochwertige Verarbeitung"
+        ],
+        "summary": "Neu, OVP, 512GB, Pistachio, 1580€",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-11T20:57:15.566265+00:00"
+    },
     "b82027105f76ba3b35d516f3a44f3d75": {
       "id": "b82027105f76ba3b35d516f3a44f3d75",
       "title": "samsung galaxy z Fold6 512GB tausch auch gegen iphone",
-      "price": "650 € VB",
+      "price": "550 € VB",
       "speicher": "512 GB",
       "ort": "58135 Hagen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "70 km",
@@ -79,21 +144,14 @@
       "description": "Funktioniert top einzigster mamgel riss hinten backover methölle nicht sichtbar Samsung Original...",
       "full_description": "Funktioniert top einzigster mamgel riss hinten backover methölle nicht sichtbar Samsung Original Hülle mit Stift ist dabei.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 3,
+        "stars": 2,
         "label": "Vorsicht",
-        "price_note": "Günstig",
+        "price_note": "🟢 Sehr günstig (Ref. ~900 €)",
         "flags": [
-          "Unbekannter Zustand",
-          "Mangel an der Rückseite",
-          "Riss an der Rückseite"
+          "⚠️ Riss vorhanden"
         ],
-        "positives": [
-          "Top Zustand",
-          "Samsung Original Hülle dabei"
-        ],
-        "summary": "Samsung Galaxy Z Fold 6 512GB, unbekannter Zustand, Riss an der Rückseite, günstig",
-        "source": "groq"
+        "positives": [],
+        "summary": "⚠️ Riss vorhanden · 🟢 Sehr günstig (Ref. ~900 €)"
       },
       "first_seen": "2026-08-11T19:14:47.864563+00:00"
     },
@@ -138,7 +196,7 @@
       "speicher": "k.A.",
       "ort": "40239 Düsseltal\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "26 km",
-      "zustand": "Neu",
+      "zustand": "k.A.",
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -637,18 +695,18 @@
       },
       "first_seen": "2026-08-11T07:21:44.808864+00:00"
     },
-    "8ae5caebfc2f21130b8d17d8ca3b0225": {
-      "id": "8ae5caebfc2f21130b8d17d8ca3b0225",
-      "title": "Samsung Galaxy Z Fold8 Ultra Neu Orig+FitBit Armband",
+    "6a2bb1e8b40d157f2cdb1e784bf5d88d": {
+      "id": "6a2bb1e8b40d157f2cdb1e784bf5d88d",
+      "title": "Samsung Galaxy Z Fold8 Ultra Neu Orig+FitBit Armband 256GB",
       "price": "1.800 € VB",
-      "speicher": "k.A.",
+      "speicher": "256 GB",
       "ort": "44339 Eving\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "82 km",
       "zustand": "Neu (OVP)",
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-ultra-neu-orig-fitbit-armband/3481779526-173-1097",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-ultra-neu-orig-fitbit-armband-256gb/3481779526-173-1097",
       "description": "Hallo\nIch biete hier ein brandneues und originalverpacktes Samsung Galaxy Z Fold8 Ultra an. Dieses...",
       "full_description": "Hallo Ich biete hier ein brandneues und originalverpacktes Samsung Galaxy Z Fold8 Ultra an. Dieses Smartphone ist noch versiegelt und wurde nie benutzt. Es ist das perfekte Gerät für alle, die modernste Technologie und ein faltbares Display suchen.Das Galaxy Z Fold8 Ultra kommt mit folgenden Merkmalen: - Großes, faltbares Display für maximale Produktivität - Leistungsstarke Kamera - Neueste Samsung-Technologie - Elegantes Design in Violet Shadow - FitBit Armband Das Handy ist in einwandfreiem Zustand, da es sich noch in der ungeöffneten Originalverpackung befindet. Du erhältst ein komplett neues Gerät Bei Fragen melde dich gerne.",
       "assessment": {
@@ -658,47 +716,18 @@
         "price_note": "Überteuert",
         "flags": [
           "Sehr hoher Preis",
-          "Keine Spezifikationen zum Speicher"
+          "Keine Angaben zu den Kosten des FitBit Armbands"
         ],
         "positives": [
           "Neu und originalverpackt",
-          "FitBit Armband inklusive"
+          "Großes, faltbares Display",
+          "Leistungsstarke Kamera",
+          "Neueste Samsung-Technologie"
         ],
-        "summary": "Neues, originalverpacktes Galaxy Z Fold8 Ultra mit FitBit Armband für 1800€",
+        "summary": "Neu und originalverpacktes Samsung Galaxy Z Fold8 Ultra mit FitBit Armband zum sehr hohen Preis",
         "source": "groq"
       },
-      "first_seen": "2026-08-11T07:21:44.809201+00:00"
-    },
-    "d6c962a496727a15f548004d6037a806": {
-      "id": "d6c962a496727a15f548004d6037a806",
-      "title": "Samsung Galaxy Z Fold5 256 GB",
-      "price": "380 €",
-      "speicher": "256 GB",
-      "ort": "44625 Herne\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "65 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold5-256-gb/3481726351-173-2003",
-      "description": "Verkaufe mein Samsung Galaxy Z Fold5 mit 256 GB Speicher.\n\nDas Fold5 befindet sich in einem sehr...",
-      "full_description": "Verkaufe mein Samsung Galaxy Z Fold5 mit 256 GB Speicher. Das Fold5 befindet sich in einem sehr guten und gepflegten Zustand und funktioniert technisch einwandfrei. Beide Displays, Kameras, Lautsprecher, Tasten sowie der Faltmechanismus funktionieren problemlos. Das Gerät wurde pfleglich behandelt. Der Zustand ist auf den Bildern gut zu erkennen. Details: * Samsung Galaxy Z Fold5 * 256 GB Speicher * Farbe: Icy Blue * technisch einwandfrei * sehr gepflegter Zustand * beide Displays funktionieren einwandfrei * Faltmechanismus ohne Probleme * Originalverpackung vorhanden Besichtigung und Ausprobieren vor Ort gerne möglich. Versand ist bei Kostenübernahme ebenfalls möglich. Privatverkauf unter Ausschluss der Sachmängelhaftung. Keine Rücknahme oder Garantie meinerseits.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Sehr gepflegter Zustand",
-          "Funktioniert technisch einwandfrei",
-          "Originalverpackung vorhanden",
-          "Besichtigung und Ausprobieren vor Ort möglich"
-        ],
-        "summary": "Samsung Galaxy Z Fold5 256 GB in sehr gutem Zustand für 380 €",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-10T22:50:35.757353+00:00"
+      "first_seen": "2026-08-11T20:57:15.573236+00:00"
     },
     "46bd54d8566b211a25a5f76b13b2364b": {
       "id": "46bd54d8566b211a25a5f76b13b2364b",
@@ -795,36 +824,8 @@
         "source": "groq"
       },
       "first_seen": "2026-08-10T17:02:50.214610+00:00"
-    },
-    "41aac05e0b087012ba7ead2eb6554c88": {
-      "id": "41aac05e0b087012ba7ead2eb6554c88",
-      "title": "Samsung Galaxy Z Fold8 Ultra Handy Neu & OVP",
-      "price": "1.700 € VB1.800 €",
-      "speicher": "k.A.",
-      "ort": "44339 Eving\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "82 km",
-      "zustand": "Neu (OVP)",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-ultra-handy-neu-ovp/3481403041-173-1097",
-      "description": "Ich biete hier ein brandneues und originalverpacktes Samsung Galaxy Z Fold8 Ultra an. Dieses...",
-      "full_description": "Ich biete hier ein brandneues und originalverpacktes Samsung Galaxy Z Fold8 Ultra an. Dieses Smartphone ist noch versiegelt und wurde nie benutzt. Es ist das perfekte Gerät für alle, die modernste Technologie und ein faltbares Display suchen.Das Galaxy Z Fold8 Ultra kommt mit folgenden Merkmalen: - Großes, faltbares Display für maximale Produktivität - Leistungsstarke Kamera - Neueste Samsung-Technologie - Elegantes Design in Violet Shadow Das Handy ist in einwandfreiem Zustand, da es sich noch in der ungeöffneten Originalverpackung befindet. Du erhältst ein komplett neues Gerät. Bei Fragen melde dich gerne.",
-      "assessment": {
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "ℹ️ Preis nicht angegeben",
-        "flags": [],
-        "positives": [
-          "✅ Originalverpackung",
-          "✅ Makellos",
-          "✅ Zubehör dabei"
-        ],
-        "summary": "✅ Originalverpackung · ℹ️ Preis nicht angegeben"
-      },
-      "first_seen": "2026-08-10T15:09:46.214541+00:00"
     }
   },
   "last_full_send": "2026-08-11T17:08:13.087251+00:00",
-  "last_run": "2026-08-11T19:16:14.293876+00:00"
+  "last_run": "2026-08-11T20:57:50.003859+00:00"
 }
