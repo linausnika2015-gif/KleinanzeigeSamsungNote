@@ -1,5 +1,37 @@
 {
   "listings": {
+    "afe0330623314263274d3a11c7da3300": {
+      "id": "afe0330623314263274d3a11c7da3300",
+      "title": "HANDY-ANGEBOT PRÜFEN. FACHKUNDIG. SOFORT. | Für Smartphone: iPhone 11 12 13 14 15 16 17 Pro Max | Samsung Galaxy S23 S24 S25 S26 Ultra Plus Z Flip Fold FE | Google Pixel 8 9 10 Pro | Xiaomi 13 14 15",
+      "price": "3 €",
+      "speicher": "k.A.",
+      "ort": "53757 Sankt Augustin +  Kommt zu dir\n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "200 km",
+      "zustand": "k.A.",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Gewerblich",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/handy-angebot-pruefen-fachkundig-sofort-fuer-smartphone-iphone-11-12-13-14-15-16-17-pro-max-samsung-galaxy-s23-s24-s25-s26-ultra-plus-z-flip-fold-fe-google-pixel-8-9-10-pro-xiaomi-13-14-15/3476425555-298-1861",
+      "description": "ERHALTE EINE FACHKUNDIGE PRÜFUNG EINES HANDY-ANGEBOTS VOR DEM KAUF\n\n⚡ NUR 3 € – BIS ZU 2 ANGEBOTE...",
+      "full_description": "# ERHALTE EINE FACHKUNDIGE PRÜFUNG EINES HANDY-ANGEBOTS VOR DEM KAUF ⚡ **NUR 3 €** – BIS ZU 2 ANGEBOTE PRÜFEN LASSEN **SO FUNKTIONIERT ES:** **1) ANFRAGE** — Senden Sie mir den Link zu der Anzeige, die Sie prüfen lassen möchten, oder die ID dieser Anzeige (sie befindet sich unten). **2) FACHKUNDIGE PRÜFUNG** — Ich beginne sofort mit der Prüfung dieses Handy-Angebots: ~ Mehrstufige Prüfung der Anzeige und des Verkäufers auf mögliche Risiken (Betrug, fremde Fotos, Unstimmigkeiten usw.) ~ Prüfung der verfügbaren technischen Daten und detaillierte Analyse der Fotos (Unstimmigkeiten, nicht angegebene Schäden usw.) ~ Analyse des Preises und Möglichkeit der Zahlung mit Käuferschutz (In der Regel innerhalb von 30 Min.). **3) ERGEBNIS — SIE ERHALTEN:** ✔️ Kaufempfehlung: Ja oder Nein; ✔️ erkannte Risiken; ✔️ was vor dem Kauf zusätzlich geklärt werden sollte; ✔️ empfohlene Zahlungsmethoden (Versand). **4) BEZAHLUNG** — Nach Erhalt des Prüfergebnisses bezahlen Sie 3 € (PayPal oder Banküberweisung). **Ich heiße Alex**. Ich führe fachkundige Prüfungen von Handy-Angeboten vor dem Kauf durch und analysiere sie auf mögliche Risiken, technische Unstimmigkeiten und weitere relevante Punkte. Dieses Angebot ist nicht mit Kleinanzeigen verbunden und wird von Kleinanzeigen weder unterstützt noch autorisiert. Apple, iPhone, Samsung, Galaxy, Google, Pixel, Xiaomi und Kleinanzeigen sind Marken ihrer jeweiligen Inhaber. Zusätzlich: Vor-Ort-Beratung auf Anfrage.",
+      "assessment": {
+        "category": "Sonstiges",
+        "stars": 2,
+        "label": "Neutral",
+        "price_note": "Sehr günstig",
+        "flags": [
+          "Keine Informationen über das angebotene Gerät",
+          "Unbekannter Verkäufer"
+        ],
+        "positives": [
+          "Fachkundige Prüfung des Angebots",
+          "Käuferschutz"
+        ],
+        "summary": "Fachkundige Prüfung von Handy-Angeboten für 3 €",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-12T11:54:27.803174+00:00"
+    },
     "ca37aab08e4d1112407a23a8b12dca0e": {
       "id": "ca37aab08e4d1112407a23a8b12dca0e",
       "title": "❌SUCHE ANKAUF Samsung Galaxy S24 S25 S26 Ultra Plus Tab S9 S10 S11  Z Fold Flip 7",
@@ -32,37 +64,39 @@
       },
       "first_seen": "2026-08-08T10:44:45.685297+00:00"
     },
-    "afe0330623314263274d3a11c7da3300": {
-      "id": "afe0330623314263274d3a11c7da3300",
-      "title": "HANDY-ANGEBOT PRÜFEN. FACHKUNDIG. SOFORT. | Für Smartphone: iPhone 11 12 13 14 15 16 17 Pro Max | Samsung Galaxy S23 S24 S25 S26 Ultra Plus Z Flip Fold FE | Google Pixel 8 9 10 Pro | Xiaomi 13 14 15",
-      "price": "3 €",
-      "speicher": "k.A.",
-      "ort": "53757 Sankt Augustin +  Kommt zu dir\n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "200 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
+    "8616d481ec3ea4323b879f524a7acc19": {
+      "id": "8616d481ec3ea4323b879f524a7acc19",
+      "title": "Samsung Galaxy Z Fold5 – 256 GB – Schwarz – Sehr guter Zustand",
+      "price": "490 € VB",
+      "speicher": "256 GB",
+      "ort": "52078 Aachen-​Brand\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "53 km",
+      "zustand": "Sehr gut",
+      "model": "Z Fold 5",
       "angebotstyp": "Angebot",
-      "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/handy-angebot-pruefen-fachkundig-sofort-fuer-smartphone-iphone-11-12-13-14-15-16-17-pro-max-samsung-galaxy-s23-s24-s25-s26-ultra-plus-z-flip-fold-fe-google-pixel-8-9-10-pro-xiaomi-13-14-15/3476425555-298-1861",
-      "description": "ERHALTE EINE FACHKUNDIGE PRÜFUNG EINES HANDY-ANGEBOTS VOR DEM KAUF\n\n⚡ NUR 3 € – BIS ZU 2 ANGEBOTE...",
-      "full_description": "# ERHALTE EINE FACHKUNDIGE PRÜFUNG EINES HANDY-ANGEBOTS VOR DEM KAUF ⚡ **NUR 3 €** – BIS ZU 2 ANGEBOTE PRÜFEN LASSEN **SO FUNKTIONIERT ES:** **1) ANFRAGE** — Senden Sie mir den Link zu der Anzeige, die Sie prüfen lassen möchten, oder die ID dieser Anzeige (sie befindet sich unten). **2) FACHKUNDIGE PRÜFUNG** — Ich beginne sofort mit der Prüfung dieses Handy-Angebots: ~ Mehrstufige Prüfung der Anzeige und des Verkäufers auf mögliche Risiken (Betrug, fremde Fotos, Unstimmigkeiten usw.) ~ Prüfung der verfügbaren technischen Daten und detaillierte Analyse der Fotos (Unstimmigkeiten, nicht angegebene Schäden usw.) ~ Analyse des Preises und Möglichkeit der Zahlung mit Käuferschutz (In der Regel innerhalb von 30 Min.). **3) ERGEBNIS — SIE ERHALTEN:** ✔️ Kaufempfehlung: Ja oder Nein; ✔️ erkannte Risiken; ✔️ was vor dem Kauf zusätzlich geklärt werden sollte; ✔️ empfohlene Zahlungsmethoden (Versand). **4) BEZAHLUNG** — Nach Erhalt des Prüfergebnisses bezahlen Sie 3 € (PayPal oder Banküberweisung). **Ich heiße Alex**. Ich führe fachkundige Prüfungen von Handy-Angeboten vor dem Kauf durch und analysiere sie auf mögliche Risiken, technische Unstimmigkeiten und weitere relevante Punkte. Dieses Angebot ist nicht mit Kleinanzeigen verbunden und wird von Kleinanzeigen weder unterstützt noch autorisiert. Apple, iPhone, Samsung, Galaxy, Google, Pixel, Xiaomi und Kleinanzeigen sind Marken ihrer jeweiligen Inhaber. Zusätzlich: Vor-Ort-Beratung auf Anfrage.",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold5-256-gb-schwarz-sehr-guter-zustand/3482967563-173-1926",
+      "description": "Zum Verkauf steht ein Samsung Galaxy Z Fold5 mit 256 GB Speicher in Schwarz.\n\nDas Smartphone wurde...",
+      "full_description": "Zum Verkauf steht ein Samsung Galaxy Z Fold5 mit 256 GB Speicher in Schwarz. Das Smartphone wurde hauptsächlich als Zweitgerät für geschäftliche Zwecke genutzt und befindet sich insgesamt in einem sehr guten und gepflegten Zustand. Es sind lediglich vereinzelte normale Gebrauchsspuren vorhanden, die im Alltag kaum auffallen. Technisch funktioniert das Gerät einwandfrei und ohne Probleme. Details: * Samsung Galaxy Z Fold5 * 256 GB Speicher * Farbe: Schwarz * Sehr guter, gepflegter Zustand * Vereinzelte normale Gebrauchsspuren * Keine technischen Probleme * Alle Funktionen einwandfrei * Originalverpackung inklusive * Original Samsung Ladekabel inklusive * Nichtraucherhaushalt * Als geschäftliches Zweitgerät genutzt Das Smartphone kann gerne vor Ort in Ruhe angeschaut und getestet werden. Privatverkauf, daher keine Garantie, Gewährleistung oder Rücknahme.",
       "assessment": {
-        "category": "Sonstiges",
-        "stars": 2,
-        "label": "Neutral",
-        "price_note": "Sehr günstig",
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
         "flags": [
-          "Keine Informationen über das angebotene Gerät",
-          "Unbekannter Verkäufer"
+          "Keine Garantie",
+          "Privatverkauf"
         ],
         "positives": [
-          "Fachkundige Prüfung des Angebots",
-          "Käuferschutz"
+          "Sehr guter Zustand",
+          "Gepflegtes Gerät",
+          "Keine technischen Probleme",
+          "Originalverpackung inklusive"
         ],
-        "summary": "Fachkundige Prüfung von Handy-Angeboten für 3 €",
+        "summary": "Samsung Galaxy Z Fold5 in sehr gutem Zustand, 256 GB, Schwarz, günstig",
         "source": "groq"
       },
-      "first_seen": "2026-08-12T11:54:27.803174+00:00"
+      "first_seen": "2026-08-12T13:36:20.837080+00:00"
     },
     "09e8a11b9e2791f20c464d507f2e4a5d": {
       "id": "09e8a11b9e2791f20c464d507f2e4a5d",
@@ -96,9 +130,9 @@
       },
       "first_seen": "2026-08-12T11:54:27.803555+00:00"
     },
-    "de6bbcdfac71945fc4f9e0e55fd2b9c3": {
-      "id": "de6bbcdfac71945fc4f9e0e55fd2b9c3",
-      "title": "Samsung Galaxy Z Fold 8 Ultra 256 GB Graphit - Neu mit Garantie",
+    "15fcc1548b9c3cf7f78b86dc939a5558": {
+      "id": "15fcc1548b9c3cf7f78b86dc939a5558",
+      "title": "Samsung Galaxy Z Fold 8 256 GB Graphit - Neu mit Garantie",
       "price": "1.400 €",
       "speicher": "256 GB",
       "ort": "51377 Leverkusen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
@@ -107,7 +141,7 @@
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-ultra-256-gb-graphit-neu-mit-garantie/3482832679-173-1992",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-256-gb-graphit-neu-mit-garantie/3482832679-173-1992",
       "description": "Samsung Galaxy Z Fold 8 256GB Graphite Dual SIM 5G - Neu Versiegelt & Rechnung ca. 2 Jahr...",
       "full_description": "Samsung Galaxy Z Fold 8 256GB Graphite Dual SIM 5G - Neu Versiegelt & Rechnung ca. 2 Jahr Garantie Highlights: • Frontdisplay: 5,5 Zoll • Hauptdisplay: 7,6 Zoll • Snapdragon® 8 Elite Gen 5 Octa-Core Prozessor • 12GB RAM • Akku-Kapazität: 4.800 mAh, Laufzeit: bis 26 Std. Videowiedergabe Lieferumfang: Smartphone, Kabel, Steckplatzwerkzeug Dies ist ein Privatverkauf. Der Verkauf erfolgt unter Ausschluss jeglicher Sachmängelhaftung. Rücknahme, Umtausch und Garantie sind ausgeschlossen.",
       "assessment": {
@@ -117,17 +151,18 @@
         "price_note": "Überteuert",
         "flags": [
           "Keine Garantie",
-          "Privatverkauf ohne Rücknahme"
+          "Privatverkauf",
+          "Sachmängelhaftung ausgeschlossen"
         ],
         "positives": [
-          "Neu mit Garantie",
-          "Hohe Speicherkapazität",
-          "Starke Prozessorleistung"
+          "Neu",
+          "Garantie",
+          "Hohe Speichergröße"
         ],
-        "summary": "Neues Samsung Galaxy Z Fold 8 Ultra mit 256 GB Speicher für 1.400 €",
+        "summary": "Neues Samsung Galaxy Z Fold 8 mit 256 GB Speicher für 1.400 €",
         "source": "groq"
       },
-      "first_seen": "2026-08-12T11:54:27.804014+00:00"
+      "first_seen": "2026-08-12T13:36:20.837688+00:00"
     },
     "a3ea97f3326d49aea5728ec58c342164": {
       "id": "a3ea97f3326d49aea5728ec58c342164",
@@ -167,7 +202,7 @@
       "speicher": "1 TB",
       "ort": "40599 Reisholz\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "29 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -451,40 +486,6 @@
         "source": "groq"
       },
       "first_seen": "2026-08-12T06:22:26.710671+00:00"
-    },
-    "11eebeba16df647fdf89f76872e3fff3": {
-      "id": "11eebeba16df647fdf89f76872e3fff3",
-      "title": "Samsung Galaxy Z Fold8 - 512GB - Cream - wie neu",
-      "price": "1.300 €",
-      "speicher": "512 GB",
-      "ort": "47057 Duisburg-​Mitte\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "35 km",
-      "zustand": "Neu",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-512gb-cream-wie-neu/3482428295-173-2149",
-      "description": "Hallo,\n\nhiermit verkaufe ich das Galaxy Z Fold 8 zu einem guten Preis, da ich es mit Rabatt kaufen...",
-      "full_description": "Hallo, hiermit verkaufe ich das Galaxy Z Fold 8 zu einem guten Preis, da ich es mit Rabatt kaufen konnte. Wurde direkt vom Samsung Shop in Deutschland gekauft. Originalverpackung und Rechnung sind vorhanden. Falls sich keiner dafür interessiert wird es wieder zurückgeschickt an Samsung. Bei Fragen gerne kontaktieren. Privatverkauf, keine Rücknahme keine Garantie",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Privatverkauf",
-          "keine Rücknahme",
-          "keine Garantie"
-        ],
-        "positives": [
-          "Originalverpackung",
-          "Rechnung vorhanden",
-          "wie neu"
-        ],
-        "summary": "Galaxy Z Fold 8, 512GB, neu, Originalverpackung, günstig",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-11T19:14:47.864918+00:00"
     },
     "fb8a5c04429b00226bd3eef92ef9b1b8": {
       "id": "fb8a5c04429b00226bd3eef92ef9b1b8",
@@ -827,6 +828,6 @@
       "first_seen": "2026-08-11T10:59:38.658558+00:00"
     }
   },
-  "last_full_send": "2026-08-12T06:22:57.552463+00:00",
-  "last_run": "2026-08-12T11:55:03.484326+00:00"
+  "last_full_send": "2026-08-12T13:36:50.093141+00:00",
+  "last_run": "2026-08-12T13:36:50.093231+00:00"
 }
