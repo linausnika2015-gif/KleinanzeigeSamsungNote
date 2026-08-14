@@ -64,6 +64,37 @@
       },
       "first_seen": "2026-08-14T13:32:37.031041+00:00"
     },
+    "1bbe3063db1d65c57f27f08c41f85c4d": {
+      "id": "1bbe3063db1d65c57f27f08c41f85c4d",
+      "title": "Samsung Galaxy Z Fold8 (256 GB) & Galaxy Watch Ultra 2",
+      "price": "VB",
+      "speicher": "256 GB",
+      "ort": "44534 Lünen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "89 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-256-gb-galaxy-watch-ultra-2/3484627366-173-1754",
+      "description": "Ich biete hier mein Samsung Galaxy Z Fold8 zusammen mit der passenden Samsung Galaxy Watch Ultra 2...",
+      "full_description": "Ich biete hier mein Samsung Galaxy Z Fold8 zusammen mit der passenden Samsung Galaxy Watch Ultra 2 zum Kauf an. Beide Geräte wurden nur kurzzeitig zu Testzwecken verwendet und befinden sich daher in einem hervorragenden Zustand ohne Kratzer. - Samsung Galaxy Z Fold8 - Samsung Galaxy Watch Ultra 2 - Originalverpackung für beide Geräte enthalten - Inklusive Rechnungen vom 03.08.2026 bzw. 04.08.2026 Versand ist möglich. Zuzüglich Versandkosten. Die Geräte sind quasi neuwertig und wurden sehr pfleglich behandelt. Falls du Fragen zu diesem Set hast, schreib mir gerne eine Nachricht.",
+      "assessment": {
+        "category": "Ankauf",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Geräte sind quasi neuwertig",
+          "Wurden sehr pfleglich behandelt",
+          "Originalverpackung enthalten",
+          "Rechnungen vom 03.08.2026 bzw. 04.08.2026"
+        ],
+        "summary": "Samsung Galaxy Z Fold8 & Galaxy Watch Ultra 2, quasi neuwertig, Originalverpackung",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-14T17:03:54.487961+00:00"
+    },
     "fd6d801a9f41eacb58abd75f4469cd00": {
       "id": "fd6d801a9f41eacb58abd75f4469cd00",
       "title": "Samsung Galaxy Z Fold7 512GB Jetblack mit 1 Jahr Garantie",
@@ -223,9 +254,9 @@
       },
       "first_seen": "2026-08-14T15:02:05.930136+00:00"
     },
-    "cc6668827b3ddb61ad9a5a531a11ac45": {
-      "id": "cc6668827b3ddb61ad9a5a531a11ac45",
-      "title": "Samsung Galaxy Z Fold 8 Carbon Magnet Case blau",
+    "b11fcfe3bcea1038003e146bd33dfc16": {
+      "id": "b11fcfe3bcea1038003e146bd33dfc16",
+      "title": "Samsung Galaxy Z Fold8 Carbon Magnet Case blau",
       "price": "45 €",
       "speicher": "k.A.",
       "ort": "53604 Bad Honnef\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
@@ -234,16 +265,17 @@
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-carbon-magnet-case-blau/3484481380-406-1629",
-      "description": "Samsung Galaxy Z Fold 8 Carbon Magnet Case blau\nNeu\n\nPrivatverkauf, keine Garantie, keine...",
-      "full_description": "Samsung Galaxy Z Fold 8 Carbon Magnet Case blau Neu Privatverkauf, keine Garantie, keine Gewährleistung, kein Umtausch!",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-carbon-magnet-case-blau/3484481380-406-1629",
+      "description": "Samsung Galaxy Z Fold8 Carbon Magnet Case blau\nNeu\n\nPrivatverkauf, keine Garantie, keine...",
+      "full_description": "Samsung Galaxy Z Fold8 Carbon Magnet Case blau Neu Privatverkauf, keine Garantie, keine Gewährleistung, kein Umtausch!",
       "assessment": {
         "category": "Zubehör",
         "stars": 4,
         "label": "Empfehlenswert",
-        "price_note": "Sehr günstig",
+        "price_note": "Günstig",
         "flags": [
           "Keine Garantie",
+          "Keine Gewährleistung",
           "Kein Umtausch"
         ],
         "positives": [
@@ -251,14 +283,14 @@
           "Carbon Magnet Case",
           "Blau"
         ],
-        "summary": "Neuer Carbon Magnet Case für Z Fold 8, blau, privatverkauft",
+        "summary": "Neuer Carbon Magnet Case für Z Fold8, blau, privatverkauft",
         "source": "groq"
       },
-      "first_seen": "2026-08-14T15:02:05.930346+00:00"
+      "first_seen": "2026-08-14T17:03:54.490159+00:00"
     },
-    "988ee98be374b9de40f6cda08b8f64d5": {
-      "id": "988ee98be374b9de40f6cda08b8f64d5",
-      "title": "Samsung Galaxy Z Fold 8 Carbon Magnet Case schwarz",
+    "a4930a9c11806809f440cf4d6fd425f8": {
+      "id": "a4930a9c11806809f440cf4d6fd425f8",
+      "title": "Samsung Galaxy Z Fold 8Carbon Magnet Case schwarz",
       "price": "45 €",
       "speicher": "k.A.",
       "ort": "53604 Bad Honnef\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
@@ -267,17 +299,16 @@
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-carbon-magnet-case-schwarz/3484478737-406-1629",
-      "description": "Samsung Galaxy Z Fold 8 Carbon Magnet Case neu\n\nFarbe schwarz\n\nPrivatverkauf, keine Garantie, keine...",
-      "full_description": "Samsung Galaxy Z Fold 8 Carbon Magnet Case neu Farbe schwarz Privatverkauf, keine Garantie, keine Gewährleistung, kein Umtausch!",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8carbon-magnet-case-schwarz/3484478737-406-1629",
+      "description": "Samsung Galaxy Z Fold8 Carbon Magnet Case neu\n\nFarbe schwarz\n\nPrivatverkauf, keine Garantie, keine...",
+      "full_description": "Samsung Galaxy Z Fold8 Carbon Magnet Case neu Farbe schwarz Privatverkauf, keine Garantie, keine Gewährleistung, kein Umtausch!",
       "assessment": {
         "category": "Zubehör",
         "stars": 4,
         "label": "Empfehlenswert",
-        "price_note": "Sehr günstig",
+        "price_note": "Günstig",
         "flags": [
           "Keine Garantie",
-          "Keine Gewährleistung",
           "Kein Umtausch"
         ],
         "positives": [
@@ -288,7 +319,7 @@
         "summary": "Neuer Carbon Magnet Case für Z Fold 8, schwarz, privatverkauft",
         "source": "groq"
       },
-      "first_seen": "2026-08-14T15:02:05.930537+00:00"
+      "first_seen": "2026-08-14T17:03:54.490520+00:00"
     },
     "cc725050d49f0cd7b664e8abecbeb8bf": {
       "id": "cc725050d49f0cd7b664e8abecbeb8bf",
@@ -785,38 +816,8 @@
         "source": "groq"
       },
       "first_seen": "2026-08-13T20:54:58.784359+00:00"
-    },
-    "39152abc3cdc46ad1f5e49b710a3358b": {
-      "id": "39152abc3cdc46ad1f5e49b710a3358b",
-      "title": "Samsung Galaxy Z Fold8 Ultra 512GB Graphite",
-      "price": "VB",
-      "speicher": "512 GB",
-      "ort": "47169 Röttgersbach\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "42 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-ultra-512gb-graphite/3484035834-173-23951",
-      "description": "Ich biete hier mein Samsung Galaxy Z Fold8 Ultra in der Farbe Graphite zum Verkauf an. Das Gerät...",
-      "full_description": "Ich biete hier mein Samsung Galaxy Z Fold8 Ultra in der Farbe Graphite zum Verkauf an. Das Gerät kommt in der ungeöffneten Originalverpackung. - Modell: SM-F936B - Speicher: 512GB - Arbeitsspeicher: 12GB - Farbe: Graphite - Hergestellt in Korea Das Smartphone ist originalverpackt und unbenutzt. Es bietet eine beeindruckende Leistung und viel Speicherplatz für alle deine Apps und Medien. Da es noch versiegelt ist, befindet es sich in einem einwandfreien Neuzustand. Schreib mir gerne, wenn du Fragen hast.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Neu in OVP",
-          "Hochspezifisches Modell",
-          "Großer Speicher"
-        ],
-        "summary": "Neu in OVP, hochspezifisches Modell mit 512GB Speicher",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-13T20:54:58.784698+00:00"
     }
   },
   "last_full_send": "2026-08-14T02:37:19.415124+00:00",
-  "last_run": "2026-08-14T16:01:35.307999+00:00"
+  "last_run": "2026-08-14T17:04:27.972773+00:00"
 }
