@@ -1,34 +1,5 @@
 {
   "listings": {
-    "afe0330623314263274d3a11c7da3300": {
-      "id": "afe0330623314263274d3a11c7da3300",
-      "title": "HANDY-ANGEBOT PRÜFEN. FACHKUNDIG. SOFORT. | Für Smartphone: iPhone 11 12 13 14 15 16 17 Pro Max | Samsung Galaxy S23 S24 S25 S26 Ultra Plus Z Flip Fold FE | Google Pixel 8 9 10 Pro | Xiaomi 13 14 15",
-      "price": "3 €",
-      "speicher": "k.A.",
-      "ort": "53757 Sankt Augustin +  Kommt zu dir\n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "200 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/handy-angebot-pruefen-fachkundig-sofort-fuer-smartphone-iphone-11-12-13-14-15-16-17-pro-max-samsung-galaxy-s23-s24-s25-s26-ultra-plus-z-flip-fold-fe-google-pixel-8-9-10-pro-xiaomi-13-14-15/3476425555-298-1861",
-      "description": "ERHALTE EINE FACHKUNDIGE PRÜFUNG EINES HANDY-ANGEBOTS VOR DEM KAUF\n\n⚡ NUR 3 € – BIS ZU 2 ANGEBOTE...",
-      "full_description": "# ERHALTE EINE FACHKUNDIGE PRÜFUNG EINES HANDY-ANGEBOTS VOR DEM KAUF ⚡ **NUR 3 €** – BIS ZU 2 ANGEBOTE PRÜFEN LASSEN **SO FUNKTIONIERT ES:** **1) ANFRAGE** — Senden Sie mir den Link zu der Anzeige, die Sie prüfen lassen möchten, oder die ID dieser Anzeige (sie befindet sich unten). **2) FACHKUNDIGE PRÜFUNG** — Ich beginne sofort mit der Prüfung dieses Handy-Angebots: ~ Mehrstufige Prüfung der Anzeige und des Verkäufers auf mögliche Risiken (Betrug, fremde Fotos, Unstimmigkeiten usw.) ~ Prüfung der verfügbaren technischen Daten und detaillierte Analyse der Fotos (Unstimmigkeiten, nicht angegebene Schäden usw.) ~ Analyse des Preises und Möglichkeit der Zahlung mit Käuferschutz (In der Regel innerhalb von 30 Min.). **3) ERGEBNIS — SIE ERHALTEN:** ✔️ Kaufempfehlung: Ja oder Nein; ✔️ erkannte Risiken; ✔️ was vor dem Kauf zusätzlich geklärt werden sollte; ✔️ empfohlene Zahlungsmethoden (Versand). **4) BEZAHLUNG** — Nach Erhalt des Prüfergebnisses bezahlen Sie 3 € (PayPal oder Banküberweisung). **Ich heiße Alex**. Ich führe fachkundige Prüfungen von Handy-Angeboten vor dem Kauf durch und analysiere sie auf mögliche Risiken, technische Unstimmigkeiten und weitere relevante Punkte. Dieses Angebot ist nicht mit Kleinanzeigen verbunden und wird von Kleinanzeigen weder unterstützt noch autorisiert. Apple, iPhone, Samsung, Galaxy, Google, Pixel, Xiaomi und Kleinanzeigen sind Marken ihrer jeweiligen Inhaber. Zusätzlich: Vor-Ort-Beratung auf Anfrage.",
-      "assessment": {
-        "category": "Sonstiges",
-        "stars": 1,
-        "label": "Meiden",
-        "price_note": "Überteuert",
-        "flags": [
-          "Fachkundige Prüfung ist nicht ein Verkauf, sondern ein Service",
-          "Preis von 3 € ist sehr niedrig und wahrscheinlich ein Betrug"
-        ],
-        "positives": [],
-        "summary": "Fachkundige Prüfung von Handy-Angeboten, aber wahrscheinlich ein Betrug",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-14T11:52:19.441794+00:00"
-    },
     "731c323ac1cf757bf98abf25674e4a01": {
       "id": "731c323ac1cf757bf98abf25674e4a01",
       "title": "✅ ANKAUF ✅ Samsung Galaxy S25 S26 Ultra 5G Plus S26+ Z Flip Fold 7 8 ZFlip ZFold / Apple MacBook Pro Air 2025 M5 CHIP 13 14 15 iPad 11 16GB 24GB 32GB Max Mac Book i Pad 128GB 256GB 512GB 1TB iPhone 17",
@@ -60,6 +31,194 @@
         "source": "groq"
       },
       "first_seen": "2026-08-14T13:32:37.031041+00:00"
+    },
+    "afe0330623314263274d3a11c7da3300": {
+      "id": "afe0330623314263274d3a11c7da3300",
+      "title": "HANDY-ANGEBOT PRÜFEN. FACHKUNDIG. SOFORT. | Für Smartphone: iPhone 11 12 13 14 15 16 17 Pro Max | Samsung Galaxy S23 S24 S25 S26 Ultra Plus Z Flip Fold FE | Google Pixel 8 9 10 Pro | Xiaomi 13 14 15",
+      "price": "3 €",
+      "speicher": "k.A.",
+      "ort": "53757 Sankt Augustin +  Kommt zu dir\n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "200 km",
+      "zustand": "k.A.",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Gewerblich",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/handy-angebot-pruefen-fachkundig-sofort-fuer-smartphone-iphone-11-12-13-14-15-16-17-pro-max-samsung-galaxy-s23-s24-s25-s26-ultra-plus-z-flip-fold-fe-google-pixel-8-9-10-pro-xiaomi-13-14-15/3476425555-298-1861",
+      "description": "ERHALTE EINE FACHKUNDIGE PRÜFUNG EINES HANDY-ANGEBOTS VOR DEM KAUF\n\n⚡ NUR 3 € – BIS ZU 2 ANGEBOTE...",
+      "full_description": "# ERHALTE EINE FACHKUNDIGE PRÜFUNG EINES HANDY-ANGEBOTS VOR DEM KAUF ⚡ **NUR 3 €** – BIS ZU 2 ANGEBOTE PRÜFEN LASSEN **SO FUNKTIONIERT ES:** **1) ANFRAGE** — Senden Sie mir den Link zu der Anzeige, die Sie prüfen lassen möchten, oder die ID dieser Anzeige (sie befindet sich unten). **2) FACHKUNDIGE PRÜFUNG** — Ich beginne sofort mit der Prüfung dieses Handy-Angebots: ~ Mehrstufige Prüfung der Anzeige und des Verkäufers auf mögliche Risiken (Betrug, fremde Fotos, Unstimmigkeiten usw.) ~ Prüfung der verfügbaren technischen Daten und detaillierte Analyse der Fotos (Unstimmigkeiten, nicht angegebene Schäden usw.) ~ Analyse des Preises und Möglichkeit der Zahlung mit Käuferschutz (In der Regel innerhalb von 30 Min.). **3) ERGEBNIS — SIE ERHALTEN:** ✔️ Kaufempfehlung: Ja oder Nein; ✔️ erkannte Risiken; ✔️ was vor dem Kauf zusätzlich geklärt werden sollte; ✔️ empfohlene Zahlungsmethoden (Versand). **4) BEZAHLUNG** — Nach Erhalt des Prüfergebnisses bezahlen Sie 3 € (PayPal oder Banküberweisung). **Ich heiße Alex**. Ich führe fachkundige Prüfungen von Handy-Angeboten vor dem Kauf durch und analysiere sie auf mögliche Risiken, technische Unstimmigkeiten und weitere relevante Punkte. Dieses Angebot ist nicht mit Kleinanzeigen verbunden und wird von Kleinanzeigen weder unterstützt noch autorisiert. Apple, iPhone, Samsung, Galaxy, Google, Pixel, Xiaomi und Kleinanzeigen sind Marken ihrer jeweiligen Inhaber. Zusätzlich: Vor-Ort-Beratung auf Anfrage.",
+      "assessment": {
+        "category": "Sonstiges",
+        "stars": 1,
+        "label": "Meiden",
+        "price_note": "Überteuert",
+        "flags": [
+          "Fachkundige Prüfung ist nicht ein Verkauf, sondern ein Service",
+          "Preis von 3 € ist sehr niedrig und wahrscheinlich ein Betrug"
+        ],
+        "positives": [],
+        "summary": "Fachkundige Prüfung von Handy-Angeboten, aber wahrscheinlich ein Betrug",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-14T11:52:19.441794+00:00"
+    },
+    "05e752b93c1b4728f949ae4500c6b0a9": {
+      "id": "05e752b93c1b4728f949ae4500c6b0a9",
+      "title": "Samsung Galaxy Z Fold 8 512 GB & Galaxy Watch9 44mm",
+      "price": "1.999 € VB",
+      "speicher": "512 GB",
+      "ort": "44649 Herne\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "62 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-512-gb-galaxy-watch9-44mm/3484500621-173-2008",
+      "description": "Ich verkaufe hier ein unbenutztes Set bestehend aus einem Samsung Galaxy Z Fold6 Smartphone und...",
+      "full_description": "Ich verkaufe hier ein unbenutztes Set bestehend aus einem Samsung Galaxy Z Fold6 Smartphone und einer passenden Samsung Galaxy Watch9. - Samsung Galaxy Z Fold6 mit 512 GB Speicher - Samsung Galaxy Watch9 - Beide Geräte befinden sich in der ungeöffneten Originalverpackung - Originale Versiegelung mit Samsung-Branding vorhanden Das Set ist ideal für alle, die ein leistungsstarkes Smartphone mit der passenden Smartwatch suchen. Die Geräte sind originalverpackt und weisen keinerlei Gebrauchsspuren auf. Schreib mir gerne, falls du noch Fragen zu diesem Angebot hast.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Neu in OVP",
+          "Originale Versiegelung",
+          "Ideal für Smartphone- und Smartwatch-Anwender"
+        ],
+        "summary": "Unbenutztes Set aus Samsung Galaxy Z Fold6 und Galaxy Watch9 in OVP",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-14T15:02:05.929941+00:00"
+    },
+    "e8cfaccd953d117af7d069fcbc405e58": {
+      "id": "e8cfaccd953d117af7d069fcbc405e58",
+      "title": "Samsung Galaxy Z Fold8 256 GB",
+      "price": "1.600 € VB",
+      "speicher": "256 GB",
+      "ort": "46149 Oberhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "44 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-256-gb/3484482757-173-1290",
+      "description": "Ich biete einen ungeöffneten Samsung Galaxy Z Fold8 an",
+      "full_description": "Ich biete einen ungeöffneten Samsung Galaxy Z Fold8 an",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
+        "flags": [
+          "Überteuertes Preisniveau",
+          "Keine Fotos oder Videos des Geräts"
+        ],
+        "positives": [
+          "Neu und ungeöffnet",
+          "Original Verpackung"
+        ],
+        "summary": "Überteuertes Neu-Gerät ohne Fotos oder Videos",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-14T15:02:05.930136+00:00"
+    },
+    "cc6668827b3ddb61ad9a5a531a11ac45": {
+      "id": "cc6668827b3ddb61ad9a5a531a11ac45",
+      "title": "Samsung Galaxy Z Fold 8 Carbon Magnet Case blau",
+      "price": "45 €",
+      "speicher": "k.A.",
+      "ort": "53604 Bad Honnef\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "84 km",
+      "zustand": "Neu",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-carbon-magnet-case-blau/3484481380-406-1629",
+      "description": "Samsung Galaxy Z Fold 8 Carbon Magnet Case blau\nNeu\n\nPrivatverkauf, keine Garantie, keine...",
+      "full_description": "Samsung Galaxy Z Fold 8 Carbon Magnet Case blau Neu Privatverkauf, keine Garantie, keine Gewährleistung, kein Umtausch!",
+      "assessment": {
+        "category": "Zubehör",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Sehr günstig",
+        "flags": [
+          "Keine Garantie",
+          "Kein Umtausch"
+        ],
+        "positives": [
+          "Neu",
+          "Carbon Magnet Case",
+          "Blau"
+        ],
+        "summary": "Neuer Carbon Magnet Case für Z Fold 8, blau, privatverkauft",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-14T15:02:05.930346+00:00"
+    },
+    "988ee98be374b9de40f6cda08b8f64d5": {
+      "id": "988ee98be374b9de40f6cda08b8f64d5",
+      "title": "Samsung Galaxy Z Fold 8 Carbon Magnet Case schwarz",
+      "price": "45 €",
+      "speicher": "k.A.",
+      "ort": "53604 Bad Honnef\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "84 km",
+      "zustand": "Neu",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-carbon-magnet-case-schwarz/3484478737-406-1629",
+      "description": "Samsung Galaxy Z Fold 8 Carbon Magnet Case neu\n\nFarbe schwarz\n\nPrivatverkauf, keine Garantie, keine...",
+      "full_description": "Samsung Galaxy Z Fold 8 Carbon Magnet Case neu Farbe schwarz Privatverkauf, keine Garantie, keine Gewährleistung, kein Umtausch!",
+      "assessment": {
+        "category": "Zubehör",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Sehr günstig",
+        "flags": [
+          "Keine Garantie",
+          "Keine Gewährleistung",
+          "Kein Umtausch"
+        ],
+        "positives": [
+          "Neu",
+          "Carbon Magnet Case",
+          "Schwarz"
+        ],
+        "summary": "Neuer Carbon Magnet Case für Z Fold 8, schwarz, privatverkauft",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-14T15:02:05.930537+00:00"
+    },
+    "cc725050d49f0cd7b664e8abecbeb8bf": {
+      "id": "cc725050d49f0cd7b664e8abecbeb8bf",
+      "title": "Samsung Galaxy Z Fold 8 Ultra 1Tb Creme",
+      "price": "2.100 € VB",
+      "speicher": "1 TB",
+      "ort": "47137 Meiderich/​Beeck\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "38 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-ultra-1tb-creme/3484477952-173-2155",
+      "description": "Ich verkaufe ein brandneues Samsung Galaxy Z Fold8 Ultra in der Farbe Creme. Das Gerät ist noch...",
+      "full_description": "Ich verkaufe ein brandneues Samsung Galaxy Z Fold8 Ultra in der Farbe Creme. Das Gerät ist noch originalverpackt und wurde bisher nicht geöffnet. - Modell: Samsung Galaxy Z Fold8 Ultra - Speicherplatz: 1TB - Farbe: Creme - Zustand: Neu und ungeöffnet Das Smartphone kommt direkt in der ungeöffneten Originalverpackung zu dir. Da es sich um ein neues Gerät handelt, sind keinerlei Gebrauchsspuren vorhanden. Falls du noch weitere Informationen benötigst, schreib mir gerne eine Nachricht.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Sehr günstig",
+        "flags": [],
+        "positives": [
+          "Neu und ungeöffnet",
+          "Originalverpackung",
+          "1TB Speicher"
+        ],
+        "summary": "Brandneues Samsung Galaxy Z Fold8 Ultra in Creme, 1TB, OVP",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-14T15:02:05.930733+00:00"
     },
     "d7caf8655610a609ac2123792cdd6093": {
       "id": "d7caf8655610a609ac2123792cdd6093",
@@ -232,7 +391,7 @@
       "speicher": "k.A.",
       "ort": "51063 Mülheim\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "47 km",
-      "zustand": "Neu",
+      "zustand": "k.A.",
       "model": "Z Fold 6",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -262,7 +421,7 @@
       "speicher": "256 GB",
       "ort": "44651 Herne\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "61 km",
-      "zustand": "Sehr gut",
+      "zustand": "k.A.",
       "model": "Z Fold 5",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -504,7 +663,7 @@
     "28a04b6f7f9aab4f06d42c921b460e7e": {
       "id": "28a04b6f7f9aab4f06d42c921b460e7e",
       "title": "Samsung Galaxy Z Fold8 Ultra 256GB Neu & OVP",
-      "price": "1.600 €",
+      "price": "1.500 €1.600 €",
       "speicher": "256 GB",
       "ort": "44339 Eving\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "82 km",
@@ -516,22 +675,16 @@
       "description": "Ich biete hier ein brandneues und originalverpacktes Samsung Galaxy Z Fold8 Ultra an. Dieses...",
       "full_description": "Ich biete hier ein brandneues und originalverpacktes Samsung Galaxy Z Fold8 Ultra an. Dieses Smartphone ist noch versiegelt und wurde nie benutzt. Es ist das perfekte Gerät für alle, die modernste Technologie und ein faltbares Display suchen.Das Galaxy Z Fold8 Ultra kommt mit folgenden Merkmalen: - Großes, faltbares Display für maximale Produktivität - Leistungsstarke Kamera - Neueste Samsung-Technologie - Elegantes Design in Violet Shadow - 256GB Das Handy ist in einwandfreiem Zustand, da es sich noch in der ungeöffneten Originalverpackung befindet. Du erhältst ein komplett neues Gerät. Bei Fragen melde dich gerne.",
       "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Sehr hoher Preis",
-          "Keine Angaben zum Preiswert"
-        ],
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "ℹ️ Preis nicht angegeben",
+        "flags": [],
         "positives": [
-          "Neu und originalverpackt",
-          "Großes, faltbares Display",
-          "Leistungsstarke Kamera",
-          "Neueste Samsung-Technologie"
+          "✅ Originalverpackung",
+          "✅ Makellos",
+          "✅ Zubehör dabei"
         ],
-        "summary": "Brandneues, originalverpacktes Samsung Galaxy Z Fold8 Ultra für 1.600 €",
-        "source": "groq"
+        "summary": "✅ Originalverpackung · ℹ️ Preis nicht angegeben"
       },
       "first_seen": "2026-08-14T06:22:21.717551+00:00"
     },
@@ -693,164 +846,8 @@
         "source": "groq"
       },
       "first_seen": "2026-08-14T10:12:52.296271+00:00"
-    },
-    "cc89b3643b9ce1a63e931fe7ab8e9504": {
-      "id": "cc89b3643b9ce1a63e931fe7ab8e9504",
-      "title": "Samsung Galaxy Fold 8 512GB Cream",
-      "price": "1.450 € VB1.550 €",
-      "speicher": "512 GB",
-      "ort": "50226 Frechen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "40 km",
-      "zustand": "Wie neu",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-8-512gb-cream/3483925355-173-1160",
-      "description": "Verkaufe mein absolut neuwertiges Samsung Galaxy Fold 8 mit 512GB.\nLeider komme ich damit doch...",
-      "full_description": "Verkaufe mein absolut neuwertiges Samsung Galaxy Fold 8 mit 512GB. Leider komme ich damit doch nicht so gut zurecht und steige wieder auf mein iPhone um. Es wurde bisher nur zuhause benutzt und hat keinerlei Gebrauchsspuren. Auf unverschämte Angebote antworte ich nicht.",
-      "assessment": {
-        "stars": 2,
-        "label": "Vorsicht",
-        "price_note": "ℹ️ Preis nicht angegeben",
-        "flags": [
-          "ℹ️ Gebrauchsspuren"
-        ],
-        "positives": [
-          "✅ Makellos"
-        ],
-        "summary": "ℹ️ Gebrauchsspuren · ℹ️ Preis nicht angegeben"
-      },
-      "first_seen": "2026-08-13T19:14:48.067458+00:00"
-    },
-    "a81ccbdc517d506f2ddf590e87b9df7f": {
-      "id": "a81ccbdc517d506f2ddf590e87b9df7f",
-      "title": "ICH SUCHE Samsung Galaxy Fold 8 nur Creme",
-      "price": "1.300 € VB",
-      "speicher": "k.A.",
-      "ort": "44328 Scharnhorst\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "84 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
-      "angebotstyp": "Gesuch",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/ich-suche-samsung-galaxy-fold-8-nur-creme/3483789460-173-1095",
-      "description": "Wie der Titel schon sagt, suche ich ein neues Samsung Galaxy Fold 8 in Creme. Am liebsten in der...",
-      "full_description": "Wie der Titel schon sagt, suche ich ein neues Samsung Galaxy Fold 8 in Creme. Am liebsten in der Nähe von Dortmund, damit ich es persönlich abholen kann. Preis: 1.300 € (verhandelbar).",
-      "assessment": {
-        "category": "Ankauf",
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "Günstig",
-        "flags": [
-          "Unklarer Zustand",
-          "Unbekannter Speicher"
-        ],
-        "positives": [
-          "Verhandelbarer Preis",
-          "Persönliche Abholung möglich"
-        ],
-        "summary": "Suche nach neuem Samsung Galaxy Fold 8 in Creme, Preis 1.300 €, Dortmund-Nähe",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-13T15:07:21.527237+00:00"
-    },
-    "8201a4dfb5269e928cb4db0a62abf23b": {
-      "id": "8201a4dfb5269e928cb4db0a62abf23b",
-      "title": "Samsung Galaxy Z Fold 7 - 16 GB RAM / 1 TB Speicher",
-      "price": "1.100 € VB",
-      "speicher": "16 GB",
-      "ort": "40789 Monheim am Rhein\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "34 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-16-gb-ram-1-tb-speicher/3483773440-173-1116",
-      "description": "Ich biete hier mein Samsung Galaxy Z Fold 7 zum Verkauf an. Das Gerät befindet sich in einem sehr...",
-      "full_description": "Ich biete hier mein Samsung Galaxy Z Fold 7 zum Verkauf an. Das Gerät befindet sich in einem sehr gepflegten Zustand und kommt in der originalen Verpackung. Hier sind die wichtigsten technischen Details: - Modell: Samsung Galaxy Z Fold 7 - Arbeitsspeicher: 16 GB RAM - Interner Speicher: 1 TB Das Smartphone überzeugt durch seine innovative Falt-Technologie und bietet enorm viel Platz für alle deine Apps, Fotos und Dateien. Optisch weist es lediglich minimale Gebrauchsspuren an den Kanten auf, die im Alltag kaum auffallen. Das Display ist einwandfrei und voll funktionsfähig. Zusätzlich kommt dazu ein S Pen Fold Edition- neu nie gebraucht ( die Verpackung ist aber beschädigt). Das Handy ist Simlock frei und kann sofort genutzt werden. Dies ist ein Privatverkauf. Ich übernehme keine Garantie. Gerne auch für Selbstabholer.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Sehr gepflegter Zustand",
-          "Originalverpackung",
-          "16 GB RAM",
-          "1 TB Speicher",
-          "S Pen Fold Edition",
-          "Simlock frei"
-        ],
-        "summary": "Samsung Galaxy Z Fold 7, 16 GB RAM, 1 TB Speicher, sehr gepflegter Zustand, Originalverpackung",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-13T15:07:21.527539+00:00"
-    },
-    "ac4377ef26ce3aa69d6d353ea3af0944": {
-      "id": "ac4377ef26ce3aa69d6d353ea3af0944",
-      "title": "Original Samsung Slim S Pen Case Galaxy Z Fold5 OVP",
-      "price": "30 €",
-      "speicher": "k.A.",
-      "ort": "41469 Neuss\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "20 km",
-      "zustand": "Neu",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/original-samsung-slim-s-pen-case-galaxy-z-fold5-ovp/3483765814-173-2116",
-      "description": "Biete original Samsung Slim S Pen Case für Galaxy Z Fold5\n\nFarbe: Schwarz\nZustand: Neu und...",
-      "full_description": "Biete original Samsung Slim S Pen Case für Galaxy Z Fold5 Farbe: Schwarz Zustand: Neu und originalverpackt, noch versiegelt 100% Original Samsung Mit integriertem S Pen Fach. Schützt und bleibt schlank. Neupreis 99€ Mein Festpreis: 30€ Versand als Brief: 2€ Abholung in Neuss möglich Bei Fragen gerne melden :)",
-      "assessment": {
-        "category": "Zubehör",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Sehr günstig",
-        "flags": [],
-        "positives": [
-          "Original-Produkt",
-          "Neu und originalverpackt",
-          "Günstiger Preis"
-        ],
-        "summary": "Original Samsung Slim S Pen Case für Galaxy Z Fold5, neu und originalverpackt, 30€",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-13T15:07:21.527856+00:00"
-    },
-    "836fbe508cad59c3f17656f23304a75d": {
-      "id": "836fbe508cad59c3f17656f23304a75d",
-      "title": "Samsung Galaxy Z Fold 5 - 256GB | 12GB - Schwarz",
-      "price": "489 €",
-      "speicher": "256 GB",
-      "ort": "50823 Ehrenfeld\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "44 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-5-256gb-12gb-schwarz/3483750260-173-981",
-      "description": "WILLKOMMEN BEI ARMAC | AN- & VERKAUF\n\n\n_______________________________\n\n\nPRODUKTDETAILS\n\nModell:...",
-      "full_description": "WILLKOMMEN BEI ARMAC | AN- & VERKAUF _______________________________ PRODUKTDETAILS Modell: Samsung Galaxy Z Fold 5 Speicher: 256GB | 12GB Farbe: Schwarz Zubehör: USB-Kabel Verpackung: Ja OPTISCHER ZUSTAND Gebraucht - Top Zustand Auf dem Haupt Display ist die Herstellerfolie drauf _______________________________ HINWEISE ZU UNSEREN GEBRAUCHTEN GERÄTEN ✔️12 Monate Gewährleistung ✔️ Keine Reparaturen, die meisten Geräte befinden sich im Originalzustand. ✔️ Geprüft & voll funktionsfähig _______________________________ Wir schaffen es nicht immer, allen zu antworten. Bei Fragen, Abholungen oder Verkäufen einfach anrufen und direkt klären. _______________________________ ALLGEMEINE INFORMATIONEN Zahlungsmöglichkeit: Nur Barzahlung ❗️ Nur Selbstabholung. Adresse: Venloer Str. 182, 50823 Köln Beim Kauf erhalten Sie von uns eine Quittung. Quittung: Wird nach § 25a UStG (Differenzbesteuerung) ausgestellt - kein MwSt. Ausweis möglich. _______________________________ ÖFFNUNGSZEITEN: Mo - Sa: 10:30 - 18:30 Uhr An Sonn- und Feiertagen: Geschlossen GESCHÄFTSSTELLE | ADRESSE: Venloer Str. 182, 50823 Köln U-BAHN-HALTESTELLE: Piusstraße - Linie 3 und 4 KONTAKT: Tel.: 0221 16910298 _______________________________ Alle genannten Markennamen und Warenzeichen sind Eigentum der jeweiligen Eigentümer und Rechteinhaber. Unser Impressum, Hinweise zur Batterieentsorgung, (GPSR) Hersteller/EU Verantwortliche Person und weitere Informationen erreichen Sie durch einen Klick auf „Rechtliche Angaben“.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [
-          "Keine Angaben zum Alter des Geräts",
-          "Nur Barzahlung"
-        ],
-        "positives": [
-          "Top Zustand",
-          "12 Monate Gewährleistung",
-          "Geprüft & voll funktionsfähig"
-        ],
-        "summary": "Gebrauchter Samsung Galaxy Z Fold 5 in Top Zustand, 256GB, 12GB, Schwarz, 489€",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-13T15:07:21.528448+00:00"
     }
   },
   "last_full_send": "2026-08-14T02:37:19.415124+00:00",
-  "last_run": "2026-08-14T13:33:22.315712+00:00"
+  "last_run": "2026-08-14T15:02:45.663219+00:00"
 }
