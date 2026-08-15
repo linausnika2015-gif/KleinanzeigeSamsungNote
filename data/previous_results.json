@@ -1,5 +1,37 @@
 {
   "listings": {
+    "afe0330623314263274d3a11c7da3300": {
+      "id": "afe0330623314263274d3a11c7da3300",
+      "title": "HANDY-ANGEBOT PRÜFEN. FACHKUNDIG. SOFORT. | Für Smartphone: iPhone 11 12 13 14 15 16 17 Pro Max | Samsung Galaxy S23 S24 S25 S26 Ultra Plus Z Flip Fold FE | Google Pixel 8 9 10 Pro | Xiaomi 13 14 15",
+      "price": "3 €",
+      "speicher": "k.A.",
+      "ort": "53757 Sankt Augustin +  Kommt zu dir\n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "200 km",
+      "zustand": "k.A.",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Gewerblich",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/handy-angebot-pruefen-fachkundig-sofort-fuer-smartphone-iphone-11-12-13-14-15-16-17-pro-max-samsung-galaxy-s23-s24-s25-s26-ultra-plus-z-flip-fold-fe-google-pixel-8-9-10-pro-xiaomi-13-14-15/3476425555-298-1861",
+      "description": "ERHALTE EINE FACHKUNDIGE PRÜFUNG EINES HANDY-ANGEBOTS VOR DEM KAUF\n\n⚡ NUR 3 € – BIS ZU 2 ANGEBOTE...",
+      "full_description": "# ERHALTE EINE FACHKUNDIGE PRÜFUNG EINES HANDY-ANGEBOTS VOR DEM KAUF ⚡ **NUR 3 €** – BIS ZU 2 ANGEBOTE PRÜFEN LASSEN **SO FUNKTIONIERT ES:** **1) ANFRAGE** — Senden Sie mir den Link zu der Anzeige, die Sie prüfen lassen möchten, oder die ID dieser Anzeige (sie befindet sich unten). **2) FACHKUNDIGE PRÜFUNG** — Ich beginne sofort mit der Prüfung dieses Handy-Angebots: ~ Mehrstufige Prüfung der Anzeige und des Verkäufers auf mögliche Risiken (Betrug, fremde Fotos, Unstimmigkeiten usw.) ~ Prüfung der verfügbaren technischen Daten und detaillierte Analyse der Fotos (Unstimmigkeiten, nicht angegebene Schäden usw.) ~ Analyse des Preises und Möglichkeit der Zahlung mit Käuferschutz (In der Regel innerhalb von 30 Min.). **3) ERGEBNIS — SIE ERHALTEN:** ✔️ Kaufempfehlung: Ja oder Nein; ✔️ erkannte Risiken; ✔️ was vor dem Kauf zusätzlich geklärt werden sollte; ✔️ empfohlene Zahlungsmethoden (Versand). **4) BEZAHLUNG** — Nach Erhalt des Prüfergebnisses bezahlen Sie 3 € (PayPal oder Banküberweisung). **Ich heiße Alex**. Ich führe fachkundige Prüfungen von Handy-Angeboten vor dem Kauf durch und analysiere sie auf mögliche Risiken, technische Unstimmigkeiten und weitere relevante Punkte. Dieses Angebot ist nicht mit Kleinanzeigen verbunden und wird von Kleinanzeigen weder unterstützt noch autorisiert. Apple, iPhone, Samsung, Galaxy, Google, Pixel, Xiaomi und Kleinanzeigen sind Marken ihrer jeweiligen Inhaber. Zusätzlich: Vor-Ort-Beratung auf Anfrage.",
+      "assessment": {
+        "category": "Sonstiges",
+        "stars": 2,
+        "label": "Neutral",
+        "price_note": "Sehr günstig",
+        "flags": [
+          "Unbekannter Verkäufer",
+          "Keine technischen Daten"
+        ],
+        "positives": [
+          "Fachkundige Prüfung vor dem Kauf",
+          "Käuferschutz"
+        ],
+        "summary": "Fachkundige Prüfung von Handy-Angeboten vor dem Kauf für 3 €",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-15T14:32:11.707220+00:00"
+    },
     "41946cededaec1d06cb49cb5657db1f0": {
       "id": "41946cededaec1d06cb49cb5657db1f0",
       "title": "❌SUCHE ANKAUF Samsung Galaxy S25 S26 Ultra Plus Z Fold 8 Flip 8 Tab S9 S10 S11  Z Fold Flip 7",
@@ -32,35 +64,72 @@
       },
       "first_seen": "2026-08-15T11:29:09.650521+00:00"
     },
-    "de51f625f8bb8970aade55ead987af87": {
-      "id": "de51f625f8bb8970aade55ead987af87",
-      "title": "Samsung Galaxy Z Fold8 (256 GB) Graphite & Galaxy Watch Ultra 2",
-      "price": "1.600 € VB",
+    "1ae14ef9cc5a3c98febf647e46bc8eb7": {
+      "id": "1ae14ef9cc5a3c98febf647e46bc8eb7",
+      "title": "Samsung Galaxy Z Fold 8",
+      "price": "1.300 €",
       "speicher": "256 GB",
-      "ort": "44534 Lünen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "89 km",
-      "zustand": "k.A.",
+      "ort": "47445 Moers\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "34 km",
+      "zustand": "Wie neu",
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-256-gb-graphite-galaxy-watch-ultra-2/3484627366-173-1754",
-      "description": "Ich biete hier mein Samsung Galaxy Z Fold8 zusammen mit der passenden Samsung Galaxy Watch Ultra 2...",
-      "full_description": "Ich biete hier mein Samsung Galaxy Z Fold8 zusammen mit der passenden Samsung Galaxy Watch Ultra 2 zum Kauf an. Beide Geräte wurden nur kurzzeitig zu Testzwecken verwendet und befinden sich daher in einem hervorragenden Zustand ohne Kratzer. - Samsung Galaxy Z Fold8 - Samsung Galaxy Watch Ultra 2 - Originalverpackung für beide Geräte enthalten - Inklusive Rechnungen vom 03.08.2026 bzw. 04.08.2026 Versand ist möglich. Zuzüglich Versandkosten. Die Geräte sind quasi neuwertig und wurden sehr pfleglich behandelt. Falls du Fragen zu diesem Set hast, schreib mir gerne eine Nachricht.",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8/3485316760-173-2129",
+      "description": "Verkaufe ein neuwertiges Samsung Galaxy Z Fold 8 mit 256GB in schwarz. Es hat erst 2 Ladezyklen....",
+      "full_description": "Verkaufe ein neuwertiges Samsung Galaxy Z Fold 8 mit 256GB in schwarz. Es hat erst 2 Ladezyklen. Folie seit Beginn drauf. Eine originale Carbonhülle ist dabei. Verpackung, Rechnung und Ladekabel ist selbstverständlich dabei.",
       "assessment": {
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "🟢 Sehr günstig (Ref. ~180 €)",
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [],
+        "positives": [
+          "Wie neu",
+          "Erst 2 Ladezyklen",
+          "Folie seit Beginn drauf",
+          "Originale Carbonhülle",
+          "Verpackung",
+          "Rechnung",
+          "Ladekabel"
+        ],
+        "summary": "Neuwertiges Z Fold 8 mit 256 GB, nur 2 Ladezyklen, originale Hülle und Zubehör",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-15T14:32:11.708003+00:00"
+    },
+    "dfcc7ba964b86d6cabbff575c19b4f0d": {
+      "id": "dfcc7ba964b86d6cabbff575c19b4f0d",
+      "title": "Samsung Galaxy Fold 8 Ultra 265 Gigabyte Graphit NEU",
+      "price": "1.450 € VB",
+      "speicher": "256 GB",
+      "ort": "44894 Bochum-​Ost\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "68 km",
+      "zustand": "Neu",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-fold-8-ultra-265-gigabyte-graphit-neu/3485312517-173-1936",
+      "description": "Samsung Galaxy Z Fold 8 Ultra – 256 GB – NEU & OVP\n\nVerkaufe ein nagelneues Samsung Galaxy Z Fold 8...",
+      "full_description": "Samsung Galaxy Z Fold 8 Ultra – 256 GB – NEU & OVP Verkaufe ein nagelneues Samsung Galaxy Z Fold 8 Ultra mit 256 GB Speicher. Zustand: Neu & originalverpackt Verpackung: Versiegelung auf aber nicht ausgepackt Speicher: 256 GB ✨ Keine Gebrauchsspuren – nicht benutzt Ideal für alle, die das neue Fold zum attraktiven Preis suchen. Abholung bevorzugt, Versand nach Absprache ebenfalls möglich. Bei Interesse oder Fragen einfach kurz schreiben. Privatverkauf unter Ausschluss der Sachmängelhaftung. Keine Rücknahme oder Garantie meinerseits.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "Überteuert",
         "flags": [
-          "ℹ️ Kratzer vorhanden"
+          "Privatverkauf ohne Garantie",
+          "Keine Rücknahme möglich"
         ],
         "positives": [
-          "✅ Originalverpackung",
-          "✅ Rechnung/Beleg vorhanden",
-          "✅ Makellos"
+          "NEU & OVP",
+          "Keine Gebrauchsspuren",
+          "Ideal für alle, die das neue Fold suchen"
         ],
-        "summary": "ℹ️ Kratzer vorhanden · 🟢 Sehr günstig (Ref. ~180 €)"
+        "summary": "NEU Samsung Galaxy Z Fold 8 Ultra 256 GB für 1.450 €",
+        "source": "groq"
       },
-      "first_seen": "2026-08-15T08:39:34.297905+00:00"
+      "first_seen": "2026-08-15T14:32:11.708334+00:00"
     },
     "f6d5cf56b2d2b1c3179c136b2d88a52f": {
       "id": "f6d5cf56b2d2b1c3179c136b2d88a52f",
@@ -124,38 +193,6 @@
         "source": "groq"
       },
       "first_seen": "2026-08-15T13:37:03.475919+00:00"
-    },
-    "4faff88d0058cbbeb63076e0c47aa1ce": {
-      "id": "4faff88d0058cbbeb63076e0c47aa1ce",
-      "title": "Samsung Galaxy Z Fold 8 256GB Graphite",
-      "price": "1.250 €",
-      "speicher": "256 GB",
-      "ort": "45883 Gelsenkirchen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "56 km",
-      "zustand": "Wie neu",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-256gb-graphite/3485213033-173-1006",
-      "description": "Neuwertiges Galaxy Z Fold 8 256GB in Graphite zu verkaufen, nur wenige Stunden benutzt.\n15.08.2026...",
-      "full_description": "Neuwertiges Galaxy Z Fold 8 256GB in Graphite zu verkaufen, nur wenige Stunden benutzt. 15.08.2026 aktiviert. Inkl dem kompletten Zubehör und Rechnung.",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Überteuert",
-        "flags": [
-          "Sehr kurze Benutzungsdauer",
-          "Hochpreis"
-        ],
-        "positives": [
-          "Wie neuer Zustand",
-          "Komplett mit Zubehör und Rechnung"
-        ],
-        "summary": "Neuer Galaxy Z Fold 8 256GB in Graphite zum hohen Preis",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-15T12:54:35.318272+00:00"
     },
     "995b7912adadd778e13a29872db6c5bf": {
       "id": "995b7912adadd778e13a29872db6c5bf",
@@ -321,7 +358,7 @@
     "3f0309907aef19a5d3c7fd9076e728ca": {
       "id": "3f0309907aef19a5d3c7fd9076e728ca",
       "title": "Samsung Galaxy Z Fold 8 Ultra 256GB neu versiegelt",
-      "price": "1.400 €",
+      "price": "1.369 €",
       "speicher": "256 GB",
       "ort": "45468 Mülheim (Ruhr)\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "40 km",
@@ -796,5 +833,5 @@
     }
   },
   "last_full_send": "2026-08-14T02:37:19.415124+00:00",
-  "last_run": "2026-08-15T13:37:33.400100+00:00"
+  "last_run": "2026-08-15T14:32:46.377030+00:00"
 }
