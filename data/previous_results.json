@@ -63,6 +63,39 @@
       },
       "first_seen": "2026-08-16T08:40:31.976021+00:00"
     },
+    "2c089a6256cf748ebf8e9afd22f6241e": {
+      "id": "2c089a6256cf748ebf8e9afd22f6241e",
+      "title": "Samsung Galaxy Z Fold 3 5G 256 GB Phantom Black, OVP mit Zubehör",
+      "price": "180 € VB",
+      "speicher": "256 GB",
+      "ort": "44892 Bochum-​Ost\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "69 km",
+      "zustand": "k.A.",
+      "model": "Z Fold 3",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-3-5g-256-gb-phantom-black-ovp-mit-zubehoer/3486347146-173-1937",
+      "description": "Ich verkaufe mein Samsung Galaxy Z Fold 3 5G Smartphone inklusive Zubehör wegen Neuanschaffung.\nDas...",
+      "full_description": "Ich verkaufe mein Samsung Galaxy Z Fold 3 5G Smartphone inklusive Zubehör wegen Neuanschaffung. Das Smartphone ist insgesamt in einem guten, gepflegten Zustand und voll funktionsfähig und sofort benutzbar (auf Werkseinstellung zurückgesetzt). Es hat nur minimale Gebrauchsspuren, da es immer in einer Hülle geschützt war. Das Innendisplay weist einen schwarzbleibenden Punkt auf. In der Knickfalte ist eine Knickspur sichtbar, siehe Fotos. Das Smartphone ist OVP und wird mit zusätzlichen Zubehör (1x Original Flip Cover mit Stift, 2x Schutzhülle, 1x Extra USB Kabel) verkauft. Bei Fragen melden Sie sich gerne. Das Smartphone kann in 44892 abgeholt oder gegen zusätzliche Gebühren versichert versendet werden. Die Zahlung ist per Überweisung oder Paypal möglich. Privatverkauf, daher ohne Garantie, Rücknahme und Gewährleistung.",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Schwarze Punkt auf dem Innendisplay",
+          "Knickspur in der Knickfalte"
+        ],
+        "positives": [
+          "Guter Zustand",
+          "Voll funktionsfähig",
+          "Mit Zubehör verkauft"
+        ],
+        "summary": "Gebrauchtes Z Fold 3 mit Zubehör, guter Zustand, schwarzer Punkt auf dem Display",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-16T15:30:43.638711+00:00"
+    },
     "73a4313255beddc6b25de3a015663f3b": {
       "id": "73a4313255beddc6b25de3a015663f3b",
       "title": "Samsung Galaxy Fold 8 Ultra bis 1200 Euro",
@@ -102,7 +135,7 @@
       "speicher": "256 GB",
       "ort": "50374 Erftstadt\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "50 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -354,39 +387,6 @@
         "source": "groq"
       },
       "first_seen": "2026-08-16T04:44:33.704046+00:00"
-    },
-    "46d75a8515341c2540e2efe6c8d6b8f5": {
-      "id": "46d75a8515341c2540e2efe6c8d6b8f5",
-      "title": "Samsung Galaxy Z Fold 7 512GB Silver Shadow innerer Display riss!",
-      "price": "350 € VB",
-      "speicher": "512 GB",
-      "ort": "46485 Wesel\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "53 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-512gb-silver-shadow-innerer-display-riss-/3485635526-173-1866",
-      "description": "Ich biete mein Samsung Galaxy Z Fold 7 mit 512GB Speicherplatz in der Farbe Silver Shadow zum...",
-      "full_description": "Ich biete mein Samsung Galaxy Z Fold 7 mit 512GB Speicherplatz in der Farbe Silver Shadow zum Verkauf an. Das Gerät wird inklusive der Originalverpackung und der Rechnung vom August 2025 geliefert. - Modell: Samsung Galaxy Z Fold 7 - Speicher: 512GB - Farbe: Silver Shadow - Inklusive OVP und Rechnung Das Smartphone weist nach einem Sturz deutliche Gebrauchsspuren in Form von Kratzern am Gehäuse auf, die auf den beigefügten Fotos gut zu erkennen sind. Zudem hat das innere Display einen Defekt in der Mitte, der sich als schwarzer Fleck mit einem sichtbaren Streifen zeigt. Laut meiner Erfahrung beeinträchtigt dieser Anzeigefehler die allgemeine Funktion des Handys nicht. Falls du weitere Informationen benötigst, schreib mir gerne eine Nachricht. Nur Abholung!",
-      "assessment": {
-        "category": "Gerät",
-        "stars": 2,
-        "label": "Vorsicht",
-        "price_note": "Günstig",
-        "flags": [
-          "innerer Display riss",
-          "Gebrauchsspuren am Gehäuse"
-        ],
-        "positives": [
-          "Originalverpackung",
-          "Rechnung",
-          "512GB Speicher"
-        ],
-        "summary": "Samsung Galaxy Z Fold 7 mit innerem Display-Riss und Gebrauchsspuren, OVP und Rechnung",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-16T01:52:59.022076+00:00"
     },
     "cc0f3b9246e10c8f904e7a488066b76b": {
       "id": "cc0f3b9246e10c8f904e7a488066b76b",
@@ -741,7 +741,7 @@
     "4616f44bcedd410ccd09578fc680bd11": {
       "id": "4616f44bcedd410ccd09578fc680bd11",
       "title": "Samsung Galaxy Z Fold5 mit Originalverpackung",
-      "price": "350 €500 €",
+      "price": "300 €500 €",
       "speicher": "256 GB",
       "ort": "56564 Neuwied\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                            \n                                (ca. )",
       "entfernung": "100 km",
@@ -869,5 +869,5 @@
     }
   },
   "last_full_send": "2026-08-14T02:37:19.415124+00:00",
-  "last_run": "2026-08-16T14:33:03.753260+00:00"
+  "last_run": "2026-08-16T15:31:10.163329+00:00"
 }
