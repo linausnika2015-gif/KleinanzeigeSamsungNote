@@ -1,35 +1,36 @@
 {
   "listings": {
-    "de51f625f8bb8970aade55ead987af87": {
-      "id": "de51f625f8bb8970aade55ead987af87",
-      "title": "Samsung Galaxy Z Fold8 (256 GB) Graphite & Galaxy Watch Ultra 2",
-      "price": "1.600 € VB",
-      "speicher": "256 GB",
-      "ort": "44534 Lünen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "89 km",
+    "41946cededaec1d06cb49cb5657db1f0": {
+      "id": "41946cededaec1d06cb49cb5657db1f0",
+      "title": "❌SUCHE ANKAUF Samsung Galaxy S25 S26 Ultra Plus Z Fold 8 Flip 8 Tab S9 S10 S11  Z Fold Flip 7",
+      "price": "VB",
+      "speicher": "k.A.",
+      "ort": "45964 Gladbeck\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "56 km",
       "zustand": "k.A.",
       "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold8-256-gb-graphite-galaxy-watch-ultra-2/3484627366-173-1754",
-      "description": "Ich biete hier mein Samsung Galaxy Z Fold8 zusammen mit der passenden Samsung Galaxy Watch Ultra 2...",
-      "full_description": "Ich biete hier mein Samsung Galaxy Z Fold8 zusammen mit der passenden Samsung Galaxy Watch Ultra 2 zum Kauf an. Beide Geräte wurden nur kurzzeitig zu Testzwecken verwendet und befinden sich daher in einem hervorragenden Zustand ohne Kratzer. - Samsung Galaxy Z Fold8 - Samsung Galaxy Watch Ultra 2 - Originalverpackung für beide Geräte enthalten - Inklusive Rechnungen vom 03.08.2026 bzw. 04.08.2026 Versand ist möglich. Zuzüglich Versandkosten. Die Geräte sind quasi neuwertig und wurden sehr pfleglich behandelt. Falls du Fragen zu diesem Set hast, schreib mir gerne eine Nachricht.",
+      "angebotstyp": "Gesuch",
+      "anbieter": "Gewerblich",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/-suche-ankauf-samsung-galaxy-s25-s26-ultra-plus-z-fold-8-flip-8-tab-s9-s10-s11-z-fold-flip-7/2539140366-173-1803",
+      "description": "HANDY MACBOOK SAMSUNG APPLE ANKAUF- WIR KAUFEN AN !!! Wir kaufen dein Handy, MacBook iPad...",
+      "full_description": "HANDY MACBOOK SAMSUNG APPLE ANKAUF- WIR KAUFEN AN !!! Wir kaufen dein Handy, MacBook iPad Samsung.... Jetzt Sofort Bargeld bei uns !!!!! Wir kaufen Smartphones, MacBooks,Tablets iMac,iPhone, Google Pixel , Samsung und vieles mehr….. Unkompliziert & schnell Wir kaufen auch in höheren Mengen. Stückzahl spielt keine Rolle / Alles anbieten!!! SOFORT BARGELD Ohne Termin / Sofort Bargeldauszahlung Wir Kaufen Gebraucht und Neu !!!! Abholung ebenfalls möglich ( einfach anschreiben oder anrufen) Adresse : Horsterstr 52 Plz : 45964 GLADBECK Telefon: 015736415930 / 02043-273270 Öffnungszeiten: Mo. - Fr. 10 Uhr - 18 Uhr Samstag : 10Uhr - 14Uhr ————————————————————— Bitte melden Sie sich mit dem Modell , welches sie uns verkaufen wollen und Ihrer Preisvorstellung. ——————————————————— Ankauf folgender Geräte: (Wenn Ihr Gerät nicht auf der Liste ist, einfach anschreiben und nachfragen) Apple iPhone 12 / 13 / 14 / 15 in allen Varianten (PRO / MAX / MINI ) In jeder Speichergröße Apple MacBook Pro / Air (M1/ M2 / M1 Pro / M1 Max M3 Max M2 Max) 13‘‘ 14‘‘ 16‘‘ In jeder Speichergrösse Apple iMac ( M1 ) Apple iPad ( alle Varianten anbieten) (2020 / 2021 / 2022) M1 / M2 Apple iPad Pro 5. Gen / 6.Gen 7 Gen Apple iPad Air (ab 4. Gen ) Apple TV Geräte / Apple AirPods / Apple Watch kaufen wir auch an !!! ( bitte nur Neuware bei AirPods) ————————————————- Samsung / Google Geräte Samsung Galaxy S24 / Ultra / S22 Ultra / S22 + Samsung Galaxy Z Flip 6 / Z Fold 6 Samsung Google Pixel 7 / Pixel 7 Pro Tab Geräte ( Tab S8 / Tab S8 + / Tab S8 / S9 Ultra) Galaxy Watch ab 5 / 6 —————————- Sofort Bargeld bei Uns im Shop Abholung auch möglich nach Absprache",
       "assessment": {
         "category": "Ankauf",
-        "stars": 5,
-        "label": "Sehr empfehlenswert",
-        "price_note": "Günstig",
-        "flags": [],
-        "positives": [
-          "Quasi neuwertig",
-          "Pfleglich behandelt",
-          "Originalverpackung enthalten",
-          "Rechnungen enthalten"
+        "stars": 2,
+        "label": "Neutral",
+        "price_note": "Sehr günstig",
+        "flags": [
+          "Keine spezifischen Informationen über den Ankaufpreis",
+          "Unbekannter Ankaufpreis"
         ],
-        "summary": "Samsung Galaxy Z Fold8 & Galaxy Watch Ultra 2, quasi neuwertig, OVP, Rechnungen",
+        "positives": [
+          "Schnelle Bargeldauszahlung",
+          "Keine Terminvereinbarung erforderlich"
+        ],
+        "summary": "Ankauf-Service in Gladbeck, aber keine spezifischen Informationen über den Ankaufpreis für Samsung Galaxy Fold",
         "source": "groq"
       },
-      "first_seen": "2026-08-16T09:35:50.758253+00:00"
+      "first_seen": "2026-08-15T11:29:09.650521+00:00"
     },
     "afe0330623314263274d3a11c7da3300": {
       "id": "afe0330623314263274d3a11c7da3300",
@@ -62,6 +63,39 @@
         "source": "groq"
       },
       "first_seen": "2026-08-16T08:40:31.976021+00:00"
+    },
+    "6f1400bf007ec274164590558f5904d1": {
+      "id": "6f1400bf007ec274164590558f5904d1",
+      "title": "Samsung Galaxy Z Fold 8 Ultra 512GB + Display&Kamera Glas",
+      "price": "1.600 € VB",
+      "speicher": "512 GB",
+      "ort": "53909 Zülpich\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "59 km",
+      "zustand": "k.A.",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-ultra-512gb-display-kamera-glas/3485965809-173-1394",
+      "description": "Wir bieten hier das Samsung Galaxy Z Fold 8 Ultra in der 512GB Version an. Das Fold Gerät wurde...",
+      "full_description": "Wir bieten hier das Samsung Galaxy Z Fold 8 Ultra in der 512GB Version an. Das Fold Gerät wurde direkt bei der Telekom gekauft und ist kein Vertragshandy. Inkl. 9H Panzerglas Frontdisplay Inkl. 9H Panzerglas Kameraschutz Nur Abholung und kein Versand: 53909 Zülpich oder 53879 Euskirchen Bitte nur melden, wenn wirklich Intresse besteht. Drei Leute wollten bereits abholen kommen und haben dann einen Tag später abgesagt. Hardware & Leistung: Prozessor: Qualcomm Snapdragon 8 Elite Gen 5 for Galaxy (3 nm) CPU: Octa-Core (2x 4,74 GHz Oryon V3 Phoenix L + 6x 3,62 GHz Oryon V3 Phoenix M) GPU: Adreno 840 Arbeitsspeicher (RAM): 12 GB LPDDR5X Interner Speicher: 512 GB (keine MicroSD-Erweiterung) Display: Hauptdisplay (innen): 8,0 Zoll Dynamic AMOLED 2X Auflösung Hauptdisplay: 2.504 x 2.256 Pixel (QXGA+), 422 ppi Bildwiederholrate Hauptdisplay: Adaptiv bis 120 Hz Frontdisplay (außen): 6,5 Zoll FHD+ Dynamic AMOLED 2X Auflösung Frontdisplay: 2.520 x 1.080 Pixel, 422 ppi Bildwiederholrate Frontdisplay: Adaptiv bis 120 Hz Schutz: Corning Gorilla Glass Ceramic 3 Kamerasystem: Hauptkamera: 200 MP, Quad Pixel AF, OIS, Blende F1.7 Ultraweitwinkel: 50 MP, Quad Pixel AF, Blende F1.9, 120° Sichtfeld Teleobjektiv: 10 MP, AF, OIS, Blende F2.4, 3-fach optischer Zoom (30-fach Space Zoom) Frontkamera (außen): 10 MP, Blende F2.2, 85° Sichtfeld Frontkamera (innen): 10 MP, Blende F2.2, 100° Sichtfeld Videoaufnahme: Bis zu 8K (7.680 Pixel) Akku & Laden: Kapazität: 5.000 mAh Schnellladen (Kabel): Bis zu 45 W (USB-C 3.2) Schnellladen (Kabellos): Bis zu 20 W (Wireless Charging 2.0) Ladezeit: Ca. 30 Minuten für 65 % Design & Maße: Gewicht: 215 g Maße (geöffnet): 143,2 mm (B) x 158,4 mm (H) x 4,1 mm (T) Maße (geschlossen): 72,8 mm (B) x 158,4 mm (H) x 8,9 mm (T) Wasserschutz: IP48 (Frischwasser) Material: Advanced Armor Aluminum, Gorilla Glass Victus 2 (Rückseite) Konnektivität & Sensoren: SIM: Nano-SIM + eSIM (Dual SIM) Netzwerk: 5G, LTE, Wi-Fi 7, Bluetooth 5.4 Sensoren: Fingerabdrucksensor (im Power-",
+      "assessment": {
+        "category": "Gerät",
+        "stars": 4,
+        "label": "Empfehlenswert",
+        "price_note": "Günstig",
+        "flags": [
+          "Keine Beschreibung des Zustands",
+          "Kein Versand"
+        ],
+        "positives": [
+          "Direkt bei Telekom gekauft",
+          "9H Panzerglas Front- und Kameraschutz",
+          "Hohe Speichergröße"
+        ],
+        "summary": "Samsung Galaxy Z Fold 8 Ultra 512GB, 9H Panzerglas, kein Versand",
+        "source": "groq"
+      },
+      "first_seen": "2026-08-16T11:29:12.570092+00:00"
     },
     "87778dbd47ee307efc540a8ea36a8a71": {
       "id": "87778dbd47ee307efc540a8ea36a8a71",
@@ -542,38 +576,6 @@
       },
       "first_seen": "2026-08-15T13:37:03.475919+00:00"
     },
-    "41946cededaec1d06cb49cb5657db1f0": {
-      "id": "41946cededaec1d06cb49cb5657db1f0",
-      "title": "❌SUCHE ANKAUF Samsung Galaxy S25 S26 Ultra Plus Z Fold 8 Flip 8 Tab S9 S10 S11  Z Fold Flip 7",
-      "price": "VB",
-      "speicher": "k.A.",
-      "ort": "45964 Gladbeck\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "56 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
-      "angebotstyp": "Gesuch",
-      "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/-suche-ankauf-samsung-galaxy-s25-s26-ultra-plus-z-fold-8-flip-8-tab-s9-s10-s11-z-fold-flip-7/2539140366-173-1803",
-      "description": "HANDY MACBOOK SAMSUNG APPLE ANKAUF- WIR KAUFEN AN !!! Wir kaufen dein Handy, MacBook iPad...",
-      "full_description": "HANDY MACBOOK SAMSUNG APPLE ANKAUF- WIR KAUFEN AN !!! Wir kaufen dein Handy, MacBook iPad Samsung.... Jetzt Sofort Bargeld bei uns !!!!! Wir kaufen Smartphones, MacBooks,Tablets iMac,iPhone, Google Pixel , Samsung und vieles mehr….. Unkompliziert & schnell Wir kaufen auch in höheren Mengen. Stückzahl spielt keine Rolle / Alles anbieten!!! SOFORT BARGELD Ohne Termin / Sofort Bargeldauszahlung Wir Kaufen Gebraucht und Neu !!!! Abholung ebenfalls möglich ( einfach anschreiben oder anrufen) Adresse : Horsterstr 52 Plz : 45964 GLADBECK Telefon: 015736415930 / 02043-273270 Öffnungszeiten: Mo. - Fr. 10 Uhr - 18 Uhr Samstag : 10Uhr - 14Uhr ————————————————————— Bitte melden Sie sich mit dem Modell , welches sie uns verkaufen wollen und Ihrer Preisvorstellung. ——————————————————— Ankauf folgender Geräte: (Wenn Ihr Gerät nicht auf der Liste ist, einfach anschreiben und nachfragen) Apple iPhone 12 / 13 / 14 / 15 in allen Varianten (PRO / MAX / MINI ) In jeder Speichergröße Apple MacBook Pro / Air (M1/ M2 / M1 Pro / M1 Max M3 Max M2 Max) 13‘‘ 14‘‘ 16‘‘ In jeder Speichergrösse Apple iMac ( M1 ) Apple iPad ( alle Varianten anbieten) (2020 / 2021 / 2022) M1 / M2 Apple iPad Pro 5. Gen / 6.Gen 7 Gen Apple iPad Air (ab 4. Gen ) Apple TV Geräte / Apple AirPods / Apple Watch kaufen wir auch an !!! ( bitte nur Neuware bei AirPods) ————————————————- Samsung / Google Geräte Samsung Galaxy S24 / Ultra / S22 Ultra / S22 + Samsung Galaxy Z Flip 6 / Z Fold 6 Samsung Google Pixel 7 / Pixel 7 Pro Tab Geräte ( Tab S8 / Tab S8 + / Tab S8 / S9 Ultra) Galaxy Watch ab 5 / 6 —————————- Sofort Bargeld bei Uns im Shop Abholung auch möglich nach Absprache",
-      "assessment": {
-        "category": "Ankauf",
-        "stars": 2,
-        "label": "Neutral",
-        "price_note": "Sehr günstig",
-        "flags": [
-          "Keine spezifischen Informationen über den Ankaufpreis",
-          "Unbekannter Ankaufpreis"
-        ],
-        "positives": [
-          "Schnelle Bargeldauszahlung",
-          "Keine Terminvereinbarung erforderlich"
-        ],
-        "summary": "Ankauf-Service in Gladbeck, aber keine spezifischen Informationen über den Ankaufpreis für Samsung Galaxy Fold",
-        "source": "groq"
-      },
-      "first_seen": "2026-08-15T11:29:09.650521+00:00"
-    },
     "995b7912adadd778e13a29872db6c5bf": {
       "id": "995b7912adadd778e13a29872db6c5bf",
       "title": "Samsung Galaxy Z Fold8 Ultra 256GB Neu & OVP",
@@ -798,42 +800,14 @@
       },
       "first_seen": "2026-08-15T09:34:30.590219+00:00"
     },
-    "e04f64deb5f963ae8bbd5cf3c8164415": {
-      "id": "e04f64deb5f963ae8bbd5cf3c8164415",
-      "title": "Samsung Galaxy Z Fold 5",
-      "price": "270 € VB350 €",
-      "speicher": "k.A.",
-      "ort": "41236 Mönchengladbach\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "4 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-5/3484980362-173-1964",
-      "description": "Ich verkaufe mein Samsung Galaxy Z Fold Smartphone, das sich durch sein innovatives faltbares...",
-      "full_description": "Ich verkaufe mein Samsung Galaxy Z Fold Smartphone, das sich durch sein innovatives faltbares Design auszeichnet. Es ist ein echtes Highlight für alle, die ein großes Display im kompakten Format suchen. - Faltbares Display-Design - Schlankes Gehäuse in grauer Optik - Hochwertige Verarbeitung - Kompakte Maße im zusammengeklappten Zustand Das Gerät liegt gut in der Hand und bietet durch die Faltfunktion viel Flexibilität im Alltag. Es weist normale Gebrauchsspuren auf, die bei der täglichen Nutzung entstanden sind. Wie man auch auf dem Fotos sieht ist an zwei Stellen der Display abgenutzt das kommt von zocken. Aber sonst ist das Handy einwandfrei Falls du Fragen zu dem Smartphone hast, schreib mir einfach eine Nachricht.",
-      "assessment": {
-        "stars": 1,
-        "label": "Meiden",
-        "price_note": "🔴 Deutlich überteuert (Ref. ~650 €)",
-        "flags": [
-          "ℹ️ Gebrauchsspuren"
-        ],
-        "positives": [
-          "✅ Makellos"
-        ],
-        "summary": "ℹ️ Gebrauchsspuren · 🔴 Deutlich überteuert (Ref. ~650 €)"
-      },
-      "first_seen": "2026-08-15T09:34:30.590585+00:00"
-    },
     "0faeee80e4214ef004f5cb6dbabf8276": {
       "id": "0faeee80e4214ef004f5cb6dbabf8276",
       "title": "Samsung Galaxy Z Fold",
       "price": "850 € VB900 €",
-      "speicher": "256 GB",
+      "speicher": "k.A.",
       "ort": "40237 Düsseltal\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "26 km",
-      "zustand": "Neu (OVP)",
+      "zustand": "k.A.",
       "model": "Z Fold",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
@@ -863,5 +837,5 @@
     }
   },
   "last_full_send": "2026-08-14T02:37:19.415124+00:00",
-  "last_run": "2026-08-16T10:33:04.074944+00:00"
+  "last_run": "2026-08-16T11:29:39.929517+00:00"
 }
