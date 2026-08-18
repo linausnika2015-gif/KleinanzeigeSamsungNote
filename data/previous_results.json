@@ -325,32 +325,6 @@
       },
       "first_seen": "2026-08-17T17:36:45.768475+00:00"
     },
-    "d854550d77c39e4c06be7ac9ef250999": {
-      "id": "d854550d77c39e4c06be7ac9ef250999",
-      "title": "Samsung Galaxy Z Fold 5  512 GB",
-      "price": "250 € VB",
-      "speicher": "512 GB",
-      "ort": "44229 Löttringhausen\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "75 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 5",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-5-512-gb/3487371388-173-26352",
-      "description": "Verkaufe einSamsung Galaxy Z 5 512 GB Speicher. Voll Funktionstüchtig. Nur das Glas vom...",
-      "full_description": "Verkaufe einSamsung Galaxy Z 5 512 GB Speicher. Voll Funktionstüchtig. Nur das Glas vom Frontdisplay hat ein Haarriss. Ansonsten funktioniert alles. Akku muss nur 1x am Tag Geladen werden.",
-      "assessment": {
-        "stars": 2,
-        "label": "Vorsicht",
-        "price_note": "🟢 Sehr günstig (Ref. ~650 €)",
-        "flags": [
-          "⚠️ Riss vorhanden"
-        ],
-        "positives": [],
-        "summary": "⚠️ Riss vorhanden · 🟢 Sehr günstig (Ref. ~650 €)"
-      },
-      "first_seen": "2026-08-17T17:36:45.768857+00:00"
-    },
     "7804fc26710264166b980d1658c6b308": {
       "id": "7804fc26710264166b980d1658c6b308",
       "title": "Samsung Galaxy Z Fold 3 5G.",
@@ -745,8 +719,36 @@
         "summary": "🟢 Sehr günstig (Ref. ~180 €)"
       },
       "first_seen": "2026-08-17T09:52:26.540315+00:00"
+    },
+    "608a0d2bb847966e5f3a373f3ef7cf9e": {
+      "id": "608a0d2bb847966e5f3a373f3ef7cf9e",
+      "title": "Samsung Galaxy Z Fold 8 Ultra Graphite 1TB 1000GB ungeöffnet..",
+      "price": "1.950 €",
+      "speicher": "1 TB",
+      "ort": "44139 Innenstadt-​West\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "78 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-8-ultra-graphite-1tb-1000gb-ungeoeffnet-/3486892114-173-1112",
+      "description": "Das Gerät ist nagelneu und befindet sich in der ungeöffneten und verschweißten Originalverpackung....",
+      "full_description": "Das Gerät ist nagelneu und befindet sich in der ungeöffneten und verschweißten Originalverpackung. Kaufbeleg wird beigefügt, sodass die volle Herstellergarantie vorhanden ist. Aus Vertragsverlängerung. Neu und original Verpackt. Volle Herstellergarantie. Dies ist ein Privatverkauf. Ich übernehme keine Gewährleistung. Die Rücknahme ist ausgeschlossen.",
+      "assessment": {
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "🟢 Sehr günstig (Ref. ~180 €)",
+        "flags": [],
+        "positives": [
+          "✅ Originalverpackung",
+          "✅ Garantie vorhanden",
+          "✅ Rechnung/Beleg vorhanden"
+        ],
+        "summary": "✅ Originalverpackung · 🟢 Sehr günstig (Ref. ~180 €)"
+      },
+      "first_seen": "2026-08-18T04:45:12.143832+00:00"
     }
   },
   "last_full_send": "2026-08-14T02:37:19.415124+00:00",
-  "last_run": "2026-08-18T03:54:11.221005+00:00"
+  "last_run": "2026-08-18T04:45:37.073923+00:00"
 }
