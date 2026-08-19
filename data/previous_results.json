@@ -1,29 +1,5 @@
 {
   "listings": {
-    "afe0330623314263274d3a11c7da3300": {
-      "id": "afe0330623314263274d3a11c7da3300",
-      "title": "HANDY-ANGEBOT PRÜFEN. FACHKUNDIG. SOFORT. | Für Smartphone: iPhone 11 12 13 14 15 16 17 Pro Max | Samsung Galaxy S23 S24 S25 S26 Ultra Plus Z Flip Fold FE | Google Pixel 8 9 10 Pro | Xiaomi 13 14 15",
-      "price": "3 €",
-      "speicher": "k.A.",
-      "ort": "53757 Sankt Augustin +  Kommt zu dir\n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "200 km",
-      "zustand": "k.A.",
-      "model": "Z Fold",
-      "angebotstyp": "Angebot",
-      "anbieter": "Gewerblich",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/handy-angebot-pruefen-fachkundig-sofort-fuer-smartphone-iphone-11-12-13-14-15-16-17-pro-max-samsung-galaxy-s23-s24-s25-s26-ultra-plus-z-flip-fold-fe-google-pixel-8-9-10-pro-xiaomi-13-14-15/3476425555-298-1861",
-      "description": "ERHALTE EINE FACHKUNDIGE PRÜFUNG EINES HANDY-ANGEBOTS VOR DEM KAUF\n\n⚡ NUR 3 € – BIS ZU 2 ANGEBOTE...",
-      "full_description": "# ERHALTE EINE FACHKUNDIGE PRÜFUNG EINES HANDY-ANGEBOTS VOR DEM KAUF ⚡ **NUR 3 €** – BIS ZU 2 ANGEBOTE PRÜFEN LASSEN **SO FUNKTIONIERT ES:** **1) ANFRAGE** — Senden Sie mir den Link zu der Anzeige, die Sie prüfen lassen möchten, oder die ID dieser Anzeige (sie befindet sich unten). **2) FACHKUNDIGE PRÜFUNG** — Ich beginne sofort mit der Prüfung dieses Handy-Angebots: ~ Mehrstufige Prüfung der Anzeige und des Verkäufers auf mögliche Risiken (Betrug, fremde Fotos, Unstimmigkeiten usw.) ~ Prüfung der verfügbaren technischen Daten und detaillierte Analyse der Fotos (Unstimmigkeiten, nicht angegebene Schäden usw.) ~ Analyse des Preises und Möglichkeit der Zahlung mit Käuferschutz (In der Regel innerhalb von 30 Min.). **3) ERGEBNIS — SIE ERHALTEN:** ✔️ Kaufempfehlung: Ja oder Nein; ✔️ erkannte Risiken; ✔️ was vor dem Kauf zusätzlich geklärt werden sollte; ✔️ empfohlene Zahlungsmethoden (Versand). **4) BEZAHLUNG** — Nach Erhalt des Prüfergebnisses bezahlen Sie 3 € (PayPal oder Banküberweisung). **Ich heiße Alex**. Ich führe fachkundige Prüfungen von Handy-Angeboten vor dem Kauf durch und analysiere sie auf mögliche Risiken, technische Unstimmigkeiten und weitere relevante Punkte. Dieses Angebot ist nicht mit Kleinanzeigen verbunden und wird von Kleinanzeigen weder unterstützt noch autorisiert. Apple, iPhone, Samsung, Galaxy, Google, Pixel, Xiaomi und Kleinanzeigen sind Marken ihrer jeweiligen Inhaber. Zusätzlich: Vor-Ort-Beratung auf Anfrage.",
-      "assessment": {
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "🟢 Sehr günstig (Ref. ~180 €)",
-        "flags": [],
-        "positives": [],
-        "summary": "🟢 Sehr günstig (Ref. ~180 €)"
-      },
-      "first_seen": "2026-08-19T09:42:57.893816+00:00"
-    },
     "41946cededaec1d06cb49cb5657db1f0": {
       "id": "41946cededaec1d06cb49cb5657db1f0",
       "title": "❌SUCHE ANKAUF Samsung Galaxy S25 S26 Ultra Plus Z Fold 8 Flip 8 Tab S9 S10 S11  Z Fold Flip 7",
@@ -55,6 +31,118 @@
         "source": "groq"
       },
       "first_seen": "2026-08-15T11:29:09.650521+00:00"
+    },
+    "afe0330623314263274d3a11c7da3300": {
+      "id": "afe0330623314263274d3a11c7da3300",
+      "title": "HANDY-ANGEBOT PRÜFEN. FACHKUNDIG. SOFORT. | Für Smartphone: iPhone 11 12 13 14 15 16 17 Pro Max | Samsung Galaxy S23 S24 S25 S26 Ultra Plus Z Flip Fold FE | Google Pixel 8 9 10 Pro | Xiaomi 13 14 15",
+      "price": "3 €",
+      "speicher": "k.A.",
+      "ort": "53757 Sankt Augustin +  Kommt zu dir\n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "200 km",
+      "zustand": "k.A.",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Gewerblich",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/handy-angebot-pruefen-fachkundig-sofort-fuer-smartphone-iphone-11-12-13-14-15-16-17-pro-max-samsung-galaxy-s23-s24-s25-s26-ultra-plus-z-flip-fold-fe-google-pixel-8-9-10-pro-xiaomi-13-14-15/3476425555-298-1861",
+      "description": "ERHALTE EINE FACHKUNDIGE PRÜFUNG EINES HANDY-ANGEBOTS VOR DEM KAUF\n\n⚡ NUR 3 € – BIS ZU 2 ANGEBOTE...",
+      "full_description": "# ERHALTE EINE FACHKUNDIGE PRÜFUNG EINES HANDY-ANGEBOTS VOR DEM KAUF ⚡ **NUR 3 €** – BIS ZU 2 ANGEBOTE PRÜFEN LASSEN **SO FUNKTIONIERT ES:** **1) ANFRAGE** — Senden Sie mir den Link zu der Anzeige, die Sie prüfen lassen möchten, oder die ID dieser Anzeige (sie befindet sich unten). **2) FACHKUNDIGE PRÜFUNG** — Ich beginne sofort mit der Prüfung dieses Handy-Angebots: ~ Mehrstufige Prüfung der Anzeige und des Verkäufers auf mögliche Risiken (Betrug, fremde Fotos, Unstimmigkeiten usw.) ~ Prüfung der verfügbaren technischen Daten und detaillierte Analyse der Fotos (Unstimmigkeiten, nicht angegebene Schäden usw.) ~ Analyse des Preises und Möglichkeit der Zahlung mit Käuferschutz (In der Regel innerhalb von 30 Min.). **3) ERGEBNIS — SIE ERHALTEN:** ✔️ Kaufempfehlung: Ja oder Nein; ✔️ erkannte Risiken; ✔️ was vor dem Kauf zusätzlich geklärt werden sollte; ✔️ empfohlene Zahlungsmethoden (Versand). **4) BEZAHLUNG** — Nach Erhalt des Prüfergebnisses bezahlen Sie 3 € (PayPal oder Banküberweisung). **Ich heiße Alex**. Ich führe fachkundige Prüfungen von Handy-Angeboten vor dem Kauf durch und analysiere sie auf mögliche Risiken, technische Unstimmigkeiten und weitere relevante Punkte. Dieses Angebot ist nicht mit Kleinanzeigen verbunden und wird von Kleinanzeigen weder unterstützt noch autorisiert. Apple, iPhone, Samsung, Galaxy, Google, Pixel, Xiaomi und Kleinanzeigen sind Marken ihrer jeweiligen Inhaber. Zusätzlich: Vor-Ort-Beratung auf Anfrage.",
+      "assessment": {
+        "stars": 3,
+        "label": "Neutral",
+        "price_note": "🟢 Sehr günstig (Ref. ~180 €)",
+        "flags": [],
+        "positives": [],
+        "summary": "🟢 Sehr günstig (Ref. ~180 €)"
+      },
+      "first_seen": "2026-08-19T09:42:57.893816+00:00"
+    },
+    "ba6e36a6baa93f63c172848036c7a629": {
+      "id": "ba6e36a6baa93f63c172848036c7a629",
+      "title": "⭐️Samsung Galaxy Z Fold 8 - Lavender - 256GB - Neu & OVP⭐",
+      "price": "1.449 €",
+      "speicher": "256 GB",
+      "ort": "41061 Mönchengladbach\n                    \n                    \n                    \n                        \n                            \n                                \n                            \n                            \n                        \n                        \n                            \n                                (0.)",
+      "entfernung": "5 km",
+      "zustand": "Neu",
+      "model": "Z Fold",
+      "angebotstyp": "Angebot",
+      "anbieter": "Gewerblich",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/-samsung-galaxy-z-fold-8-lavender-256gb-neu-ovp-/3488910396-173-1965",
+      "description": "✅ Herzlich Willkommen bei McMobile ✅\n\n✅ Samsung Galaxy Z Fold 8 - Lavender- 256GB.\n\n✅ Neu &...",
+      "full_description": "✅ Herzlich Willkommen bei McMobile ✅ ✅ Samsung Galaxy Z Fold 8 - Lavender- 256GB. ✅ Neu & Versiegelt ✅ 24 Monate Garantie ✅ Das Produkt ist frei für alle Karten ✅ Rechnung auf Ihren Namen (Differenzbesteuert gemäß § 25a UStG.). ✅ Persönliche Abholung und Beratung vor Ort möglich. ✅ Gerne nehmen wir auch Ihr altes/aktuelles Gerät zu bestmöglichen, fairen Preisen in Zahlung. ✅ Profitieren Sie von unserer langjährigen Erfahrung. ✅ Folgende Zahlungsmöglichkeiten bieten wir Ihnen vor Ort an: Barzahlung ✔✅ Online: Banküberweisung ✔✅ Versand: DHL (14€ Aufpreis) ✅Die Pakete werden alle Transportsicher verpackt und versichert! ⏰Öffnungszeiten⏰ Montag - Freitag. 9:00 - 19:00 Uhr Samstag - 9:00 - 18 Uhr Sonntag - Geschlossen ❓Wo finden Sie uns❓ McMobile Europaplatz 1 41061 Mönchengladbach Unser Ladenlokal befindet sich im HBF Mönchengladbach direkt am Haupteingang.",
+      "assessment": {
+        "stars": 5,
+        "label": "Sehr empfehlenswert",
+        "price_note": "🟢 Sehr günstig (Ref. ~180 €)",
+        "flags": [],
+        "positives": [
+          "✅ Originalverpackung",
+          "✅ Garantie vorhanden",
+          "✅ Rechnung/Beleg vorhanden"
+        ],
+        "summary": "✅ Originalverpackung · 🟢 Sehr günstig (Ref. ~180 €)"
+      },
+      "first_seen": "2026-08-19T13:03:10.056285+00:00"
+    },
+    "4a36920ab10813f1749bdbd000310318": {
+      "id": "4a36920ab10813f1749bdbd000310318",
+      "title": "i-Blason Armorbox für Samsung Galaxy Z Fold 7 Schutzhülle",
+      "price": "40 €",
+      "speicher": "k.A.",
+      "ort": "40239 Düsseltal\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "26 km",
+      "zustand": "Neu",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/i-blason-armorbox-fuer-samsung-galaxy-z-fold-7-schutzhuelle/3488875942-168-16742",
+      "description": "Ich verkaufe diese robuste i-Blason Armorbox Schutzhülle für das Samsung Galaxy Z Fold 7. Das Case...",
+      "full_description": "Ich verkaufe diese robuste i-Blason Armorbox Schutzhülle für das Samsung Galaxy Z Fold 7. Das Case bietet einen umfassenden Schutz für dein Smartphone. - Modell: Armorbox von i-Blason - Farbe: Olivgrün mit schwarzen Akzenten - Inklusive integriertem Displayschutz aus gehärtetem Glas - Stoßfestes Design - Ausklappbarer Ständer auf der Rückseite Die Hülle ist speziell für das Z Fold 7 konzipiert und schützt sowohl die Rückseite als auch das Display zuverlässig vor Stößen und Kratzern. Die Kombination aus hartem Kunststoff und griffigen Elementen sorgt für einen sicheren Halt in der Hand. Das Case ist neu und unbenutzt. Falls du noch Fragen hast, schreib mir gerne eine Nachricht.",
+      "assessment": {
+        "stars": 3,
+        "label": "Neutral",
+        "price_note": "🟢 Sehr günstig (Ref. ~1400 €)",
+        "flags": [
+          "ℹ️ Kratzer vorhanden"
+        ],
+        "positives": [],
+        "summary": "ℹ️ Kratzer vorhanden · 🟢 Sehr günstig (Ref. ~1400 €)"
+      },
+      "first_seen": "2026-08-19T13:03:10.056697+00:00"
+    },
+    "c25a04810282b6c1c536c09a0a564cbc": {
+      "id": "c25a04810282b6c1c536c09a0a564cbc",
+      "title": "Samsung Galaxy Z Fold 7 512GB",
+      "price": "900 € VB",
+      "speicher": "512 GB",
+      "ort": "51145 Porz\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
+      "entfernung": "56 km",
+      "zustand": "Neu (OVP)",
+      "model": "Z Fold 7",
+      "angebotstyp": "Angebot",
+      "anbieter": "Privat",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-512gb/3488830020-173-964",
+      "description": "Ich verkaufe mein Galaxy Z Fold 7 512 GB Es ist in gutem Zustand und funktioniert einwandfrei. Das...",
+      "full_description": "Ich verkaufe mein Galaxy Z Fold 7 512 GB Es ist in gutem Zustand und funktioniert einwandfrei. Das Smartphone ist etwa ein Jahr und zwei Monate alt. Das Gerät ist in gutem Zustand mit normalen Gebrauchsspuren. Das kleine Außendisplay weist zwei oberflächliche Kratzer auf, (KEIN RISS), die nur im ausgeschalteten Zustand sichtbar sind. Das große Innendisplay ist unbeschädigt und weist keinerlei Kratzer auf. Die Originalverpackung und das Zubehör sind vorhanden. ACHTUNG! Das Smartphone wird ohne Originalrechnung verkauft! Es ist keine Rechnung vorhanden. Privat Verkäufer keine Rücknahme oder Garantie!",
+      "assessment": {
+        "stars": 3,
+        "label": "Neutral",
+        "price_note": "🟢 Sehr günstig (Ref. ~1400 €)",
+        "flags": [
+          "⚠️ Beschädigungen erwähnt",
+          "⚠️ Riss vorhanden",
+          "ℹ️ Kratzer vorhanden",
+          "ℹ️ Gebrauchsspuren"
+        ],
+        "positives": [
+          "✅ Originalverpackung",
+          "✅ Garantie vorhanden",
+          "✅ Rechnung/Beleg vorhanden",
+          "✅ Makellos"
+        ],
+        "summary": "⚠️ Beschädigungen erwähnt · 🟢 Sehr günstig (Ref. ~1400 €)"
+      },
+      "first_seen": "2026-08-19T13:03:10.057374+00:00"
     },
     "ab63c81efb69319095b8e65b0e31bdb3": {
       "id": "ab63c81efb69319095b8e65b0e31bdb3",
@@ -163,10 +251,10 @@
       },
       "first_seen": "2026-08-19T11:33:53.704107+00:00"
     },
-    "bf6b889172d55e11e678a96867eb76cb": {
-      "id": "bf6b889172d55e11e678a96867eb76cb",
-      "title": "Samsung Galaxy Z Fold7 512GB Silver OVP",
-      "price": "975 € VB",
+    "47d40f84fc18509f4012bebd3010ad67": {
+      "id": "47d40f84fc18509f4012bebd3010ad67",
+      "title": "Samsung Galaxy Z Fold7 512GB Silver OVP (Kein Tausch!)",
+      "price": "950 € VB975 €",
       "speicher": "512 GB",
       "ort": "41068 Mönchengladbach\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "3 km",
@@ -174,20 +262,20 @@
       "model": "Z Fold 7",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold7-512gb-silver-ovp/3488755973-173-1969",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold7-512gb-silver-ovp-kein-tausch-/3488755973-173-1969",
       "description": "Ich verkaufe hier mein Samsung Galaxy Z Fold7, das sich in einem sehr guten Zustand befindet. Das...",
       "full_description": "Ich verkaufe hier mein Samsung Galaxy Z Fold7, das sich in einem sehr guten Zustand befindet. Das Gerät wird zusammen mit der originalen Verpackung abgegeben, wie auf den Bildern zu sehen ist. - Modell: Samsung Galaxy Z Fold7 - Faltbares Display - Inklusive Originalverpackung - Aktuelle Software-Einrichtung - 512GB Speicher - SilverShadow Das Smartphone ist ein echtes Highlight und bietet durch das faltbare Design eine tolle Flexibilität. Es wurde pfleglich behandelt und weist kaum sichtbaren Mangel auf. Bei Interesse oder weiteren Fragen schreib mir gerne eine Nachricht. Bitte beachten: Ich versende nicht! Nur Bargeld oder direkt Überweisung vor-Ort.",
       "assessment": {
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "🟢 Günstiger Preis (Ref. ~1400 €)",
+        "stars": 2,
+        "label": "Vorsicht",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~1400 €)",
         "flags": [],
         "positives": [
           "✅ Originalverpackung"
         ],
-        "summary": "✅ Originalverpackung · 🟢 Günstiger Preis (Ref. ~1400 €)"
+        "summary": "✅ Originalverpackung · 🔴 Deutlich überteuert (Ref. ~1400 €)"
       },
-      "first_seen": "2026-08-19T10:38:30.560131+00:00"
+      "first_seen": "2026-08-19T13:03:10.058876+00:00"
     },
     "4ce5355c1e92610a44c7d449da146209": {
       "id": "4ce5355c1e92610a44c7d449da146209",
@@ -635,116 +723,8 @@
         "summary": "✅ Garantie vorhanden · ℹ️ Preis nicht angegeben"
       },
       "first_seen": "2026-08-18T22:34:47.195624+00:00"
-    },
-    "2178b12b29918a0b2b43ea74eb809e0b": {
-      "id": "2178b12b29918a0b2b43ea74eb809e0b",
-      "title": "Samsung Galaxy Z Fold 4 | 512 GB |",
-      "price": "290 € VB",
-      "speicher": "512 GB",
-      "ort": "45475 Mülheim (Ruhr)\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "43 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 4",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-4-512-gb-/3488285821-173-1283",
-      "description": "Titel: Samsung Galaxy Z Fold 4 | 512 GB |\n\nHallo zusammen,\n\nich verkaufe hier mein treues Samsung...",
-      "full_description": "Titel: Samsung Galaxy Z Fold 4 | 512 GB | Hallo zusammen, ich verkaufe hier mein treues Samsung Galaxy Z Fold 4 mit dem großen 512 GB Speicher in gute Hände. Ich habe durch eine Vertragsverlängerung ein neues Smartphone erhalten. Da dieses treue Gerät nun übrig ist, möchte ich es gerne an jemanden abgeben, der viel Freude damit hat. Der Zustand ist absolut klasse: Das Handy funktioniert technisch einwandfrei und läuft absolut flüssig. Sowohl das Front-Display als auch das große Hauptdisplay (In-Display) sind völlig in Ordnung, haben keinerlei Pixelfehler oder irgendwelche anderen Probleme. Es wurde von mir immer sehr pfleglich behandelt. Das Gerät kann nach Absprache gerne vor Ort besichtigt und getestet werden. Ein versicherter Versand ist bei Übernahme der Kosten ebenfalls möglich. Bei Fragen oder Interesse schreibt mir einfach eine Nachricht. Ich antworte so schnell wie möglich! Orange Hülle ist gratis dabei. Vor ort keine Preis nach verhandlung Liebe Grüße",
-      "assessment": {
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "🟢 Sehr günstig (Ref. ~450 €)",
-        "flags": [],
-        "positives": [
-          "✅ Makellos"
-        ],
-        "summary": "✅ Makellos · 🟢 Sehr günstig (Ref. ~450 €)"
-      },
-      "first_seen": "2026-08-18T19:34:26.376816+00:00"
-    },
-    "057eb48cb798fa8b963035c32b2182f4": {
-      "id": "057eb48cb798fa8b963035c32b2182f4",
-      "title": "Samsung Galaxy Z Fold3 5G mit 512 GB Speicher",
-      "price": "300 € VB",
-      "speicher": "512 GB",
-      "ort": "47506 Neukirchen-​Vluyn\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "29 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 3",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold3-5g-mit-512-gb-speicher/3488284958-173-1128",
-      "description": "Verkaufe hier mein Samsung Galaxy Z Fold3 5G mit 512 GB Speicher.\n\nDas Handy funktioniert...",
-      "full_description": "Verkaufe hier mein Samsung Galaxy Z Fold3 5G mit 512 GB Speicher. Das Handy funktioniert einwandfrei und ist insgesamt in einem guten Zustand. Ein kleiner toter Pixel in der Mitte des Displays ist vorhanden, fällt im Alltag aber kaum auf. Ansonsten läuft alles problemlos. Details: Samsung Galaxy Z Fold3 5G Modell: SM-F926B/DS 512 GB Speicher 12 GB RAM Farbe: Schwarz/Dunkelgrün Ladegerät inklusive Kameras, Touchscreen, Lautsprecher etc. funktionieren Gerät kann vor Ort gerne getestet werden Der Verkauf erfolgt ehrlich und transparent wegen des toten Pixels. Ansonsten ein schönes und voll funktionsfähiges Foldable. Preis: 300€ VB",
-      "assessment": {
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "🟡 Fairer Preis (Ref. ~300 €)",
-        "flags": [],
-        "positives": [
-          "✅ Makellos"
-        ],
-        "summary": "✅ Makellos · 🟡 Fairer Preis (Ref. ~300 €)"
-      },
-      "first_seen": "2026-08-18T17:36:15.271524+00:00"
-    },
-    "bc50925e55d389020962a5ee4ecf678c": {
-      "id": "bc50925e55d389020962a5ee4ecf678c",
-      "title": "",
-      "price": "250 € VB",
-      "speicher": "k.A.",
-      "ort": "40231 Lierenfeld\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "27 km",
-      "zustand": "k.A.",
-      "model": "Other",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold4/3488225594-173-29966",
-      "description": "Schnäppchen\nSamsung Galaxy Z Fold4",
-      "full_description": "Schnäppchen Samsung Galaxy Z Fold4",
-      "assessment": {
-        "stars": 3,
-        "label": "Neutral",
-        "price_note": "🟢 Günstiger Preis (Ref. ~350 €)",
-        "flags": [],
-        "positives": [],
-        "summary": "🟢 Günstiger Preis (Ref. ~350 €)"
-      },
-      "first_seen": "2026-08-18T16:42:30.292752+00:00"
-    },
-    "f2d62b11c41c15c9514a271ac2970841": {
-      "id": "f2d62b11c41c15c9514a271ac2970841",
-      "title": "Samsung Galaxy Z Fold 7 1TB, Restgarantie, viel Zubehör",
-      "price": "1.199 € VB",
-      "speicher": "1 TB",
-      "ort": "45141 Stoppenberg\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
-      "entfernung": "51 km",
-      "zustand": "k.A.",
-      "model": "Z Fold 7",
-      "angebotstyp": "Angebot",
-      "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-7-1tb-restgarantie-viel-zubehoer/3488132256-173-2057",
-      "description": "Ich verkaufe mein Samsung Galaxy Z Fold 7 mit großzügigen 1 TB Speicherplatz. Das Gerät ist ein...",
-      "full_description": "Ich verkaufe mein Samsung Galaxy Z Fold 7 mit großzügigen 1 TB Speicherplatz. Das Gerät ist ein Jahr alt und verfügt noch über eine Restgarantie. - 1 TB Speicherplatz - Inklusive Originalverpackung und Rechnung - Original Ladekabel (unbenutzt) - 4 Schutzhüllen (davon eine von Spigen) - 5 Kameraschutz (unbenutzt) Die Displays sind komplett kratzerfrei. Am Rahmen sind an den Ecken leichte Gebrauchsspuren vorhanden, die die Nutzung jedoch nicht beeinträchtigen. Das Gerät wurde stets pfleglich behandelt. Bezahlung: PayPal Banküberweisung Direkt Kauf Bar bei Abholung",
-      "assessment": {
-        "stars": 4,
-        "label": "Empfehlenswert",
-        "price_note": "🟢 Sehr günstig (Ref. ~1400 €)",
-        "flags": [
-          "ℹ️ Kratzer vorhanden",
-          "ℹ️ Gebrauchsspuren"
-        ],
-        "positives": [
-          "✅ Originalverpackung",
-          "✅ Garantie vorhanden",
-          "✅ Rechnung/Beleg vorhanden",
-          "✅ Zubehör dabei"
-        ],
-        "summary": "ℹ️ Kratzer vorhanden · 🟢 Sehr günstig (Ref. ~1400 €)"
-      },
-      "first_seen": "2026-08-18T15:39:39.514621+00:00"
     }
   },
   "last_full_send": "2026-08-14T02:37:19.415124+00:00",
-  "last_run": "2026-08-19T11:34:24.549856+00:00"
+  "last_run": "2026-08-19T13:03:41.268288+00:00"
 }
