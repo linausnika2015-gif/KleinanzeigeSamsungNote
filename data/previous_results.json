@@ -462,10 +462,10 @@
       },
       "first_seen": "2026-08-19T11:33:53.703010+00:00"
     },
-    "eb82a417ab08d4c7955d3f7d947f45af": {
-      "id": "eb82a417ab08d4c7955d3f7d947f45af",
-      "title": "Samsung Galaxy Z Fold 5 256GB Weiß",
-      "price": "400 €",
+    "fc4d6030f681847f3062cc361f3a5588": {
+      "id": "fc4d6030f681847f3062cc361f3a5588",
+      "title": "Samsung Galaxy Z Fold 5 /Verkauf/Tausch",
+      "price": "VB",
       "speicher": "256 GB",
       "ort": "52441 Linnich\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "26 km",
@@ -473,21 +473,21 @@
       "model": "Z Fold 5",
       "angebotstyp": "Angebot",
       "anbieter": "Privat",
-      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-5-256gb-weiss/3488813809-173-1719",
+      "url": "https://www.kleinanzeigen.de/s-anzeige/samsung-galaxy-z-fold-5-verkauf-tausch/3488813809-173-1719",
       "description": "Ich biete mein Samsung Galaxy Z Fold 5 mit 256GB Speicherplatz zum Kauf an. Das Gerät kommt in der...",
       "full_description": "Ich biete mein Samsung Galaxy Z Fold 5 mit 256GB Speicherplatz zum Kauf an. Das Gerät kommt in der Farbe Weiß und weist einige Gebrauchsspuren auf. - Modell: Samsung Galaxy Z Fold 5 - Speicherkapazität: 256GB - Farbe: Weiß - Besonderheit: Streifen auf dem Innendisplay - Zustand: Kratzer auf dem Frontdisplay vorhanden Die optischen Mängel sind auf den Fotos erkennbar. Falls du weitere Informationen benötigst, schreib mir gerne eine Nachricht.",
       "assessment": {
-        "stars": 1,
-        "label": "Meiden",
-        "price_note": "🟢 Sehr günstig (Ref. ~650 €)",
+        "stars": 0,
+        "label": "Neutral",
+        "price_note": "ℹ️ Preis nicht angegeben",
         "flags": [
           "ℹ️ Kratzer vorhanden",
           "ℹ️ Gebrauchsspuren"
         ],
         "positives": [],
-        "summary": "ℹ️ Kratzer vorhanden · 🟢 Sehr günstig (Ref. ~650 €)"
+        "summary": "ℹ️ Kratzer vorhanden · ℹ️ Preis nicht angegeben"
       },
-      "first_seen": "2026-08-19T11:33:53.703395+00:00"
+      "first_seen": "2026-08-20T07:50:05.294615+00:00"
     },
     "4398d5e8f04c97331b2c2264b10d372f": {
       "id": "4398d5e8f04c97331b2c2264b10d372f",
@@ -707,5 +707,5 @@
     }
   },
   "last_full_send": "2026-08-14T02:37:19.415124+00:00",
-  "last_run": "2026-08-20T07:00:33.426242+00:00"
+  "last_run": "2026-08-20T07:50:30.397567+00:00"
 }
