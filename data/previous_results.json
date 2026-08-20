@@ -602,7 +602,7 @@
     "54f91f2ae3e18feae2a78b34e45cdb3d": {
       "id": "54f91f2ae3e18feae2a78b34e45cdb3d",
       "title": "Samsung Galaxy Fold 4",
-      "price": "180 € VB",
+      "price": "150 € VB180 €",
       "speicher": "k.A.",
       "ort": "58840 Plettenberg\n                    \n                    \n                    \n                        \n                            \n                            \n                                \n                            \n                        \n                        \n                            \n                                ()",
       "entfernung": "99 km",
@@ -614,9 +614,9 @@
       "description": "Ich verkaufe mein Samsung Galaxy Fold 4, das sich durch sein innovatives faltbares Display...",
       "full_description": "Ich verkaufe mein Samsung Galaxy Fold 4, das sich durch sein innovatives faltbares Display auszeichnet. Das Gerät bietet ein großes, flexibles Display, das ideal für Multitasking und Medienkonsum geeignet ist. - Modell: Samsung Galaxy Fold 4 - Faltbares Display-Design - Intuitive Benutzeroberfläche - Hochwertige Verarbeitung Das vordere Glaß vom Display ist gesprungen wie man sieht. Man kann einwandfrei was sehen auf dem Display und die Bedienung klappt auch einwandfrei. Das große Klappbare Display hat in der Mitte wo es knickt einen schwarzen Streifen und die Touchfunktion geht nicht mehr. Also kurz gesagt, man kann nur das äußere kleine Display ohne Einschränkung benutzen. Deshalb wird das Handy als defekt angeboten und eine Rücknahme oder Garantie ist ausgeschlossen. Mit original Verpackung.",
       "assessment": {
-        "stars": 2,
-        "label": "Vorsicht",
-        "price_note": "🟢 Sehr günstig (Ref. ~450 €)",
+        "stars": 0,
+        "label": "Neutral",
+        "price_note": "🔴 Deutlich überteuert (Ref. ~450 €)",
         "flags": [
           "⚠️ Als defekt beschrieben",
           "⚠️ Display gesprungen"
@@ -625,7 +625,7 @@
           "✅ Garantie vorhanden",
           "✅ Makellos"
         ],
-        "summary": "⚠️ Als defekt beschrieben · 🟢 Sehr günstig (Ref. ~450 €)"
+        "summary": "⚠️ Als defekt beschrieben · 🔴 Deutlich überteuert (Ref. ~450 €)"
       },
       "first_seen": "2026-08-19T08:49:20.016928+00:00"
     },
@@ -684,5 +684,5 @@
     }
   },
   "last_full_send": "2026-08-14T02:37:19.415124+00:00",
-  "last_run": "2026-08-20T03:05:53.147941+00:00"
+  "last_run": "2026-08-20T04:47:07.353225+00:00"
 }
